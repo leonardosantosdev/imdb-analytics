@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-12-29T12:31:35+00:00",
+  "generatedAt": "2025-12-29T13:33:01+00:00",
   "snapshotDate": "2025-12-29",
   "rows": 50,
   "data": [
@@ -172,14 +172,6 @@
       "qualityDrop": 4.767
     },
     {
-      "seriesTconst": "tt0048892",
-      "seriesTitle": "The Joseph Cotten Show: On Trial",
-      "season1Rating": 9.4,
-      "lastSeasonRating": 4.65,
-      "lastSeason": 2,
-      "qualityDrop": 4.75
-    },
-    {
       "seriesTconst": "tt0360301",
       "seriesTitle": "Player$",
       "season1Rating": 7.2,
@@ -188,12 +180,12 @@
       "qualityDrop": 4.75
     },
     {
-      "seriesTconst": "tt5472884",
-      "seriesTitle": "Drunk History: El Lado Borroso De La Historia",
-      "season1Rating": 6.7,
-      "lastSeasonRating": 2.1,
-      "lastSeason": 3,
-      "qualityDrop": 4.6
+      "seriesTconst": "tt0048892",
+      "seriesTitle": "The Joseph Cotten Show: On Trial",
+      "season1Rating": 9.4,
+      "lastSeasonRating": 4.65,
+      "lastSeason": 2,
+      "qualityDrop": 4.75
     },
     {
       "seriesTconst": "tt0479336",
@@ -201,6 +193,14 @@
       "season1Rating": 5.6,
       "lastSeasonRating": 1.0,
       "lastSeason": 11,
+      "qualityDrop": 4.6
+    },
+    {
+      "seriesTconst": "tt5472884",
+      "seriesTitle": "Drunk History: El Lado Borroso De La Historia",
+      "season1Rating": 6.7,
+      "lastSeasonRating": 2.1,
+      "lastSeason": 3,
       "qualityDrop": 4.6
     },
     {
@@ -340,19 +340,19 @@
       "qualityDrop": 4.133
     },
     {
-      "seriesTconst": "tt0088473",
-      "seriesTitle": "Adventures in Wonderland",
-      "season1Rating": 9.5,
-      "lastSeasonRating": 5.4,
-      "lastSeason": 3,
-      "qualityDrop": 4.1
-    },
-    {
       "seriesTconst": "tt1724588",
       "seriesTitle": "Ebert Presents: At the Movies",
       "season1Rating": 6.3,
       "lastSeasonRating": 2.2,
       "lastSeason": 2,
+      "qualityDrop": 4.1
+    },
+    {
+      "seriesTconst": "tt0088473",
+      "seriesTitle": "Adventures in Wonderland",
+      "season1Rating": 9.5,
+      "lastSeasonRating": 5.4,
+      "lastSeason": 3,
       "qualityDrop": 4.1
     },
     {
@@ -364,19 +364,19 @@
       "qualityDrop": 4.074
     },
     {
-      "seriesTconst": "tt5180504",
-      "seriesTitle": "The Witcher",
-      "season1Rating": 8.275,
-      "lastSeasonRating": 4.3,
-      "lastSeason": 4,
-      "qualityDrop": 3.975
-    },
-    {
       "seriesTconst": "tt5663590",
       "seriesTitle": "La Do\u00f1a",
       "season1Rating": 7.675,
       "lastSeasonRating": 3.7,
       "lastSeason": 2,
+      "qualityDrop": 3.975
+    },
+    {
+      "seriesTconst": "tt5180504",
+      "seriesTitle": "The Witcher",
+      "season1Rating": 8.275,
+      "lastSeasonRating": 4.3,
+      "lastSeason": 4,
       "qualityDrop": 3.975
     },
     {
