@@ -32,13 +32,13 @@ jobs:
         run: pip install -r pipeline/requirements.txt
 
       - name: Ingest
-        run: python pipeline/ingest/imdb_ingest.py
+        run: python -m pipeline.ingest.imdb_ingest
 
       - name: Transform
-        run: python pipeline/transform/imdb_transform.py
+        run: python -m pipeline.transform.imdb_transform
 
       - name: Metrics
-        run: python pipeline/metrics/imdb_metrics.py
+        run: python -m pipeline.metrics.imdb_metrics
 
       - name: Commit outputs
         run: |
