@@ -1,0 +1,53 @@
+name: imdb-weekly-pipeline
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Cache pipeline data
+        uses: actions/cache@v4
+        with:
+          path: pipeline/data
+          key: imdb-data-${{ runner.os }}-${{ github.run_id }}
+          restore-keys: |
+            imdb-data-${{ runner.os }}-
+
+      - name: Install dependencies
+        run: pip install -r pipeline/requirements.txt
+
+      - name: Ingest
+        run: python pipeline/ingest/imdb_ingest.py
+
+      - name: Transform
+        run: python pipeline/transform/imdb_transform.py
+
+      - name: Metrics
+        run: python pipeline/metrics/imdb_metrics.py
+
+      - name: Commit outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dashboard/public/data/*.json dashboard/public/data/*.csv
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update imdb metrics"
+            git push
+          fi

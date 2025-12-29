@@ -1,0 +1,1007 @@
+{
+  "generatedAt": "2025-12-29T12:31:35+00:00",
+  "snapshotDate": "2025-12-29",
+  "rows": 100,
+  "data": [
+    {
+      "tconst": "tt0903747",
+      "primaryTitle": "Breaking Bad",
+      "titleType": "tvSeries",
+      "startYear": 2008,
+      "genres": "Crime,Drama,Thriller",
+      "averageRating": 9.5,
+      "numVotes": 2447170,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt0185906",
+      "primaryTitle": "Band of Brothers",
+      "titleType": "tvMiniSeries",
+      "startYear": 2001,
+      "genres": "Action,Drama,History",
+      "averageRating": 9.4,
+      "numVotes": 582022,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt0795176",
+      "primaryTitle": "Planet Earth",
+      "titleType": "tvMiniSeries",
+      "startYear": 2006,
+      "genres": "Documentary,Family",
+      "averageRating": 9.4,
+      "numVotes": 233097,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt5491994",
+      "primaryTitle": "Planet Earth II",
+      "titleType": "tvMiniSeries",
+      "startYear": 2016,
+      "genres": "Documentary",
+      "averageRating": 9.4,
+      "numVotes": 172598,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt0111161",
+      "primaryTitle": "The Shawshank Redemption",
+      "titleType": "movie",
+      "startYear": 1994,
+      "genres": "Drama",
+      "averageRating": 9.3,
+      "numVotes": 3135642,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt7366338",
+      "primaryTitle": "Chernobyl",
+      "titleType": "tvMiniSeries",
+      "startYear": 2019,
+      "genres": "Drama,History,Thriller",
+      "averageRating": 9.3,
+      "numVotes": 997965,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt0417299",
+      "primaryTitle": "Avatar: The Last Airbender",
+      "titleType": "tvSeries",
+      "startYear": 2005,
+      "genres": "Action,Adventure,Animation",
+      "averageRating": 9.3,
+      "numVotes": 426692,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt0306414",
+      "primaryTitle": "The Wire",
+      "titleType": "tvSeries",
+      "startYear": 2002,
+      "genres": "Crime,Drama,Thriller",
+      "averageRating": 9.3,
+      "numVotes": 421072,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt0944947",
+      "primaryTitle": "Game of Thrones",
+      "titleType": "tvSeries",
+      "startYear": 2011,
+      "genres": "Action,Adventure,Drama",
+      "averageRating": 9.2,
+      "numVotes": 2515148,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt0068646",
+      "primaryTitle": "The Godfather",
+      "titleType": "movie",
+      "startYear": 1972,
+      "genres": "Crime,Drama",
+      "averageRating": 9.2,
+      "numVotes": 2188538,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt0141842",
+      "primaryTitle": "The Sopranos",
+      "titleType": "tvSeries",
+      "startYear": 1999,
+      "genres": "Crime,Drama",
+      "averageRating": 9.2,
+      "numVotes": 557968,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt12392504",
+      "primaryTitle": "Scam 1992: The Harshad Mehta Story",
+      "titleType": "tvMiniSeries",
+      "startYear": 2020,
+      "genres": "Biography,Crime,Drama",
+      "averageRating": 9.2,
+      "numVotes": 170907,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt2395695",
+      "primaryTitle": "Cosmos: A Spacetime Odyssey",
+      "titleType": "tvMiniSeries",
+      "startYear": 2014,
+      "genres": "Documentary",
+      "averageRating": 9.2,
+      "numVotes": 138895,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt0468569",
+      "primaryTitle": "The Dark Knight",
+      "titleType": "movie",
+      "startYear": 2008,
+      "genres": "Action,Crime,Drama",
+      "averageRating": 9.1,
+      "numVotes": 3111459,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt2560140",
+      "primaryTitle": "Attack on Titan",
+      "titleType": "tvSeries",
+      "startYear": 2013,
+      "genres": "Action,Adventure,Animation",
+      "averageRating": 9.1,
+      "numVotes": 671398,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt14392248",
+      "primaryTitle": "Aspirants",
+      "titleType": "tvSeries",
+      "startYear": 2021,
+      "genres": "Drama",
+      "averageRating": 9.1,
+      "numVotes": 317205,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt1355642",
+      "primaryTitle": "Fullmetal Alchemist: Brotherhood",
+      "titleType": "tvSeries",
+      "startYear": 2009,
+      "genres": "Action,Adventure,Animation",
+      "averageRating": 9.1,
+      "numVotes": 238535,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt0167260",
+      "primaryTitle": "The Lord of the Rings: The Return of the King",
+      "titleType": "movie",
+      "startYear": 2003,
+      "genres": "Adventure,Drama,Fantasy",
+      "averageRating": 9.0,
+      "numVotes": 2129681,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt0108052",
+      "primaryTitle": "Schindler's List",
+      "titleType": "movie",
+      "startYear": 1993,
+      "genres": "Biography,Drama,History",
+      "averageRating": 9.0,
+      "numVotes": 1564158,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt0071562",
+      "primaryTitle": "The Godfather Part II",
+      "titleType": "movie",
+      "startYear": 1974,
+      "genres": "Crime,Drama",
+      "averageRating": 9.0,
+      "numVotes": 1471298,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt1475582",
+      "primaryTitle": "Sherlock",
+      "titleType": "tvSeries",
+      "startYear": 2010,
+      "genres": "Crime,Drama,Mystery",
+      "averageRating": 9.0,
+      "numVotes": 1073077,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt0050083",
+      "primaryTitle": "12 Angry Men",
+      "titleType": "movie",
+      "startYear": 1957,
+      "genres": "Crime,Drama",
+      "averageRating": 9.0,
+      "numVotes": 964844,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt0386676",
+      "primaryTitle": "The Office",
+      "titleType": "tvSeries",
+      "startYear": 2005,
+      "genres": "Comedy",
+      "averageRating": 9.0,
+      "numVotes": 809745,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt3032476",
+      "primaryTitle": "Better Call Saul",
+      "titleType": "tvSeries",
+      "startYear": 2015,
+      "genres": "Crime,Drama",
+      "averageRating": 9.0,
+      "numVotes": 788813,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt2861424",
+      "primaryTitle": "Rick and Morty",
+      "titleType": "tvSeries",
+      "startYear": 2013,
+      "genres": "Adventure,Animation,Comedy",
+      "averageRating": 9.0,
+      "numVotes": 679071,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt11126994",
+      "primaryTitle": "Arcane",
+      "titleType": "tvSeries",
+      "startYear": 2021,
+      "genres": "Action,Adventure,Animation",
+      "averageRating": 9.0,
+      "numVotes": 426518,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt0388629",
+      "primaryTitle": "One Piece",
+      "titleType": "tvSeries",
+      "startYear": 1999,
+      "genres": "Action,Adventure,Animation",
+      "averageRating": 9.0,
+      "numVotes": 337159,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt2098220",
+      "primaryTitle": "Hunter x Hunter",
+      "titleType": "tvSeries",
+      "startYear": 2011,
+      "genres": "Action,Adventure,Animation",
+      "averageRating": 9.0,
+      "numVotes": 183313,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt8420184",
+      "primaryTitle": "The Last Dance",
+      "titleType": "tvMiniSeries",
+      "startYear": 2020,
+      "genres": "Biography,Documentary,History",
+      "averageRating": 9.0,
+      "numVotes": 176225,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt0103359",
+      "primaryTitle": "Batman: The Animated Series",
+      "titleType": "tvSeries",
+      "startYear": 1992,
+      "genres": "Action,Adventure,Animation",
+      "averageRating": 9.0,
+      "numVotes": 134558,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt33043892",
+      "primaryTitle": "Dexter: Resurrection",
+      "titleType": "tvSeries",
+      "startYear": 2025,
+      "genres": "Crime,Drama,Thriller",
+      "averageRating": 9.0,
+      "numVotes": 119165,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt12004706",
+      "primaryTitle": "Panchayat",
+      "titleType": "tvSeries",
+      "startYear": 2020,
+      "genres": "Comedy,Drama",
+      "averageRating": 9.0,
+      "numVotes": 114782,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt0052520",
+      "primaryTitle": "The Twilight Zone",
+      "titleType": "tvSeries",
+      "startYear": 1959,
+      "genres": "Drama,Fantasy,Horror",
+      "averageRating": 9.0,
+      "numVotes": 106747,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt1831164",
+      "primaryTitle": "Leyla and Mecnun",
+      "titleType": "tvSeries",
+      "startYear": 2011,
+      "genres": "Adventure,Comedy,Drama",
+      "averageRating": 9.0,
+      "numVotes": 103220,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt0120737",
+      "primaryTitle": "The Lord of the Rings: The Fellowship of the Ring",
+      "titleType": "movie",
+      "startYear": 2001,
+      "genres": "Adventure,Drama,Fantasy",
+      "averageRating": 8.9,
+      "numVotes": 2167104,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt0108778",
+      "primaryTitle": "Friends",
+      "titleType": "tvSeries",
+      "startYear": 1994,
+      "genres": "Comedy,Romance",
+      "averageRating": 8.9,
+      "numVotes": 1174682,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt0877057",
+      "primaryTitle": "Death Note",
+      "titleType": "tvSeries",
+      "startYear": 2006,
+      "genres": "Animation,Crime,Drama",
+      "averageRating": 8.9,
+      "numVotes": 458589,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt0098904",
+      "primaryTitle": "Seinfeld",
+      "titleType": "tvSeries",
+      "startYear": 1989,
+      "genres": "Comedy",
+      "averageRating": 8.9,
+      "numVotes": 379667,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt0303461",
+      "primaryTitle": "Firefly",
+      "titleType": "tvSeries",
+      "startYear": 2002,
+      "genres": "Adventure,Drama,Sci-Fi",
+      "averageRating": 8.9,
+      "numVotes": 298304,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt1865718",
+      "primaryTitle": "Gravity Falls",
+      "titleType": "tvSeries",
+      "startYear": 2012,
+      "genres": "Adventure,Animation,Comedy",
+      "averageRating": 8.9,
+      "numVotes": 170599,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt0213338",
+      "primaryTitle": "Cowboy Bebop",
+      "titleType": "tvSeries",
+      "startYear": 1998,
+      "genres": "Action,Adventure,Animation",
+      "averageRating": 8.9,
+      "numVotes": 164607,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt1375666",
+      "primaryTitle": "Inception",
+      "titleType": "movie",
+      "startYear": 2010,
+      "genres": "Action,Adventure,Sci-Fi",
+      "averageRating": 8.8,
+      "numVotes": 2765338,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt0137523",
+      "primaryTitle": "Fight Club",
+      "titleType": "movie",
+      "startYear": 1999,
+      "genres": "Crime,Drama,Thriller",
+      "averageRating": 8.8,
+      "numVotes": 2550948,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt0109830",
+      "primaryTitle": "Forrest Gump",
+      "titleType": "movie",
+      "startYear": 1994,
+      "genres": "Drama,Romance",
+      "averageRating": 8.8,
+      "numVotes": 2451274,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt0110912",
+      "primaryTitle": "Pulp Fiction",
+      "titleType": "movie",
+      "startYear": 1994,
+      "genres": "Crime,Drama",
+      "averageRating": 8.8,
+      "numVotes": 2396098,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt0167261",
+      "primaryTitle": "The Lord of the Rings: The Two Towers",
+      "titleType": "movie",
+      "startYear": 2002,
+      "genres": "Adventure,Drama,Fantasy",
+      "averageRating": 8.8,
+      "numVotes": 1923373,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt0060196",
+      "primaryTitle": "The Good, the Bad and the Ugly",
+      "titleType": "movie",
+      "startYear": 1966,
+      "genres": "Adventure,Drama,Western",
+      "averageRating": 8.8,
+      "numVotes": 879536,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt2356777",
+      "primaryTitle": "True Detective",
+      "titleType": "tvSeries",
+      "startYear": 2014,
+      "genres": "Crime,Drama,Mystery",
+      "averageRating": 8.8,
+      "numVotes": 734612,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt2802850",
+      "primaryTitle": "Fargo",
+      "titleType": "tvSeries",
+      "startYear": 2014,
+      "genres": "Crime,Drama,Thriller",
+      "averageRating": 8.8,
+      "numVotes": 459052,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt10986410",
+      "primaryTitle": "Ted Lasso",
+      "titleType": "tvSeries",
+      "startYear": 2020,
+      "genres": "Comedy,Drama,Sport",
+      "averageRating": 8.8,
+      "numVotes": 426899,
+      "category": "mainstream"
+    },
+    {
+      "tconst": "tt0809488",
+      "primaryTitle": "The Godfather: A Novel for Television",
+      "titleType": "tvMiniSeries",
+      "startYear": 1977,
+      "genres": "Crime,Drama,Thriller",
+      "averageRating": 9.5,
+      "numVotes": 6743,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt21272942",
+      "primaryTitle": "I Was a Stranger",
+      "titleType": "movie",
+      "startYear": 2024,
+      "genres": "Drama",
+      "averageRating": 9.3,
+      "numVotes": 8446,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt0383795",
+      "primaryTitle": "The Joy of Painting",
+      "titleType": "tvSeries",
+      "startYear": 1983,
+      "genres": "Documentary,Family",
+      "averageRating": 9.3,
+      "numVotes": 6897,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt9805708",
+      "primaryTitle": "Seven Worlds One Planet",
+      "titleType": "tvMiniSeries",
+      "startYear": 2019,
+      "genres": "Documentary",
+      "averageRating": 9.3,
+      "numVotes": 6542,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt2348531",
+      "primaryTitle": "Half in the Bag",
+      "titleType": "tvSeries",
+      "startYear": 2011,
+      "genres": "Comedy,Talk-Show",
+      "averageRating": 9.3,
+      "numVotes": 5724,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt2147999",
+      "primaryTitle": "Devon Ke Dev... Mahadev",
+      "titleType": "tvSeries",
+      "startYear": 2011,
+      "genres": "Action,Drama,Fantasy",
+      "averageRating": 9.3,
+      "numVotes": 5482,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt9002164",
+      "primaryTitle": "BB Ki Vines",
+      "titleType": "tvSeries",
+      "startYear": 2015,
+      "genres": "Comedy",
+      "averageRating": 9.2,
+      "numVotes": 11762,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt0316613",
+      "primaryTitle": "Pretenders",
+      "titleType": "tvSeries",
+      "startYear": 2002,
+      "genres": "Adventure,Comedy,Mystery",
+      "averageRating": 9.2,
+      "numVotes": 6657,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt0197139",
+      "primaryTitle": "A Dog's Will",
+      "titleType": "tvMiniSeries",
+      "startYear": 1999,
+      "genres": "Comedy,Drama,Fantasy",
+      "averageRating": 9.2,
+      "numVotes": 6484,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt0077051",
+      "primaryTitle": "Matador",
+      "titleType": "tvSeries",
+      "startYear": 1978,
+      "genres": "Drama",
+      "averageRating": 9.2,
+      "numVotes": 6294,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt14734548",
+      "primaryTitle": "9/11: One Day in America",
+      "titleType": "tvMiniSeries",
+      "startYear": 2021,
+      "genres": "Documentary,History",
+      "averageRating": 9.2,
+      "numVotes": 5510,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt0108700",
+      "primaryTitle": "Baseball",
+      "titleType": "tvMiniSeries",
+      "startYear": 1994,
+      "genres": "Documentary,History,Sport",
+      "averageRating": 9.2,
+      "numVotes": 5152,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt7450814",
+      "primaryTitle": "Koombiyo",
+      "titleType": "tvSeries",
+      "startYear": 2017,
+      "genres": "Crime,Drama,Thriller",
+      "averageRating": 9.1,
+      "numVotes": 18570,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt0259534",
+      "primaryTitle": "Ramayana: The Legend of Prince Rama",
+      "titleType": "movie",
+      "startYear": 1993,
+      "genres": "Action,Adventure,Animation",
+      "averageRating": 9.1,
+      "numVotes": 17456,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt13854248",
+      "primaryTitle": "The Legend of Hanuman",
+      "titleType": "tvSeries",
+      "startYear": 2021,
+      "genres": "Action,Adventure,Animation",
+      "averageRating": 9.1,
+      "numVotes": 13674,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt0111893",
+      "primaryTitle": "The Beatles Anthology",
+      "titleType": "tvMiniSeries",
+      "startYear": 1995,
+      "genres": "Documentary,Music",
+      "averageRating": 9.1,
+      "numVotes": 10255,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt2063241",
+      "primaryTitle": "Farouk Omar",
+      "titleType": "tvSeries",
+      "startYear": 2012,
+      "genres": "Biography,Drama,History",
+      "averageRating": 9.1,
+      "numVotes": 10201,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt1043822",
+      "primaryTitle": "Vratice se rode",
+      "titleType": "tvSeries",
+      "startYear": 2007,
+      "genres": "Comedy,Crime,Drama",
+      "averageRating": 9.1,
+      "numVotes": 9696,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt0249795",
+      "primaryTitle": "Mayabazar",
+      "titleType": "movie",
+      "startYear": 1957,
+      "genres": "Comedy,Drama",
+      "averageRating": 9.1,
+      "numVotes": 6809,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt9130692",
+      "primaryTitle": "Dynasties",
+      "titleType": "tvMiniSeries",
+      "startYear": 2018,
+      "genres": "Documentary",
+      "averageRating": 9.1,
+      "numVotes": 5483,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt5182866",
+      "primaryTitle": "Reply 1988",
+      "titleType": "tvSeries",
+      "startYear": 2015,
+      "genres": "Comedy,Drama,Family",
+      "averageRating": 9.0,
+      "numVotes": 18005,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt4834232",
+      "primaryTitle": "Critical Role",
+      "titleType": "tvSeries",
+      "startYear": 2015,
+      "genres": "Adventure,Fantasy",
+      "averageRating": 9.0,
+      "numVotes": 14747,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt7923710",
+      "primaryTitle": "My Mister",
+      "titleType": "tvSeries",
+      "startYear": 2018,
+      "genres": "Drama,Family",
+      "averageRating": 9.0,
+      "numVotes": 14539,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt38063392",
+      "primaryTitle": "Mission Muh Dikhayi",
+      "titleType": "movie",
+      "startYear": 2025,
+      "genres": "Comedy,Drama,Family",
+      "averageRating": 9.0,
+      "numVotes": 9992,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt11170862",
+      "primaryTitle": "Cosmos: Possible Worlds",
+      "titleType": "tvMiniSeries",
+      "startYear": 2020,
+      "genres": "Animation,Documentary,Family",
+      "averageRating": 9.0,
+      "numVotes": 8482,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt19882482",
+      "primaryTitle": "B.E. Rojgaar",
+      "titleType": "tvSeries",
+      "startYear": 2022,
+      "genres": "Drama",
+      "averageRating": 9.0,
+      "numVotes": 6665,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt0096633",
+      "primaryTitle": "Legend of the Galactic Heroes",
+      "titleType": "tvSeries",
+      "startYear": 1988,
+      "genres": "Action,Animation,Drama",
+      "averageRating": 9.0,
+      "numVotes": 6609,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt0353975",
+      "primaryTitle": "Sandesham",
+      "titleType": "movie",
+      "startYear": 1991,
+      "genres": "Comedy,Drama",
+      "averageRating": 9.0,
+      "numVotes": 6227,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt0996994",
+      "primaryTitle": "The War",
+      "titleType": "tvMiniSeries",
+      "startYear": 2007,
+      "genres": "Documentary,History,War",
+      "averageRating": 9.0,
+      "numVotes": 6034,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt6725158",
+      "primaryTitle": "Fanny and Alexander",
+      "titleType": "tvMiniSeries",
+      "startYear": 1983,
+      "genres": "Drama",
+      "averageRating": 9.0,
+      "numVotes": 5167,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt27446493",
+      "primaryTitle": "Twinkling Watermelon",
+      "titleType": "tvSeries",
+      "startYear": 2023,
+      "genres": "Comedy,Drama,Fantasy",
+      "averageRating": 8.9,
+      "numVotes": 12177,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt0075143",
+      "primaryTitle": "The Message",
+      "titleType": "movie",
+      "startYear": 1976,
+      "genres": "Biography,Drama,History",
+      "averageRating": 8.9,
+      "numVotes": 11744,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt5851616",
+      "primaryTitle": "Tash Ma Tash",
+      "titleType": "tvSeries",
+      "startYear": 1993,
+      "genres": "Comedy,Drama",
+      "averageRating": 8.9,
+      "numVotes": 11193,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt0281491",
+      "primaryTitle": "Still Game",
+      "titleType": "tvSeries",
+      "startYear": 2002,
+      "genres": "Comedy",
+      "averageRating": 8.9,
+      "numVotes": 10869,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt16747572",
+      "primaryTitle": "The Silence of Swastika",
+      "titleType": "movie",
+      "startYear": 2021,
+      "genres": "Documentary,History",
+      "averageRating": 8.9,
+      "numVotes": 10673,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt11992526",
+      "primaryTitle": "Harga",
+      "titleType": "tvSeries",
+      "startYear": 2021,
+      "genres": "Drama",
+      "averageRating": 8.9,
+      "numVotes": 10071,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt0237376",
+      "primaryTitle": "Kireedam",
+      "titleType": "movie",
+      "startYear": 1989,
+      "genres": "Action,Drama",
+      "averageRating": 8.9,
+      "numVotes": 9592,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt10478048",
+      "primaryTitle": "The Other Me",
+      "titleType": "tvSeries",
+      "startYear": 2019,
+      "genres": "Crime,Drama,Mystery",
+      "averageRating": 8.9,
+      "numVotes": 7908,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt2845786",
+      "primaryTitle": "Anthony Bourdain: Parts Unknown",
+      "titleType": "tvSeries",
+      "startYear": 2013,
+      "genres": "Adventure,Documentary",
+      "averageRating": 8.9,
+      "numVotes": 7728,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt1832668",
+      "primaryTitle": "How the Universe Works",
+      "titleType": "tvSeries",
+      "startYear": 2010,
+      "genres": "Documentary",
+      "averageRating": 8.9,
+      "numVotes": 7646,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt6244192",
+      "primaryTitle": "Leah Remini: Scientology and the Aftermath",
+      "titleType": "tvSeries",
+      "startYear": 2016,
+      "genres": "Documentary,History,Mystery",
+      "averageRating": 8.9,
+      "numVotes": 6768,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt5510934",
+      "primaryTitle": "The Unnamed",
+      "titleType": "movie",
+      "startYear": 2016,
+      "genres": "Drama",
+      "averageRating": 8.9,
+      "numVotes": 6089,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt31853193",
+      "primaryTitle": "Gundi: Legend of Love",
+      "titleType": "movie",
+      "startYear": 2024,
+      "genres": "Biography,Sport",
+      "averageRating": 8.9,
+      "numVotes": 5854,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt2403201",
+      "primaryTitle": "Humsafar",
+      "titleType": "tvSeries",
+      "startYear": 2011,
+      "genres": "Drama,Romance",
+      "averageRating": 8.9,
+      "numVotes": 5152,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt5773402",
+      "primaryTitle": "Dominion",
+      "titleType": "movie",
+      "startYear": 2018,
+      "genres": "Documentary,Horror",
+      "averageRating": 8.9,
+      "numVotes": 5057,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt1518542",
+      "primaryTitle": "Sarabhai V/S Sarabhai",
+      "titleType": "tvSeries",
+      "startYear": 2004,
+      "genres": "Comedy",
+      "averageRating": 8.8,
+      "numVotes": 19697,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt0084302",
+      "primaryTitle": "The Marathon Family",
+      "titleType": "movie",
+      "startYear": 1982,
+      "genres": "Comedy,Drama",
+      "averageRating": 8.8,
+      "numVotes": 17971,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt0481256",
+      "primaryTitle": "Fighting Spirit",
+      "titleType": "tvSeries",
+      "startYear": 2000,
+      "genres": "Action,Animation,Comedy",
+      "averageRating": 8.8,
+      "numVotes": 16386,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt6108262",
+      "primaryTitle": "Black Sun",
+      "titleType": "tvSeries",
+      "startYear": 2017,
+      "genres": "Crime,Drama,Thriller",
+      "averageRating": 8.8,
+      "numVotes": 13532,
+      "category": "cult"
+    },
+    {
+      "tconst": "tt2077886",
+      "primaryTitle": "The Phantom of the Opera at the Royal Albert Hall",
+      "titleType": "movie",
+      "startYear": 2011,
+      "genres": "Drama,Musical,Romance",
+      "averageRating": 8.8,
+      "numVotes": 10682,
+      "category": "cult"
+    }
+  ]
+}

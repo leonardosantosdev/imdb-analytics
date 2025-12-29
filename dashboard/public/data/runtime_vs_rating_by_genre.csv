@@ -1,0 +1,13 @@
+genre,titleCount,avgRuntimeMinutes,medianRuntimeMinutes,avgRating,medianRating
+Animation,13783,54.1,30.0,6.69,6.8
+Drama,163443,117.1,92.0,6.32,6.4
+Romance,39678,94.3,94.0,6.21,6.3
+Crime,33620,92.0,90.0,6.17,6.3
+Adventure,24943,82.7,86.0,6.16,6.3
+Comedy,94988,122.3,90.0,6.1,6.2
+Fantasy,12053,84.6,89.0,6.07,6.2
+Mystery,15878,89.3,90.0,6.04,6.1
+Action,36636,94.3,92.0,5.92,6.0
+Thriller,28692,95.5,93.0,5.67,5.7
+Sci-Fi,8941,84.0,88.0,5.55,5.6
+Horror,25168,87.6,88.0,5.04,5.0

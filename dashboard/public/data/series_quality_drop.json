@@ -1,0 +1,407 @@
+{
+  "generatedAt": "2025-12-29T12:31:35+00:00",
+  "snapshotDate": "2025-12-29",
+  "rows": 50,
+  "data": [
+    {
+      "seriesTconst": "tt0108865",
+      "seriesTitle": "Movie Magic",
+      "season1Rating": 8.9,
+      "lastSeasonRating": 1.0,
+      "lastSeason": 2,
+      "qualityDrop": 7.9
+    },
+    {
+      "seriesTconst": "tt3004376",
+      "seriesTitle": "The Real",
+      "season1Rating": 7.62,
+      "lastSeasonRating": 1.0,
+      "lastSeason": 6,
+      "qualityDrop": 6.62
+    },
+    {
+      "seriesTconst": "tt0072506",
+      "seriesTitle": "Good Morning America",
+      "season1Rating": 7.2,
+      "lastSeasonRating": 1.0,
+      "lastSeason": 51,
+      "qualityDrop": 6.2
+    },
+    {
+      "seriesTconst": "tt0063908",
+      "seriesTitle": "Hee Haw",
+      "season1Rating": 6.878,
+      "lastSeasonRating": 1.0,
+      "lastSeason": 12,
+      "qualityDrop": 5.878
+    },
+    {
+      "seriesTconst": "tt0122824",
+      "seriesTitle": "Linda",
+      "season1Rating": 7.267,
+      "lastSeasonRating": 1.5,
+      "lastSeason": 4,
+      "qualityDrop": 5.767
+    },
+    {
+      "seriesTconst": "tt10467076",
+      "seriesTitle": "Shopping with Keith Lemon",
+      "season1Rating": 6.9,
+      "lastSeasonRating": 1.3,
+      "lastSeason": 2,
+      "qualityDrop": 5.6
+    },
+    {
+      "seriesTconst": "tt0122813",
+      "seriesTitle": "Bob and Margaret",
+      "season1Rating": 7.929,
+      "lastSeasonRating": 2.4,
+      "lastSeason": 4,
+      "qualityDrop": 5.529
+    },
+    {
+      "seriesTconst": "tt5637842",
+      "seriesTitle": "The Rap Game",
+      "season1Rating": 8.1,
+      "lastSeasonRating": 2.6,
+      "lastSeason": 5,
+      "qualityDrop": 5.5
+    },
+    {
+      "seriesTconst": "tt0329829",
+      "seriesTitle": "Fireman Sam",
+      "season1Rating": 8.45,
+      "lastSeasonRating": 2.976,
+      "lastSeason": 16,
+      "qualityDrop": 5.474
+    },
+    {
+      "seriesTconst": "tt0154063",
+      "seriesTitle": "Chiquititas",
+      "season1Rating": 9.2,
+      "lastSeasonRating": 3.8,
+      "lastSeason": 6,
+      "qualityDrop": 5.4
+    },
+    {
+      "seriesTconst": "tt0121016",
+      "seriesTitle": "Die Rudi Carrell Show",
+      "season1Rating": 9.3,
+      "lastSeasonRating": 4.0,
+      "lastSeason": 2,
+      "qualityDrop": 5.3
+    },
+    {
+      "seriesTconst": "tt0063890",
+      "seriesTitle": "The David Frost Show",
+      "season1Rating": 6.5,
+      "lastSeasonRating": 1.2,
+      "lastSeason": 4,
+      "qualityDrop": 5.3
+    },
+    {
+      "seriesTconst": "tt0775367",
+      "seriesTitle": "HBO Boxing",
+      "season1Rating": 8.4,
+      "lastSeasonRating": 3.2,
+      "lastSeason": 46,
+      "qualityDrop": 5.2
+    },
+    {
+      "seriesTconst": "tt4508902",
+      "seriesTitle": "One Punch Man",
+      "season1Rating": 8.775,
+      "lastSeasonRating": 3.636,
+      "lastSeason": 3,
+      "qualityDrop": 5.139
+    },
+    {
+      "seriesTconst": "tt0210450",
+      "seriesTitle": "SexTV",
+      "season1Rating": 6.2,
+      "lastSeasonRating": 1.1,
+      "lastSeason": 9,
+      "qualityDrop": 5.1
+    },
+    {
+      "seriesTconst": "tt33504903",
+      "seriesTitle": "Slendybob",
+      "season1Rating": 8.5,
+      "lastSeasonRating": 3.45,
+      "lastSeason": 3,
+      "qualityDrop": 5.05
+    },
+    {
+      "seriesTconst": "tt5191128",
+      "seriesTitle": "The Break",
+      "season1Rating": 7.8,
+      "lastSeasonRating": 2.8,
+      "lastSeason": 3,
+      "qualityDrop": 5.0
+    },
+    {
+      "seriesTconst": "tt0815086",
+      "seriesTitle": "Walmart Soundcheck",
+      "season1Rating": 9.2,
+      "lastSeasonRating": 4.2,
+      "lastSeason": 2,
+      "qualityDrop": 5.0
+    },
+    {
+      "seriesTconst": "tt4277268",
+      "seriesTitle": "Billy & Billie",
+      "season1Rating": 8.31,
+      "lastSeasonRating": 3.4,
+      "lastSeason": 2,
+      "qualityDrop": 4.91
+    },
+    {
+      "seriesTconst": "tt0081857",
+      "seriesTitle": "Entertainment Tonight",
+      "season1Rating": 9.0,
+      "lastSeasonRating": 4.2,
+      "lastSeason": 44,
+      "qualityDrop": 4.8
+    },
+    {
+      "seriesTconst": "tt5723284",
+      "seriesTitle": "I Hate Everything",
+      "season1Rating": 6.167,
+      "lastSeasonRating": 1.4,
+      "lastSeason": 12,
+      "qualityDrop": 4.767
+    },
+    {
+      "seriesTconst": "tt0048892",
+      "seriesTitle": "The Joseph Cotten Show: On Trial",
+      "season1Rating": 9.4,
+      "lastSeasonRating": 4.65,
+      "lastSeason": 2,
+      "qualityDrop": 4.75
+    },
+    {
+      "seriesTconst": "tt0360301",
+      "seriesTitle": "Player$",
+      "season1Rating": 7.2,
+      "lastSeasonRating": 2.45,
+      "lastSeason": 2,
+      "qualityDrop": 4.75
+    },
+    {
+      "seriesTconst": "tt5472884",
+      "seriesTitle": "Drunk History: El Lado Borroso De La Historia",
+      "season1Rating": 6.7,
+      "lastSeasonRating": 2.1,
+      "lastSeason": 3,
+      "qualityDrop": 4.6
+    },
+    {
+      "seriesTconst": "tt0479336",
+      "seriesTitle": "Pinoy Big Brother",
+      "season1Rating": 5.6,
+      "lastSeasonRating": 1.0,
+      "lastSeason": 11,
+      "qualityDrop": 4.6
+    },
+    {
+      "seriesTconst": "tt6209544",
+      "seriesTitle": "365",
+      "season1Rating": 7.1,
+      "lastSeasonRating": 2.533,
+      "lastSeason": 2,
+      "qualityDrop": 4.567
+    },
+    {
+      "seriesTconst": "tt3904068",
+      "seriesTitle": "Lady of Steel",
+      "season1Rating": 7.008,
+      "lastSeasonRating": 2.5,
+      "lastSeason": 5,
+      "qualityDrop": 4.508
+    },
+    {
+      "seriesTconst": "tt1792654",
+      "seriesTitle": "Cubed",
+      "season1Rating": 6.6,
+      "lastSeasonRating": 2.1,
+      "lastSeason": 2,
+      "qualityDrop": 4.5
+    },
+    {
+      "seriesTconst": "tt0306760",
+      "seriesTitle": "Edel & Starck",
+      "season1Rating": 7.7,
+      "lastSeasonRating": 3.2,
+      "lastSeason": 4,
+      "qualityDrop": 4.5
+    },
+    {
+      "seriesTconst": "tt0375289",
+      "seriesTitle": "Crni Gruja",
+      "season1Rating": 9.567,
+      "lastSeasonRating": 5.15,
+      "lastSeason": 3,
+      "qualityDrop": 4.417
+    },
+    {
+      "seriesTconst": "tt0406419",
+      "seriesTitle": "Higglytown Heroes",
+      "season1Rating": 6.914,
+      "lastSeasonRating": 2.5,
+      "lastSeason": 2,
+      "qualityDrop": 4.414
+    },
+    {
+      "seriesTconst": "tt0101117",
+      "seriesTitle": "The Hidden Room",
+      "season1Rating": 6.7,
+      "lastSeasonRating": 2.3,
+      "lastSeason": 2,
+      "qualityDrop": 4.4
+    },
+    {
+      "seriesTconst": "tt10827252",
+      "seriesTitle": "The Drew Barrymore Show",
+      "season1Rating": 6.194,
+      "lastSeasonRating": 1.8,
+      "lastSeason": 6,
+      "qualityDrop": 4.394
+    },
+    {
+      "seriesTconst": "tt31998409",
+      "seriesTitle": "Piers Morgan Uncensored",
+      "season1Rating": 5.35,
+      "lastSeasonRating": 1.0,
+      "lastSeason": 4,
+      "qualityDrop": 4.35
+    },
+    {
+      "seriesTconst": "tt0856757",
+      "seriesTitle": "Yaprak D\u00f6k\u00fcm\u00fc",
+      "season1Rating": 6.811,
+      "lastSeasonRating": 2.467,
+      "lastSeason": 5,
+      "qualityDrop": 4.344
+    },
+    {
+      "seriesTconst": "tt1141678",
+      "seriesTitle": "Inspektor Rolle",
+      "season1Rating": 7.7,
+      "lastSeasonRating": 3.4,
+      "lastSeason": 2,
+      "qualityDrop": 4.3
+    },
+    {
+      "seriesTconst": "tt16994878",
+      "seriesTitle": "7 vs. Wild",
+      "season1Rating": 8.056,
+      "lastSeasonRating": 3.775,
+      "lastSeason": 5,
+      "qualityDrop": 4.281
+    },
+    {
+      "seriesTconst": "tt8537520",
+      "seriesTitle": "Bigg Boss Malayalam",
+      "season1Rating": 6.979,
+      "lastSeasonRating": 2.75,
+      "lastSeason": 2,
+      "qualityDrop": 4.229
+    },
+    {
+      "seriesTconst": "tt1885777",
+      "seriesTitle": "Funny as Hell",
+      "season1Rating": 5.8,
+      "lastSeasonRating": 1.6,
+      "lastSeason": 2,
+      "qualityDrop": 4.2
+    },
+    {
+      "seriesTconst": "tt1856010",
+      "seriesTitle": "House of Cards",
+      "season1Rating": 8.392,
+      "lastSeasonRating": 4.213,
+      "lastSeason": 6,
+      "qualityDrop": 4.179
+    },
+    {
+      "seriesTconst": "tt7632608",
+      "seriesTitle": "Enemigo \u00cdntimo",
+      "season1Rating": 7.472,
+      "lastSeasonRating": 3.297,
+      "lastSeason": 2,
+      "qualityDrop": 4.175
+    },
+    {
+      "seriesTconst": "tt16897176",
+      "seriesTitle": "Royal Histories",
+      "season1Rating": 6.933,
+      "lastSeasonRating": 2.8,
+      "lastSeason": 8,
+      "qualityDrop": 4.133
+    },
+    {
+      "seriesTconst": "tt0088473",
+      "seriesTitle": "Adventures in Wonderland",
+      "season1Rating": 9.5,
+      "lastSeasonRating": 5.4,
+      "lastSeason": 3,
+      "qualityDrop": 4.1
+    },
+    {
+      "seriesTconst": "tt1724588",
+      "seriesTitle": "Ebert Presents: At the Movies",
+      "season1Rating": 6.3,
+      "lastSeasonRating": 2.2,
+      "lastSeason": 2,
+      "qualityDrop": 4.1
+    },
+    {
+      "seriesTconst": "tt0315709",
+      "seriesTitle": "Smogovci",
+      "season1Rating": 8.46,
+      "lastSeasonRating": 4.386,
+      "lastSeason": 6,
+      "qualityDrop": 4.074
+    },
+    {
+      "seriesTconst": "tt5180504",
+      "seriesTitle": "The Witcher",
+      "season1Rating": 8.275,
+      "lastSeasonRating": 4.3,
+      "lastSeason": 4,
+      "qualityDrop": 3.975
+    },
+    {
+      "seriesTconst": "tt5663590",
+      "seriesTitle": "La Do\u00f1a",
+      "season1Rating": 7.675,
+      "lastSeasonRating": 3.7,
+      "lastSeason": 2,
+      "qualityDrop": 3.975
+    },
+    {
+      "seriesTconst": "tt2235412",
+      "seriesTitle": "Paramedicos",
+      "season1Rating": 4.958,
+      "lastSeasonRating": 1.0,
+      "lastSeason": 4,
+      "qualityDrop": 3.958
+    },
+    {
+      "seriesTconst": "tt0486068",
+      "seriesTitle": "Indian Idol",
+      "season1Rating": 8.2,
+      "lastSeasonRating": 4.3,
+      "lastSeason": 11,
+      "qualityDrop": 3.9
+    },
+    {
+      "seriesTconst": "tt0086815",
+      "seriesTitle": "Thomas & Friends",
+      "season1Rating": 8.089,
+      "lastSeasonRating": 4.2,
+      "lastSeason": 28,
+      "qualityDrop": 3.889
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+pipeline/.venv/
+
+# Data (raw/intermediate)
+pipeline/data/
+
+# Node
+/dashboard/node_modules/
+/dashboard/.next/
+/dashboard/.env*
+
+# OS
+.DS_Store
+Thumbs.db

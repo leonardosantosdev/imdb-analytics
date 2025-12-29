@@ -1,0 +1,1807 @@
+{
+  "generatedAt": "2025-12-29T12:31:35+00:00",
+  "snapshotDate": "2025-12-29",
+  "rows": 200,
+  "data": [
+    {
+      "tconst": "tt0903747",
+      "primaryTitle": "Breaking Bad",
+      "titleType": "tvSeries",
+      "startYear": 2008,
+      "genres": "Crime,Drama,Thriller",
+      "averageRating": 9.5,
+      "numVotes": 2447170
+    },
+    {
+      "tconst": "tt0185906",
+      "primaryTitle": "Band of Brothers",
+      "titleType": "tvMiniSeries",
+      "startYear": 2001,
+      "genres": "Action,Drama,History",
+      "averageRating": 9.4,
+      "numVotes": 582022
+    },
+    {
+      "tconst": "tt0795176",
+      "primaryTitle": "Planet Earth",
+      "titleType": "tvMiniSeries",
+      "startYear": 2006,
+      "genres": "Documentary,Family",
+      "averageRating": 9.4,
+      "numVotes": 233097
+    },
+    {
+      "tconst": "tt5491994",
+      "primaryTitle": "Planet Earth II",
+      "titleType": "tvMiniSeries",
+      "startYear": 2016,
+      "genres": "Documentary",
+      "averageRating": 9.4,
+      "numVotes": 172598
+    },
+    {
+      "tconst": "tt0111161",
+      "primaryTitle": "The Shawshank Redemption",
+      "titleType": "movie",
+      "startYear": 1994,
+      "genres": "Drama",
+      "averageRating": 9.3,
+      "numVotes": 3135642
+    },
+    {
+      "tconst": "tt7366338",
+      "primaryTitle": "Chernobyl",
+      "titleType": "tvMiniSeries",
+      "startYear": 2019,
+      "genres": "Drama,History,Thriller",
+      "averageRating": 9.3,
+      "numVotes": 997965
+    },
+    {
+      "tconst": "tt0417299",
+      "primaryTitle": "Avatar: The Last Airbender",
+      "titleType": "tvSeries",
+      "startYear": 2005,
+      "genres": "Action,Adventure,Animation",
+      "averageRating": 9.3,
+      "numVotes": 426692
+    },
+    {
+      "tconst": "tt0306414",
+      "primaryTitle": "The Wire",
+      "titleType": "tvSeries",
+      "startYear": 2002,
+      "genres": "Crime,Drama,Thriller",
+      "averageRating": 9.3,
+      "numVotes": 421072
+    },
+    {
+      "tconst": "tt6769208",
+      "primaryTitle": "Blue Planet II",
+      "titleType": "tvMiniSeries",
+      "startYear": 2017,
+      "genres": "Documentary",
+      "averageRating": 9.3,
+      "numVotes": 56484
+    },
+    {
+      "tconst": "tt0081846",
+      "primaryTitle": "Cosmos",
+      "titleType": "tvMiniSeries",
+      "startYear": 1980,
+      "genres": "Documentary",
+      "averageRating": 9.3,
+      "numVotes": 51886
+    },
+    {
+      "tconst": "tt0944947",
+      "primaryTitle": "Game of Thrones",
+      "titleType": "tvSeries",
+      "startYear": 2011,
+      "genres": "Action,Adventure,Drama",
+      "averageRating": 9.2,
+      "numVotes": 2515148
+    },
+    {
+      "tconst": "tt0068646",
+      "primaryTitle": "The Godfather",
+      "titleType": "movie",
+      "startYear": 1972,
+      "genres": "Crime,Drama",
+      "averageRating": 9.2,
+      "numVotes": 2188538
+    },
+    {
+      "tconst": "tt0141842",
+      "primaryTitle": "The Sopranos",
+      "titleType": "tvSeries",
+      "startYear": 1999,
+      "genres": "Crime,Drama",
+      "averageRating": 9.2,
+      "numVotes": 557968
+    },
+    {
+      "tconst": "tt12392504",
+      "primaryTitle": "Scam 1992: The Harshad Mehta Story",
+      "titleType": "tvMiniSeries",
+      "startYear": 2020,
+      "genres": "Biography,Crime,Drama",
+      "averageRating": 9.2,
+      "numVotes": 170907
+    },
+    {
+      "tconst": "tt2395695",
+      "primaryTitle": "Cosmos: A Spacetime Odyssey",
+      "titleType": "tvMiniSeries",
+      "startYear": 2014,
+      "genres": "Documentary",
+      "averageRating": 9.2,
+      "numVotes": 138895
+    },
+    {
+      "tconst": "tt30263074",
+      "primaryTitle": "Sapne Vs Everyone",
+      "titleType": "tvSeries",
+      "startYear": 2023,
+      "genres": "Drama",
+      "averageRating": 9.2,
+      "numVotes": 74884
+    },
+    {
+      "tconst": "tt9253866",
+      "primaryTitle": "Our Planet",
+      "titleType": "tvSeries",
+      "startYear": 2019,
+      "genres": "Documentary",
+      "averageRating": 9.2,
+      "numVotes": 61543
+    },
+    {
+      "tconst": "tt0468569",
+      "primaryTitle": "The Dark Knight",
+      "titleType": "movie",
+      "startYear": 2008,
+      "genres": "Action,Crime,Drama",
+      "averageRating": 9.1,
+      "numVotes": 3111459
+    },
+    {
+      "tconst": "tt2560140",
+      "primaryTitle": "Attack on Titan",
+      "titleType": "tvSeries",
+      "startYear": 2013,
+      "genres": "Action,Adventure,Animation",
+      "averageRating": 9.1,
+      "numVotes": 671398
+    },
+    {
+      "tconst": "tt14392248",
+      "primaryTitle": "Aspirants",
+      "titleType": "tvSeries",
+      "startYear": 2021,
+      "genres": "Drama",
+      "averageRating": 9.1,
+      "numVotes": 317205
+    },
+    {
+      "tconst": "tt1355642",
+      "primaryTitle": "Fullmetal Alchemist: Brotherhood",
+      "titleType": "tvSeries",
+      "startYear": 2009,
+      "genres": "Action,Adventure,Animation",
+      "averageRating": 9.1,
+      "numVotes": 238535
+    },
+    {
+      "tconst": "tt4742876",
+      "primaryTitle": "TVF Pitchers",
+      "titleType": "tvSeries",
+      "startYear": 2015,
+      "genres": "Comedy,Drama",
+      "averageRating": 9.1,
+      "numVotes": 79158
+    },
+    {
+      "tconst": "tt28227737",
+      "primaryTitle": "Sandeep Bhaiya",
+      "titleType": "tvSeries",
+      "startYear": 2023,
+      "genres": "Drama",
+      "averageRating": 9.1,
+      "numVotes": 76796
+    },
+    {
+      "tconst": "tt5622316",
+      "primaryTitle": "The Chosen",
+      "titleType": "tvSeries",
+      "startYear": 2017,
+      "genres": "Drama,History",
+      "averageRating": 9.1,
+      "numVotes": 66558
+    },
+    {
+      "tconst": "tt0167260",
+      "primaryTitle": "The Lord of the Rings: The Return of the King",
+      "titleType": "movie",
+      "startYear": 2003,
+      "genres": "Adventure,Drama,Fantasy",
+      "averageRating": 9.0,
+      "numVotes": 2129681
+    },
+    {
+      "tconst": "tt0108052",
+      "primaryTitle": "Schindler's List",
+      "titleType": "movie",
+      "startYear": 1993,
+      "genres": "Biography,Drama,History",
+      "averageRating": 9.0,
+      "numVotes": 1564158
+    },
+    {
+      "tconst": "tt0071562",
+      "primaryTitle": "The Godfather Part II",
+      "titleType": "movie",
+      "startYear": 1974,
+      "genres": "Crime,Drama",
+      "averageRating": 9.0,
+      "numVotes": 1471298
+    },
+    {
+      "tconst": "tt1475582",
+      "primaryTitle": "Sherlock",
+      "titleType": "tvSeries",
+      "startYear": 2010,
+      "genres": "Crime,Drama,Mystery",
+      "averageRating": 9.0,
+      "numVotes": 1073077
+    },
+    {
+      "tconst": "tt0050083",
+      "primaryTitle": "12 Angry Men",
+      "titleType": "movie",
+      "startYear": 1957,
+      "genres": "Crime,Drama",
+      "averageRating": 9.0,
+      "numVotes": 964844
+    },
+    {
+      "tconst": "tt0386676",
+      "primaryTitle": "The Office",
+      "titleType": "tvSeries",
+      "startYear": 2005,
+      "genres": "Comedy",
+      "averageRating": 9.0,
+      "numVotes": 809745
+    },
+    {
+      "tconst": "tt3032476",
+      "primaryTitle": "Better Call Saul",
+      "titleType": "tvSeries",
+      "startYear": 2015,
+      "genres": "Crime,Drama",
+      "averageRating": 9.0,
+      "numVotes": 788813
+    },
+    {
+      "tconst": "tt2861424",
+      "primaryTitle": "Rick and Morty",
+      "titleType": "tvSeries",
+      "startYear": 2013,
+      "genres": "Adventure,Animation,Comedy",
+      "averageRating": 9.0,
+      "numVotes": 679071
+    },
+    {
+      "tconst": "tt11126994",
+      "primaryTitle": "Arcane",
+      "titleType": "tvSeries",
+      "startYear": 2021,
+      "genres": "Action,Adventure,Animation",
+      "averageRating": 9.0,
+      "numVotes": 426518
+    },
+    {
+      "tconst": "tt0388629",
+      "primaryTitle": "One Piece",
+      "titleType": "tvSeries",
+      "startYear": 1999,
+      "genres": "Action,Adventure,Animation",
+      "averageRating": 9.0,
+      "numVotes": 337159
+    },
+    {
+      "tconst": "tt2098220",
+      "primaryTitle": "Hunter x Hunter",
+      "titleType": "tvSeries",
+      "startYear": 2011,
+      "genres": "Action,Adventure,Animation",
+      "averageRating": 9.0,
+      "numVotes": 183313
+    },
+    {
+      "tconst": "tt8420184",
+      "primaryTitle": "The Last Dance",
+      "titleType": "tvMiniSeries",
+      "startYear": 2020,
+      "genres": "Biography,Documentary,History",
+      "averageRating": 9.0,
+      "numVotes": 176225
+    },
+    {
+      "tconst": "tt0103359",
+      "primaryTitle": "Batman: The Animated Series",
+      "titleType": "tvSeries",
+      "startYear": 1992,
+      "genres": "Action,Adventure,Animation",
+      "averageRating": 9.0,
+      "numVotes": 134558
+    },
+    {
+      "tconst": "tt33043892",
+      "primaryTitle": "Dexter: Resurrection",
+      "titleType": "tvSeries",
+      "startYear": 2025,
+      "genres": "Crime,Drama,Thriller",
+      "averageRating": 9.0,
+      "numVotes": 119165
+    },
+    {
+      "tconst": "tt12004706",
+      "primaryTitle": "Panchayat",
+      "titleType": "tvSeries",
+      "startYear": 2020,
+      "genres": "Comedy,Drama",
+      "averageRating": 9.0,
+      "numVotes": 114782
+    },
+    {
+      "tconst": "tt0052520",
+      "primaryTitle": "The Twilight Zone",
+      "titleType": "tvSeries",
+      "startYear": 1959,
+      "genres": "Drama,Fantasy,Horror",
+      "averageRating": 9.0,
+      "numVotes": 106747
+    },
+    {
+      "tconst": "tt1831164",
+      "primaryTitle": "Leyla and Mecnun",
+      "titleType": "tvSeries",
+      "startYear": 2011,
+      "genres": "Adventure,Comedy,Drama",
+      "averageRating": 9.0,
+      "numVotes": 103220
+    },
+    {
+      "tconst": "tt9432978",
+      "primaryTitle": "Kota Factory",
+      "titleType": "tvSeries",
+      "startYear": 2019,
+      "genres": "Comedy,Drama",
+      "averageRating": 9.0,
+      "numVotes": 90807
+    },
+    {
+      "tconst": "tt10541088",
+      "primaryTitle": "Clarkson's Farm",
+      "titleType": "tvSeries",
+      "startYear": 2021,
+      "genres": "Comedy,Documentary,Reality-TV",
+      "averageRating": 9.0,
+      "numVotes": 82361
+    },
+    {
+      "tconst": "tt14986406",
+      "primaryTitle": "Bleach: Thousand-Year Blood War",
+      "titleType": "tvSeries",
+      "startYear": 2022,
+      "genres": "Action,Adventure,Animation",
+      "averageRating": 9.0,
+      "numVotes": 71415
+    },
+    {
+      "tconst": "tt0081912",
+      "primaryTitle": "Only Fools and Horses",
+      "titleType": "tvSeries",
+      "startYear": 1981,
+      "genres": "Comedy",
+      "averageRating": 9.0,
+      "numVotes": 65218
+    },
+    {
+      "tconst": "tt0120737",
+      "primaryTitle": "The Lord of the Rings: The Fellowship of the Ring",
+      "titleType": "movie",
+      "startYear": 2001,
+      "genres": "Adventure,Drama,Fantasy",
+      "averageRating": 8.9,
+      "numVotes": 2167104
+    },
+    {
+      "tconst": "tt0108778",
+      "primaryTitle": "Friends",
+      "titleType": "tvSeries",
+      "startYear": 1994,
+      "genres": "Comedy,Romance",
+      "averageRating": 8.9,
+      "numVotes": 1174682
+    },
+    {
+      "tconst": "tt0877057",
+      "primaryTitle": "Death Note",
+      "titleType": "tvSeries",
+      "startYear": 2006,
+      "genres": "Animation,Crime,Drama",
+      "averageRating": 8.9,
+      "numVotes": 458589
+    },
+    {
+      "tconst": "tt0098904",
+      "primaryTitle": "Seinfeld",
+      "titleType": "tvSeries",
+      "startYear": 1989,
+      "genres": "Comedy",
+      "averageRating": 8.9,
+      "numVotes": 379667
+    },
+    {
+      "tconst": "tt0303461",
+      "primaryTitle": "Firefly",
+      "titleType": "tvSeries",
+      "startYear": 2002,
+      "genres": "Adventure,Drama,Sci-Fi",
+      "averageRating": 8.9,
+      "numVotes": 298304
+    },
+    {
+      "tconst": "tt1865718",
+      "primaryTitle": "Gravity Falls",
+      "titleType": "tvSeries",
+      "startYear": 2012,
+      "genres": "Adventure,Animation,Comedy",
+      "averageRating": 8.9,
+      "numVotes": 170599
+    },
+    {
+      "tconst": "tt0213338",
+      "primaryTitle": "Cowboy Bebop",
+      "titleType": "tvSeries",
+      "startYear": 1998,
+      "genres": "Action,Adventure,Animation",
+      "averageRating": 8.9,
+      "numVotes": 164607
+    },
+    {
+      "tconst": "tt0200276",
+      "primaryTitle": "The West Wing",
+      "titleType": "tvSeries",
+      "startYear": 1999,
+      "genres": "Drama",
+      "averageRating": 8.9,
+      "numVotes": 97374
+    },
+    {
+      "tconst": "tt31938062",
+      "primaryTitle": "The Pitt",
+      "titleType": "tvSeries",
+      "startYear": 2025,
+      "genres": "Drama",
+      "averageRating": 8.9,
+      "numVotes": 90115
+    },
+    {
+      "tconst": "tt22248376",
+      "primaryTitle": "Frieren: Beyond Journey's End",
+      "titleType": "tvSeries",
+      "startYear": 2023,
+      "genres": "Adventure,Animation,Comedy",
+      "averageRating": 8.9,
+      "numVotes": 60827
+    },
+    {
+      "tconst": "tt7920978",
+      "primaryTitle": "Persona",
+      "titleType": "tvSeries",
+      "startYear": 2018,
+      "genres": "Crime,Drama,Mystery",
+      "averageRating": 8.9,
+      "numVotes": 55885
+    },
+    {
+      "tconst": "tt1375666",
+      "primaryTitle": "Inception",
+      "titleType": "movie",
+      "startYear": 2010,
+      "genres": "Action,Adventure,Sci-Fi",
+      "averageRating": 8.8,
+      "numVotes": 2765338
+    },
+    {
+      "tconst": "tt0137523",
+      "primaryTitle": "Fight Club",
+      "titleType": "movie",
+      "startYear": 1999,
+      "genres": "Crime,Drama,Thriller",
+      "averageRating": 8.8,
+      "numVotes": 2550948
+    },
+    {
+      "tconst": "tt0109830",
+      "primaryTitle": "Forrest Gump",
+      "titleType": "movie",
+      "startYear": 1994,
+      "genres": "Drama,Romance",
+      "averageRating": 8.8,
+      "numVotes": 2451274
+    },
+    {
+      "tconst": "tt0110912",
+      "primaryTitle": "Pulp Fiction",
+      "titleType": "movie",
+      "startYear": 1994,
+      "genres": "Crime,Drama",
+      "averageRating": 8.8,
+      "numVotes": 2396098
+    },
+    {
+      "tconst": "tt0167261",
+      "primaryTitle": "The Lord of the Rings: The Two Towers",
+      "titleType": "movie",
+      "startYear": 2002,
+      "genres": "Adventure,Drama,Fantasy",
+      "averageRating": 8.8,
+      "numVotes": 1923373
+    },
+    {
+      "tconst": "tt0060196",
+      "primaryTitle": "The Good, the Bad and the Ugly",
+      "titleType": "movie",
+      "startYear": 1966,
+      "genres": "Adventure,Drama,Western",
+      "averageRating": 8.8,
+      "numVotes": 879536
+    },
+    {
+      "tconst": "tt2356777",
+      "primaryTitle": "True Detective",
+      "titleType": "tvSeries",
+      "startYear": 2014,
+      "genres": "Crime,Drama,Mystery",
+      "averageRating": 8.8,
+      "numVotes": 734612
+    },
+    {
+      "tconst": "tt2802850",
+      "primaryTitle": "Fargo",
+      "titleType": "tvSeries",
+      "startYear": 2014,
+      "genres": "Crime,Drama,Thriller",
+      "averageRating": 8.8,
+      "numVotes": 459052
+    },
+    {
+      "tconst": "tt10986410",
+      "primaryTitle": "Ted Lasso",
+      "titleType": "tvSeries",
+      "startYear": 2020,
+      "genres": "Comedy,Drama,Sport",
+      "averageRating": 8.8,
+      "numVotes": 426899
+    },
+    {
+      "tconst": "tt7660850",
+      "primaryTitle": "Succession",
+      "titleType": "tvSeries",
+      "startYear": 2018,
+      "genres": "Comedy,Drama",
+      "averageRating": 8.8,
+      "numVotes": 341178
+    },
+    {
+      "tconst": "tt0472954",
+      "primaryTitle": "It's Always Sunny in Philadelphia",
+      "titleType": "tvSeries",
+      "startYear": 2005,
+      "genres": "Comedy",
+      "averageRating": 8.8,
+      "numVotes": 277401
+    },
+    {
+      "tconst": "tt3398228",
+      "primaryTitle": "BoJack Horseman",
+      "titleType": "tvSeries",
+      "startYear": 2014,
+      "genres": "Animation,Comedy,Drama",
+      "averageRating": 8.8,
+      "numVotes": 224457
+    },
+    {
+      "tconst": "tt0214341",
+      "primaryTitle": "Dragon Ball Z",
+      "titleType": "tvSeries",
+      "startYear": 1996,
+      "genres": "Action,Adventure,Animation",
+      "averageRating": 8.8,
+      "numVotes": 172715
+    },
+    {
+      "tconst": "tt0264235",
+      "primaryTitle": "Curb Your Enthusiasm",
+      "titleType": "tvSeries",
+      "startYear": 2000,
+      "genres": "Comedy",
+      "averageRating": 8.8,
+      "numVotes": 164102
+    },
+    {
+      "tconst": "tt0193676",
+      "primaryTitle": "Freaks and Geeks",
+      "titleType": "tvSeries",
+      "startYear": 1999,
+      "genres": "Comedy,Drama",
+      "averageRating": 8.8,
+      "numVotes": 163017
+    },
+    {
+      "tconst": "tt7137906",
+      "primaryTitle": "When They See Us",
+      "titleType": "tvMiniSeries",
+      "startYear": 2019,
+      "genres": "Biography,Crime,Drama",
+      "averageRating": 8.8,
+      "numVotes": 155733
+    },
+    {
+      "tconst": "tt14650074",
+      "primaryTitle": "Dhindora",
+      "titleType": "tvSeries",
+      "startYear": 2021,
+      "genres": "Comedy,Drama",
+      "averageRating": 8.8,
+      "numVotes": 125032
+    },
+    {
+      "tconst": "tt10233448",
+      "primaryTitle": "Vinland Saga",
+      "titleType": "tvSeries",
+      "startYear": 2019,
+      "genres": "Action,Adventure,Animation",
+      "averageRating": 8.8,
+      "numVotes": 122239
+    },
+    {
+      "tconst": "tt0072500",
+      "primaryTitle": "Fawlty Towers",
+      "titleType": "tvSeries",
+      "startYear": 1975,
+      "genres": "Comedy",
+      "averageRating": 8.8,
+      "numVotes": 110172
+    },
+    {
+      "tconst": "tt3530232",
+      "primaryTitle": "Last Week Tonight with John Oliver",
+      "titleType": "tvSeries",
+      "startYear": 2014,
+      "genres": "Comedy,News,Talk-Show",
+      "averageRating": 8.8,
+      "numVotes": 104320
+    },
+    {
+      "tconst": "tt0112130",
+      "primaryTitle": "Pride and Prejudice",
+      "titleType": "tvMiniSeries",
+      "startYear": 1995,
+      "genres": "Drama,Romance",
+      "averageRating": 8.8,
+      "numVotes": 101486
+    },
+    {
+      "tconst": "tt0121220",
+      "primaryTitle": "Dragon Ball Z",
+      "titleType": "tvSeries",
+      "startYear": 1989,
+      "genres": "Action,Adventure,Animation",
+      "averageRating": 8.8,
+      "numVotes": 101378
+    },
+    {
+      "tconst": "tt1910272",
+      "primaryTitle": "Steins;Gate",
+      "titleType": "tvSeries",
+      "startYear": 2011,
+      "genres": "Animation,Comedy,Drama",
+      "averageRating": 8.8,
+      "numVotes": 88826
+    },
+    {
+      "tconst": "tt0063929",
+      "primaryTitle": "Monty Python's Flying Circus",
+      "titleType": "tvSeries",
+      "startYear": 1969,
+      "genres": "Comedy",
+      "averageRating": 8.8,
+      "numVotes": 86525
+    },
+    {
+      "tconst": "tt0353049",
+      "primaryTitle": "Chappelle's Show",
+      "titleType": "tvSeries",
+      "startYear": 2003,
+      "genres": "Comedy,Music",
+      "averageRating": 8.8,
+      "numVotes": 77956
+    },
+    {
+      "tconst": "tt0096548",
+      "primaryTitle": "Blackadder Goes Forth",
+      "titleType": "tvSeries",
+      "startYear": 1989,
+      "genres": "Comedy,War",
+      "averageRating": 8.8,
+      "numVotes": 64467
+    },
+    {
+      "tconst": "tt0816692",
+      "primaryTitle": "Interstellar",
+      "titleType": "movie",
+      "startYear": 2014,
+      "genres": "Adventure,Drama,Sci-Fi",
+      "averageRating": 8.7,
+      "numVotes": 2449989
+    },
+    {
+      "tconst": "tt0133093",
+      "primaryTitle": "The Matrix",
+      "titleType": "movie",
+      "startYear": 1999,
+      "genres": "Action,Sci-Fi",
+      "averageRating": 8.7,
+      "numVotes": 2212884
+    },
+    {
+      "tconst": "tt0080684",
+      "primaryTitle": "Star Wars: Episode V - The Empire Strikes Back",
+      "titleType": "movie",
+      "startYear": 1980,
+      "genres": "Action,Adventure,Fantasy",
+      "averageRating": 8.7,
+      "numVotes": 1482163
+    },
+    {
+      "tconst": "tt0099685",
+      "primaryTitle": "Goodfellas",
+      "titleType": "movie",
+      "startYear": 1990,
+      "genres": "Biography,Crime,Drama",
+      "averageRating": 8.7,
+      "numVotes": 1367865
+    },
+    {
+      "tconst": "tt2442560",
+      "primaryTitle": "Peaky Blinders",
+      "titleType": "tvSeries",
+      "startYear": 2013,
+      "genres": "Crime,Drama",
+      "averageRating": 8.7,
+      "numVotes": 745000
+    },
+    {
+      "tconst": "tt2085059",
+      "primaryTitle": "Black Mirror",
+      "titleType": "tvSeries",
+      "startYear": 2011,
+      "genres": "Crime,Drama,Mystery",
+      "averageRating": 8.7,
+      "numVotes": 721445
+    },
+    {
+      "tconst": "tt0412142",
+      "primaryTitle": "House",
+      "titleType": "tvSeries",
+      "startYear": 2004,
+      "genres": "Drama",
+      "averageRating": 8.7,
+      "numVotes": 580920
+    },
+    {
+      "tconst": "tt5753856",
+      "primaryTitle": "Dark",
+      "titleType": "tvSeries",
+      "startYear": 2017,
+      "genres": "Crime,Drama,Mystery",
+      "averageRating": 8.7,
+      "numVotes": 519097
+    },
+    {
+      "tconst": "tt2707408",
+      "primaryTitle": "Narcos",
+      "titleType": "tvSeries",
+      "startYear": 2015,
+      "genres": "Biography,Crime,Drama",
+      "averageRating": 8.7,
+      "numVotes": 517298
+    },
+    {
+      "tconst": "tt0121955",
+      "primaryTitle": "South Park",
+      "titleType": "tvSeries",
+      "startYear": 1997,
+      "genres": "Animation,Comedy",
+      "averageRating": 8.7,
+      "numVotes": 438295
+    },
+    {
+      "tconst": "tt11280740",
+      "primaryTitle": "Severance",
+      "titleType": "tvSeries",
+      "startYear": 2022,
+      "genres": "Drama,Mystery,Sci-Fi",
+      "averageRating": 8.7,
+      "numVotes": 362689
+    },
+    {
+      "tconst": "tt6741278",
+      "primaryTitle": "Invincible",
+      "titleType": "tvSeries",
+      "startYear": 2021,
+      "genres": "Action,Adventure,Animation",
+      "averageRating": 8.7,
+      "numVotes": 296386
+    },
+    {
+      "tconst": "tt0804503",
+      "primaryTitle": "Mad Men",
+      "titleType": "tvSeries",
+      "startYear": 2007,
+      "genres": "Drama",
+      "averageRating": 8.7,
+      "numVotes": 283363
+    },
+    {
+      "tconst": "tt1606375",
+      "primaryTitle": "Downton Abbey",
+      "titleType": "tvSeries",
+      "startYear": 2010,
+      "genres": "Drama,Romance",
+      "averageRating": 8.7,
+      "numVotes": 242827
+    },
+    {
+      "tconst": "tt0098936",
+      "primaryTitle": "Twin Peaks",
+      "titleType": "tvSeries",
+      "startYear": 1990,
+      "genres": "Crime,Drama,Mystery",
+      "averageRating": 8.7,
+      "numVotes": 240663
+    },
+    {
+      "tconst": "tt5687612",
+      "primaryTitle": "Fleabag",
+      "titleType": "tvSeries",
+      "startYear": 2016,
+      "genres": "Comedy,Drama",
+      "averageRating": 8.7,
+      "numVotes": 238622
+    },
+    {
+      "tconst": "tt0988824",
+      "primaryTitle": "Naruto: Shippuden",
+      "titleType": "tvSeries",
+      "startYear": 2007,
+      "genres": "Action,Adventure,Animation",
+      "averageRating": 8.7,
+      "numVotes": 212797
+    },
+    {
+      "tconst": "tt0384766",
+      "primaryTitle": "Rome",
+      "titleType": "tvSeries",
+      "startYear": 2005,
+      "genres": "Action,Drama,Romance",
+      "averageRating": 8.7,
+      "numVotes": 200756
+    },
+    {
+      "tconst": "tt0407362",
+      "primaryTitle": "Battlestar Galactica",
+      "titleType": "tvSeries",
+      "startYear": 2004,
+      "genres": "Action,Adventure,Drama",
+      "averageRating": 8.7,
+      "numVotes": 185101
+    },
+    {
+      "tconst": "tt5555260",
+      "primaryTitle": "This Is Us",
+      "titleType": "tvSeries",
+      "startYear": 2016,
+      "genres": "Comedy,Drama,Romance",
+      "averageRating": 8.7,
+      "numVotes": 171878
+    },
+    {
+      "tconst": "tt23849204",
+      "primaryTitle": "12th Fail",
+      "titleType": "movie",
+      "startYear": 2023,
+      "genres": "Biography,Drama",
+      "averageRating": 8.7,
+      "numVotes": 164782
+    },
+    {
+      "tconst": "tt0248654",
+      "primaryTitle": "Six Feet Under",
+      "titleType": "tvSeries",
+      "startYear": 2001,
+      "genres": "Comedy,Drama",
+      "averageRating": 8.7,
+      "numVotes": 164581
+    },
+    {
+      "tconst": "tt13991232",
+      "primaryTitle": "1883",
+      "titleType": "tvMiniSeries",
+      "startYear": 2021,
+      "genres": "Drama,Western",
+      "averageRating": 8.7,
+      "numVotes": 156798
+    },
+    {
+      "tconst": "tt0092455",
+      "primaryTitle": "Star Trek: The Next Generation",
+      "titleType": "tvSeries",
+      "startYear": 1987,
+      "genres": "Action,Adventure,Drama",
+      "averageRating": 8.7,
+      "numVotes": 147432
+    },
+    {
+      "tconst": "tt1628033",
+      "primaryTitle": "Top Gear",
+      "titleType": "tvSeries",
+      "startYear": 2002,
+      "genres": "Adventure,Comedy,Sport",
+      "averageRating": 8.7,
+      "numVotes": 135160
+    },
+    {
+      "tconst": "tt0118421",
+      "primaryTitle": "Oz",
+      "titleType": "tvSeries",
+      "startYear": 1997,
+      "genres": "Crime,Drama,Thriller",
+      "averageRating": 8.7,
+      "numVotes": 115218
+    },
+    {
+      "tconst": "tt9544034",
+      "primaryTitle": "The Family Man",
+      "titleType": "tvSeries",
+      "startYear": 2019,
+      "genres": "Action,Comedy,Crime",
+      "averageRating": 8.7,
+      "numVotes": 110217
+    },
+    {
+      "tconst": "tt13309742",
+      "primaryTitle": "Blue Eye Samurai",
+      "titleType": "tvSeries",
+      "startYear": 2023,
+      "genres": "Action,Adventure,Animation",
+      "averageRating": 8.7,
+      "numVotes": 99594
+    },
+    {
+      "tconst": "tt0994314",
+      "primaryTitle": "Code Geass",
+      "titleType": "tvSeries",
+      "startYear": 2006,
+      "genres": "Action,Animation,Drama",
+      "averageRating": 8.7,
+      "numVotes": 98589
+    },
+    {
+      "tconst": "tt0286486",
+      "primaryTitle": "The Shield",
+      "titleType": "tvSeries",
+      "startYear": 2002,
+      "genres": "Crime,Drama,Thriller",
+      "averageRating": 8.7,
+      "numVotes": 95908
+    },
+    {
+      "tconst": "tt5712554",
+      "primaryTitle": "The Grand Tour",
+      "titleType": "tvSeries",
+      "startYear": 2016,
+      "genres": "Adventure,Comedy,Sport",
+      "averageRating": 8.7,
+      "numVotes": 93286
+    },
+    {
+      "tconst": "tt3718778",
+      "primaryTitle": "Over the Garden Wall",
+      "titleType": "tvMiniSeries",
+      "startYear": 2014,
+      "genres": "Adventure,Animation,Comedy",
+      "averageRating": 8.7,
+      "numVotes": 86279
+    },
+    {
+      "tconst": "tt2303687",
+      "primaryTitle": "Line of Duty",
+      "titleType": "tvSeries",
+      "startYear": 2012,
+      "genres": "Crime,Drama,Mystery",
+      "averageRating": 8.7,
+      "numVotes": 79060
+    },
+    {
+      "tconst": "tt0758745",
+      "primaryTitle": "Friday Night Lights",
+      "titleType": "tvSeries",
+      "startYear": 2006,
+      "genres": "Drama,Sport",
+      "averageRating": 8.7,
+      "numVotes": 78083
+    },
+    {
+      "tconst": "tt0318871",
+      "primaryTitle": "Berserk",
+      "titleType": "tvSeries",
+      "startYear": 1997,
+      "genres": "Action,Adventure,Animation",
+      "averageRating": 8.7,
+      "numVotes": 73767
+    },
+    {
+      "tconst": "tt0387764",
+      "primaryTitle": "Peep Show",
+      "titleType": "tvSeries",
+      "startYear": 2003,
+      "genres": "Comedy",
+      "averageRating": 8.7,
+      "numVotes": 72613
+    },
+    {
+      "tconst": "tt0434706",
+      "primaryTitle": "Monster",
+      "titleType": "tvSeries",
+      "startYear": 2004,
+      "genres": "Animation,Crime,Drama",
+      "averageRating": 8.7,
+      "numVotes": 65125
+    },
+    {
+      "tconst": "tt10850932",
+      "primaryTitle": "Crash Landing on You",
+      "titleType": "tvMiniSeries",
+      "startYear": 2019,
+      "genres": "Adventure,Comedy,Drama",
+      "averageRating": 8.7,
+      "numVotes": 55723
+    },
+    {
+      "tconst": "tt3398540",
+      "primaryTitle": "Haikyu!!",
+      "titleType": "tvSeries",
+      "startYear": 2014,
+      "genres": "Animation,Comedy,Drama",
+      "averageRating": 8.7,
+      "numVotes": 50203
+    },
+    {
+      "tconst": "tt16026746",
+      "primaryTitle": "X-Men '97",
+      "titleType": "tvSeries",
+      "startYear": 2024,
+      "genres": "Action,Adventure,Animation",
+      "averageRating": 8.7,
+      "numVotes": 50015
+    },
+    {
+      "tconst": "tt0114369",
+      "primaryTitle": "Se7en",
+      "titleType": "movie",
+      "startYear": 1995,
+      "genres": "Crime,Drama,Mystery",
+      "averageRating": 8.6,
+      "numVotes": 1981131
+    },
+    {
+      "tconst": "tt0102926",
+      "primaryTitle": "The Silence of the Lambs",
+      "titleType": "movie",
+      "startYear": 1991,
+      "genres": "Crime,Drama,Horror",
+      "averageRating": 8.6,
+      "numVotes": 1689272
+    },
+    {
+      "tconst": "tt0120815",
+      "primaryTitle": "Saving Private Ryan",
+      "titleType": "movie",
+      "startYear": 1998,
+      "genres": "Drama,War",
+      "averageRating": 8.6,
+      "numVotes": 1612453
+    },
+    {
+      "tconst": "tt4574334",
+      "primaryTitle": "Stranger Things",
+      "titleType": "tvSeries",
+      "startYear": 2016,
+      "genres": "Drama,Fantasy,Horror",
+      "averageRating": 8.6,
+      "numVotes": 1549319
+    },
+    {
+      "tconst": "tt0076759",
+      "primaryTitle": "Star Wars: Episode IV - A New Hope",
+      "titleType": "movie",
+      "startYear": 1977,
+      "genres": "Action,Adventure,Fantasy",
+      "averageRating": 8.6,
+      "numVotes": 1548181
+    },
+    {
+      "tconst": "tt0120689",
+      "primaryTitle": "The Green Mile",
+      "titleType": "movie",
+      "startYear": 1999,
+      "genres": "Crime,Drama,Fantasy",
+      "averageRating": 8.6,
+      "numVotes": 1533619
+    },
+    {
+      "tconst": "tt0103064",
+      "primaryTitle": "Terminator 2: Judgment Day",
+      "titleType": "movie",
+      "startYear": 1991,
+      "genres": "Action,Adventure,Sci-Fi",
+      "averageRating": 8.6,
+      "numVotes": 1266352
+    },
+    {
+      "tconst": "tt0073486",
+      "primaryTitle": "One Flew Over the Cuckoo's Nest",
+      "titleType": "movie",
+      "startYear": 1975,
+      "genres": "Drama",
+      "averageRating": 8.6,
+      "numVotes": 1144381
+    },
+    {
+      "tconst": "tt0245429",
+      "primaryTitle": "Spirited Away",
+      "titleType": "movie",
+      "startYear": 2001,
+      "genres": "Adventure,Animation,Family",
+      "averageRating": 8.6,
+      "numVotes": 947066
+    },
+    {
+      "tconst": "tt0773262",
+      "primaryTitle": "Dexter",
+      "titleType": "tvSeries",
+      "startYear": 2006,
+      "genres": "Crime,Drama,Mystery",
+      "averageRating": 8.6,
+      "numVotes": 900372
+    },
+    {
+      "tconst": "tt0317248",
+      "primaryTitle": "City of God",
+      "titleType": "movie",
+      "startYear": 2002,
+      "genres": "Crime,Drama",
+      "averageRating": 8.6,
+      "numVotes": 859754
+    },
+    {
+      "tconst": "tt1190634",
+      "primaryTitle": "The Boys",
+      "titleType": "tvSeries",
+      "startYear": 2019,
+      "genres": "Action,Comedy,Crime",
+      "averageRating": 8.6,
+      "numVotes": 821451
+    },
+    {
+      "tconst": "tt0118799",
+      "primaryTitle": "Life Is Beautiful",
+      "titleType": "movie",
+      "startYear": 1997,
+      "genres": "Comedy,Drama,Romance",
+      "averageRating": 8.6,
+      "numVotes": 801031
+    },
+    {
+      "tconst": "tt8111088",
+      "primaryTitle": "The Mandalorian",
+      "titleType": "tvSeries",
+      "startYear": 2019,
+      "genres": "Action,Adventure,Fantasy",
+      "averageRating": 8.6,
+      "numVotes": 642838
+    },
+    {
+      "tconst": "tt1856010",
+      "primaryTitle": "House of Cards",
+      "titleType": "tvSeries",
+      "startYear": 2013,
+      "genres": "Drama,Thriller",
+      "averageRating": 8.6,
+      "numVotes": 554614
+    },
+    {
+      "tconst": "tt0038650",
+      "primaryTitle": "It's a Wonderful Life",
+      "titleType": "movie",
+      "startYear": 1946,
+      "genres": "Drama,Family,Fantasy",
+      "averageRating": 8.6,
+      "numVotes": 546909
+    },
+    {
+      "tconst": "tt3322312",
+      "primaryTitle": "Daredevil",
+      "titleType": "tvSeries",
+      "startYear": 2015,
+      "genres": "Action,Crime,Drama",
+      "averageRating": 8.6,
+      "numVotes": 519725
+    },
+    {
+      "tconst": "tt0096697",
+      "primaryTitle": "The Simpsons",
+      "titleType": "tvSeries",
+      "startYear": 1989,
+      "genres": "Animation,Comedy",
+      "averageRating": 8.6,
+      "numVotes": 463226
+    },
+    {
+      "tconst": "tt0047478",
+      "primaryTitle": "Seven Samurai",
+      "titleType": "movie",
+      "startYear": 1954,
+      "genres": "Action,Drama",
+      "averageRating": 8.6,
+      "numVotes": 397417
+    },
+    {
+      "tconst": "tt5290382",
+      "primaryTitle": "Mindhunter",
+      "titleType": "tvSeries",
+      "startYear": 2017,
+      "genres": "Crime,Drama,Mystery",
+      "averageRating": 8.6,
+      "numVotes": 386619
+    },
+    {
+      "tconst": "tt0367279",
+      "primaryTitle": "Arrested Development",
+      "titleType": "tvSeries",
+      "startYear": 2003,
+      "genres": "Comedy",
+      "averageRating": 8.6,
+      "numVotes": 340173
+    },
+    {
+      "tconst": "tt1266020",
+      "primaryTitle": "Parks and Recreation",
+      "titleType": "tvSeries",
+      "startYear": 2009,
+      "genres": "Comedy",
+      "averageRating": 8.6,
+      "numVotes": 310121
+    },
+    {
+      "tconst": "tt4236770",
+      "primaryTitle": "Yellowstone",
+      "titleType": "tvSeries",
+      "startYear": 2018,
+      "genres": "Drama,Western",
+      "averageRating": 8.6,
+      "numVotes": 297358
+    },
+    {
+      "tconst": "tt4786824",
+      "primaryTitle": "The Crown",
+      "titleType": "tvSeries",
+      "startYear": 2016,
+      "genres": "Biography,Drama,History",
+      "averageRating": 8.6,
+      "numVotes": 276864
+    },
+    {
+      "tconst": "tt0106179",
+      "primaryTitle": "The X-Files",
+      "titleType": "tvSeries",
+      "startYear": 1993,
+      "genres": "Adventure,Crime,Drama",
+      "averageRating": 8.6,
+      "numVotes": 268855
+    },
+    {
+      "tconst": "tt9253284",
+      "primaryTitle": "Andor",
+      "titleType": "tvSeries",
+      "startYear": 2022,
+      "genres": "Action,Adventure,Fantasy",
+      "averageRating": 8.6,
+      "numVotes": 260440
+    },
+    {
+      "tconst": "tt2788316",
+      "primaryTitle": "Sh\u014dgun",
+      "titleType": "tvSeries",
+      "startYear": 2024,
+      "genres": "Action,Adventure,Drama",
+      "averageRating": 8.6,
+      "numVotes": 235877
+    },
+    {
+      "tconst": "tt15097216",
+      "primaryTitle": "Jai Bhim",
+      "titleType": "movie",
+      "startYear": 2021,
+      "genres": "Crime,Drama",
+      "averageRating": 8.6,
+      "numVotes": 232121
+    },
+    {
+      "tconst": "tt15435876",
+      "primaryTitle": "The Penguin",
+      "titleType": "tvMiniSeries",
+      "startYear": 2024,
+      "genres": "Crime,Drama",
+      "averageRating": 8.6,
+      "numVotes": 223712
+    },
+    {
+      "tconst": "tt4508902",
+      "primaryTitle": "One Punch Man",
+      "titleType": "tvSeries",
+      "startYear": 2015,
+      "genres": "Action,Animation,Comedy",
+      "averageRating": 8.6,
+      "numVotes": 218445
+    },
+    {
+      "tconst": "tt0979432",
+      "primaryTitle": "Boardwalk Empire",
+      "titleType": "tvSeries",
+      "startYear": 2010,
+      "genres": "Crime,Drama",
+      "averageRating": 8.6,
+      "numVotes": 215556
+    },
+    {
+      "tconst": "tt9335498",
+      "primaryTitle": "Demon Slayer: Kimetsu no Yaiba",
+      "titleType": "tvSeries",
+      "startYear": 2019,
+      "genres": "Action,Adventure,Animation",
+      "averageRating": 8.6,
+      "numVotes": 212532
+    },
+    {
+      "tconst": "tt1486217",
+      "primaryTitle": "Archer",
+      "titleType": "tvSeries",
+      "startYear": 2009,
+      "genres": "Action,Animation,Comedy",
+      "averageRating": 8.6,
+      "numVotes": 174180
+    },
+    {
+      "tconst": "tt5788792",
+      "primaryTitle": "The Marvelous Mrs. Maisel",
+      "titleType": "tvSeries",
+      "startYear": 2017,
+      "genres": "Comedy,Drama",
+      "averageRating": 8.6,
+      "numVotes": 155707
+    },
+    {
+      "tconst": "tt0096657",
+      "primaryTitle": "Mr. Bean",
+      "titleType": "tvSeries",
+      "startYear": 1990,
+      "genres": "Comedy,Family",
+      "averageRating": 8.6,
+      "numVotes": 147986
+    },
+    {
+      "tconst": "tt1870479",
+      "primaryTitle": "The Newsroom",
+      "titleType": "tvSeries",
+      "startYear": 2012,
+      "genres": "Drama",
+      "averageRating": 8.6,
+      "numVotes": 133284
+    },
+    {
+      "tconst": "tt10189514",
+      "primaryTitle": "Soorarai Pottru",
+      "titleType": "movie",
+      "startYear": 2020,
+      "genres": "Drama",
+      "averageRating": 8.6,
+      "numVotes": 130820
+    },
+    {
+      "tconst": "tt1305826",
+      "primaryTitle": "Adventure Time",
+      "titleType": "tvSeries",
+      "startYear": 2010,
+      "genres": "Action,Adventure,Animation",
+      "averageRating": 8.6,
+      "numVotes": 129196
+    },
+    {
+      "tconst": "tt1489428",
+      "primaryTitle": "Justified",
+      "titleType": "tvSeries",
+      "startYear": 2010,
+      "genres": "Action,Crime,Drama",
+      "averageRating": 8.6,
+      "numVotes": 128633
+    },
+    {
+      "tconst": "tt0348914",
+      "primaryTitle": "Deadwood",
+      "titleType": "tvSeries",
+      "startYear": 2004,
+      "genres": "Crime,Drama,History",
+      "averageRating": 8.6,
+      "numVotes": 126765
+    },
+    {
+      "tconst": "tt4288182",
+      "primaryTitle": "Atlanta",
+      "titleType": "tvSeries",
+      "startYear": 2016,
+      "genres": "Comedy,Drama,Music",
+      "averageRating": 8.6,
+      "numVotes": 96940
+    },
+    {
+      "tconst": "tt33014583",
+      "primaryTitle": "Dhurandhar",
+      "titleType": "movie",
+      "startYear": 2025,
+      "genres": "Action,Adventure,Crime",
+      "averageRating": 8.6,
+      "numVotes": 90796
+    },
+    {
+      "tconst": "tt9174558",
+      "primaryTitle": "Dopesick",
+      "titleType": "tvMiniSeries",
+      "startYear": 2021,
+      "genres": "Drama",
+      "averageRating": 8.6,
+      "numVotes": 90287
+    },
+    {
+      "tconst": "tt0056058",
+      "primaryTitle": "Harakiri",
+      "titleType": "movie",
+      "startYear": 1962,
+      "genres": "Drama,Mystery",
+      "averageRating": 8.6,
+      "numVotes": 88175
+    },
+    {
+      "tconst": "tt1733785",
+      "primaryTitle": "The Bridge",
+      "titleType": "tvSeries",
+      "startYear": 2011,
+      "genres": "Crime,Mystery,Thriller",
+      "averageRating": 8.6,
+      "numVotes": 83168
+    },
+    {
+      "tconst": "tt5421602",
+      "primaryTitle": "Anne with an E",
+      "titleType": "tvSeries",
+      "startYear": 2017,
+      "genres": "Drama,Family",
+      "averageRating": 8.6,
+      "numVotes": 77853
+    },
+    {
+      "tconst": "tt1710308",
+      "primaryTitle": "Regular Show",
+      "titleType": "tvSeries",
+      "startYear": 2010,
+      "genres": "Action,Adventure,Animation",
+      "averageRating": 8.6,
+      "numVotes": 70869
+    },
+    {
+      "tconst": "tt9263550",
+      "primaryTitle": "Rocketry: The Nambi Effect",
+      "titleType": "movie",
+      "startYear": 2022,
+      "genres": "Biography,Drama",
+      "averageRating": 8.6,
+      "numVotes": 61581
+    },
+    {
+      "tconst": "tt4299972",
+      "primaryTitle": "The Jinx: The Life and Deaths of Robert Durst",
+      "titleType": "tvSeries",
+      "startYear": 2015,
+      "genres": "Biography,Crime,Documentary",
+      "averageRating": 8.6,
+      "numVotes": 57758
+    },
+    {
+      "tconst": "tt0094525",
+      "primaryTitle": "Poirot",
+      "titleType": "tvSeries",
+      "startYear": 1989,
+      "genres": "Crime,Drama,Mystery",
+      "averageRating": 8.6,
+      "numVotes": 57616
+    },
+    {
+      "tconst": "tt0088484",
+      "primaryTitle": "Blackadder II",
+      "titleType": "tvSeries",
+      "startYear": 1986,
+      "genres": "Comedy",
+      "averageRating": 8.6,
+      "numVotes": 53235
+    },
+    {
+      "tconst": "tt1641384",
+      "primaryTitle": "Young Justice",
+      "titleType": "tvSeries",
+      "startYear": 2010,
+      "genres": "Action,Adventure,Animation",
+      "averageRating": 8.6,
+      "numVotes": 50243
+    },
+    {
+      "tconst": "tt0092324",
+      "primaryTitle": "Blackadder the Third",
+      "titleType": "tvSeries",
+      "startYear": 1987,
+      "genres": "Comedy",
+      "averageRating": 8.6,
+      "numVotes": 50077
+    },
+    {
+      "tconst": "tt1853728",
+      "primaryTitle": "Django Unchained",
+      "titleType": "movie",
+      "startYear": 2012,
+      "genres": "Drama,Western",
+      "averageRating": 8.5,
+      "numVotes": 1848712
+    },
+    {
+      "tconst": "tt0172495",
+      "primaryTitle": "Gladiator",
+      "titleType": "movie",
+      "startYear": 2000,
+      "genres": "Action,Adventure,Drama",
+      "averageRating": 8.5,
+      "numVotes": 1816709
+    },
+    {
+      "tconst": "tt0482571",
+      "primaryTitle": "The Prestige",
+      "titleType": "movie",
+      "startYear": 2006,
+      "genres": "Drama,Mystery,Sci-Fi",
+      "averageRating": 8.5,
+      "numVotes": 1560637
+    },
+    {
+      "tconst": "tt0407887",
+      "primaryTitle": "The Departed",
+      "titleType": "movie",
+      "startYear": 2006,
+      "genres": "Crime,Drama,Thriller",
+      "averageRating": 8.5,
+      "numVotes": 1530804
+    },
+    {
+      "tconst": "tt0088763",
+      "primaryTitle": "Back to the Future",
+      "titleType": "movie",
+      "startYear": 1985,
+      "genres": "Adventure,Comedy,Sci-Fi",
+      "averageRating": 8.5,
+      "numVotes": 1425875
+    },
+    {
+      "tconst": "tt0110413",
+      "primaryTitle": "L\u00e9on: The Professional",
+      "titleType": "movie",
+      "startYear": 1994,
+      "genres": "Action,Crime,Drama",
+      "averageRating": 8.5,
+      "numVotes": 1334878
+    },
+    {
+      "tconst": "tt0120586",
+      "primaryTitle": "American History X",
+      "titleType": "movie",
+      "startYear": 1998,
+      "genres": "Crime,Drama",
+      "averageRating": 8.5,
+      "numVotes": 1258438
+    },
+    {
+      "tconst": "tt0110357",
+      "primaryTitle": "The Lion King",
+      "titleType": "movie",
+      "startYear": 1994,
+      "genres": "Adventure,Animation,Drama",
+      "averageRating": 8.5,
+      "numVotes": 1238465
+    },
+    {
+      "tconst": "tt0114814",
+      "primaryTitle": "The Usual Suspects",
+      "titleType": "movie",
+      "startYear": 1995,
+      "genres": "Crime,Drama,Mystery",
+      "averageRating": 8.5,
+      "numVotes": 1222000
+    },
+    {
+      "tconst": "tt6751668",
+      "primaryTitle": "Parasite",
+      "titleType": "movie",
+      "startYear": 2019,
+      "genres": "Drama,Thriller",
+      "averageRating": 8.5,
+      "numVotes": 1126400
+    },
+    {
+      "tconst": "tt2582802",
+      "primaryTitle": "Whiplash",
+      "titleType": "movie",
+      "startYear": 2014,
+      "genres": "Drama,Music",
+      "averageRating": 8.5,
+      "numVotes": 1123372
+    },
+    {
+      "tconst": "tt0078748",
+      "primaryTitle": "Alien",
+      "titleType": "movie",
+      "startYear": 1979,
+      "genres": "Horror,Sci-Fi",
+      "averageRating": 8.5,
+      "numVotes": 1048595
+    },
+    {
+      "tconst": "tt1675434",
+      "primaryTitle": "The Intouchables",
+      "titleType": "movie",
+      "startYear": 2011,
+      "genres": "Comedy,Drama",
+      "averageRating": 8.5,
+      "numVotes": 1008901
+    },
+    {
+      "tconst": "tt0253474",
+      "primaryTitle": "The Pianist",
+      "titleType": "movie",
+      "startYear": 2002,
+      "genres": "Biography,Drama,Music",
+      "averageRating": 8.5,
+      "numVotes": 996824
+    },
+    {
+      "tconst": "tt0054215",
+      "primaryTitle": "Psycho",
+      "titleType": "movie",
+      "startYear": 1960,
+      "genres": "Drama,Horror,Mystery",
+      "averageRating": 8.5,
+      "numVotes": 776030
+    },
+    {
+      "tconst": "tt3581920",
+      "primaryTitle": "The Last of Us",
+      "titleType": "tvSeries",
+      "startYear": 2023,
+      "genres": "Action,Adventure,Drama",
+      "averageRating": 8.5,
+      "numVotes": 713888
+    },
+    {
+      "tconst": "tt0034583",
+      "primaryTitle": "Casablanca",
+      "titleType": "movie",
+      "startYear": 1942,
+      "genres": "Drama,Romance,War",
+      "averageRating": 8.5,
+      "numVotes": 648345
+    },
+    {
+      "tconst": "tt10048342",
+      "primaryTitle": "The Queen's Gambit",
+      "titleType": "tvMiniSeries",
+      "startYear": 2020,
+      "genres": "Drama",
+      "averageRating": 8.5,
+      "numVotes": 644719
+    },
+    {
+      "tconst": "tt2306299",
+      "primaryTitle": "Vikings",
+      "titleType": "tvSeries",
+      "startYear": 2013,
+      "genres": "Action,Adventure,Drama",
+      "averageRating": 8.5,
+      "numVotes": 631515
+    },
+    {
+      "tconst": "tt10811166",
+      "primaryTitle": "The Kashmir Files",
+      "titleType": "movie",
+      "startYear": 2022,
+      "genres": "Drama",
+      "averageRating": 8.5,
+      "numVotes": 578217
+    },
+    {
+      "tconst": "tt0047396",
+      "primaryTitle": "Rear Window",
+      "titleType": "movie",
+      "startYear": 1954,
+      "genres": "Drama,Mystery,Thriller",
+      "averageRating": 8.5,
+      "numVotes": 562750
+    },
+    {
+      "tconst": "tt1442437",
+      "primaryTitle": "Modern Family",
+      "titleType": "tvSeries",
+      "startYear": 2009,
+      "genres": "Comedy,Drama,Romance",
+      "averageRating": 8.5,
+      "numVotes": 530825
+    },
+    {
+      "tconst": "tt9362722",
+      "primaryTitle": "Spider-Man: Across the Spider-Verse",
+      "titleType": "movie",
+      "startYear": 2023,
+      "genres": "Action,Adventure,Animation",
+      "averageRating": 8.5,
+      "numVotes": 498161
+    },
+    {
+      "tconst": "tt4158110",
+      "primaryTitle": "Mr. Robot",
+      "titleType": "tvSeries",
+      "startYear": 2015,
+      "genres": "Crime,Drama,Thriller",
+      "averageRating": 8.5,
+      "numVotes": 457833
+    },
+    {
+      "tconst": "tt0064116",
+      "primaryTitle": "Once Upon a Time in the West",
+      "titleType": "movie",
+      "startYear": 1968,
+      "genres": "Drama,Western",
+      "averageRating": 8.5,
+      "numVotes": 380180
+    }
+  ]
+}
