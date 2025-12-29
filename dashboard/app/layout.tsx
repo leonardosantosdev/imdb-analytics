@@ -20,7 +20,10 @@ const body = Space_Grotesk({
 
 export const metadata: Metadata = {
   title: "IMDb Analytics",
-  description: "IMDb analytics dashboard"
+  description: "IMDb analytics dashboard",
+  icons: {
+    icon: "/logo.png"
+  }
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
