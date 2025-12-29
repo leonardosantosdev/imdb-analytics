@@ -39,14 +39,14 @@ export function RuntimeRatingScatter({
     <div className="chart">
       <ResponsiveContainer width="100%" height={340}>
         <ScatterChart margin={{ left: 8, right: 8 }}>
-          <CartesianGrid stroke="rgba(27, 26, 23, 0.06)" />
+          <CartesianGrid stroke="var(--grid)" />
           <XAxis
             type="number"
             dataKey="avgRuntimeMinutes"
             unit=" min"
             axisLine={false}
             tickLine={false}
-            tick={{ fontSize: 12, fill: "#5f5b54" }}
+            tick={{ fontSize: 12, fill: "var(--text-muted)" }}
           />
           <YAxis
             type="number"
@@ -54,11 +54,11 @@ export function RuntimeRatingScatter({
             domain={[6, 10]}
             axisLine={false}
             tickLine={false}
-            tick={{ fontSize: 12, fill: "#5f5b54" }}
+            tick={{ fontSize: 12, fill: "var(--text-muted)" }}
           />
           <ZAxis dataKey="titleCount" range={[80, 400]} />
           <Tooltip
-            cursor={{ strokeDasharray: "3 3" }}
+            cursor={{ strokeDasharray: "3 3", stroke: "var(--grid)" }}
             formatter={(value: number, name: string) => {
               if (name === "avgRuntimeMinutes") {
                 return [`${value} min`, avgRuntimeLabel];
@@ -70,11 +70,13 @@ export function RuntimeRatingScatter({
             }}
             contentStyle={{
               borderRadius: 12,
-              border: "1px solid rgba(27, 26, 23, 0.08)",
-              boxShadow: "0 10px 30px rgba(20, 18, 14, 0.12)"
+              border: "1px solid var(--border)",
+              background: "var(--surface)",
+              color: "var(--text)",
+              boxShadow: "var(--tooltip-shadow)"
             }}
           />
-          <Scatter data={data} fill="#2a9d8f" name="avgRating" />
+          <Scatter data={data} fill="var(--accent)" name="avgRating" />
         </ScatterChart>
       </ResponsiveContainer>
     </div>

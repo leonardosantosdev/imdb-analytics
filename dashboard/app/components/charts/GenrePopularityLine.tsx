@@ -18,13 +18,13 @@ interface GenrePopularityLineProps {
 }
 
 const palette = [
-  "#2a9d8f",
-  "#264653",
-  "#e9c46a",
-  "#f4a261",
-  "#e76f51",
-  "#6d597a",
-  "#4c7c59"
+  "var(--accent)",
+  "var(--series-muted-1)",
+  "var(--series-muted-2)",
+  "var(--series-muted-3)",
+  "var(--series-muted-4)",
+  "var(--series-muted-5)",
+  "var(--series-muted-6)"
 ];
 
 export function GenrePopularityLine({
@@ -42,28 +42,30 @@ export function GenrePopularityLine({
     <div className="chart">
       <ResponsiveContainer width="100%" height={340}>
         <LineChart data={data} margin={{ left: 8, right: 8 }}>
-          <CartesianGrid vertical={false} stroke="rgba(27, 26, 23, 0.06)" />
+          <CartesianGrid vertical={false} stroke="var(--grid)" />
           <XAxis
             dataKey="decade"
             axisLine={false}
             tickLine={false}
-            tick={{ fontSize: 12, fill: "#5f5b54" }}
+            tick={{ fontSize: 12, fill: "var(--text-muted)" }}
           />
           <YAxis
             tickFormatter={value => `${Math.round(Number(value) / 1000000)}M`}
             axisLine={false}
             tickLine={false}
-            tick={{ fontSize: 12, fill: "#5f5b54" }}
+            tick={{ fontSize: 12, fill: "var(--text-muted)" }}
           />
           <Tooltip
             formatter={(value: number) => value.toLocaleString()}
             contentStyle={{
               borderRadius: 12,
-              border: "1px solid rgba(27, 26, 23, 0.08)",
-              boxShadow: "0 10px 30px rgba(20, 18, 14, 0.12)"
+              border: "1px solid var(--border)",
+              background: "var(--surface)",
+              color: "var(--text)",
+              boxShadow: "var(--tooltip-shadow)"
             }}
           />
-          <Legend wrapperStyle={{ fontSize: 12 }} />
+          <Legend wrapperStyle={{ fontSize: 12, color: "var(--text-muted)" }} />
           {genres.map((genre, index) => (
             <Line
               key={genre}

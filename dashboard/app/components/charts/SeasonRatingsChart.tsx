@@ -17,7 +17,12 @@ interface SeasonRatingsChartProps {
   emptyLabel?: string;
 }
 
-const palette = ["#e76f51", "#2a9d8f", "#264653", "#f4a261"];
+const palette = [
+  "var(--accent)",
+  "var(--series-muted-1)",
+  "var(--series-muted-2)",
+  "var(--series-muted-3)"
+];
 
 export function SeasonRatingsChart({
   data,
@@ -34,28 +39,30 @@ export function SeasonRatingsChart({
     <div className="chart">
       <ResponsiveContainer width="100%" height={320}>
         <LineChart data={data} margin={{ left: 8, right: 8 }}>
-          <CartesianGrid vertical={false} stroke="rgba(27, 26, 23, 0.06)" />
+          <CartesianGrid vertical={false} stroke="var(--grid)" />
           <XAxis
             dataKey="seasonNumber"
             axisLine={false}
             tickLine={false}
-            tick={{ fontSize: 12, fill: "#5f5b54" }}
+            tick={{ fontSize: 12, fill: "var(--text-muted)" }}
           />
           <YAxis
             domain={[6, 10]}
             axisLine={false}
             tickLine={false}
-            tick={{ fontSize: 12, fill: "#5f5b54" }}
+            tick={{ fontSize: 12, fill: "var(--text-muted)" }}
           />
           <Tooltip
             formatter={(value: number) => value.toFixed(2)}
             contentStyle={{
               borderRadius: 12,
-              border: "1px solid rgba(27, 26, 23, 0.08)",
-              boxShadow: "0 10px 30px rgba(20, 18, 14, 0.12)"
+              border: "1px solid var(--border)",
+              background: "var(--surface)",
+              color: "var(--text)",
+              boxShadow: "var(--tooltip-shadow)"
             }}
           />
-          <Legend wrapperStyle={{ fontSize: 12 }} />
+          <Legend wrapperStyle={{ fontSize: 12, color: "var(--text-muted)" }} />
           {series.map((name, index) => (
             <Line
               key={name}

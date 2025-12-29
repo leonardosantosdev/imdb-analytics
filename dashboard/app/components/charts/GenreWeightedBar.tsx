@@ -34,7 +34,7 @@ export function GenreWeightedBar({
     <div className="chart">
       <ResponsiveContainer width="100%" height={320}>
         <BarChart data={data} margin={{ left: 8, right: 8 }}>
-          <CartesianGrid vertical={false} stroke="rgba(27, 26, 23, 0.06)" />
+          <CartesianGrid vertical={false} stroke="var(--grid)" />
           <XAxis
             dataKey="genre"
             interval={0}
@@ -43,24 +43,26 @@ export function GenreWeightedBar({
             height={60}
             axisLine={false}
             tickLine={false}
-            tick={{ fontSize: 12, fill: "#5f5b54" }}
+            tick={{ fontSize: 12, fill: "var(--text-muted)" }}
           />
           <YAxis
             domain={[6, 10]}
             axisLine={false}
             tickLine={false}
-            tick={{ fontSize: 12, fill: "#5f5b54" }}
+            tick={{ fontSize: 12, fill: "var(--text-muted)" }}
           />
           <Tooltip
             formatter={(value: number) => [value.toFixed(2), tooltipLabel]}
-            cursor={{ fill: "rgba(255, 107, 61, 0.12)" }}
+            cursor={{ fill: "var(--accent-soft)" }}
             contentStyle={{
               borderRadius: 12,
-              border: "1px solid rgba(27, 26, 23, 0.08)",
-              boxShadow: "0 10px 30px rgba(20, 18, 14, 0.12)"
+              border: "1px solid var(--border)",
+              background: "var(--surface)",
+              color: "var(--text)",
+              boxShadow: "var(--tooltip-shadow)"
             }}
           />
-          <Bar dataKey="weightedRating" fill="#ff6b3d" radius={[8, 8, 0, 0]} />
+          <Bar dataKey="weightedRating" fill="var(--accent)" radius={[8, 8, 0, 0]} />
         </BarChart>
       </ResponsiveContainer>
     </div>

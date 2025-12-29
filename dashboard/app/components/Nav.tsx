@@ -5,6 +5,7 @@ import { usePathname } from "next/navigation";
 
 import { createTranslator, Locale } from "@/lib/i18n";
 import { LanguageToggle } from "./LanguageToggle";
+import { ThemeToggle } from "./ThemeToggle";
 
 interface NavProps {
   locale: Locale;
@@ -39,6 +40,7 @@ export function Nav({ locale }: NavProps) {
             </Link>
           ))}
           </nav>
+          <ThemeToggle />
           <LanguageToggle locale={locale} />
         </div>
       </div>

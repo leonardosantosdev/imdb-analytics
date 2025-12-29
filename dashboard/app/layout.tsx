@@ -1,5 +1,6 @@
 import "./globals.css";
 import type { Metadata } from "next";
+import Script from "next/script";
 import { Bebas_Neue, Space_Grotesk } from "next/font/google";
 import { Nav } from "./components/Nav";
 import { createTranslator } from "@/lib/i18n";
@@ -28,6 +29,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 
   return (
     <html lang={locale} className={`${display.variable} ${body.variable}`}>
+      <head>
+        <meta name="theme-color" content="#f6f4ef" />
+        <Script id="theme-init" strategy="beforeInteractive">
+          {`(function(){try{var stored=localStorage.getItem('theme');var prefers=window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';var theme=stored==='light'||stored==='dark'?stored:prefers;document.documentElement.dataset.theme=theme;var meta=document.querySelector('meta[name="theme-color"]');if(!meta){meta=document.createElement('meta');meta.name='theme-color';document.head.appendChild(meta);}meta.setAttribute('content',theme==='dark'?'#0B0F14':'#f6f4ef');}catch(e){}})();`}
+        </Script>
+      </head>
       <body>
         <Nav locale={locale} />
         <main className="main">{children}</main>
