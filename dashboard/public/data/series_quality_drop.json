@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-01-05T06:49:06+00:00",
-  "snapshotDate": "2026-01-05",
+  "generatedAt": "2026-01-12T06:47:27+00:00",
+  "snapshotDate": "2026-01-12",
   "rows": 50,
   "data": [
     {
@@ -52,14 +52,6 @@
       "qualityDrop": 5.6
     },
     {
-      "seriesTconst": "tt0122813",
-      "seriesTitle": "Bob and Margaret",
-      "season1Rating": 7.929,
-      "lastSeasonRating": 2.4,
-      "lastSeason": 4,
-      "qualityDrop": 5.529
-    },
-    {
       "seriesTconst": "tt5637842",
       "seriesTitle": "The Rap Game",
       "season1Rating": 8.1,
@@ -76,19 +68,19 @@
       "qualityDrop": 5.4
     },
     {
-      "seriesTconst": "tt0063890",
-      "seriesTitle": "The David Frost Show",
-      "season1Rating": 6.5,
-      "lastSeasonRating": 1.2,
-      "lastSeason": 4,
-      "qualityDrop": 5.3
-    },
-    {
       "seriesTconst": "tt0121016",
       "seriesTitle": "Die Rudi Carrell Show",
       "season1Rating": 9.3,
       "lastSeasonRating": 4.0,
       "lastSeason": 2,
+      "qualityDrop": 5.3
+    },
+    {
+      "seriesTconst": "tt0063890",
+      "seriesTitle": "The David Frost Show",
+      "season1Rating": 6.5,
+      "lastSeasonRating": 1.2,
+      "lastSeason": 4,
       "qualityDrop": 5.3
     },
     {
@@ -98,6 +90,14 @@
       "lastSeasonRating": 3.2,
       "lastSeason": 46,
       "qualityDrop": 5.2
+    },
+    {
+      "seriesTconst": "tt2214918",
+      "seriesTitle": "Nicht nachmachen!",
+      "season1Rating": 7.967,
+      "lastSeasonRating": 2.8,
+      "lastSeason": 3,
+      "qualityDrop": 5.167
     },
     {
       "seriesTconst": "tt0210450",
@@ -111,9 +111,9 @@
       "seriesTconst": "tt4508902",
       "seriesTitle": "One Punch Man",
       "season1Rating": 8.775,
-      "lastSeasonRating": 3.7,
+      "lastSeasonRating": 3.717,
       "lastSeason": 3,
-      "qualityDrop": 5.075
+      "qualityDrop": 5.058
     },
     {
       "seriesTconst": "tt33504903",
@@ -124,12 +124,12 @@
       "qualityDrop": 5.05
     },
     {
-      "seriesTconst": "tt0329829",
-      "seriesTitle": "Fireman Sam",
-      "season1Rating": 8.45,
-      "lastSeasonRating": 3.445,
-      "lastSeason": 16,
-      "qualityDrop": 5.005
+      "seriesTconst": "tt5191128",
+      "seriesTitle": "The Break",
+      "season1Rating": 7.8,
+      "lastSeasonRating": 2.8,
+      "lastSeason": 3,
+      "qualityDrop": 5.0
     },
     {
       "seriesTconst": "tt0815086",
@@ -140,12 +140,12 @@
       "qualityDrop": 5.0
     },
     {
-      "seriesTconst": "tt5191128",
-      "seriesTitle": "The Break",
-      "season1Rating": 7.8,
-      "lastSeasonRating": 2.8,
-      "lastSeason": 3,
-      "qualityDrop": 5.0
+      "seriesTconst": "tt0329829",
+      "seriesTitle": "Fireman Sam",
+      "season1Rating": 8.55,
+      "lastSeasonRating": 3.6,
+      "lastSeason": 16,
+      "qualityDrop": 4.95
     },
     {
       "seriesTconst": "tt4277268",
@@ -172,14 +172,6 @@
       "qualityDrop": 4.767
     },
     {
-      "seriesTconst": "tt0048892",
-      "seriesTitle": "The Joseph Cotten Show: On Trial",
-      "season1Rating": 9.4,
-      "lastSeasonRating": 4.65,
-      "lastSeason": 2,
-      "qualityDrop": 4.75
-    },
-    {
       "seriesTconst": "tt0360301",
       "seriesTitle": "Player$",
       "season1Rating": 7.2,
@@ -188,12 +180,12 @@
       "qualityDrop": 4.75
     },
     {
-      "seriesTconst": "tt5472884",
-      "seriesTitle": "Drunk History: El Lado Borroso De La Historia",
-      "season1Rating": 6.7,
-      "lastSeasonRating": 2.1,
-      "lastSeason": 3,
-      "qualityDrop": 4.6
+      "seriesTconst": "tt0048892",
+      "seriesTitle": "The Joseph Cotten Show: On Trial",
+      "season1Rating": 9.4,
+      "lastSeasonRating": 4.65,
+      "lastSeason": 2,
+      "qualityDrop": 4.75
     },
     {
       "seriesTconst": "tt0479336",
@@ -201,6 +193,14 @@
       "season1Rating": 5.6,
       "lastSeasonRating": 1.0,
       "lastSeason": 11,
+      "qualityDrop": 4.6
+    },
+    {
+      "seriesTconst": "tt5472884",
+      "seriesTitle": "Drunk History: El Lado Borroso De La Historia",
+      "season1Rating": 6.7,
+      "lastSeasonRating": 2.1,
+      "lastSeason": 3,
       "qualityDrop": 4.6
     },
     {
@@ -270,18 +270,10 @@
     {
       "seriesTconst": "tt0856757",
       "seriesTitle": "Yaprak D\u00f6k\u00fcm\u00fc",
-      "season1Rating": 6.811,
+      "season1Rating": 6.813,
       "lastSeasonRating": 2.467,
       "lastSeason": 5,
-      "qualityDrop": 4.344
-    },
-    {
-      "seriesTconst": "tt2214918",
-      "seriesTitle": "Nicht nachmachen!",
-      "season1Rating": 7.917,
-      "lastSeasonRating": 3.6,
-      "lastSeason": 3,
-      "qualityDrop": 4.317
+      "qualityDrop": 4.346
     },
     {
       "seriesTconst": "tt1141678",
@@ -335,9 +327,9 @@
       "seriesTconst": "tt16994878",
       "seriesTitle": "7 vs. Wild",
       "season1Rating": 8.063,
-      "lastSeasonRating": 3.938,
+      "lastSeasonRating": 3.956,
       "lastSeason": 5,
-      "qualityDrop": 4.125
+      "qualityDrop": 4.107
     },
     {
       "seriesTconst": "tt1724588",
@@ -364,22 +356,6 @@
       "qualityDrop": 4.074
     },
     {
-      "seriesTconst": "tt0406419",
-      "seriesTitle": "Higglytown Heroes",
-      "season1Rating": 6.562,
-      "lastSeasonRating": 2.5,
-      "lastSeason": 2,
-      "qualityDrop": 4.062
-    },
-    {
-      "seriesTconst": "tt5180504",
-      "seriesTitle": "The Witcher",
-      "season1Rating": 8.275,
-      "lastSeasonRating": 4.3,
-      "lastSeason": 4,
-      "qualityDrop": 3.975
-    },
-    {
       "seriesTconst": "tt5663590",
       "seriesTitle": "La Do\u00f1a",
       "season1Rating": 7.659,
@@ -396,12 +372,36 @@
       "qualityDrop": 3.958
     },
     {
+      "seriesTconst": "tt5180504",
+      "seriesTitle": "The Witcher",
+      "season1Rating": 8.275,
+      "lastSeasonRating": 4.325,
+      "lastSeason": 4,
+      "qualityDrop": 3.95
+    },
+    {
       "seriesTconst": "tt0486068",
       "seriesTitle": "Indian Idol",
       "season1Rating": 8.2,
       "lastSeasonRating": 4.3,
       "lastSeason": 11,
       "qualityDrop": 3.9
+    },
+    {
+      "seriesTconst": "tt0115367",
+      "seriesTitle": "Sparks",
+      "season1Rating": 8.1,
+      "lastSeasonRating": 4.3,
+      "lastSeason": 2,
+      "qualityDrop": 3.8
+    },
+    {
+      "seriesTconst": "tt27854090",
+      "seriesTitle": "Haunted Discoveries",
+      "season1Rating": 8.6,
+      "lastSeasonRating": 4.8,
+      "lastSeason": 2,
+      "qualityDrop": 3.8
     }
   ]
 }
