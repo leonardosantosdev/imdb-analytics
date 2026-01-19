@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-01-12T06:47:27+00:00",
-  "snapshotDate": "2026-01-12",
+  "generatedAt": "2026-01-19T06:50:15+00:00",
+  "snapshotDate": "2026-01-19",
   "rows": 152,
   "data": [
     {
@@ -13,25 +13,25 @@
       "decade": 1900,
       "genre": "Drama",
       "titleCount": 21,
-      "totalVotes": 1549.0
+      "totalVotes": 1558.0
     },
     {
       "decade": 1900,
       "genre": "Adventure",
       "titleCount": 3,
-      "totalVotes": 1158.0
+      "totalVotes": 1157.0
     },
     {
       "decade": 1900,
       "genre": "Action",
       "titleCount": 2,
-      "totalVotes": 1056.0
+      "totalVotes": 1055.0
     },
     {
       "decade": 1900,
       "genre": "Comedy",
       "titleCount": 7,
-      "totalVotes": 149.0
+      "totalVotes": 150.0
     },
     {
       "decade": 1900,
@@ -49,871 +49,871 @@
       "decade": 1900,
       "genre": "Horror",
       "titleCount": 1,
-      "totalVotes": 16.0
+      "totalVotes": 17.0
     },
     {
       "decade": 1910,
       "genre": "Drama",
-      "titleCount": 1285,
-      "totalVotes": 220134.0
+      "titleCount": 1286,
+      "totalVotes": 220266.0
     },
     {
       "decade": 1910,
       "genre": "Romance",
       "titleCount": 214,
-      "totalVotes": 52696.0
+      "totalVotes": 52720.0
     },
     {
       "decade": 1910,
       "genre": "Comedy",
       "titleCount": 271,
-      "totalVotes": 47429.0
+      "totalVotes": 47452.0
     },
     {
       "decade": 1910,
       "genre": "Adventure",
       "titleCount": 327,
-      "totalVotes": 43136.0
+      "totalVotes": 43147.0
     },
     {
       "decade": 1910,
       "genre": "Crime",
-      "titleCount": 135,
-      "totalVotes": 32135.0
+      "titleCount": 136,
+      "totalVotes": 32180.0
     },
     {
       "decade": 1910,
       "genre": "Fantasy",
       "titleCount": 50,
-      "totalVotes": 19772.0
+      "totalVotes": 19782.0
     },
     {
       "decade": 1910,
       "genre": "Action",
       "titleCount": 114,
-      "totalVotes": 18778.0
+      "totalVotes": 18798.0
     },
     {
       "decade": 1910,
       "genre": "Horror",
       "titleCount": 62,
-      "totalVotes": 16082.0
+      "totalVotes": 16094.0
     },
     {
       "decade": 1910,
       "genre": "Mystery",
-      "titleCount": 53,
-      "totalVotes": 8141.0
+      "titleCount": 54,
+      "totalVotes": 8163.0
     },
     {
       "decade": 1910,
       "genre": "Sci-Fi",
       "titleCount": 24,
-      "totalVotes": 4924.0
+      "totalVotes": 4931.0
     },
     {
       "decade": 1910,
       "genre": "Thriller",
       "titleCount": 33,
-      "totalVotes": 2109.0
+      "totalVotes": 2112.0
     },
     {
       "decade": 1910,
       "genre": "Animation",
       "titleCount": 4,
-      "totalVotes": 78.0
+      "totalVotes": 77.0
     },
     {
       "decade": 1920,
       "genre": "Drama",
-      "titleCount": 2498,
-      "totalVotes": 1479751.0
+      "titleCount": 2499,
+      "totalVotes": 1480889.0
     },
     {
       "decade": 1920,
       "genre": "Comedy",
-      "titleCount": 807,
-      "totalVotes": 814558.0
+      "titleCount": 810,
+      "totalVotes": 815256.0
     },
     {
       "decade": 1920,
       "genre": "Romance",
-      "titleCount": 795,
-      "totalVotes": 607758.0
+      "titleCount": 796,
+      "totalVotes": 608245.0
     },
     {
       "decade": 1920,
       "genre": "Horror",
-      "titleCount": 93,
-      "totalVotes": 379695.0
+      "titleCount": 94,
+      "totalVotes": 380040.0
     },
     {
       "decade": 1920,
       "genre": "Adventure",
       "titleCount": 765,
-      "totalVotes": 378406.0
+      "totalVotes": 378631.0
     },
     {
       "decade": 1920,
       "genre": "Action",
-      "titleCount": 411,
-      "totalVotes": 293553.0
+      "titleCount": 412,
+      "totalVotes": 293823.0
     },
     {
       "decade": 1920,
       "genre": "Fantasy",
       "titleCount": 76,
-      "totalVotes": 242472.0
+      "totalVotes": 242685.0
     },
     {
       "decade": 1920,
       "genre": "Thriller",
       "titleCount": 58,
-      "totalVotes": 214928.0
+      "totalVotes": 215073.0
     },
     {
       "decade": 1920,
       "genre": "Sci-Fi",
       "titleCount": 28,
-      "totalVotes": 211155.0
+      "totalVotes": 211315.0
     },
     {
       "decade": 1920,
       "genre": "Mystery",
       "titleCount": 110,
-      "totalVotes": 156594.0
+      "totalVotes": 156738.0
     },
     {
       "decade": 1920,
       "genre": "Crime",
       "titleCount": 285,
-      "totalVotes": 114959.0
+      "totalVotes": 115094.0
     },
     {
       "decade": 1920,
       "genre": "Animation",
       "titleCount": 7,
-      "totalVotes": 7787.0
+      "totalVotes": 7796.0
     },
     {
       "decade": 1930,
       "genre": "Drama",
-      "titleCount": 5291,
-      "totalVotes": 4207917.0
+      "titleCount": 5309,
+      "totalVotes": 4212704.0
     },
     {
       "decade": 1930,
       "genre": "Romance",
-      "titleCount": 2190,
-      "totalVotes": 2641905.0
+      "titleCount": 2198,
+      "totalVotes": 2646221.0
     },
     {
       "decade": 1930,
       "genre": "Comedy",
-      "titleCount": 3114,
-      "totalVotes": 2511736.0
+      "titleCount": 3133,
+      "totalVotes": 2514616.0
     },
     {
       "decade": 1930,
       "genre": "Adventure",
       "titleCount": 804,
-      "totalVotes": 1399770.0
+      "totalVotes": 1401048.0
     },
     {
       "decade": 1930,
       "genre": "Crime",
-      "titleCount": 1332,
-      "totalVotes": 1260688.0
+      "titleCount": 1334,
+      "totalVotes": 1262076.0
     },
     {
       "decade": 1930,
       "genre": "Mystery",
       "titleCount": 566,
-      "totalVotes": 740727.0
+      "totalVotes": 741461.0
     },
     {
       "decade": 1930,
       "genre": "Fantasy",
       "titleCount": 99,
-      "totalVotes": 709502.0
+      "totalVotes": 710077.0
     },
     {
       "decade": 1930,
       "genre": "Horror",
       "titleCount": 141,
-      "totalVotes": 692212.0
+      "totalVotes": 692813.0
     },
     {
       "decade": 1930,
       "genre": "Thriller",
       "titleCount": 137,
-      "totalVotes": 397567.0
+      "totalVotes": 397852.0
     },
     {
       "decade": 1930,
       "genre": "Action",
       "titleCount": 654,
-      "totalVotes": 331735.0
+      "totalVotes": 332117.0
     },
     {
       "decade": 1930,
       "genre": "Sci-Fi",
       "titleCount": 56,
-      "totalVotes": 280579.0
+      "totalVotes": 280849.0
     },
     {
       "decade": 1930,
       "genre": "Animation",
       "titleCount": 15,
-      "totalVotes": 246183.0
+      "totalVotes": 246399.0
     },
     {
       "decade": 1940,
       "genre": "Drama",
       "titleCount": 5448,
-      "totalVotes": 8993229.0
+      "totalVotes": 9000438.0
     },
     {
       "decade": 1940,
       "genre": "Romance",
       "titleCount": 1611,
-      "totalVotes": 2958742.0
+      "totalVotes": 2961186.0
     },
     {
       "decade": 1940,
       "genre": "Comedy",
       "titleCount": 2973,
-      "totalVotes": 2577081.0
+      "totalVotes": 2577370.0
     },
     {
       "decade": 1940,
       "genre": "Crime",
       "titleCount": 1179,
-      "totalVotes": 2299950.0
+      "totalVotes": 2302062.0
     },
     {
       "decade": 1940,
       "genre": "Mystery",
-      "titleCount": 504,
-      "totalVotes": 1956763.0
+      "titleCount": 505,
+      "totalVotes": 1958165.0
     },
     {
       "decade": 1940,
       "genre": "Adventure",
-      "titleCount": 768,
-      "totalVotes": 1231289.0
+      "titleCount": 769,
+      "totalVotes": 1232223.0
     },
     {
       "decade": 1940,
       "genre": "Fantasy",
       "titleCount": 189,
-      "totalVotes": 1137326.0
+      "totalVotes": 1138349.0
     },
     {
       "decade": 1940,
       "genre": "Animation",
       "titleCount": 46,
-      "totalVotes": 684879.0
+      "totalVotes": 685408.0
     },
     {
       "decade": 1940,
       "genre": "Horror",
       "titleCount": 192,
-      "totalVotes": 464454.0
+      "totalVotes": 464932.0
     },
     {
       "decade": 1940,
       "genre": "Action",
       "titleCount": 505,
-      "totalVotes": 437167.0
+      "totalVotes": 437537.0
     },
     {
       "decade": 1940,
       "genre": "Thriller",
       "titleCount": 216,
-      "totalVotes": 406917.0
+      "totalVotes": 407249.0
     },
     {
       "decade": 1940,
       "genre": "Sci-Fi",
       "titleCount": 49,
-      "totalVotes": 75605.0
+      "totalVotes": 75702.0
     },
     {
       "decade": 1950,
       "genre": "Drama",
-      "titleCount": 8214,
-      "totalVotes": 13537730.0
+      "titleCount": 8208,
+      "totalVotes": 13545418.0
     },
     {
       "decade": 1950,
       "genre": "Crime",
       "titleCount": 1815,
-      "totalVotes": 4177157.0
+      "totalVotes": 4181332.0
     },
     {
       "decade": 1950,
       "genre": "Romance",
       "titleCount": 2073,
-      "totalVotes": 3937033.0
+      "totalVotes": 3940337.0
     },
     {
       "decade": 1950,
       "genre": "Comedy",
-      "titleCount": 4088,
-      "totalVotes": 3528382.0
+      "titleCount": 4089,
+      "totalVotes": 3531291.0
     },
     {
       "decade": 1950,
       "genre": "Adventure",
-      "titleCount": 1327,
-      "totalVotes": 3080407.0
+      "titleCount": 1326,
+      "totalVotes": 3081253.0
     },
     {
       "decade": 1950,
       "genre": "Mystery",
       "titleCount": 443,
-      "totalVotes": 2688148.0
+      "totalVotes": 2690145.0
     },
     {
       "decade": 1950,
       "genre": "Thriller",
-      "titleCount": 465,
-      "totalVotes": 1985376.0
+      "titleCount": 466,
+      "totalVotes": 2093390.0
     },
     {
       "decade": 1950,
       "genre": "Horror",
       "titleCount": 340,
-      "totalVotes": 1213165.0
+      "totalVotes": 1214442.0
     },
     {
       "decade": 1950,
       "genre": "Action",
       "titleCount": 779,
-      "totalVotes": 1090488.0
+      "totalVotes": 1091431.0
     },
     {
       "decade": 1950,
       "genre": "Sci-Fi",
       "titleCount": 272,
-      "totalVotes": 1052171.0
+      "totalVotes": 1053270.0
     },
     {
       "decade": 1950,
       "genre": "Fantasy",
       "titleCount": 382,
-      "totalVotes": 920527.0
+      "totalVotes": 921277.0
     },
     {
       "decade": 1950,
       "genre": "Animation",
-      "titleCount": 101,
-      "totalVotes": 912678.0
+      "titleCount": 100,
+      "totalVotes": 913289.0
     },
     {
       "decade": 1960,
       "genre": "Drama",
       "titleCount": 10202,
-      "totalVotes": 16412775.0
+      "totalVotes": 16426544.0
     },
     {
       "decade": 1960,
       "genre": "Adventure",
-      "titleCount": 2186,
-      "totalVotes": 7293847.0
+      "titleCount": 2187,
+      "totalVotes": 7300016.0
     },
     {
       "decade": 1960,
       "genre": "Comedy",
-      "titleCount": 5481,
-      "totalVotes": 7137201.0
+      "titleCount": 5487,
+      "totalVotes": 7143763.0
     },
     {
       "decade": 1960,
       "genre": "Crime",
-      "titleCount": 2373,
-      "totalVotes": 3539197.0
+      "titleCount": 2376,
+      "totalVotes": 3542924.0
     },
     {
       "decade": 1960,
       "genre": "Thriller",
-      "titleCount": 885,
-      "totalVotes": 3497209.0
+      "titleCount": 886,
+      "totalVotes": 3500076.0
     },
     {
       "decade": 1960,
       "genre": "Romance",
-      "titleCount": 2567,
-      "totalVotes": 3461818.0
+      "titleCount": 2568,
+      "totalVotes": 3465108.0
     },
     {
       "decade": 1960,
       "genre": "Action",
-      "titleCount": 1809,
-      "totalVotes": 3398549.0
+      "titleCount": 1812,
+      "totalVotes": 3401405.0
     },
     {
       "decade": 1960,
       "genre": "Horror",
       "titleCount": 723,
-      "totalVotes": 3010977.0
+      "totalVotes": 3013651.0
     },
     {
       "decade": 1960,
       "genre": "Mystery",
-      "titleCount": 686,
-      "totalVotes": 2361929.0
+      "titleCount": 687,
+      "totalVotes": 2364039.0
     },
     {
       "decade": 1960,
       "genre": "Sci-Fi",
       "titleCount": 391,
-      "totalVotes": 1722177.0
+      "totalVotes": 1723671.0
     },
     {
       "decade": 1960,
       "genre": "Fantasy",
-      "titleCount": 588,
-      "totalVotes": 1010940.0
+      "titleCount": 590,
+      "totalVotes": 1011962.0
     },
     {
       "decade": 1960,
       "genre": "Animation",
-      "titleCount": 371,
-      "totalVotes": 998907.0
+      "titleCount": 373,
+      "totalVotes": 999902.0
     },
     {
       "decade": 1970,
       "genre": "Drama",
-      "titleCount": 12606,
-      "totalVotes": 23617557.0
+      "titleCount": 12614,
+      "totalVotes": 23638232.0
     },
     {
       "decade": 1970,
       "genre": "Crime",
-      "titleCount": 2921,
-      "totalVotes": 11548893.0
+      "titleCount": 2925,
+      "totalVotes": 11566049.0
     },
     {
       "decade": 1970,
       "genre": "Comedy",
-      "titleCount": 6612,
-      "totalVotes": 10501597.0
+      "titleCount": 6617,
+      "totalVotes": 10516066.0
     },
     {
       "decade": 1970,
       "genre": "Adventure",
-      "titleCount": 2411,
-      "totalVotes": 8152007.0
+      "titleCount": 2414,
+      "totalVotes": 8158990.0
     },
     {
       "decade": 1970,
       "genre": "Action",
-      "titleCount": 3313,
-      "totalVotes": 7178534.0
+      "titleCount": 3314,
+      "totalVotes": 7184648.0
     },
     {
       "decade": 1970,
       "genre": "Horror",
-      "titleCount": 1391,
-      "totalVotes": 6860224.0
+      "titleCount": 1393,
+      "totalVotes": 6866641.0
     },
     {
       "decade": 1970,
       "genre": "Thriller",
-      "titleCount": 1390,
-      "totalVotes": 6229385.0
+      "titleCount": 1391,
+      "totalVotes": 6234747.0
     },
     {
       "decade": 1970,
       "genre": "Sci-Fi",
       "titleCount": 504,
-      "totalVotes": 4846114.0
+      "totalVotes": 4849996.0
     },
     {
       "decade": 1970,
       "genre": "Mystery",
-      "titleCount": 861,
-      "totalVotes": 3854501.0
+      "titleCount": 862,
+      "totalVotes": 3857960.0
     },
     {
       "decade": 1970,
       "genre": "Fantasy",
-      "titleCount": 797,
-      "totalVotes": 3247488.0
+      "titleCount": 799,
+      "totalVotes": 3255922.0
     },
     {
       "decade": 1970,
       "genre": "Romance",
-      "titleCount": 2444,
-      "totalVotes": 3058188.0
+      "titleCount": 2446,
+      "totalVotes": 3060727.0
     },
     {
       "decade": 1970,
       "genre": "Animation",
       "titleCount": 641,
-      "totalVotes": 1045222.0
+      "totalVotes": 1046237.0
     },
     {
       "decade": 1980,
       "genre": "Drama",
-      "titleCount": 14159,
-      "totalVotes": 34168122.0
+      "titleCount": 14164,
+      "totalVotes": 34202313.0
     },
     {
       "decade": 1980,
       "genre": "Comedy",
-      "titleCount": 7979,
-      "totalVotes": 31264947.0
+      "titleCount": 7982,
+      "totalVotes": 31292768.0
     },
     {
       "decade": 1980,
       "genre": "Adventure",
-      "titleCount": 2239,
-      "totalVotes": 25240664.0
+      "titleCount": 2240,
+      "totalVotes": 25262030.0
     },
     {
       "decade": 1980,
       "genre": "Action",
-      "titleCount": 4256,
-      "totalVotes": 24761635.0
+      "titleCount": 4257,
+      "totalVotes": 24782890.0
     },
     {
       "decade": 1980,
       "genre": "Horror",
       "titleCount": 1773,
-      "totalVotes": 12582031.0
+      "totalVotes": 12593174.0
     },
     {
       "decade": 1980,
       "genre": "Crime",
       "titleCount": 2812,
-      "totalVotes": 12371534.0
+      "totalVotes": 12383263.0
     },
     {
       "decade": 1980,
       "genre": "Sci-Fi",
-      "titleCount": 817,
-      "totalVotes": 11125703.0
+      "titleCount": 818,
+      "totalVotes": 11135570.0
     },
     {
       "decade": 1980,
       "genre": "Fantasy",
-      "titleCount": 1142,
-      "totalVotes": 9732585.0
+      "titleCount": 1144,
+      "totalVotes": 9741209.0
     },
     {
       "decade": 1980,
       "genre": "Thriller",
       "titleCount": 1789,
-      "totalVotes": 9645614.0
+      "totalVotes": 9653558.0
     },
     {
       "decade": 1980,
       "genre": "Romance",
-      "titleCount": 2806,
-      "totalVotes": 7338189.0
+      "titleCount": 2809,
+      "totalVotes": 7344323.0
     },
     {
       "decade": 1980,
       "genre": "Animation",
-      "titleCount": 1163,
-      "totalVotes": 4649063.0
+      "titleCount": 1167,
+      "totalVotes": 4654072.0
     },
     {
       "decade": 1980,
       "genre": "Mystery",
       "titleCount": 943,
-      "totalVotes": 4529264.0
+      "totalVotes": 4534047.0
     },
     {
       "decade": 1990,
       "genre": "Drama",
-      "titleCount": 15982,
-      "totalVotes": 104091636.0
+      "titleCount": 15986,
+      "totalVotes": 104183187.0
     },
     {
       "decade": 1990,
       "genre": "Comedy",
-      "titleCount": 10671,
-      "totalVotes": 61478612.0
+      "titleCount": 10674,
+      "totalVotes": 61502860.0
     },
     {
       "decade": 1990,
       "genre": "Crime",
       "titleCount": 3650,
-      "totalVotes": 51171685.0
+      "totalVotes": 51217106.0
     },
     {
       "decade": 1990,
       "genre": "Action",
-      "titleCount": 5139,
-      "totalVotes": 45170719.0
+      "titleCount": 5141,
+      "totalVotes": 45205477.0
     },
     {
       "decade": 1990,
       "genre": "Adventure",
-      "titleCount": 2304,
-      "totalVotes": 36837421.0
+      "titleCount": 2305,
+      "totalVotes": 36866983.0
     },
     {
       "decade": 1990,
       "genre": "Romance",
       "titleCount": 4271,
-      "totalVotes": 28239418.0
+      "totalVotes": 28263140.0
     },
     {
       "decade": 1990,
       "genre": "Thriller",
       "titleCount": 2698,
-      "totalVotes": 26732772.0
+      "totalVotes": 26754921.0
     },
     {
       "decade": 1990,
       "genre": "Sci-Fi",
-      "titleCount": 943,
-      "totalVotes": 18170662.0
+      "titleCount": 945,
+      "totalVotes": 18183667.0
     },
     {
       "decade": 1990,
       "genre": "Mystery",
-      "titleCount": 1158,
-      "totalVotes": 17563285.0
+      "titleCount": 1157,
+      "totalVotes": 17578072.0
     },
     {
       "decade": 1990,
       "genre": "Fantasy",
-      "titleCount": 1378,
-      "totalVotes": 15882334.0
+      "titleCount": 1375,
+      "totalVotes": 15894141.0
     },
     {
       "decade": 1990,
       "genre": "Animation",
-      "titleCount": 1852,
-      "totalVotes": 14150788.0
+      "titleCount": 1858,
+      "totalVotes": 14165036.0
     },
     {
       "decade": 1990,
       "genre": "Horror",
-      "titleCount": 1647,
-      "totalVotes": 13062637.0
+      "titleCount": 1645,
+      "totalVotes": 13073569.0
     },
     {
       "decade": 2000,
       "genre": "Drama",
-      "titleCount": 27504,
-      "totalVotes": 189649198.0
+      "titleCount": 27511,
+      "totalVotes": 189791029.0
     },
     {
       "decade": 2000,
       "genre": "Comedy",
-      "titleCount": 18911,
-      "totalVotes": 118235117.0
+      "titleCount": 18917,
+      "totalVotes": 118322685.0
     },
     {
       "decade": 2000,
       "genre": "Action",
-      "titleCount": 6259,
-      "totalVotes": 108352985.0
+      "titleCount": 6261,
+      "totalVotes": 108431599.0
     },
     {
       "decade": 2000,
       "genre": "Adventure",
-      "titleCount": 3575,
-      "totalVotes": 94308634.0
+      "titleCount": 3576,
+      "totalVotes": 94387967.0
     },
     {
       "decade": 2000,
       "genre": "Crime",
-      "titleCount": 5062,
-      "totalVotes": 76712325.0
+      "titleCount": 5064,
+      "totalVotes": 76771020.0
     },
     {
       "decade": 2000,
       "genre": "Thriller",
-      "titleCount": 4423,
-      "totalVotes": 64105583.0
+      "titleCount": 4425,
+      "totalVotes": 64156308.0
     },
     {
       "decade": 2000,
       "genre": "Romance",
       "titleCount": 7573,
-      "totalVotes": 53431839.0
+      "totalVotes": 53467676.0
     },
     {
       "decade": 2000,
       "genre": "Mystery",
-      "titleCount": 2400,
-      "totalVotes": 45015058.0
+      "titleCount": 2403,
+      "totalVotes": 45047193.0
     },
     {
       "decade": 2000,
       "genre": "Fantasy",
       "titleCount": 2093,
-      "totalVotes": 41044908.0
+      "totalVotes": 41079134.0
     },
     {
       "decade": 2000,
       "genre": "Sci-Fi",
-      "titleCount": 1388,
-      "totalVotes": 38969788.0
+      "titleCount": 1387,
+      "totalVotes": 38997066.0
     },
     {
       "decade": 2000,
       "genre": "Horror",
       "titleCount": 3885,
-      "totalVotes": 30454724.0
+      "totalVotes": 30470936.0
     },
     {
       "decade": 2000,
       "genre": "Animation",
-      "titleCount": 3518,
-      "totalVotes": 29168301.0
+      "titleCount": 3519,
+      "totalVotes": 29199779.0
     },
     {
       "decade": 2010,
       "genre": "Drama",
-      "titleCount": 51467,
-      "totalVotes": 265826664.0
+      "titleCount": 51486,
+      "totalVotes": 266044137.0
     },
     {
       "decade": 2010,
       "genre": "Action",
-      "titleCount": 11892,
-      "totalVotes": 185797966.0
+      "titleCount": 11893,
+      "totalVotes": 185933827.0
     },
     {
       "decade": 2010,
       "genre": "Comedy",
-      "titleCount": 35382,
-      "totalVotes": 144242898.0
+      "titleCount": 35393,
+      "totalVotes": 144361608.0
     },
     {
       "decade": 2010,
       "genre": "Adventure",
       "titleCount": 7534,
-      "totalVotes": 141934643.0
+      "totalVotes": 142039508.0
     },
     {
       "decade": 2010,
       "genre": "Crime",
-      "titleCount": 9649,
-      "totalVotes": 95623593.0
+      "titleCount": 9650,
+      "totalVotes": 95693775.0
     },
     {
       "decade": 2010,
       "genre": "Thriller",
-      "titleCount": 10933,
-      "totalVotes": 79932636.0
+      "titleCount": 10936,
+      "totalVotes": 80023948.0
     },
     {
       "decade": 2010,
       "genre": "Sci-Fi",
-      "titleCount": 3629,
-      "totalVotes": 75130242.0
+      "titleCount": 3630,
+      "totalVotes": 75186519.0
     },
     {
       "decade": 2010,
       "genre": "Mystery",
-      "titleCount": 5874,
-      "totalVotes": 56834592.0
+      "titleCount": 5876,
+      "totalVotes": 56913091.0
     },
     {
       "decade": 2010,
       "genre": "Horror",
-      "titleCount": 10623,
-      "totalVotes": 49298394.0
+      "titleCount": 10632,
+      "totalVotes": 49399828.0
     },
     {
       "decade": 2010,
       "genre": "Romance",
-      "titleCount": 11874,
-      "totalVotes": 47259000.0
+      "titleCount": 11876,
+      "totalVotes": 47294377.0
     },
     {
       "decade": 2010,
       "genre": "Fantasy",
-      "titleCount": 4457,
-      "totalVotes": 45023134.0
+      "titleCount": 4460,
+      "totalVotes": 44754090.0
     },
     {
       "decade": 2010,
       "genre": "Animation",
-      "titleCount": 6408,
-      "totalVotes": 35527826.0
+      "titleCount": 6411,
+      "totalVotes": 35852522.0
     },
     {
       "decade": 2020,
       "genre": "Drama",
-      "titleCount": 36385,
-      "totalVotes": 106557324.0
+      "titleCount": 36530,
+      "totalVotes": 106845649.0
     },
     {
       "decade": 2020,
       "genre": "Action",
-      "titleCount": 8061,
-      "totalVotes": 72929524.0
+      "titleCount": 8109,
+      "totalVotes": 73123919.0
     },
     {
       "decade": 2020,
       "genre": "Comedy",
-      "titleCount": 19921,
-      "totalVotes": 56212745.0
+      "titleCount": 20002,
+      "totalVotes": 56408875.0
     },
     {
       "decade": 2020,
       "genre": "Adventure",
-      "titleCount": 4684,
-      "totalVotes": 51043045.0
+      "titleCount": 4710,
+      "totalVotes": 51191990.0
     },
     {
       "decade": 2020,
       "genre": "Crime",
-      "titleCount": 7561,
-      "totalVotes": 38590599.0
+      "titleCount": 7587,
+      "totalVotes": 38797037.0
     },
     {
       "decade": 2020,
       "genre": "Thriller",
-      "titleCount": 9376,
-      "totalVotes": 34976319.0
+      "titleCount": 9413,
+      "totalVotes": 35248466.0
     },
     {
       "decade": 2020,
       "genre": "Horror",
-      "titleCount": 7702,
-      "totalVotes": 25060628.0
+      "titleCount": 7727,
+      "totalVotes": 24903474.0
     },
     {
       "decade": 2020,
       "genre": "Mystery",
-      "titleCount": 4536,
-      "totalVotes": 24173288.0
+      "titleCount": 4550,
+      "totalVotes": 24237234.0
     },
     {
       "decade": 2020,
       "genre": "Fantasy",
-      "titleCount": 3236,
-      "totalVotes": 17474258.0
+      "titleCount": 3256,
+      "totalVotes": 16848847.0
     },
     {
       "decade": 2020,
       "genre": "Romance",
-      "titleCount": 8836,
-      "totalVotes": 16582362.0
-    },
-    {
-      "decade": 2020,
-      "genre": "Sci-Fi",
-      "titleCount": 2360,
-      "totalVotes": 13479473.0
+      "titleCount": 8878,
+      "totalVotes": 16660613.0
     },
     {
       "decade": 2020,
       "genre": "Animation",
-      "titleCount": 4453,
-      "totalVotes": 13362026.0
+      "titleCount": 4498,
+      "totalVotes": 14123006.0
+    },
+    {
+      "decade": 2020,
+      "genre": "Sci-Fi",
+      "titleCount": 2374,
+      "totalVotes": 13858095.0
     }
   ]
 }
