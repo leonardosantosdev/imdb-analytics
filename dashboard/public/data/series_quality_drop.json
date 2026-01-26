@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-01-19T06:50:15+00:00",
-  "snapshotDate": "2026-01-19",
+  "generatedAt": "2026-01-26T06:48:41+00:00",
+  "snapshotDate": "2026-01-26",
   "rows": 50,
   "data": [
     {
@@ -68,19 +68,19 @@
       "qualityDrop": 5.4
     },
     {
-      "seriesTconst": "tt0063890",
-      "seriesTitle": "The David Frost Show",
-      "season1Rating": 6.5,
-      "lastSeasonRating": 1.2,
-      "lastSeason": 4,
-      "qualityDrop": 5.3
-    },
-    {
       "seriesTconst": "tt0121016",
       "seriesTitle": "Die Rudi Carrell Show",
       "season1Rating": 9.3,
       "lastSeasonRating": 4.0,
       "lastSeason": 2,
+      "qualityDrop": 5.3
+    },
+    {
+      "seriesTconst": "tt0063890",
+      "seriesTitle": "The David Frost Show",
+      "season1Rating": 6.5,
+      "lastSeasonRating": 1.2,
+      "lastSeason": 4,
       "qualityDrop": 5.3
     },
     {
@@ -103,17 +103,17 @@
       "seriesTconst": "tt2214918",
       "seriesTitle": "Nicht nachmachen!",
       "season1Rating": 7.983,
-      "lastSeasonRating": 2.925,
+      "lastSeasonRating": 2.9,
       "lastSeason": 3,
-      "qualityDrop": 5.058
+      "qualityDrop": 5.083
     },
     {
       "seriesTconst": "tt4508902",
       "seriesTitle": "One Punch Man",
       "season1Rating": 8.775,
-      "lastSeasonRating": 3.725,
+      "lastSeasonRating": 3.717,
       "lastSeason": 3,
-      "qualityDrop": 5.05
+      "qualityDrop": 5.058
     },
     {
       "seriesTconst": "tt33504903",
@@ -124,19 +124,19 @@
       "qualityDrop": 5.05
     },
     {
-      "seriesTconst": "tt0815086",
-      "seriesTitle": "Walmart Soundcheck",
-      "season1Rating": 9.2,
-      "lastSeasonRating": 4.2,
-      "lastSeason": 2,
-      "qualityDrop": 5.0
-    },
-    {
       "seriesTconst": "tt5191128",
       "seriesTitle": "The Break",
       "season1Rating": 7.8,
       "lastSeasonRating": 2.8,
       "lastSeason": 3,
+      "qualityDrop": 5.0
+    },
+    {
+      "seriesTconst": "tt0815086",
+      "seriesTitle": "Walmart Soundcheck",
+      "season1Rating": 9.2,
+      "lastSeasonRating": 4.2,
+      "lastSeason": 2,
       "qualityDrop": 5.0
     },
     {
@@ -166,10 +166,10 @@
     {
       "seriesTconst": "tt5723284",
       "seriesTitle": "I Hate Everything",
-      "season1Rating": 6.167,
+      "season1Rating": 6.161,
       "lastSeasonRating": 1.4,
       "lastSeason": 12,
-      "qualityDrop": 4.767
+      "qualityDrop": 4.761
     },
     {
       "seriesTconst": "tt0360301",
@@ -188,19 +188,19 @@
       "qualityDrop": 4.75
     },
     {
-      "seriesTconst": "tt0479336",
-      "seriesTitle": "Pinoy Big Brother",
-      "season1Rating": 5.6,
-      "lastSeasonRating": 1.0,
-      "lastSeason": 11,
-      "qualityDrop": 4.6
-    },
-    {
       "seriesTconst": "tt5472884",
       "seriesTitle": "Drunk History: El Lado Borroso De La Historia",
       "season1Rating": 6.7,
       "lastSeasonRating": 2.1,
       "lastSeason": 3,
+      "qualityDrop": 4.6
+    },
+    {
+      "seriesTconst": "tt0479336",
+      "seriesTitle": "Pinoy Big Brother",
+      "season1Rating": 5.6,
+      "lastSeasonRating": 1.0,
+      "lastSeason": 11,
       "qualityDrop": 4.6
     },
     {
@@ -260,20 +260,20 @@
       "qualityDrop": 4.394
     },
     {
+      "seriesTconst": "tt0856757",
+      "seriesTitle": "Yaprak D\u00f6k\u00fcm\u00fc",
+      "season1Rating": 6.826,
+      "lastSeasonRating": 2.467,
+      "lastSeason": 5,
+      "qualityDrop": 4.359
+    },
+    {
       "seriesTconst": "tt31998409",
       "seriesTitle": "Piers Morgan Uncensored",
       "season1Rating": 5.35,
       "lastSeasonRating": 1.0,
       "lastSeason": 4,
       "qualityDrop": 4.35
-    },
-    {
-      "seriesTconst": "tt0856757",
-      "seriesTitle": "Yaprak D\u00f6k\u00fcm\u00fc",
-      "season1Rating": 6.813,
-      "lastSeasonRating": 2.467,
-      "lastSeason": 5,
-      "qualityDrop": 4.346
     },
     {
       "seriesTconst": "tt1141678",
@@ -292,20 +292,20 @@
       "qualityDrop": 4.243
     },
     {
+      "seriesTconst": "tt1856010",
+      "seriesTitle": "House of Cards",
+      "season1Rating": 8.392,
+      "lastSeasonRating": 4.188,
+      "lastSeason": 6,
+      "qualityDrop": 4.204
+    },
+    {
       "seriesTconst": "tt1885777",
       "seriesTitle": "Funny as Hell",
       "season1Rating": 5.8,
       "lastSeasonRating": 1.6,
       "lastSeason": 2,
       "qualityDrop": 4.2
-    },
-    {
-      "seriesTconst": "tt1856010",
-      "seriesTitle": "House of Cards",
-      "season1Rating": 8.392,
-      "lastSeasonRating": 4.2,
-      "lastSeason": 6,
-      "qualityDrop": 4.192
     },
     {
       "seriesTconst": "tt7632608",
@@ -324,12 +324,12 @@
       "qualityDrop": 4.133
     },
     {
-      "seriesTconst": "tt16994878",
-      "seriesTitle": "7 vs. Wild",
-      "season1Rating": 8.063,
-      "lastSeasonRating": 3.956,
-      "lastSeason": 5,
-      "qualityDrop": 4.107
+      "seriesTconst": "tt1724588",
+      "seriesTitle": "Ebert Presents: At the Movies",
+      "season1Rating": 6.3,
+      "lastSeasonRating": 2.2,
+      "lastSeason": 2,
+      "qualityDrop": 4.1
     },
     {
       "seriesTconst": "tt0088473",
@@ -340,11 +340,11 @@
       "qualityDrop": 4.1
     },
     {
-      "seriesTconst": "tt1724588",
-      "seriesTitle": "Ebert Presents: At the Movies",
-      "season1Rating": 6.3,
-      "lastSeasonRating": 2.2,
-      "lastSeason": 2,
+      "seriesTconst": "tt16994878",
+      "seriesTitle": "7 vs. Wild",
+      "season1Rating": 8.063,
+      "lastSeasonRating": 3.963,
+      "lastSeason": 5,
       "qualityDrop": 4.1
     },
     {
@@ -375,9 +375,9 @@
       "seriesTconst": "tt5180504",
       "seriesTitle": "The Witcher",
       "season1Rating": 8.275,
-      "lastSeasonRating": 4.325,
+      "lastSeasonRating": 4.35,
       "lastSeason": 4,
-      "qualityDrop": 3.95
+      "qualityDrop": 3.925
     },
     {
       "seriesTconst": "tt0486068",
@@ -388,18 +388,18 @@
       "qualityDrop": 3.9
     },
     {
+      "seriesTconst": "tt8560918",
+      "seriesTitle": "The Queen of Flow",
+      "season1Rating": 7.844,
+      "lastSeasonRating": 3.95,
+      "lastSeason": 3,
+      "qualityDrop": 3.894
+    },
+    {
       "seriesTconst": "tt27854090",
       "seriesTitle": "Haunted Discoveries",
       "season1Rating": 8.6,
       "lastSeasonRating": 4.8,
-      "lastSeason": 2,
-      "qualityDrop": 3.8
-    },
-    {
-      "seriesTconst": "tt0115367",
-      "seriesTitle": "Sparks",
-      "season1Rating": 8.1,
-      "lastSeasonRating": 4.3,
       "lastSeason": 2,
       "qualityDrop": 3.8
     }

@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-01-19T06:50:15+00:00",
-  "snapshotDate": "2026-01-19",
+  "generatedAt": "2026-01-26T06:48:41+00:00",
+  "snapshotDate": "2026-01-26",
   "rows": 12,
   "data": [
     {
       "genre": "Animation",
-      "titleCount": 13858,
-      "avgRuntimeMinutes": 54.1,
+      "titleCount": 13859,
+      "avgRuntimeMinutes": 54.2,
       "medianRuntimeMinutes": 30.0,
       "avgRating": 6.69,
       "medianRating": 6.8
     },
     {
       "genre": "Drama",
-      "titleCount": 163822,
+      "titleCount": 163856,
       "avgRuntimeMinutes": 117.0,
       "medianRuntimeMinutes": 92.0,
       "avgRating": 6.32,
@@ -21,15 +21,15 @@
     },
     {
       "genre": "Romance",
-      "titleCount": 39786,
+      "titleCount": 39743,
       "avgRuntimeMinutes": 94.3,
       "medianRuntimeMinutes": 94.0,
-      "avgRating": 6.21,
+      "avgRating": 6.22,
       "medianRating": 6.3
     },
     {
       "genre": "Crime",
-      "titleCount": 33721,
+      "titleCount": 33733,
       "avgRuntimeMinutes": 92.0,
       "medianRuntimeMinutes": 90.0,
       "avgRating": 6.17,
@@ -37,15 +37,15 @@
     },
     {
       "genre": "Adventure",
-      "titleCount": 25034,
+      "titleCount": 25054,
       "avgRuntimeMinutes": 82.7,
       "medianRuntimeMinutes": 86.0,
-      "avgRating": 6.15,
+      "avgRating": 6.16,
       "medianRating": 6.3
     },
     {
       "genre": "Comedy",
-      "titleCount": 95306,
+      "titleCount": 95326,
       "avgRuntimeMinutes": 122.2,
       "medianRuntimeMinutes": 90.0,
       "avgRating": 6.09,
@@ -53,15 +53,15 @@
     },
     {
       "genre": "Fantasy",
-      "titleCount": 12082,
+      "titleCount": 12097,
       "avgRuntimeMinutes": 84.6,
       "medianRuntimeMinutes": 89.0,
-      "avgRating": 6.06,
+      "avgRating": 6.07,
       "medianRating": 6.2
     },
     {
       "genre": "Mystery",
-      "titleCount": 15916,
+      "titleCount": 15905,
       "avgRuntimeMinutes": 89.3,
       "medianRuntimeMinutes": 90.0,
       "avgRating": 6.04,
@@ -69,7 +69,7 @@
     },
     {
       "genre": "Action",
-      "titleCount": 36773,
+      "titleCount": 36802,
       "avgRuntimeMinutes": 94.3,
       "medianRuntimeMinutes": 92.0,
       "avgRating": 5.92,
@@ -77,7 +77,7 @@
     },
     {
       "genre": "Thriller",
-      "titleCount": 28793,
+      "titleCount": 28830,
       "avgRuntimeMinutes": 95.4,
       "medianRuntimeMinutes": 93.0,
       "avgRating": 5.67,
@@ -85,15 +85,15 @@
     },
     {
       "genre": "Sci-Fi",
-      "titleCount": 8966,
+      "titleCount": 8981,
       "avgRuntimeMinutes": 84.0,
       "medianRuntimeMinutes": 88.0,
-      "avgRating": 5.54,
+      "avgRating": 5.55,
       "medianRating": 5.6
     },
     {
       "genre": "Horror",
-      "titleCount": 25255,
+      "titleCount": 25292,
       "avgRuntimeMinutes": 87.5,
       "medianRuntimeMinutes": 88.0,
       "avgRating": 5.04,
