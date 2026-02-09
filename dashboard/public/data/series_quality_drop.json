@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-02-02T07:11:15+00:00",
-  "snapshotDate": "2026-02-02",
+  "generatedAt": "2026-02-09T07:14:29+00:00",
+  "snapshotDate": "2026-02-09",
   "rows": 50,
   "data": [
     {
@@ -68,19 +68,19 @@
       "qualityDrop": 5.4
     },
     {
-      "seriesTconst": "tt0063890",
-      "seriesTitle": "The David Frost Show",
-      "season1Rating": 6.5,
-      "lastSeasonRating": 1.2,
-      "lastSeason": 4,
-      "qualityDrop": 5.3
-    },
-    {
       "seriesTconst": "tt0121016",
       "seriesTitle": "Die Rudi Carrell Show",
       "season1Rating": 9.3,
       "lastSeasonRating": 4.0,
       "lastSeason": 2,
+      "qualityDrop": 5.3
+    },
+    {
+      "seriesTconst": "tt0063890",
+      "seriesTitle": "The David Frost Show",
+      "season1Rating": 6.5,
+      "lastSeasonRating": 1.2,
+      "lastSeason": 4,
       "qualityDrop": 5.3
     },
     {
@@ -92,28 +92,12 @@
       "qualityDrop": 5.2
     },
     {
-      "seriesTconst": "tt2214918",
-      "seriesTitle": "Nicht nachmachen!",
-      "season1Rating": 8.033,
-      "lastSeasonRating": 2.9,
-      "lastSeason": 3,
-      "qualityDrop": 5.133
-    },
-    {
       "seriesTconst": "tt0210450",
       "seriesTitle": "SexTV",
       "season1Rating": 6.2,
       "lastSeasonRating": 1.1,
       "lastSeason": 9,
       "qualityDrop": 5.1
-    },
-    {
-      "seriesTconst": "tt4508902",
-      "seriesTitle": "One Punch Man",
-      "season1Rating": 8.775,
-      "lastSeasonRating": 3.7,
-      "lastSeason": 3,
-      "qualityDrop": 5.075
     },
     {
       "seriesTconst": "tt33504903",
@@ -124,12 +108,12 @@
       "qualityDrop": 5.05
     },
     {
-      "seriesTconst": "tt5191128",
-      "seriesTitle": "The Break",
-      "season1Rating": 7.8,
-      "lastSeasonRating": 2.8,
+      "seriesTconst": "tt4508902",
+      "seriesTitle": "One Punch Man",
+      "season1Rating": 8.775,
+      "lastSeasonRating": 3.733,
       "lastSeason": 3,
-      "qualityDrop": 5.0
+      "qualityDrop": 5.042
     },
     {
       "seriesTconst": "tt0815086",
@@ -140,12 +124,28 @@
       "qualityDrop": 5.0
     },
     {
+      "seriesTconst": "tt5191128",
+      "seriesTitle": "The Break",
+      "season1Rating": 7.8,
+      "lastSeasonRating": 2.8,
+      "lastSeason": 3,
+      "qualityDrop": 5.0
+    },
+    {
       "seriesTconst": "tt4277268",
       "seriesTitle": "Billy & Billie",
       "season1Rating": 8.31,
       "lastSeasonRating": 3.4,
       "lastSeason": 2,
       "qualityDrop": 4.91
+    },
+    {
+      "seriesTconst": "tt2214918",
+      "seriesTitle": "Nicht nachmachen!",
+      "season1Rating": 8.033,
+      "lastSeasonRating": 3.15,
+      "lastSeason": 3,
+      "qualityDrop": 4.883
     },
     {
       "seriesTconst": "tt0329829",
@@ -164,12 +164,12 @@
       "qualityDrop": 4.8
     },
     {
-      "seriesTconst": "tt0048892",
-      "seriesTitle": "The Joseph Cotten Show: On Trial",
-      "season1Rating": 9.4,
-      "lastSeasonRating": 4.65,
-      "lastSeason": 2,
-      "qualityDrop": 4.75
+      "seriesTconst": "tt0213523",
+      "seriesTitle": "Blue Murder",
+      "season1Rating": 7.2,
+      "lastSeasonRating": 2.4,
+      "lastSeason": 3,
+      "qualityDrop": 4.8
     },
     {
       "seriesTconst": "tt0360301",
@@ -180,12 +180,12 @@
       "qualityDrop": 4.75
     },
     {
-      "seriesTconst": "tt0479336",
-      "seriesTitle": "Pinoy Big Brother",
-      "season1Rating": 5.6,
-      "lastSeasonRating": 1.0,
-      "lastSeason": 11,
-      "qualityDrop": 4.6
+      "seriesTconst": "tt0048892",
+      "seriesTitle": "The Joseph Cotten Show: On Trial",
+      "season1Rating": 9.4,
+      "lastSeasonRating": 4.65,
+      "lastSeason": 2,
+      "qualityDrop": 4.75
     },
     {
       "seriesTconst": "tt5472884",
@@ -193,6 +193,14 @@
       "season1Rating": 6.7,
       "lastSeasonRating": 2.1,
       "lastSeason": 3,
+      "qualityDrop": 4.6
+    },
+    {
+      "seriesTconst": "tt0479336",
+      "seriesTitle": "Pinoy Big Brother",
+      "season1Rating": 5.6,
+      "lastSeasonRating": 1.0,
+      "lastSeason": 11,
       "qualityDrop": 4.6
     },
     {
@@ -252,14 +260,6 @@
       "qualityDrop": 4.4
     },
     {
-      "seriesTconst": "tt10827252",
-      "seriesTitle": "The Drew Barrymore Show",
-      "season1Rating": 6.194,
-      "lastSeasonRating": 1.8,
-      "lastSeason": 6,
-      "qualityDrop": 4.394
-    },
-    {
       "seriesTconst": "tt0856757",
       "seriesTitle": "Yaprak D\u00f6k\u00fcm\u00fc",
       "season1Rating": 6.842,
@@ -308,6 +308,14 @@
       "qualityDrop": 4.2
     },
     {
+      "seriesTconst": "tt10827252",
+      "seriesTitle": "The Drew Barrymore Show",
+      "season1Rating": 6.194,
+      "lastSeasonRating": 2.0,
+      "lastSeason": 6,
+      "qualityDrop": 4.194
+    },
+    {
       "seriesTconst": "tt7632608",
       "seriesTitle": "Enemigo \u00cdntimo",
       "season1Rating": 7.472,
@@ -332,28 +340,28 @@
       "qualityDrop": 4.1
     },
     {
-      "seriesTconst": "tt0088473",
-      "seriesTitle": "Adventures in Wonderland",
-      "season1Rating": 9.5,
-      "lastSeasonRating": 5.4,
-      "lastSeason": 3,
-      "qualityDrop": 4.1
-    },
-    {
-      "seriesTconst": "tt16994878",
-      "seriesTitle": "7 vs. Wild",
-      "season1Rating": 8.063,
-      "lastSeasonRating": 3.963,
-      "lastSeason": 5,
-      "qualityDrop": 4.1
-    },
-    {
       "seriesTconst": "tt0315709",
       "seriesTitle": "Smogovci",
       "season1Rating": 8.46,
       "lastSeasonRating": 4.386,
       "lastSeason": 6,
       "qualityDrop": 4.074
+    },
+    {
+      "seriesTconst": "tt16994878",
+      "seriesTitle": "7 vs. Wild",
+      "season1Rating": 8.063,
+      "lastSeasonRating": 4.006,
+      "lastSeason": 5,
+      "qualityDrop": 4.057
+    },
+    {
+      "seriesTconst": "tt2235412",
+      "seriesTitle": "Paramedicos",
+      "season1Rating": 5.008,
+      "lastSeasonRating": 1.0,
+      "lastSeason": 4,
+      "qualityDrop": 4.008
     },
     {
       "seriesTconst": "tt5663590",
@@ -364,20 +372,12 @@
       "qualityDrop": 3.959
     },
     {
-      "seriesTconst": "tt2235412",
-      "seriesTitle": "Paramedicos",
-      "season1Rating": 4.958,
-      "lastSeasonRating": 1.0,
-      "lastSeason": 4,
-      "qualityDrop": 3.958
-    },
-    {
       "seriesTconst": "tt5180504",
       "seriesTitle": "The Witcher",
       "season1Rating": 8.275,
-      "lastSeasonRating": 4.35,
+      "lastSeasonRating": 4.363,
       "lastSeason": 4,
-      "qualityDrop": 3.925
+      "qualityDrop": 3.912
     },
     {
       "seriesTconst": "tt0486068",
@@ -390,18 +390,18 @@
     {
       "seriesTconst": "tt0115367",
       "seriesTitle": "Sparks",
-      "season1Rating": 8.1,
+      "season1Rating": 8.2,
       "lastSeasonRating": 4.3,
       "lastSeason": 2,
-      "qualityDrop": 3.8
+      "qualityDrop": 3.9
     },
     {
-      "seriesTconst": "tt27854090",
-      "seriesTitle": "Haunted Discoveries",
-      "season1Rating": 8.6,
-      "lastSeasonRating": 4.8,
-      "lastSeason": 2,
-      "qualityDrop": 3.8
+      "seriesTconst": "tt2224452",
+      "seriesTitle": "Love & Hip Hop: Atlanta",
+      "season1Rating": 7.979,
+      "lastSeasonRating": 4.2,
+      "lastSeason": 10,
+      "qualityDrop": 3.779
     }
   ]
 }
