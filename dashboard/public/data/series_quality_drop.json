@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-02-09T07:14:29+00:00",
-  "snapshotDate": "2026-02-09",
+  "generatedAt": "2026-02-16T07:13:47+00:00",
+  "snapshotDate": "2026-02-16",
   "rows": 50,
   "data": [
     {
@@ -12,12 +12,28 @@
       "qualityDrop": 7.9
     },
     {
+      "seriesTconst": "tt34896333",
+      "seriesTitle": "La CQ: nuevo ingreso",
+      "season1Rating": 8.35,
+      "lastSeasonRating": 1.0,
+      "lastSeason": 2,
+      "qualityDrop": 7.35
+    },
+    {
       "seriesTconst": "tt3004376",
       "seriesTitle": "The Real",
       "season1Rating": 7.62,
       "lastSeasonRating": 1.0,
       "lastSeason": 6,
       "qualityDrop": 6.62
+    },
+    {
+      "seriesTconst": "tt0081857",
+      "seriesTitle": "Entertainment Tonight",
+      "season1Rating": 9.0,
+      "lastSeasonRating": 2.6,
+      "lastSeason": 44,
+      "qualityDrop": 6.4
     },
     {
       "seriesTconst": "tt0072506",
@@ -68,19 +84,19 @@
       "qualityDrop": 5.4
     },
     {
-      "seriesTconst": "tt0121016",
-      "seriesTitle": "Die Rudi Carrell Show",
-      "season1Rating": 9.3,
-      "lastSeasonRating": 4.0,
-      "lastSeason": 2,
-      "qualityDrop": 5.3
-    },
-    {
       "seriesTconst": "tt0063890",
       "seriesTitle": "The David Frost Show",
       "season1Rating": 6.5,
       "lastSeasonRating": 1.2,
       "lastSeason": 4,
+      "qualityDrop": 5.3
+    },
+    {
+      "seriesTconst": "tt0121016",
+      "seriesTitle": "Die Rudi Carrell Show",
+      "season1Rating": 9.3,
+      "lastSeasonRating": 4.0,
+      "lastSeason": 2,
       "qualityDrop": 5.3
     },
     {
@@ -132,6 +148,14 @@
       "qualityDrop": 5.0
     },
     {
+      "seriesTconst": "tt2214918",
+      "seriesTitle": "Nicht nachmachen!",
+      "season1Rating": 8.0,
+      "lastSeasonRating": 3.075,
+      "lastSeason": 3,
+      "qualityDrop": 4.925
+    },
+    {
       "seriesTconst": "tt4277268",
       "seriesTitle": "Billy & Billie",
       "season1Rating": 8.31,
@@ -140,36 +164,12 @@
       "qualityDrop": 4.91
     },
     {
-      "seriesTconst": "tt2214918",
-      "seriesTitle": "Nicht nachmachen!",
-      "season1Rating": 8.033,
-      "lastSeasonRating": 3.15,
-      "lastSeason": 3,
-      "qualityDrop": 4.883
-    },
-    {
       "seriesTconst": "tt0329829",
       "seriesTitle": "Fireman Sam",
       "season1Rating": 8.6,
       "lastSeasonRating": 3.783,
       "lastSeason": 16,
       "qualityDrop": 4.817
-    },
-    {
-      "seriesTconst": "tt0081857",
-      "seriesTitle": "Entertainment Tonight",
-      "season1Rating": 9.0,
-      "lastSeasonRating": 4.2,
-      "lastSeason": 44,
-      "qualityDrop": 4.8
-    },
-    {
-      "seriesTconst": "tt0213523",
-      "seriesTitle": "Blue Murder",
-      "season1Rating": 7.2,
-      "lastSeasonRating": 2.4,
-      "lastSeason": 3,
-      "qualityDrop": 4.8
     },
     {
       "seriesTconst": "tt0360301",
@@ -220,14 +220,6 @@
       "qualityDrop": 4.567
     },
     {
-      "seriesTconst": "tt5723284",
-      "seriesTitle": "I Hate Everything",
-      "season1Rating": 5.906,
-      "lastSeasonRating": 1.4,
-      "lastSeason": 12,
-      "qualityDrop": 4.506
-    },
-    {
       "seriesTconst": "tt1792654",
       "seriesTitle": "Cubed",
       "season1Rating": 6.6,
@@ -242,6 +234,14 @@
       "lastSeasonRating": 3.2,
       "lastSeason": 4,
       "qualityDrop": 4.5
+    },
+    {
+      "seriesTconst": "tt5723284",
+      "seriesTitle": "I Hate Everything",
+      "season1Rating": 5.872,
+      "lastSeasonRating": 1.4,
+      "lastSeason": 12,
+      "qualityDrop": 4.472
     },
     {
       "seriesTconst": "tt0375289",
@@ -308,14 +308,6 @@
       "qualityDrop": 4.2
     },
     {
-      "seriesTconst": "tt10827252",
-      "seriesTitle": "The Drew Barrymore Show",
-      "season1Rating": 6.194,
-      "lastSeasonRating": 2.0,
-      "lastSeason": 6,
-      "qualityDrop": 4.194
-    },
-    {
       "seriesTconst": "tt7632608",
       "seriesTitle": "Enemigo \u00cdntimo",
       "season1Rating": 7.472,
@@ -332,11 +324,27 @@
       "qualityDrop": 4.133
     },
     {
+      "seriesTconst": "tt10827252",
+      "seriesTitle": "The Drew Barrymore Show",
+      "season1Rating": 6.106,
+      "lastSeasonRating": 2.0,
+      "lastSeason": 6,
+      "qualityDrop": 4.106
+    },
+    {
       "seriesTconst": "tt1724588",
       "seriesTitle": "Ebert Presents: At the Movies",
       "season1Rating": 6.3,
       "lastSeasonRating": 2.2,
       "lastSeason": 2,
+      "qualityDrop": 4.1
+    },
+    {
+      "seriesTconst": "tt0088473",
+      "seriesTitle": "Adventures in Wonderland",
+      "season1Rating": 9.5,
+      "lastSeasonRating": 5.4,
+      "lastSeason": 3,
       "qualityDrop": 4.1
     },
     {
@@ -375,9 +383,9 @@
       "seriesTconst": "tt5180504",
       "seriesTitle": "The Witcher",
       "season1Rating": 8.275,
-      "lastSeasonRating": 4.363,
+      "lastSeasonRating": 4.35,
       "lastSeason": 4,
-      "qualityDrop": 3.912
+      "qualityDrop": 3.925
     },
     {
       "seriesTconst": "tt0486068",
@@ -394,14 +402,6 @@
       "lastSeasonRating": 4.3,
       "lastSeason": 2,
       "qualityDrop": 3.9
-    },
-    {
-      "seriesTconst": "tt2224452",
-      "seriesTitle": "Love & Hip Hop: Atlanta",
-      "season1Rating": 7.979,
-      "lastSeasonRating": 4.2,
-      "lastSeason": 10,
-      "qualityDrop": 3.779
     }
   ]
 }
