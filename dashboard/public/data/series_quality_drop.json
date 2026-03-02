@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-02-23T07:14:44+00:00",
-  "snapshotDate": "2026-02-23",
+  "generatedAt": "2026-03-02T07:07:50+00:00",
+  "snapshotDate": "2026-03-02",
   "rows": 50,
   "data": [
     {
@@ -76,14 +76,6 @@
       "qualityDrop": 5.5
     },
     {
-      "seriesTconst": "tt0775367",
-      "seriesTitle": "HBO Boxing",
-      "season1Rating": 8.6,
-      "lastSeasonRating": 3.2,
-      "lastSeason": 46,
-      "qualityDrop": 5.4
-    },
-    {
       "seriesTconst": "tt0154063",
       "seriesTitle": "Chiquititas",
       "season1Rating": 9.2,
@@ -92,12 +84,12 @@
       "qualityDrop": 5.4
     },
     {
-      "seriesTconst": "tt0063890",
-      "seriesTitle": "The David Frost Show",
-      "season1Rating": 6.5,
-      "lastSeasonRating": 1.2,
-      "lastSeason": 4,
-      "qualityDrop": 5.3
+      "seriesTconst": "tt0775367",
+      "seriesTitle": "HBO Boxing",
+      "season1Rating": 8.6,
+      "lastSeasonRating": 3.2,
+      "lastSeason": 46,
+      "qualityDrop": 5.4
     },
     {
       "seriesTconst": "tt0121016",
@@ -105,6 +97,14 @@
       "season1Rating": 9.3,
       "lastSeasonRating": 4.0,
       "lastSeason": 2,
+      "qualityDrop": 5.3
+    },
+    {
+      "seriesTconst": "tt0063890",
+      "seriesTitle": "The David Frost Show",
+      "season1Rating": 6.5,
+      "lastSeasonRating": 1.2,
+      "lastSeason": 4,
       "qualityDrop": 5.3
     },
     {
@@ -127,17 +127,9 @@
       "seriesTconst": "tt4508902",
       "seriesTitle": "One Punch Man",
       "season1Rating": 8.775,
-      "lastSeasonRating": 3.733,
+      "lastSeasonRating": 3.75,
       "lastSeason": 3,
-      "qualityDrop": 5.042
-    },
-    {
-      "seriesTconst": "tt0815086",
-      "seriesTitle": "Walmart Soundcheck",
-      "season1Rating": 9.2,
-      "lastSeasonRating": 4.2,
-      "lastSeason": 2,
-      "qualityDrop": 5.0
+      "qualityDrop": 5.025
     },
     {
       "seriesTconst": "tt5191128",
@@ -145,6 +137,14 @@
       "season1Rating": 7.8,
       "lastSeasonRating": 2.8,
       "lastSeason": 3,
+      "qualityDrop": 5.0
+    },
+    {
+      "seriesTconst": "tt0815086",
+      "seriesTitle": "Walmart Soundcheck",
+      "season1Rating": 9.2,
+      "lastSeasonRating": 4.2,
+      "lastSeason": 2,
       "qualityDrop": 5.0
     },
     {
@@ -158,8 +158,8 @@
     {
       "seriesTconst": "tt2214918",
       "seriesTitle": "Nicht nachmachen!",
-      "season1Rating": 7.95,
-      "lastSeasonRating": 3.075,
+      "season1Rating": 7.9,
+      "lastSeasonRating": 3.025,
       "lastSeason": 3,
       "qualityDrop": 4.875
     },
@@ -172,18 +172,18 @@
       "qualityDrop": 4.817
     },
     {
-      "seriesTconst": "tt0360301",
-      "seriesTitle": "Player$",
-      "season1Rating": 7.2,
-      "lastSeasonRating": 2.45,
-      "lastSeason": 2,
-      "qualityDrop": 4.75
-    },
-    {
       "seriesTconst": "tt0048892",
       "seriesTitle": "The Joseph Cotten Show: On Trial",
       "season1Rating": 9.4,
       "lastSeasonRating": 4.65,
+      "lastSeason": 2,
+      "qualityDrop": 4.75
+    },
+    {
+      "seriesTconst": "tt0360301",
+      "seriesTitle": "Player$",
+      "season1Rating": 7.2,
+      "lastSeasonRating": 2.45,
       "lastSeason": 2,
       "qualityDrop": 4.75
     },
@@ -252,20 +252,20 @@
       "qualityDrop": 4.4
     },
     {
-      "seriesTconst": "tt0856757",
-      "seriesTitle": "Yaprak D\u00f6k\u00fcm\u00fc",
-      "season1Rating": 6.842,
-      "lastSeasonRating": 2.467,
-      "lastSeason": 5,
-      "qualityDrop": 4.375
-    },
-    {
       "seriesTconst": "tt31998409",
       "seriesTitle": "Piers Morgan Uncensored",
       "season1Rating": 5.35,
       "lastSeasonRating": 1.0,
       "lastSeason": 4,
       "qualityDrop": 4.35
+    },
+    {
+      "seriesTconst": "tt0856757",
+      "seriesTitle": "Yaprak D\u00f6k\u00fcm\u00fc",
+      "season1Rating": 6.845,
+      "lastSeasonRating": 2.52,
+      "lastSeason": 5,
+      "qualityDrop": 4.325
     },
     {
       "seriesTconst": "tt1141678",
@@ -380,6 +380,14 @@
       "qualityDrop": 3.912
     },
     {
+      "seriesTconst": "tt9111220",
+      "seriesTitle": "Hudson & Rex",
+      "season1Rating": 7.508,
+      "lastSeasonRating": 3.6,
+      "lastSeason": 9,
+      "qualityDrop": 3.908
+    },
+    {
       "seriesTconst": "tt0115367",
       "seriesTitle": "Sparks",
       "season1Rating": 8.2,
@@ -394,14 +402,6 @@
       "lastSeasonRating": 4.3,
       "lastSeason": 11,
       "qualityDrop": 3.9
-    },
-    {
-      "seriesTconst": "tt2224452",
-      "seriesTitle": "Love & Hip Hop: Atlanta",
-      "season1Rating": 7.979,
-      "lastSeasonRating": 4.2,
-      "lastSeason": 10,
-      "qualityDrop": 3.779
     }
   ]
 }
