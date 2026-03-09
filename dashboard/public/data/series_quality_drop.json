@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-02T07:07:50+00:00",
-  "snapshotDate": "2026-03-02",
+  "generatedAt": "2026-03-09T07:10:54+00:00",
+  "snapshotDate": "2026-03-09",
   "rows": 50,
   "data": [
     {
@@ -92,19 +92,19 @@
       "qualityDrop": 5.4
     },
     {
-      "seriesTconst": "tt0121016",
-      "seriesTitle": "Die Rudi Carrell Show",
-      "season1Rating": 9.3,
-      "lastSeasonRating": 4.0,
-      "lastSeason": 2,
-      "qualityDrop": 5.3
-    },
-    {
       "seriesTconst": "tt0063890",
       "seriesTitle": "The David Frost Show",
       "season1Rating": 6.5,
       "lastSeasonRating": 1.2,
       "lastSeason": 4,
+      "qualityDrop": 5.3
+    },
+    {
+      "seriesTconst": "tt0121016",
+      "seriesTitle": "Die Rudi Carrell Show",
+      "season1Rating": 9.3,
+      "lastSeasonRating": 4.0,
+      "lastSeason": 2,
       "qualityDrop": 5.3
     },
     {
@@ -172,18 +172,18 @@
       "qualityDrop": 4.817
     },
     {
-      "seriesTconst": "tt0048892",
-      "seriesTitle": "The Joseph Cotten Show: On Trial",
-      "season1Rating": 9.4,
-      "lastSeasonRating": 4.65,
-      "lastSeason": 2,
-      "qualityDrop": 4.75
-    },
-    {
       "seriesTconst": "tt0360301",
       "seriesTitle": "Player$",
       "season1Rating": 7.2,
       "lastSeasonRating": 2.45,
+      "lastSeason": 2,
+      "qualityDrop": 4.75
+    },
+    {
+      "seriesTconst": "tt0048892",
+      "seriesTitle": "The Joseph Cotten Show: On Trial",
+      "season1Rating": 9.4,
+      "lastSeasonRating": 4.65,
       "lastSeason": 2,
       "qualityDrop": 4.75
     },
@@ -263,9 +263,9 @@
       "seriesTconst": "tt0856757",
       "seriesTitle": "Yaprak D\u00f6k\u00fcm\u00fc",
       "season1Rating": 6.845,
-      "lastSeasonRating": 2.52,
+      "lastSeasonRating": 2.527,
       "lastSeason": 5,
-      "qualityDrop": 4.325
+      "qualityDrop": 4.318
     },
     {
       "seriesTconst": "tt1141678",
@@ -282,6 +282,14 @@
       "lastSeasonRating": 2.75,
       "lastSeason": 2,
       "qualityDrop": 4.243
+    },
+    {
+      "seriesTconst": "tt16897176",
+      "seriesTitle": "Royal Histories",
+      "season1Rating": 7.029,
+      "lastSeasonRating": 2.8,
+      "lastSeason": 8,
+      "qualityDrop": 4.229
     },
     {
       "seriesTconst": "tt1856010",
@@ -308,12 +316,12 @@
       "qualityDrop": 4.175
     },
     {
-      "seriesTconst": "tt16897176",
-      "seriesTitle": "Royal Histories",
-      "season1Rating": 6.933,
-      "lastSeasonRating": 2.8,
-      "lastSeason": 8,
-      "qualityDrop": 4.133
+      "seriesTconst": "tt9111220",
+      "seriesTitle": "Hudson & Rex",
+      "season1Rating": 7.508,
+      "lastSeasonRating": 3.4,
+      "lastSeason": 9,
+      "qualityDrop": 4.108
     },
     {
       "seriesTconst": "tt10827252",
@@ -324,19 +332,19 @@
       "qualityDrop": 4.106
     },
     {
-      "seriesTconst": "tt1724588",
-      "seriesTitle": "Ebert Presents: At the Movies",
-      "season1Rating": 6.3,
-      "lastSeasonRating": 2.2,
-      "lastSeason": 2,
-      "qualityDrop": 4.1
-    },
-    {
       "seriesTconst": "tt0088473",
       "seriesTitle": "Adventures in Wonderland",
       "season1Rating": 9.5,
       "lastSeasonRating": 5.4,
       "lastSeason": 3,
+      "qualityDrop": 4.1
+    },
+    {
+      "seriesTconst": "tt1724588",
+      "seriesTitle": "Ebert Presents: At the Movies",
+      "season1Rating": 6.3,
+      "lastSeasonRating": 2.2,
+      "lastSeason": 2,
       "qualityDrop": 4.1
     },
     {
@@ -380,12 +388,12 @@
       "qualityDrop": 3.912
     },
     {
-      "seriesTconst": "tt9111220",
-      "seriesTitle": "Hudson & Rex",
-      "season1Rating": 7.508,
-      "lastSeasonRating": 3.6,
-      "lastSeason": 9,
-      "qualityDrop": 3.908
+      "seriesTconst": "tt1870073",
+      "seriesTitle": "Justin Time",
+      "season1Rating": 7.6,
+      "lastSeasonRating": 3.7,
+      "lastSeason": 3,
+      "qualityDrop": 3.9
     },
     {
       "seriesTconst": "tt0115367",
@@ -393,14 +401,6 @@
       "season1Rating": 8.2,
       "lastSeasonRating": 4.3,
       "lastSeason": 2,
-      "qualityDrop": 3.9
-    },
-    {
-      "seriesTconst": "tt0486068",
-      "seriesTitle": "Indian Idol",
-      "season1Rating": 8.2,
-      "lastSeasonRating": 4.3,
-      "lastSeason": 11,
       "qualityDrop": 3.9
     }
   ]
