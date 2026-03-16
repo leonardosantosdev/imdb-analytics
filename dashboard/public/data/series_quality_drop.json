@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-09T07:10:54+00:00",
-  "snapshotDate": "2026-03-09",
+  "generatedAt": "2026-03-16T07:27:29+00:00",
+  "snapshotDate": "2026-03-16",
   "rows": 50,
   "data": [
     {
@@ -60,6 +60,14 @@
       "qualityDrop": 5.767
     },
     {
+      "seriesTconst": "tt8560918",
+      "seriesTitle": "The Queen of Flow",
+      "season1Rating": 8.704,
+      "lastSeasonRating": 3.0,
+      "lastSeason": 3,
+      "qualityDrop": 5.704
+    },
+    {
       "seriesTconst": "tt10467076",
       "seriesTitle": "Shopping with Keith Lemon",
       "season1Rating": 6.9,
@@ -92,19 +100,19 @@
       "qualityDrop": 5.4
     },
     {
-      "seriesTconst": "tt0063890",
-      "seriesTitle": "The David Frost Show",
-      "season1Rating": 6.5,
-      "lastSeasonRating": 1.2,
-      "lastSeason": 4,
-      "qualityDrop": 5.3
-    },
-    {
       "seriesTconst": "tt0121016",
       "seriesTitle": "Die Rudi Carrell Show",
       "season1Rating": 9.3,
       "lastSeasonRating": 4.0,
       "lastSeason": 2,
+      "qualityDrop": 5.3
+    },
+    {
+      "seriesTconst": "tt0063890",
+      "seriesTitle": "The David Frost Show",
+      "season1Rating": 6.5,
+      "lastSeasonRating": 1.2,
+      "lastSeason": 4,
       "qualityDrop": 5.3
     },
     {
@@ -132,19 +140,19 @@
       "qualityDrop": 5.025
     },
     {
-      "seriesTconst": "tt5191128",
-      "seriesTitle": "The Break",
-      "season1Rating": 7.8,
-      "lastSeasonRating": 2.8,
-      "lastSeason": 3,
-      "qualityDrop": 5.0
-    },
-    {
       "seriesTconst": "tt0815086",
       "seriesTitle": "Walmart Soundcheck",
       "season1Rating": 9.2,
       "lastSeasonRating": 4.2,
       "lastSeason": 2,
+      "qualityDrop": 5.0
+    },
+    {
+      "seriesTconst": "tt5191128",
+      "seriesTitle": "The Break",
+      "season1Rating": 7.8,
+      "lastSeasonRating": 2.8,
+      "lastSeason": 3,
       "qualityDrop": 5.0
     },
     {
@@ -159,9 +167,9 @@
       "seriesTconst": "tt2214918",
       "seriesTitle": "Nicht nachmachen!",
       "season1Rating": 7.9,
-      "lastSeasonRating": 3.025,
+      "lastSeasonRating": 3.0,
       "lastSeason": 3,
-      "qualityDrop": 4.875
+      "qualityDrop": 4.9
     },
     {
       "seriesTconst": "tt0329829",
@@ -220,6 +228,14 @@
       "qualityDrop": 4.567
     },
     {
+      "seriesTconst": "tt16897176",
+      "seriesTitle": "Royal Histories",
+      "season1Rating": 7.029,
+      "lastSeasonRating": 2.5,
+      "lastSeason": 8,
+      "qualityDrop": 4.529
+    },
+    {
       "seriesTconst": "tt0306760",
       "seriesTitle": "Edel & Starck",
       "season1Rating": 7.7,
@@ -252,14 +268,6 @@
       "qualityDrop": 4.4
     },
     {
-      "seriesTconst": "tt31998409",
-      "seriesTitle": "Piers Morgan Uncensored",
-      "season1Rating": 5.35,
-      "lastSeasonRating": 1.0,
-      "lastSeason": 4,
-      "qualityDrop": 4.35
-    },
-    {
       "seriesTconst": "tt0856757",
       "seriesTitle": "Yaprak D\u00f6k\u00fcm\u00fc",
       "season1Rating": 6.845,
@@ -284,12 +292,12 @@
       "qualityDrop": 4.243
     },
     {
-      "seriesTconst": "tt16897176",
-      "seriesTitle": "Royal Histories",
-      "season1Rating": 7.029,
-      "lastSeasonRating": 2.8,
-      "lastSeason": 8,
-      "qualityDrop": 4.229
+      "seriesTconst": "tt9111220",
+      "seriesTitle": "Hudson & Rex",
+      "season1Rating": 7.508,
+      "lastSeasonRating": 3.3,
+      "lastSeason": 9,
+      "qualityDrop": 4.208
     },
     {
       "seriesTconst": "tt1856010",
@@ -316,14 +324,6 @@
       "qualityDrop": 4.175
     },
     {
-      "seriesTconst": "tt9111220",
-      "seriesTitle": "Hudson & Rex",
-      "season1Rating": 7.508,
-      "lastSeasonRating": 3.4,
-      "lastSeason": 9,
-      "qualityDrop": 4.108
-    },
-    {
       "seriesTconst": "tt10827252",
       "seriesTitle": "The Drew Barrymore Show",
       "season1Rating": 6.106,
@@ -332,19 +332,19 @@
       "qualityDrop": 4.106
     },
     {
-      "seriesTconst": "tt0088473",
-      "seriesTitle": "Adventures in Wonderland",
-      "season1Rating": 9.5,
-      "lastSeasonRating": 5.4,
-      "lastSeason": 3,
-      "qualityDrop": 4.1
-    },
-    {
       "seriesTconst": "tt1724588",
       "seriesTitle": "Ebert Presents: At the Movies",
       "season1Rating": 6.3,
       "lastSeasonRating": 2.2,
       "lastSeason": 2,
+      "qualityDrop": 4.1
+    },
+    {
+      "seriesTconst": "tt0088473",
+      "seriesTitle": "Adventures in Wonderland",
+      "season1Rating": 9.5,
+      "lastSeasonRating": 5.4,
+      "lastSeason": 3,
       "qualityDrop": 4.1
     },
     {
@@ -388,19 +388,19 @@
       "qualityDrop": 3.912
     },
     {
-      "seriesTconst": "tt1870073",
-      "seriesTitle": "Justin Time",
-      "season1Rating": 7.6,
-      "lastSeasonRating": 3.7,
-      "lastSeason": 3,
-      "qualityDrop": 3.9
-    },
-    {
       "seriesTconst": "tt0115367",
       "seriesTitle": "Sparks",
       "season1Rating": 8.2,
       "lastSeasonRating": 4.3,
       "lastSeason": 2,
+      "qualityDrop": 3.9
+    },
+    {
+      "seriesTconst": "tt1870073",
+      "seriesTitle": "Justin Time",
+      "season1Rating": 7.6,
+      "lastSeasonRating": 3.7,
+      "lastSeason": 3,
       "qualityDrop": 3.9
     }
   ]
