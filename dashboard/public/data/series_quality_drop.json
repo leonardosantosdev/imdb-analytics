@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-16T07:27:29+00:00",
-  "snapshotDate": "2026-03-16",
+  "generatedAt": "2026-03-23T07:20:42+00:00",
+  "snapshotDate": "2026-03-23",
   "rows": 50,
   "data": [
     {
@@ -26,6 +26,14 @@
       "lastSeasonRating": 1.0,
       "lastSeason": 2,
       "qualityDrop": 7.35
+    },
+    {
+      "seriesTconst": "tt8560918",
+      "seriesTitle": "The Queen of Flow",
+      "season1Rating": 8.881,
+      "lastSeasonRating": 2.269,
+      "lastSeason": 3,
+      "qualityDrop": 6.612
     },
     {
       "seriesTconst": "tt0072506",
@@ -60,14 +68,6 @@
       "qualityDrop": 5.767
     },
     {
-      "seriesTconst": "tt8560918",
-      "seriesTitle": "The Queen of Flow",
-      "season1Rating": 8.704,
-      "lastSeasonRating": 3.0,
-      "lastSeason": 3,
-      "qualityDrop": 5.704
-    },
-    {
       "seriesTconst": "tt10467076",
       "seriesTitle": "Shopping with Keith Lemon",
       "season1Rating": 6.9,
@@ -100,19 +100,19 @@
       "qualityDrop": 5.4
     },
     {
-      "seriesTconst": "tt0121016",
-      "seriesTitle": "Die Rudi Carrell Show",
-      "season1Rating": 9.3,
-      "lastSeasonRating": 4.0,
-      "lastSeason": 2,
-      "qualityDrop": 5.3
-    },
-    {
       "seriesTconst": "tt0063890",
       "seriesTitle": "The David Frost Show",
       "season1Rating": 6.5,
       "lastSeasonRating": 1.2,
       "lastSeason": 4,
+      "qualityDrop": 5.3
+    },
+    {
+      "seriesTconst": "tt0121016",
+      "seriesTitle": "Die Rudi Carrell Show",
+      "season1Rating": 9.3,
+      "lastSeasonRating": 4.0,
+      "lastSeason": 2,
       "qualityDrop": 5.3
     },
     {
@@ -140,19 +140,19 @@
       "qualityDrop": 5.025
     },
     {
-      "seriesTconst": "tt0815086",
-      "seriesTitle": "Walmart Soundcheck",
-      "season1Rating": 9.2,
-      "lastSeasonRating": 4.2,
-      "lastSeason": 2,
-      "qualityDrop": 5.0
-    },
-    {
       "seriesTconst": "tt5191128",
       "seriesTitle": "The Break",
       "season1Rating": 7.8,
       "lastSeasonRating": 2.8,
       "lastSeason": 3,
+      "qualityDrop": 5.0
+    },
+    {
+      "seriesTconst": "tt0815086",
+      "seriesTitle": "Walmart Soundcheck",
+      "season1Rating": 9.2,
+      "lastSeasonRating": 4.2,
+      "lastSeason": 2,
       "qualityDrop": 5.0
     },
     {
@@ -196,19 +196,19 @@
       "qualityDrop": 4.75
     },
     {
-      "seriesTconst": "tt5472884",
-      "seriesTitle": "Drunk History: El Lado Borroso De La Historia",
-      "season1Rating": 6.7,
-      "lastSeasonRating": 2.1,
-      "lastSeason": 3,
-      "qualityDrop": 4.6
-    },
-    {
       "seriesTconst": "tt0479336",
       "seriesTitle": "Pinoy Big Brother",
       "season1Rating": 5.6,
       "lastSeasonRating": 1.0,
       "lastSeason": 11,
+      "qualityDrop": 4.6
+    },
+    {
+      "seriesTconst": "tt5472884",
+      "seriesTitle": "Drunk History: El Lado Borroso De La Historia",
+      "season1Rating": 6.7,
+      "lastSeasonRating": 2.1,
+      "lastSeason": 3,
       "qualityDrop": 4.6
     },
     {
@@ -268,14 +268,6 @@
       "qualityDrop": 4.4
     },
     {
-      "seriesTconst": "tt0856757",
-      "seriesTitle": "Yaprak D\u00f6k\u00fcm\u00fc",
-      "season1Rating": 6.845,
-      "lastSeasonRating": 2.527,
-      "lastSeason": 5,
-      "qualityDrop": 4.318
-    },
-    {
       "seriesTconst": "tt1141678",
       "seriesTitle": "Inspektor Rolle",
       "season1Rating": 7.7,
@@ -284,20 +276,20 @@
       "qualityDrop": 4.3
     },
     {
+      "seriesTconst": "tt0856757",
+      "seriesTitle": "Yaprak D\u00f6k\u00fcm\u00fc",
+      "season1Rating": 6.845,
+      "lastSeasonRating": 2.593,
+      "lastSeason": 5,
+      "qualityDrop": 4.252
+    },
+    {
       "seriesTconst": "tt8537520",
       "seriesTitle": "Bigg Boss Malayalam",
       "season1Rating": 6.993,
       "lastSeasonRating": 2.75,
       "lastSeason": 2,
       "qualityDrop": 4.243
-    },
-    {
-      "seriesTconst": "tt9111220",
-      "seriesTitle": "Hudson & Rex",
-      "season1Rating": 7.508,
-      "lastSeasonRating": 3.3,
-      "lastSeason": 9,
-      "qualityDrop": 4.208
     },
     {
       "seriesTconst": "tt1856010",
@@ -372,6 +364,14 @@
       "qualityDrop": 4.008
     },
     {
+      "seriesTconst": "tt9111220",
+      "seriesTitle": "Hudson & Rex",
+      "season1Rating": 7.5,
+      "lastSeasonRating": 3.5,
+      "lastSeason": 9,
+      "qualityDrop": 4.0
+    },
+    {
       "seriesTconst": "tt5663590",
       "seriesTitle": "La Do\u00f1a",
       "season1Rating": 7.659,
@@ -388,19 +388,19 @@
       "qualityDrop": 3.912
     },
     {
-      "seriesTconst": "tt0115367",
-      "seriesTitle": "Sparks",
-      "season1Rating": 8.2,
-      "lastSeasonRating": 4.3,
-      "lastSeason": 2,
-      "qualityDrop": 3.9
-    },
-    {
       "seriesTconst": "tt1870073",
       "seriesTitle": "Justin Time",
       "season1Rating": 7.6,
       "lastSeasonRating": 3.7,
       "lastSeason": 3,
+      "qualityDrop": 3.9
+    },
+    {
+      "seriesTconst": "tt0486068",
+      "seriesTitle": "Indian Idol",
+      "season1Rating": 8.2,
+      "lastSeasonRating": 4.3,
+      "lastSeason": 11,
       "qualityDrop": 3.9
     }
   ]
