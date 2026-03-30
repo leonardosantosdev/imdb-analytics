@@ -1,168 +1,168 @@
 {
-  "generatedAt": "2026-03-23T07:20:42+00:00",
-  "snapshotDate": "2026-03-23",
+  "generatedAt": "2026-03-30T07:52:41+00:00",
+  "snapshotDate": "2026-03-30",
   "rows": 27,
   "data": [
     {
       "genre": "War",
-      "titleCount": 7920,
-      "totalVotes": 30213638.0,
+      "titleCount": 7930,
+      "totalVotes": 30251605.0,
       "weightedRating": 7.656
     },
     {
       "genre": "Western",
-      "titleCount": 5410,
-      "totalVotes": 13543003.0,
-      "weightedRating": 7.57
+      "titleCount": 5413,
+      "totalVotes": 13559358.0,
+      "weightedRating": 7.569
     },
     {
       "genre": "Biography",
-      "titleCount": 12992,
-      "totalVotes": 87729378.0,
+      "titleCount": 13011,
+      "totalVotes": 87845383.0,
       "weightedRating": 7.517
     },
     {
       "genre": "Animation",
-      "titleCount": 18905,
-      "totalVotes": 103654001.0,
+      "titleCount": 18947,
+      "totalVotes": 103877906.0,
       "weightedRating": 7.5
     },
     {
       "genre": "History",
-      "titleCount": 14376,
-      "totalVotes": 43462641.0,
-      "weightedRating": 7.493
+      "titleCount": 14406,
+      "totalVotes": 43612363.0,
+      "weightedRating": 7.492
     },
     {
       "genre": "Film-Noir",
       "titleCount": 876,
-      "totalVotes": 4134506.0,
+      "totalVotes": 4138523.0,
       "weightedRating": 7.484
     },
     {
       "genre": "Short",
-      "titleCount": 1523,
-      "totalVotes": 485190.0,
-      "weightedRating": 7.439
+      "titleCount": 1525,
+      "totalVotes": 486156.0,
+      "weightedRating": 7.44
     },
     {
       "genre": "Documentary",
-      "titleCount": 72937,
-      "totalVotes": 25115137.0,
-      "weightedRating": 7.401
+      "titleCount": 73045,
+      "totalVotes": 25160073.0,
+      "weightedRating": 7.4
     },
     {
       "genre": "Drama",
-      "titleCount": 193137,
-      "totalVotes": 778382040.0,
+      "titleCount": 193432,
+      "totalVotes": 779958671.0,
       "weightedRating": 7.38
     },
     {
       "genre": "Crime",
-      "titleCount": 39132,
-      "totalVotes": 301643635.0,
+      "titleCount": 39198,
+      "totalVotes": 302190543.0,
       "weightedRating": 7.333
     },
     {
       "genre": "News",
-      "titleCount": 2937,
-      "totalVotes": 823377.0,
-      "weightedRating": 7.249
+      "titleCount": 2934,
+      "totalVotes": 823908.0,
+      "weightedRating": 7.248
     },
     {
       "genre": "Adventure",
-      "titleCount": 29238,
-      "totalVotes": 375979688.0,
-      "weightedRating": 7.164
+      "titleCount": 29279,
+      "totalVotes": 375359271.0,
+      "weightedRating": 7.162
     },
     {
       "genre": "Sport",
-      "titleCount": 7360,
-      "totalVotes": 23689962.0,
+      "titleCount": 7377,
+      "totalVotes": 23733030.0,
       "weightedRating": 7.148
     },
     {
       "genre": "Music",
-      "titleCount": 12380,
-      "totalVotes": 28118873.0,
+      "titleCount": 12428,
+      "totalVotes": 28162936.0,
       "weightedRating": 7.115
     },
     {
       "genre": "Mystery",
-      "titleCount": 18314,
-      "totalVotes": 162136249.0,
-      "weightedRating": 7.092
+      "titleCount": 18336,
+      "totalVotes": 162646818.0,
+      "weightedRating": 7.091
     },
     {
       "genre": "Sci-Fi",
-      "titleCount": 10536,
-      "totalVotes": 165695733.0,
-      "weightedRating": 7.049
+      "titleCount": 10545,
+      "totalVotes": 165993180.0,
+      "weightedRating": 7.05
     },
     {
       "genre": "Fantasy",
-      "titleCount": 14651,
-      "totalVotes": 135891456.0,
+      "titleCount": 14676,
+      "totalVotes": 136040577.0,
       "weightedRating": 7.023
     },
     {
       "genre": "Action",
-      "titleCount": 43657,
-      "totalVotes": 454900333.0,
-      "weightedRating": 6.997
+      "titleCount": 43725,
+      "totalVotes": 456650217.0,
+      "weightedRating": 7.0
     },
     {
       "genre": "Talk-Show",
-      "titleCount": 5722,
-      "totalVotes": 1432833.0,
-      "weightedRating": 6.964
+      "titleCount": 5729,
+      "totalVotes": 1434144.0,
+      "weightedRating": 6.963
     },
     {
       "genre": "Musical",
-      "titleCount": 7718,
-      "totalVotes": 12876317.0,
-      "weightedRating": 6.956
+      "titleCount": 7724,
+      "totalVotes": 12887937.0,
+      "weightedRating": 6.955
     },
     {
       "genre": "Romance",
-      "titleCount": 47647,
-      "totalVotes": 171665107.0,
+      "titleCount": 47723,
+      "totalVotes": 171835902.0,
       "weightedRating": 6.948
     },
     {
       "genre": "Thriller",
-      "titleCount": 32875,
-      "totalVotes": 231591614.0,
-      "weightedRating": 6.932
+      "titleCount": 32929,
+      "totalVotes": 232046375.0,
+      "weightedRating": 6.934
     },
     {
       "genre": "Game-Show",
-      "titleCount": 4472,
-      "totalVotes": 1477285.0,
-      "weightedRating": 6.924
+      "titleCount": 4474,
+      "totalVotes": 1479614.0,
+      "weightedRating": 6.921
     },
     {
       "genre": "Comedy",
-      "titleCount": 117062,
-      "totalVotes": 441641853.0,
+      "titleCount": 117185,
+      "totalVotes": 441979030.0,
       "weightedRating": 6.906
     },
     {
       "genre": "Family",
-      "titleCount": 21986,
-      "totalVotes": 62729859.0,
-      "weightedRating": 6.899
+      "titleCount": 22027,
+      "totalVotes": 62768705.0,
+      "weightedRating": 6.898
     },
     {
       "genre": "Reality-TV",
-      "titleCount": 12292,
-      "totalVotes": 3215569.0,
-      "weightedRating": 6.626
+      "titleCount": 12304,
+      "totalVotes": 3220000.0,
+      "weightedRating": 6.624
     },
     {
       "genre": "Horror",
-      "titleCount": 28920,
-      "totalVotes": 145407420.0,
+      "titleCount": 28961,
+      "totalVotes": 145658383.0,
       "weightedRating": 6.464
     }
   ]

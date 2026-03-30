@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-23T07:20:42+00:00",
-  "snapshotDate": "2026-03-23",
+  "generatedAt": "2026-03-30T07:52:41+00:00",
+  "snapshotDate": "2026-03-30",
   "rows": 50,
   "data": [
     {
@@ -30,10 +30,10 @@
     {
       "seriesTconst": "tt8560918",
       "seriesTitle": "The Queen of Flow",
-      "season1Rating": 8.881,
-      "lastSeasonRating": 2.269,
+      "season1Rating": 8.905,
+      "lastSeasonRating": 2.227,
       "lastSeason": 3,
-      "qualityDrop": 6.612
+      "qualityDrop": 6.678
     },
     {
       "seriesTconst": "tt0072506",
@@ -54,10 +54,10 @@
     {
       "seriesTconst": "tt0063908",
       "seriesTitle": "Hee Haw",
-      "season1Rating": 6.878,
+      "season1Rating": 6.88,
       "lastSeasonRating": 1.0,
       "lastSeason": 12,
-      "qualityDrop": 5.878
+      "qualityDrop": 5.88
     },
     {
       "seriesTconst": "tt0122824",
@@ -116,6 +116,14 @@
       "qualityDrop": 5.3
     },
     {
+      "seriesTconst": "tt18300006",
+      "seriesTitle": "Sherri",
+      "season1Rating": 6.267,
+      "lastSeasonRating": 1.0,
+      "lastSeason": 4,
+      "qualityDrop": 5.267
+    },
+    {
       "seriesTconst": "tt0210450",
       "seriesTitle": "SexTV",
       "season1Rating": 6.2,
@@ -135,17 +143,9 @@
       "seriesTconst": "tt4508902",
       "seriesTitle": "One Punch Man",
       "season1Rating": 8.775,
-      "lastSeasonRating": 3.75,
+      "lastSeasonRating": 3.767,
       "lastSeason": 3,
-      "qualityDrop": 5.025
-    },
-    {
-      "seriesTconst": "tt5191128",
-      "seriesTitle": "The Break",
-      "season1Rating": 7.8,
-      "lastSeasonRating": 2.8,
-      "lastSeason": 3,
-      "qualityDrop": 5.0
+      "qualityDrop": 5.008
     },
     {
       "seriesTconst": "tt0815086",
@@ -156,12 +156,12 @@
       "qualityDrop": 5.0
     },
     {
-      "seriesTconst": "tt4277268",
-      "seriesTitle": "Billy & Billie",
-      "season1Rating": 8.31,
-      "lastSeasonRating": 3.4,
-      "lastSeason": 2,
-      "qualityDrop": 4.91
+      "seriesTconst": "tt5191128",
+      "seriesTitle": "The Break",
+      "season1Rating": 7.8,
+      "lastSeasonRating": 2.8,
+      "lastSeason": 3,
+      "qualityDrop": 5.0
     },
     {
       "seriesTconst": "tt2214918",
@@ -175,23 +175,31 @@
       "seriesTconst": "tt0329829",
       "seriesTitle": "Fireman Sam",
       "season1Rating": 8.6,
-      "lastSeasonRating": 3.783,
+      "lastSeasonRating": 3.726,
       "lastSeason": 16,
-      "qualityDrop": 4.817
+      "qualityDrop": 4.874
     },
     {
-      "seriesTconst": "tt0360301",
-      "seriesTitle": "Player$",
-      "season1Rating": 7.2,
-      "lastSeasonRating": 2.45,
+      "seriesTconst": "tt4277268",
+      "seriesTitle": "Billy & Billie",
+      "season1Rating": 8.26,
+      "lastSeasonRating": 3.4,
       "lastSeason": 2,
-      "qualityDrop": 4.75
+      "qualityDrop": 4.86
     },
     {
       "seriesTconst": "tt0048892",
       "seriesTitle": "The Joseph Cotten Show: On Trial",
       "season1Rating": 9.4,
       "lastSeasonRating": 4.65,
+      "lastSeason": 2,
+      "qualityDrop": 4.75
+    },
+    {
+      "seriesTconst": "tt0360301",
+      "seriesTitle": "Player$",
+      "season1Rating": 7.2,
+      "lastSeasonRating": 2.45,
       "lastSeason": 2,
       "qualityDrop": 4.75
     },
@@ -234,6 +242,14 @@
       "lastSeasonRating": 2.5,
       "lastSeason": 8,
       "qualityDrop": 4.529
+    },
+    {
+      "seriesTconst": "tt31365727",
+      "seriesTitle": "A renitens",
+      "season1Rating": 8.337,
+      "lastSeasonRating": 3.833,
+      "lastSeason": 3,
+      "qualityDrop": 4.504
     },
     {
       "seriesTconst": "tt0306760",
@@ -300,10 +316,10 @@
       "qualityDrop": 4.204
     },
     {
-      "seriesTconst": "tt1885777",
-      "seriesTitle": "Funny as Hell",
-      "season1Rating": 5.8,
-      "lastSeasonRating": 1.6,
+      "seriesTconst": "tt0115367",
+      "seriesTitle": "Sparks",
+      "season1Rating": 8.5,
+      "lastSeasonRating": 4.3,
       "lastSeason": 2,
       "qualityDrop": 4.2
     },
@@ -324,11 +340,11 @@
       "qualityDrop": 4.106
     },
     {
-      "seriesTconst": "tt1724588",
-      "seriesTitle": "Ebert Presents: At the Movies",
-      "season1Rating": 6.3,
-      "lastSeasonRating": 2.2,
-      "lastSeason": 2,
+      "seriesTconst": "tt9111220",
+      "seriesTitle": "Hudson & Rex",
+      "season1Rating": 7.5,
+      "lastSeasonRating": 3.4,
+      "lastSeason": 9,
       "qualityDrop": 4.1
     },
     {
@@ -337,6 +353,22 @@
       "season1Rating": 9.5,
       "lastSeasonRating": 5.4,
       "lastSeason": 3,
+      "qualityDrop": 4.1
+    },
+    {
+      "seriesTconst": "tt1724588",
+      "seriesTitle": "Ebert Presents: At the Movies",
+      "season1Rating": 6.3,
+      "lastSeasonRating": 2.2,
+      "lastSeason": 2,
+      "qualityDrop": 4.1
+    },
+    {
+      "seriesTconst": "tt1885777",
+      "seriesTitle": "Funny as Hell",
+      "season1Rating": 5.6,
+      "lastSeasonRating": 1.5,
+      "lastSeason": 2,
       "qualityDrop": 4.1
     },
     {
@@ -350,10 +382,10 @@
     {
       "seriesTconst": "tt16994878",
       "seriesTitle": "7 vs. Wild",
-      "season1Rating": 8.063,
+      "season1Rating": 8.025,
       "lastSeasonRating": 4.006,
       "lastSeason": 5,
-      "qualityDrop": 4.057
+      "qualityDrop": 4.019
     },
     {
       "seriesTconst": "tt2235412",
@@ -364,44 +396,12 @@
       "qualityDrop": 4.008
     },
     {
-      "seriesTconst": "tt9111220",
-      "seriesTitle": "Hudson & Rex",
-      "season1Rating": 7.5,
-      "lastSeasonRating": 3.5,
-      "lastSeason": 9,
-      "qualityDrop": 4.0
-    },
-    {
       "seriesTconst": "tt5663590",
       "seriesTitle": "La Do\u00f1a",
       "season1Rating": 7.659,
       "lastSeasonRating": 3.7,
       "lastSeason": 2,
       "qualityDrop": 3.959
-    },
-    {
-      "seriesTconst": "tt5180504",
-      "seriesTitle": "The Witcher",
-      "season1Rating": 8.275,
-      "lastSeasonRating": 4.363,
-      "lastSeason": 4,
-      "qualityDrop": 3.912
-    },
-    {
-      "seriesTconst": "tt1870073",
-      "seriesTitle": "Justin Time",
-      "season1Rating": 7.6,
-      "lastSeasonRating": 3.7,
-      "lastSeason": 3,
-      "qualityDrop": 3.9
-    },
-    {
-      "seriesTconst": "tt0486068",
-      "seriesTitle": "Indian Idol",
-      "season1Rating": 8.2,
-      "lastSeasonRating": 4.3,
-      "lastSeason": 11,
-      "qualityDrop": 3.9
     }
   ]
 }
