@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-30T07:52:41+00:00",
-  "snapshotDate": "2026-03-30",
+  "generatedAt": "2026-04-06T07:54:23+00:00",
+  "snapshotDate": "2026-04-06",
   "rows": 50,
   "data": [
     {
@@ -10,14 +10,6 @@
       "lastSeasonRating": 1.0,
       "lastSeason": 2,
       "qualityDrop": 7.9
-    },
-    {
-      "seriesTconst": "tt0081857",
-      "seriesTitle": "Entertainment Tonight",
-      "season1Rating": 9.0,
-      "lastSeasonRating": 1.636,
-      "lastSeason": 44,
-      "qualityDrop": 7.364
     },
     {
       "seriesTconst": "tt34896333",
@@ -31,9 +23,17 @@
       "seriesTconst": "tt8560918",
       "seriesTitle": "The Queen of Flow",
       "season1Rating": 8.905,
-      "lastSeasonRating": 2.227,
+      "lastSeasonRating": 1.962,
       "lastSeason": 3,
-      "qualityDrop": 6.678
+      "qualityDrop": 6.943
+    },
+    {
+      "seriesTconst": "tt0081857",
+      "seriesTitle": "Entertainment Tonight",
+      "season1Rating": 8.3,
+      "lastSeasonRating": 1.636,
+      "lastSeason": 44,
+      "qualityDrop": 6.664
     },
     {
       "seriesTconst": "tt0072506",
@@ -100,19 +100,19 @@
       "qualityDrop": 5.4
     },
     {
-      "seriesTconst": "tt0063890",
-      "seriesTitle": "The David Frost Show",
-      "season1Rating": 6.5,
-      "lastSeasonRating": 1.2,
-      "lastSeason": 4,
-      "qualityDrop": 5.3
-    },
-    {
       "seriesTconst": "tt0121016",
       "seriesTitle": "Die Rudi Carrell Show",
       "season1Rating": 9.3,
       "lastSeasonRating": 4.0,
       "lastSeason": 2,
+      "qualityDrop": 5.3
+    },
+    {
+      "seriesTconst": "tt0063890",
+      "seriesTitle": "The David Frost Show",
+      "season1Rating": 6.5,
+      "lastSeasonRating": 1.2,
+      "lastSeason": 4,
       "qualityDrop": 5.3
     },
     {
@@ -148,19 +148,19 @@
       "qualityDrop": 5.008
     },
     {
-      "seriesTconst": "tt0815086",
-      "seriesTitle": "Walmart Soundcheck",
-      "season1Rating": 9.2,
-      "lastSeasonRating": 4.2,
-      "lastSeason": 2,
-      "qualityDrop": 5.0
-    },
-    {
       "seriesTconst": "tt5191128",
       "seriesTitle": "The Break",
       "season1Rating": 7.8,
       "lastSeasonRating": 2.8,
       "lastSeason": 3,
+      "qualityDrop": 5.0
+    },
+    {
+      "seriesTconst": "tt0815086",
+      "seriesTitle": "Walmart Soundcheck",
+      "season1Rating": 9.2,
+      "lastSeasonRating": 4.2,
+      "lastSeason": 2,
       "qualityDrop": 5.0
     },
     {
@@ -188,14 +188,6 @@
       "qualityDrop": 4.86
     },
     {
-      "seriesTconst": "tt0048892",
-      "seriesTitle": "The Joseph Cotten Show: On Trial",
-      "season1Rating": 9.4,
-      "lastSeasonRating": 4.65,
-      "lastSeason": 2,
-      "qualityDrop": 4.75
-    },
-    {
       "seriesTconst": "tt0360301",
       "seriesTitle": "Player$",
       "season1Rating": 7.2,
@@ -204,12 +196,20 @@
       "qualityDrop": 4.75
     },
     {
-      "seriesTconst": "tt0479336",
-      "seriesTitle": "Pinoy Big Brother",
-      "season1Rating": 5.6,
-      "lastSeasonRating": 1.0,
-      "lastSeason": 11,
-      "qualityDrop": 4.6
+      "seriesTconst": "tt0048892",
+      "seriesTitle": "The Joseph Cotten Show: On Trial",
+      "season1Rating": 9.4,
+      "lastSeasonRating": 4.65,
+      "lastSeason": 2,
+      "qualityDrop": 4.75
+    },
+    {
+      "seriesTconst": "tt31365727",
+      "seriesTitle": "A renitens",
+      "season1Rating": 8.337,
+      "lastSeasonRating": 3.733,
+      "lastSeason": 3,
+      "qualityDrop": 4.604
     },
     {
       "seriesTconst": "tt5472884",
@@ -217,6 +217,14 @@
       "season1Rating": 6.7,
       "lastSeasonRating": 2.1,
       "lastSeason": 3,
+      "qualityDrop": 4.6
+    },
+    {
+      "seriesTconst": "tt0479336",
+      "seriesTitle": "Pinoy Big Brother",
+      "season1Rating": 5.6,
+      "lastSeasonRating": 1.0,
+      "lastSeason": 11,
       "qualityDrop": 4.6
     },
     {
@@ -242,14 +250,6 @@
       "lastSeasonRating": 2.5,
       "lastSeason": 8,
       "qualityDrop": 4.529
-    },
-    {
-      "seriesTconst": "tt31365727",
-      "seriesTitle": "A renitens",
-      "season1Rating": 8.337,
-      "lastSeasonRating": 3.833,
-      "lastSeason": 3,
-      "qualityDrop": 4.504
     },
     {
       "seriesTconst": "tt0306760",
@@ -292,20 +292,20 @@
       "qualityDrop": 4.3
     },
     {
-      "seriesTconst": "tt0856757",
-      "seriesTitle": "Yaprak D\u00f6k\u00fcm\u00fc",
-      "season1Rating": 6.845,
-      "lastSeasonRating": 2.593,
-      "lastSeason": 5,
-      "qualityDrop": 4.252
-    },
-    {
       "seriesTconst": "tt8537520",
       "seriesTitle": "Bigg Boss Malayalam",
       "season1Rating": 6.993,
       "lastSeasonRating": 2.75,
       "lastSeason": 2,
       "qualityDrop": 4.243
+    },
+    {
+      "seriesTconst": "tt0856757",
+      "seriesTitle": "Yaprak D\u00f6k\u00fcm\u00fc",
+      "season1Rating": 6.842,
+      "lastSeasonRating": 2.6,
+      "lastSeason": 5,
+      "qualityDrop": 4.242
     },
     {
       "seriesTconst": "tt1856010",
@@ -332,6 +332,14 @@
       "qualityDrop": 4.175
     },
     {
+      "seriesTconst": "tt16994878",
+      "seriesTitle": "7 vs. Wild",
+      "season1Rating": 8.05,
+      "lastSeasonRating": 3.937,
+      "lastSeason": 5,
+      "qualityDrop": 4.113
+    },
+    {
       "seriesTconst": "tt10827252",
       "seriesTitle": "The Drew Barrymore Show",
       "season1Rating": 6.106,
@@ -340,11 +348,11 @@
       "qualityDrop": 4.106
     },
     {
-      "seriesTconst": "tt9111220",
-      "seriesTitle": "Hudson & Rex",
-      "season1Rating": 7.5,
-      "lastSeasonRating": 3.4,
-      "lastSeason": 9,
+      "seriesTconst": "tt1885777",
+      "seriesTitle": "Funny as Hell",
+      "season1Rating": 5.6,
+      "lastSeasonRating": 1.5,
+      "lastSeason": 2,
       "qualityDrop": 4.1
     },
     {
@@ -364,28 +372,12 @@
       "qualityDrop": 4.1
     },
     {
-      "seriesTconst": "tt1885777",
-      "seriesTitle": "Funny as Hell",
-      "season1Rating": 5.6,
-      "lastSeasonRating": 1.5,
-      "lastSeason": 2,
-      "qualityDrop": 4.1
-    },
-    {
       "seriesTconst": "tt0315709",
       "seriesTitle": "Smogovci",
       "season1Rating": 8.46,
       "lastSeasonRating": 4.386,
       "lastSeason": 6,
       "qualityDrop": 4.074
-    },
-    {
-      "seriesTconst": "tt16994878",
-      "seriesTitle": "7 vs. Wild",
-      "season1Rating": 8.025,
-      "lastSeasonRating": 4.006,
-      "lastSeason": 5,
-      "qualityDrop": 4.019
     },
     {
       "seriesTconst": "tt2235412",
@@ -397,11 +389,19 @@
     },
     {
       "seriesTconst": "tt5663590",
-      "seriesTitle": "La Do\u00f1a",
+      "seriesTitle": "Lady Altagracia",
       "season1Rating": 7.659,
       "lastSeasonRating": 3.7,
       "lastSeason": 2,
       "qualityDrop": 3.959
+    },
+    {
+      "seriesTconst": "tt9111220",
+      "seriesTitle": "Hudson & Rex",
+      "season1Rating": 7.515,
+      "lastSeasonRating": 3.6,
+      "lastSeason": 9,
+      "qualityDrop": 3.915
     }
   ]
 }
