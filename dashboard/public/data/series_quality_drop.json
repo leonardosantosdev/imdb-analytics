@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-13T08:13:33+00:00",
-  "snapshotDate": "2026-04-13",
+  "generatedAt": "2026-04-20T08:20:28+00:00",
+  "snapshotDate": "2026-04-20",
   "rows": 50,
   "data": [
     {
@@ -20,20 +20,20 @@
       "qualityDrop": 7.35
     },
     {
-      "seriesTconst": "tt8560918",
-      "seriesTitle": "The Queen of Flow",
-      "season1Rating": 8.905,
-      "lastSeasonRating": 2.085,
-      "lastSeason": 3,
-      "qualityDrop": 6.82
-    },
-    {
       "seriesTconst": "tt0081857",
       "seriesTitle": "Entertainment Tonight",
       "season1Rating": 8.3,
       "lastSeasonRating": 1.636,
       "lastSeason": 44,
       "qualityDrop": 6.664
+    },
+    {
+      "seriesTconst": "tt8560918",
+      "seriesTitle": "The Queen of Flow",
+      "season1Rating": 8.678,
+      "lastSeasonRating": 2.098,
+      "lastSeason": 3,
+      "qualityDrop": 6.58
     },
     {
       "seriesTconst": "tt0072506",
@@ -54,10 +54,10 @@
     {
       "seriesTconst": "tt0063908",
       "seriesTitle": "Hee Haw",
-      "season1Rating": 6.88,
+      "season1Rating": 6.92,
       "lastSeasonRating": 1.0,
       "lastSeason": 12,
-      "qualityDrop": 5.88
+      "qualityDrop": 5.92
     },
     {
       "seriesTconst": "tt0122824",
@@ -114,14 +114,6 @@
       "lastSeasonRating": 1.2,
       "lastSeason": 4,
       "qualityDrop": 5.3
-    },
-    {
-      "seriesTconst": "tt18300006",
-      "seriesTitle": "Sherri",
-      "season1Rating": 6.267,
-      "lastSeasonRating": 1.0,
-      "lastSeason": 4,
-      "qualityDrop": 5.267
     },
     {
       "seriesTconst": "tt0210450",
@@ -188,6 +180,14 @@
       "qualityDrop": 4.86
     },
     {
+      "seriesTconst": "tt18300006",
+      "seriesTitle": "Sherri",
+      "season1Rating": 5.833,
+      "lastSeasonRating": 1.0,
+      "lastSeason": 4,
+      "qualityDrop": 4.833
+    },
+    {
       "seriesTconst": "tt0048892",
       "seriesTitle": "The Joseph Cotten Show: On Trial",
       "season1Rating": 9.4,
@@ -204,12 +204,12 @@
       "qualityDrop": 4.75
     },
     {
-      "seriesTconst": "tt31365727",
-      "seriesTitle": "A renitens",
-      "season1Rating": 8.337,
-      "lastSeasonRating": 3.733,
+      "seriesTconst": "tt5472884",
+      "seriesTitle": "Drunk History: El Lado Borroso De La Historia",
+      "season1Rating": 6.7,
+      "lastSeasonRating": 2.1,
       "lastSeason": 3,
-      "qualityDrop": 4.604
+      "qualityDrop": 4.6
     },
     {
       "seriesTconst": "tt0479336",
@@ -217,14 +217,6 @@
       "season1Rating": 5.6,
       "lastSeasonRating": 1.0,
       "lastSeason": 11,
-      "qualityDrop": 4.6
-    },
-    {
-      "seriesTconst": "tt5472884",
-      "seriesTitle": "Drunk History: El Lado Borroso De La Historia",
-      "season1Rating": 6.7,
-      "lastSeasonRating": 2.1,
-      "lastSeason": 3,
       "qualityDrop": 4.6
     },
     {
@@ -294,10 +286,10 @@
     {
       "seriesTconst": "tt0856757",
       "seriesTitle": "Yaprak D\u00f6k\u00fcm\u00fc",
-      "season1Rating": 6.829,
+      "season1Rating": 6.803,
       "lastSeasonRating": 2.533,
       "lastSeason": 5,
-      "qualityDrop": 4.296
+      "qualityDrop": 4.27
     },
     {
       "seriesTconst": "tt8537520",
@@ -348,6 +340,14 @@
       "qualityDrop": 4.106
     },
     {
+      "seriesTconst": "tt0088473",
+      "seriesTitle": "Adventures in Wonderland",
+      "season1Rating": 9.5,
+      "lastSeasonRating": 5.4,
+      "lastSeason": 3,
+      "qualityDrop": 4.1
+    },
+    {
       "seriesTconst": "tt1885777",
       "seriesTitle": "Funny as Hell",
       "season1Rating": 5.6,
@@ -361,14 +361,6 @@
       "season1Rating": 6.3,
       "lastSeasonRating": 2.2,
       "lastSeason": 2,
-      "qualityDrop": 4.1
-    },
-    {
-      "seriesTconst": "tt0088473",
-      "seriesTitle": "Adventures in Wonderland",
-      "season1Rating": 9.5,
-      "lastSeasonRating": 5.4,
-      "lastSeason": 3,
       "qualityDrop": 4.1
     },
     {
@@ -388,20 +380,28 @@
       "qualityDrop": 4.008
     },
     {
-      "seriesTconst": "tt5663590",
-      "seriesTitle": "Lady Altagracia",
-      "season1Rating": 7.659,
-      "lastSeasonRating": 3.7,
-      "lastSeason": 2,
-      "qualityDrop": 3.959
+      "seriesTconst": "tt31365727",
+      "seriesTitle": "A renitens",
+      "season1Rating": 8.337,
+      "lastSeasonRating": 4.4,
+      "lastSeason": 3,
+      "qualityDrop": 3.937
+    },
+    {
+      "seriesTconst": "tt0486068",
+      "seriesTitle": "Indian Idol",
+      "season1Rating": 8.2,
+      "lastSeasonRating": 4.3,
+      "lastSeason": 11,
+      "qualityDrop": 3.9
     },
     {
       "seriesTconst": "tt5180504",
       "seriesTitle": "The Witcher",
       "season1Rating": 8.275,
-      "lastSeasonRating": 4.375,
+      "lastSeasonRating": 4.388,
       "lastSeason": 4,
-      "qualityDrop": 3.9
+      "qualityDrop": 3.887
     }
   ]
 }

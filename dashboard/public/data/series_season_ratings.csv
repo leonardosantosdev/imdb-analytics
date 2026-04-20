@@ -1,467 +1,468 @@
 seriesTconst,seriesTitle,seasonNumber,avgRating,totalVotes,episodeCount
-tt0944947,Game of Thrones,1,8.98,601165.0,10
-tt0944947,Game of Thrones,2,8.8,499563.0,10
-tt0944947,Game of Thrones,3,8.93,600964.0,10
-tt0944947,Game of Thrones,4,9.24,656191.0,10
-tt0944947,Game of Thrones,5,8.7,573205.0,10
-tt0944947,Game of Thrones,6,8.98,1008776.0,10
-tt0944947,Game of Thrones,7,9.029,544658.0,7
-tt0944947,Game of Thrones,8,6.4,1281425.0,6
-tt0903747,Breaking Bad,1,8.686,424047.0,7
-tt0903747,Breaking Bad,2,8.785,654036.0,13
-tt0903747,Breaking Bad,3,8.715,692136.0,13
-tt0903747,Breaking Bad,4,8.954,784398.0,13
-tt0903747,Breaking Bad,5,9.325,1811067.0,16
-tt0388629,One Piece,1,8.108,4116809.0,1156
-tt2560140,Attack on Titan,1,8.812,830147.0,25
-tt2560140,Attack on Titan,2,9.092,426172.0,12
-tt2560140,Attack on Titan,3,9.3,1068171.0,22
-tt2560140,Attack on Titan,4,9.233,1750247.0,30
-tt1520211,The Walking Dead,1,8.55,145901.0,6
-tt1520211,The Walking Dead,2,8.377,241961.0,13
-tt1520211,The Walking Dead,3,8.35,264743.0,16
-tt1520211,The Walking Dead,4,8.256,282378.0,16
-tt1520211,The Walking Dead,5,8.375,281783.0,16
-tt1520211,The Walking Dead,6,8.3,302034.0,16
-tt1520211,The Walking Dead,7,7.481,271525.0,16
-tt1520211,The Walking Dead,8,7.119,198658.0,16
-tt1520211,The Walking Dead,9,8.0,186995.0,16
-tt1520211,The Walking Dead,10,7.382,223565.0,22
-tt1520211,The Walking Dead,11,7.729,209662.0,24
-tt4574334,Stranger Things,1,8.788,393194.0,8
-tt4574334,Stranger Things,2,8.4,408143.0,9
-tt4574334,Stranger Things,3,8.475,352910.0,8
-tt4574334,Stranger Things,4,8.678,480052.0,9
-tt4574334,Stranger Things,5,7.838,907547.0,8
-tt0096697,The Simpsons,1,7.677,82908.0,13
-tt0096697,The Simpsons,2,7.977,110916.0,22
-tt0096697,The Simpsons,3,8.133,108649.0,24
-tt0096697,The Simpsons,4,8.25,99663.0,22
-tt0096697,The Simpsons,5,8.336,95144.0,22
-tt0096697,The Simpsons,6,8.352,104653.0,25
-tt0096697,The Simpsons,7,8.356,99345.0,25
-tt0096697,The Simpsons,8,8.212,101259.0,25
-tt0096697,The Simpsons,9,7.788,80387.0,25
-tt0096697,The Simpsons,10,7.543,62821.0,23
-tt0096697,The Simpsons,11,7.264,53813.0,22
-tt0096697,The Simpsons,12,7.281,50915.0,21
-tt0096697,The Simpsons,13,7.05,47199.0,22
-tt0096697,The Simpsons,14,7.023,43945.0,22
-tt0096697,The Simpsons,15,6.973,42167.0,22
-tt0096697,The Simpsons,16,6.924,38467.0,21
-tt0096697,The Simpsons,17,6.795,40027.0,22
-tt0096697,The Simpsons,18,6.859,41385.0,22
-tt0096697,The Simpsons,19,6.84,36954.0,20
-tt0096697,The Simpsons,20,6.843,36352.0,21
-tt0096697,The Simpsons,21,6.743,36455.0,23
-tt0096697,The Simpsons,22,6.705,33613.0,22
-tt0096697,The Simpsons,23,6.709,37761.0,22
-tt0096697,The Simpsons,24,6.673,30604.0,22
-tt0096697,The Simpsons,25,6.7,32576.0,22
-tt0096697,The Simpsons,26,6.555,30935.0,22
-tt0096697,The Simpsons,27,6.636,29471.0,22
-tt0096697,The Simpsons,28,6.436,24200.0,22
-tt0096697,The Simpsons,29,6.633,25227.0,21
-tt0096697,The Simpsons,30,6.239,27075.0,23
-tt0096697,The Simpsons,31,6.482,24584.0,22
-tt0096697,The Simpsons,32,6.455,23401.0,22
-tt0096697,The Simpsons,33,6.586,24202.0,22
-tt0096697,The Simpsons,34,6.482,21364.0,22
-tt0096697,The Simpsons,35,6.572,14013.0,18
-tt0096697,The Simpsons,36,6.557,14397.0,21
-tt0096697,The Simpsons,37,6.847,6356.0,15
-tt0460681,Supernatural,1,8.232,199517.0,22
-tt0460681,Supernatural,2,8.595,173078.0,22
-tt0460681,Supernatural,3,8.506,120780.0,16
-tt0460681,Supernatural,4,8.623,154420.0,22
-tt0460681,Supernatural,5,8.759,151056.0,22
-tt0460681,Supernatural,6,8.377,118787.0,22
-tt0460681,Supernatural,7,8.335,109949.0,23
-tt0460681,Supernatural,8,8.204,110029.0,23
-tt0460681,Supernatural,9,8.139,105628.0,23
-tt0460681,Supernatural,10,8.174,105075.0,23
-tt0460681,Supernatural,11,8.504,101760.0,23
-tt0460681,Supernatural,12,8.078,81148.0,23
-tt0460681,Supernatural,13,8.343,86821.0,23
-tt0460681,Supernatural,14,8.16,62804.0,20
-tt0460681,Supernatural,15,7.995,112048.0,20
-tt2085059,Black Mirror,1,8.033,218829.0,3
-tt2085059,Black Mirror,2,7.85,252782.0,4
-tt2085059,Black Mirror,3,8.183,379167.0,6
-tt2085059,Black Mirror,4,7.8,346377.0,6
-tt2085059,Black Mirror,5,6.8,147270.0,3
-tt2085059,Black Mirror,6,6.82,189423.0,5
-tt2085059,Black Mirror,7,7.533,184900.0,6
-tt3032476,Better Call Saul,1,8.68,279518.0,10
-tt3032476,Better Call Saul,2,8.5,204780.0,10
-tt3032476,Better Call Saul,3,8.72,217183.0,10
-tt3032476,Better Call Saul,4,8.63,194306.0,10
-tt3032476,Better Call Saul,5,9.06,247297.0,10
-tt3032476,Better Call Saul,6,9.1,533575.0,13
-tt0108778,Friends,1,8.133,186617.0,24
-tt0108778,Friends,2,8.283,161746.0,24
-tt0108778,Friends,3,8.24,155834.0,25
-tt0108778,Friends,4,8.321,147276.0,24
-tt0108778,Friends,5,8.467,150745.0,24
-tt0108778,Friends,6,8.32,142067.0,25
-tt0108778,Friends,7,8.246,127964.0,24
-tt0108778,Friends,8,8.283,129352.0,24
-tt0108778,Friends,9,8.104,115099.0,23
-tt0108778,Friends,10,8.539,106544.0,18
-tt0386676,The Office,1,7.75,66749.0,6
-tt0386676,The Office,2,8.277,196249.0,22
-tt0386676,The Office,3,8.435,185749.0,23
-tt0386676,The Office,4,8.4,111037.0,14
-tt0386676,The Office,5,8.338,188645.0,26
-tt0386676,The Office,6,8.038,166655.0,26
-tt0386676,The Office,7,8.219,170506.0,27
-tt0386676,The Office,8,7.4,127092.0,24
-tt0386676,The Office,9,7.678,147358.0,23
-tt0436992,Doctor Who,1,7.915,132575.0,13
-tt0436992,Doctor Who,2,7.8,136841.0,14
-tt0436992,Doctor Who,3,8.014,146189.0,14
-tt0436992,Doctor Who,4,8.314,133851.0,14
-tt0436992,Doctor Who,5,8.069,118064.0,13
-tt0436992,Doctor Who,6,8.014,113675.0,14
-tt0436992,Doctor Who,7,7.667,115618.0,15
-tt0436992,Doctor Who,8,7.685,101484.0,13
-tt0436992,Doctor Who,9,7.992,96291.0,13
-tt0436992,Doctor Who,10,7.646,75172.0,13
-tt0436992,Doctor Who,11,6.264,95641.0,11
-tt0436992,Doctor Who,12,6.09,62402.0,10
-tt0436992,Doctor Who,13,6.45,26143.0,6
-tt0121955,South Park,1,7.836,67834.0,14
-tt0121955,South Park,2,7.689,70016.0,18
-tt0121955,South Park,3,7.871,63475.0,17
-tt0121955,South Park,4,8.047,61402.0,17
-tt0121955,South Park,5,8.35,65330.0,14
-tt0121955,South Park,6,8.376,67899.0,17
-tt0121955,South Park,7,8.327,59731.0,15
-tt0121955,South Park,8,8.593,61981.0,14
-tt0121955,South Park,9,8.343,56969.0,14
-tt0121955,South Park,10,8.243,62675.0,14
-tt0121955,South Park,11,8.529,61589.0,14
-tt0121955,South Park,12,7.943,49973.0,14
-tt0121955,South Park,13,8.086,50818.0,14
-tt0121955,South Park,14,8.114,47354.0,14
-tt0121955,South Park,15,7.657,45051.0,14
-tt0121955,South Park,16,7.536,42499.0,14
-tt0121955,South Park,17,7.95,33803.0,10
-tt0121955,South Park,18,7.87,33238.0,10
-tt0121955,South Park,19,8.04,32891.0,10
-tt0121955,South Park,20,7.51,25861.0,10
-tt0121955,South Park,21,7.38,27368.0,10
-tt0121955,South Park,22,7.58,26492.0,10
-tt0121955,South Park,23,7.63,27641.0,10
-tt0121955,South Park,24,7.9,10513.0,2
-tt0121955,South Park,25,7.3,15425.0,6
-tt0121955,South Park,26,7.667,18543.0,6
-tt0121955,South Park,27,8.02,30000.0,5
-tt0121955,South Park,28,6.98,10447.0,5
-tt3581920,The Last of Us,1,8.667,910214.0,9
-tt3581920,The Last of Us,2,7.257,264347.0,7
-tt2861424,Rick and Morty,1,8.536,209987.0,11
-tt2861424,Rick and Morty,2,8.69,182662.0,10
-tt2861424,Rick and Morty,3,8.7,209728.0,10
-tt2861424,Rick and Morty,4,8.36,156194.0,10
-tt2861424,Rick and Morty,5,7.73,141218.0,10
-tt2861424,Rick and Morty,6,8.01,95773.0,10
-tt2861424,Rick and Morty,7,7.38,104319.0,10
-tt2861424,Rick and Morty,8,7.44,60885.0,10
-tt0773262,Dexter,1,8.742,203814.0,12
-tt0773262,Dexter,2,8.758,153031.0,12
-tt0773262,Dexter,3,8.425,125963.0,12
-tt0773262,Dexter,4,8.917,176249.0,12
-tt0773262,Dexter,5,8.533,116939.0,12
-tt0773262,Dexter,6,8.15,115286.0,12
-tt0773262,Dexter,7,8.675,126652.0,12
-tt0773262,Dexter,8,7.4,139599.0,12
-tt0898266,The Big Bang Theory,1,8.071,99710.0,17
-tt0898266,The Big Bang Theory,2,8.157,118440.0,23
-tt0898266,The Big Bang Theory,3,8.196,110441.0,23
-tt0898266,The Big Bang Theory,4,8.033,107116.0,24
-tt0898266,The Big Bang Theory,5,7.925,103433.0,24
-tt0898266,The Big Bang Theory,6,7.946,101188.0,24
-tt0898266,The Big Bang Theory,7,7.85,96841.0,24
-tt0898266,The Big Bang Theory,8,7.467,88678.0,24
-tt0898266,The Big Bang Theory,9,7.571,86133.0,24
-tt0898266,The Big Bang Theory,10,7.396,76231.0,24
-tt0898266,The Big Bang Theory,11,7.333,71557.0,24
-tt0898266,The Big Bang Theory,12,7.471,81849.0,24
-tt0106179,The X-Files,1,7.629,185495.0,24
-tt0106179,The X-Files,2,7.792,146758.0,25
-tt0106179,The X-Files,3,7.95,131955.0,24
-tt0106179,The X-Files,4,7.942,117705.0,24
-tt0106179,The X-Files,5,8.05,93582.0,20
-tt0106179,The X-Files,6,8.077,98965.0,22
-tt0106179,The X-Files,7,7.541,86318.0,22
-tt0106179,The X-Files,8,7.71,69403.0,21
-tt0106179,The X-Files,9,7.365,57464.0,20
-tt0106179,The X-Files,10,7.367,41549.0,6
-tt0106179,The X-Files,11,7.44,37226.0,10
-tt0411008,Lost,1,8.536,243833.0,25
-tt0411008,Lost,2,8.442,186856.0,24
-tt0411008,Lost,3,8.487,187682.0,23
-tt0411008,Lost,4,8.579,118138.0,14
-tt0411008,Lost,5,8.535,118370.0,17
-tt0411008,Lost,6,8.306,131456.0,18
-tt0460649,How I Met Your Mother,1,8.15,126662.0,22
-tt0460649,How I Met Your Mother,2,8.318,109944.0,22
-tt0460649,How I Met Your Mother,3,8.15,90990.0,20
-tt0460649,How I Met Your Mother,4,8.125,104985.0,24
-tt0460649,How I Met Your Mother,5,8.042,105447.0,24
-tt0460649,How I Met Your Mother,6,8.046,100086.0,24
-tt0460649,How I Met Your Mother,7,8.013,100947.0,24
-tt0460649,How I Met Your Mother,8,7.796,103410.0,24
-tt0460649,How I Met Your Mother,9,7.471,140643.0,24
-tt11198330,House of the Dragon,1,8.73,608609.0,10
-tt11198330,House of the Dragon,2,7.788,362780.0,8
-tt0141842,The Sopranos,1,8.538,171531.0,13
-tt0141842,The Sopranos,2,8.562,142558.0,13
-tt0141842,The Sopranos,3,8.692,143747.0,13
-tt0141842,The Sopranos,4,8.392,124170.0,13
-tt0141842,The Sopranos,5,8.685,128899.0,13
-tt0141842,The Sopranos,6,8.71,212810.0,21
-tt0182576,Family Guy,1,7.4,27431.0,7
-tt0182576,Family Guy,2,7.548,60593.0,21
-tt0182576,Family Guy,3,7.536,53889.0,22
-tt0182576,Family Guy,4,7.577,68508.0,30
-tt0182576,Family Guy,5,7.578,38915.0,18
-tt0182576,Family Guy,6,7.517,32818.0,12
-tt0182576,Family Guy,7,7.431,35550.0,16
-tt0182576,Family Guy,8,7.324,50803.0,21
-tt0182576,Family Guy,9,7.294,46000.0,18
-tt0182576,Family Guy,10,7.196,45017.0,23
-tt0182576,Family Guy,11,7.086,37776.0,22
-tt0182576,Family Guy,12,6.519,38638.0,21
-tt0182576,Family Guy,13,6.828,31999.0,18
-tt0182576,Family Guy,14,6.965,28883.0,20
-tt0182576,Family Guy,15,6.955,27142.0,20
-tt0182576,Family Guy,16,7.18,32950.0,20
-tt0182576,Family Guy,17,6.49,29404.0,20
-tt0182576,Family Guy,18,6.63,23893.0,20
-tt0182576,Family Guy,19,6.685,23061.0,20
-tt0182576,Family Guy,20,6.575,19767.0,20
-tt0182576,Family Guy,21,6.665,18714.0,20
-tt0182576,Family Guy,22,6.282,12755.0,17
-tt0182576,Family Guy,23,6.14,11664.0,20
-tt0182576,Family Guy,24,6.544,3198.0,9
-tt0098904,Seinfeld,1,7.34,30768.0,5
-tt0098904,Seinfeld,2,7.925,63833.0,12
-tt0098904,Seinfeld,3,8.168,112229.0,22
-tt0098904,Seinfeld,4,8.404,113816.0,23
-tt0098904,Seinfeld,5,8.405,100112.0,21
-tt0098904,Seinfeld,6,8.183,95667.0,23
-tt0098904,Seinfeld,7,8.409,93861.0,22
-tt0098904,Seinfeld,8,8.414,91195.0,22
-tt0098904,Seinfeld,9,8.214,90914.0,22
-tt1710308,Regular Show,1,8.542,52530.0,12
-tt1710308,Regular Show,2,8.675,107584.0,28
-tt1710308,Regular Show,3,8.418,131671.0,39
-tt1710308,Regular Show,4,8.235,116307.0,37
-tt1710308,Regular Show,5,8.224,109552.0,37
-tt1710308,Regular Show,6,8.443,83898.0,28
-tt1710308,Regular Show,7,8.333,103498.0,36
-tt1710308,Regular Show,8,8.563,86351.0,27
-tt0452046,Criminal Minds,1,7.727,71272.0,22
-tt0452046,Criminal Minds,2,7.978,66015.0,23
-tt0452046,Criminal Minds,3,7.875,54449.0,20
-tt0452046,Criminal Minds,4,7.973,69806.0,26
-tt0452046,Criminal Minds,5,7.726,59655.0,23
-tt0452046,Criminal Minds,6,7.638,56844.0,24
-tt0452046,Criminal Minds,7,7.721,54802.0,24
-tt0452046,Criminal Minds,8,7.625,54293.0,24
-tt0452046,Criminal Minds,9,7.7,51624.0,24
-tt0452046,Criminal Minds,10,7.504,51804.0,23
-tt0452046,Criminal Minds,11,7.505,47104.0,22
-tt0452046,Criminal Minds,12,7.418,45825.0,22
-tt0452046,Criminal Minds,13,7.473,34310.0,22
-tt0452046,Criminal Minds,14,7.547,17100.0,15
-tt0452046,Criminal Minds,15,7.68,9789.0,10
-tt0452046,Criminal Minds,16,7.93,8209.0,10
-tt0452046,Criminal Minds,17,7.62,5315.0,10
-tt0452046,Criminal Minds,18,7.31,4351.0,10
-tt0412142,House,1,8.3,121736.0,22
-tt0412142,House,2,8.388,110803.0,24
-tt0412142,House,3,8.417,101880.0,24
-tt0412142,House,4,8.581,84716.0,16
-tt0412142,House,5,8.429,95724.0,24
-tt0412142,House,6,8.414,86343.0,21
-tt0412142,House,7,8.213,74806.0,23
-tt0412142,House,8,8.196,72980.0,23
-tt0092455,Star Trek: The Next Generation,1,6.748,116302.0,25
-tt0092455,Star Trek: The Next Generation,2,6.882,96324.0,22
-tt0092455,Star Trek: The Next Generation,3,7.535,113833.0,26
-tt0092455,Star Trek: The Next Generation,4,7.531,106217.0,26
-tt0092455,Star Trek: The Next Generation,5,7.596,107561.0,26
-tt0092455,Star Trek: The Next Generation,6,7.669,97015.0,26
-tt0092455,Star Trek: The Next Generation,7,7.168,91699.0,25
-tt1190634,The Boys,1,8.55,172671.0,8
-tt1190634,The Boys,2,8.538,161573.0,8
-tt1190634,The Boys,3,8.638,189193.0,8
-tt1190634,The Boys,4,7.975,190429.0,8
-tt12343534,Jujutsu Kaisen,1,8.379,224342.0,24
-tt12343534,Jujutsu Kaisen,2,8.996,292634.0,23
-tt12343534,Jujutsu Kaisen,3,8.933,196544.0,12
-tt2193021,Arrow,1,8.235,135133.0,23
-tt2193021,Arrow,2,8.652,128272.0,23
-tt2193021,Arrow,3,8.4,121078.0,23
-tt2193021,Arrow,4,7.583,96424.0,23
-tt2193021,Arrow,5,8.23,85022.0,23
-tt2193021,Arrow,6,7.874,61312.0,23
-tt2193021,Arrow,7,8.014,54602.0,22
-tt2193021,Arrow,8,8.42,28294.0,10
-tt3107288,The Flash,1,8.552,183863.0,23
-tt3107288,The Flash,2,8.452,131479.0,23
-tt3107288,The Flash,3,8.061,105207.0,23
-tt3107288,The Flash,4,7.483,83926.0,23
-tt3107288,The Flash,5,7.777,62874.0,22
-tt3107288,The Flash,6,7.289,44464.0,19
-tt3107288,The Flash,7,6.517,36483.0,18
-tt3107288,The Flash,8,6.84,29805.0,20
-tt3107288,The Flash,9,6.046,23947.0,13
-tt9561862,"Love, Death & Robots",1,7.311,381362.0,18
-tt9561862,"Love, Death & Robots",2,7.025,110489.0,8
-tt9561862,"Love, Death & Robots",3,7.367,128956.0,9
-tt9561862,"Love, Death & Robots",4,6.07,73767.0,10
-tt0458290,Star Wars: The Clone Wars,1,7.327,120985.0,22
-tt0458290,Star Wars: The Clone Wars,2,7.664,99904.0,22
-tt0458290,Star Wars: The Clone Wars,3,7.795,99873.0,22
-tt0458290,Star Wars: The Clone Wars,4,7.927,95444.0,22
-tt0458290,Star Wars: The Clone Wars,5,7.98,94104.0,20
-tt0458290,Star Wars: The Clone Wars,6,7.977,53544.0,13
-tt0458290,Star Wars: The Clone Wars,7,8.1,123317.0,12
-tt11126994,Arcane,1,9.089,338760.0,9
-tt11126994,Arcane,2,9.278,343920.0,9
-tt0472954,It's Always Sunny in Philadelphia,1,8.086,37093.0,7
-tt0472954,It's Always Sunny in Philadelphia,2,8.46,48247.0,10
-tt0472954,It's Always Sunny in Philadelphia,3,8.48,64116.0,15
-tt0472954,It's Always Sunny in Philadelphia,4,8.562,58785.0,13
-tt0472954,It's Always Sunny in Philadelphia,5,8.575,46730.0,12
-tt0472954,It's Always Sunny in Philadelphia,6,8.354,47646.0,13
-tt0472954,It's Always Sunny in Philadelphia,7,8.369,48701.0,13
-tt0472954,It's Always Sunny in Philadelphia,8,8.48,35514.0,10
-tt0472954,It's Always Sunny in Philadelphia,9,8.57,36816.0,10
-tt0472954,It's Always Sunny in Philadelphia,10,8.42,43202.0,10
-tt0472954,It's Always Sunny in Philadelphia,11,8.44,37262.0,10
-tt0472954,It's Always Sunny in Philadelphia,12,8.5,41008.0,10
-tt0472954,It's Always Sunny in Philadelphia,13,7.85,40264.0,10
-tt0472954,It's Always Sunny in Philadelphia,14,8.0,27786.0,10
-tt0472954,It's Always Sunny in Philadelphia,15,8.063,21278.0,8
-tt0472954,It's Always Sunny in Philadelphia,16,8.2,21321.0,8
-tt0472954,It's Always Sunny in Philadelphia,17,8.138,17169.0,8
-tt8111088,The Mandalorian,1,8.475,249685.0,8
-tt8111088,The Mandalorian,2,8.838,265058.0,8
-tt8111088,The Mandalorian,3,7.725,156110.0,8
-tt1442437,Modern Family,1,8.029,96048.0,24
-tt1442437,Modern Family,2,7.987,78351.0,24
-tt1442437,Modern Family,3,7.863,70825.0,24
-tt1442437,Modern Family,4,7.942,68887.0,24
-tt1442437,Modern Family,5,7.912,66672.0,24
-tt1442437,Modern Family,6,7.921,68301.0,24
-tt1442437,Modern Family,7,7.8,51836.0,22
-tt1442437,Modern Family,8,7.436,46111.0,22
-tt1442437,Modern Family,9,7.345,41745.0,22
-tt1442437,Modern Family,10,7.323,39513.0,22
-tt1442437,Modern Family,11,7.456,34089.0,18
-tt27497448,A Knight of the Seven Kingdoms,1,8.867,661641.0,6
-tt5626028,My Hero Academia,1,8.085,46268.0,13
-tt5626028,My Hero Academia,2,7.942,75520.0,26
-tt5626028,My Hero Academia,3,8.02,82951.0,25
-tt5626028,My Hero Academia,4,7.972,80212.0,25
-tt5626028,My Hero Academia,5,7.72,61445.0,25
-tt5626028,My Hero Academia,6,8.708,75429.0,25
-tt5626028,My Hero Academia,7,8.695,72412.0,21
-tt5626028,My Hero Academia,8,9.427,161291.0,11
-tt6741278,Invincible,1,8.65,180596.0,8
-tt6741278,Invincible,2,8.363,120282.0,8
-tt6741278,Invincible,3,8.8,238148.0,8
-tt6741278,Invincible,4,8.44,93202.0,5
-tt4158110,Mr. Robot,1,8.68,164571.0,10
-tt4158110,Mr. Robot,2,8.592,120940.0,12
-tt4158110,Mr. Robot,3,9.04,114385.0,10
-tt4158110,Mr. Robot,4,9.231,225889.0,13
-tt2467372,Brooklyn Nine-Nine,1,7.927,107375.0,22
-tt2467372,Brooklyn Nine-Nine,2,8.009,91526.0,23
-tt2467372,Brooklyn Nine-Nine,3,7.991,84134.0,23
-tt2467372,Brooklyn Nine-Nine,4,8.059,76812.0,22
-tt2467372,Brooklyn Nine-Nine,5,8.186,85314.0,22
-tt2467372,Brooklyn Nine-Nine,6,7.939,65799.0,18
-tt2467372,Brooklyn Nine-Nine,7,8.162,43220.0,13
-tt2467372,Brooklyn Nine-Nine,8,7.59,43444.0,10
-tt0118276,Buffy the Vampire Slayer,1,7.558,61513.0,12
-tt0118276,Buffy the Vampire Slayer,2,8.032,102862.0,22
-tt0118276,Buffy the Vampire Slayer,3,8.318,96289.0,22
-tt0118276,Buffy the Vampire Slayer,4,7.886,92986.0,22
-tt0118276,Buffy the Vampire Slayer,5,8.055,82511.0,22
-tt0118276,Buffy the Vampire Slayer,6,7.964,79563.0,22
-tt0118276,Buffy the Vampire Slayer,7,7.986,67267.0,22
-tt0203259,Law & Order: Special Victims Unit,1,7.927,29930.0,22
-tt0203259,Law & Order: Special Victims Unit,2,8.086,24403.0,21
-tt0203259,Law & Order: Special Victims Unit,3,8.157,25628.0,23
-tt0203259,Law & Order: Special Victims Unit,4,8.204,26854.0,25
-tt0203259,Law & Order: Special Victims Unit,5,8.196,26579.0,25
-tt0203259,Law & Order: Special Victims Unit,6,8.152,30122.0,23
-tt0203259,Law & Order: Special Victims Unit,7,8.136,28088.0,22
-tt0203259,Law & Order: Special Victims Unit,8,8.082,24172.0,22
-tt0203259,Law & Order: Special Victims Unit,9,8.116,24983.0,19
-tt0203259,Law & Order: Special Victims Unit,10,8.182,26610.0,22
-tt0203259,Law & Order: Special Victims Unit,11,7.988,26520.0,24
-tt0203259,Law & Order: Special Victims Unit,12,8.108,27212.0,24
-tt0203259,Law & Order: Special Victims Unit,13,7.943,23958.0,23
-tt0203259,Law & Order: Special Victims Unit,14,8.1,26194.0,24
-tt0203259,Law & Order: Special Victims Unit,15,7.988,24534.0,24
-tt0203259,Law & Order: Special Victims Unit,16,7.504,25351.0,23
-tt0203259,Law & Order: Special Victims Unit,17,8.07,25123.0,23
-tt0203259,Law & Order: Special Victims Unit,18,7.648,21030.0,21
-tt0203259,Law & Order: Special Victims Unit,19,7.8,24427.0,24
-tt0203259,Law & Order: Special Victims Unit,20,7.771,20863.0,24
-tt0203259,Law & Order: Special Victims Unit,21,7.88,11504.0,20
-tt0203259,Law & Order: Special Victims Unit,22,7.663,10247.0,16
-tt0203259,Law & Order: Special Victims Unit,23,7.891,11435.0,22
-tt0203259,Law & Order: Special Victims Unit,24,7.714,10121.0,22
-tt0203259,Law & Order: Special Victims Unit,25,7.515,6023.0,13
-tt0203259,Law & Order: Special Victims Unit,26,7.714,8093.0,22
-tt0203259,Law & Order: Special Victims Unit,27,7.931,4235.0,16
-tt3398228,BoJack Horseman,1,7.825,91697.0,12
-tt3398228,BoJack Horseman,2,8.2,79907.0,12
-tt3398228,BoJack Horseman,3,8.417,89216.0,12
-tt3398228,BoJack Horseman,4,8.492,92507.0,12
-tt3398228,BoJack Horseman,5,8.692,93820.0,12
-tt3398228,BoJack Horseman,6,8.806,126555.0,16
-tt0413573,Grey's Anatomy,1,8.122,20740.0,9
-tt0413573,Grey's Anatomy,2,8.385,53678.0,27
-tt0413573,Grey's Anatomy,3,8.14,42332.0,25
-tt0413573,Grey's Anatomy,4,8.065,25288.0,17
-tt0413573,Grey's Anatomy,5,8.446,40007.0,24
-tt0413573,Grey's Anatomy,6,8.242,39479.0,24
-tt0413573,Grey's Anatomy,7,7.841,31459.0,22
-tt0413573,Grey's Anatomy,8,8.242,33042.0,24
-tt0413573,Grey's Anatomy,9,8.154,30740.0,24
-tt0413573,Grey's Anatomy,10,7.85,29739.0,24
-tt0413573,Grey's Anatomy,11,7.812,31563.0,25
-tt0413573,Grey's Anatomy,12,8.083,29608.0,24
-tt0413573,Grey's Anatomy,13,7.767,27796.0,24
-tt0413573,Grey's Anatomy,14,8.079,29966.0,24
-tt0413573,Grey's Anatomy,15,7.928,28393.0,25
-tt0413573,Grey's Anatomy,16,7.376,20643.0,21
-tt0413573,Grey's Anatomy,17,7.212,18437.0,17
-tt0413573,Grey's Anatomy,18,7.335,13542.0,20
-tt0413573,Grey's Anatomy,19,7.275,11168.0,20
-tt0413573,Grey's Anatomy,20,7.36,4065.0,10
-tt0413573,Grey's Anatomy,21,7.467,6537.0,18
-tt0413573,Grey's Anatomy,22,7.606,3335.0,16
-tt7631058,The Lord of the Rings: The Rings of Power,1,7.238,379181.0,8
-tt7631058,The Lord of the Rings: The Rings of Power,2,7.188,188542.0,8
-tt1844624,American Horror Story,1,8.0,81404.0,12
-tt1844624,American Horror Story,2,8.315,75795.0,13
-tt1844624,American Horror Story,3,7.969,66821.0,13
-tt1844624,American Horror Story,4,7.946,59061.0,13
-tt1844624,American Horror Story,5,7.792,47938.0,12
-tt1844624,American Horror Story,6,7.66,39756.0,10
-tt1844624,American Horror Story,7,7.209,39164.0,11
-tt1844624,American Horror Story,8,7.98,44181.0,10
-tt1844624,American Horror Story,9,7.811,30643.0,9
-tt1844624,American Horror Story,10,6.62,34343.0,10
-tt1844624,American Horror Story,11,5.82,21839.0,10
-tt1844624,American Horror Story,12,5.322,16698.0,9
+tt0944947,Game of Thrones,1,8.98,603495.0,10
+tt0944947,Game of Thrones,2,8.8,501439.0,10
+tt0944947,Game of Thrones,3,8.93,603262.0,10
+tt0944947,Game of Thrones,4,9.24,658920.0,10
+tt0944947,Game of Thrones,5,8.7,575213.0,10
+tt0944947,Game of Thrones,6,8.98,1011669.0,10
+tt0944947,Game of Thrones,7,9.029,546183.0,7
+tt0944947,Game of Thrones,8,6.4,1283380.0,6
+tt0903747,Breaking Bad,1,8.686,426707.0,7
+tt0903747,Breaking Bad,2,8.785,658192.0,13
+tt0903747,Breaking Bad,3,8.715,696328.0,13
+tt0903747,Breaking Bad,4,8.954,789023.0,13
+tt0903747,Breaking Bad,5,9.319,1819776.0,16
+tt0388629,One Piece,1,8.107,4141667.0,1156
+tt2560140,Attack on Titan,1,8.812,835920.0,25
+tt2560140,Attack on Titan,2,9.092,429002.0,12
+tt2560140,Attack on Titan,3,9.3,1073722.0,22
+tt2560140,Attack on Titan,4,9.233,1757517.0,30
+tt1520211,The Walking Dead,1,8.55,146562.0,6
+tt1520211,The Walking Dead,2,8.377,243021.0,13
+tt1520211,The Walking Dead,3,8.35,265804.0,16
+tt1520211,The Walking Dead,4,8.256,283498.0,16
+tt1520211,The Walking Dead,5,8.375,282802.0,16
+tt1520211,The Walking Dead,6,8.3,303016.0,16
+tt1520211,The Walking Dead,7,7.481,272345.0,16
+tt1520211,The Walking Dead,8,7.125,199401.0,16
+tt1520211,The Walking Dead,9,8.0,187712.0,16
+tt1520211,The Walking Dead,10,7.382,224372.0,22
+tt1520211,The Walking Dead,11,7.729,210587.0,24
+tt4574334,Stranger Things,1,8.788,394225.0,8
+tt4574334,Stranger Things,2,8.4,409262.0,9
+tt4574334,Stranger Things,3,8.475,353879.0,8
+tt4574334,Stranger Things,4,8.678,481356.0,9
+tt4574334,Stranger Things,5,7.838,909170.0,8
+tt0096697,The Simpsons,1,7.677,83130.0,13
+tt0096697,The Simpsons,2,7.977,111210.0,22
+tt0096697,The Simpsons,3,8.133,108910.0,24
+tt0096697,The Simpsons,4,8.25,99906.0,22
+tt0096697,The Simpsons,5,8.336,95486.0,22
+tt0096697,The Simpsons,6,8.352,104931.0,25
+tt0096697,The Simpsons,7,8.356,99639.0,25
+tt0096697,The Simpsons,8,8.212,101532.0,25
+tt0096697,The Simpsons,9,7.788,80613.0,25
+tt0096697,The Simpsons,10,7.543,62983.0,23
+tt0096697,The Simpsons,11,7.268,53920.0,22
+tt0096697,The Simpsons,12,7.281,51049.0,21
+tt0096697,The Simpsons,13,7.05,47282.0,22
+tt0096697,The Simpsons,14,7.023,44048.0,22
+tt0096697,The Simpsons,15,6.973,42216.0,22
+tt0096697,The Simpsons,16,6.929,38552.0,21
+tt0096697,The Simpsons,17,6.791,40104.0,22
+tt0096697,The Simpsons,18,6.855,41429.0,22
+tt0096697,The Simpsons,19,6.84,36994.0,20
+tt0096697,The Simpsons,20,6.843,36431.0,21
+tt0096697,The Simpsons,21,6.743,36502.0,23
+tt0096697,The Simpsons,22,6.705,33642.0,22
+tt0096697,The Simpsons,23,6.709,37806.0,22
+tt0096697,The Simpsons,24,6.673,30635.0,22
+tt0096697,The Simpsons,25,6.7,32639.0,22
+tt0096697,The Simpsons,26,6.555,30994.0,22
+tt0096697,The Simpsons,27,6.636,29517.0,22
+tt0096697,The Simpsons,28,6.432,24241.0,22
+tt0096697,The Simpsons,29,6.633,25294.0,21
+tt0096697,The Simpsons,30,6.239,27133.0,23
+tt0096697,The Simpsons,31,6.482,24644.0,22
+tt0096697,The Simpsons,32,6.455,23449.0,22
+tt0096697,The Simpsons,33,6.586,24278.0,22
+tt0096697,The Simpsons,34,6.482,21414.0,22
+tt0096697,The Simpsons,35,6.578,14070.0,18
+tt0096697,The Simpsons,36,6.562,14489.0,21
+tt0096697,The Simpsons,37,6.847,6583.0,15
+tt0460681,Supernatural,1,8.232,200371.0,22
+tt0460681,Supernatural,2,8.595,173871.0,22
+tt0460681,Supernatural,3,8.506,121204.0,16
+tt0460681,Supernatural,4,8.623,154955.0,22
+tt0460681,Supernatural,5,8.759,151587.0,22
+tt0460681,Supernatural,6,8.377,119211.0,22
+tt0460681,Supernatural,7,8.335,110411.0,23
+tt0460681,Supernatural,8,8.204,110536.0,23
+tt0460681,Supernatural,9,8.139,106017.0,23
+tt0460681,Supernatural,10,8.174,105332.0,23
+tt0460681,Supernatural,11,8.504,101975.0,23
+tt0460681,Supernatural,12,8.074,81343.0,23
+tt0460681,Supernatural,13,8.343,87023.0,23
+tt0460681,Supernatural,14,8.16,63042.0,20
+tt0460681,Supernatural,15,7.995,112243.0,20
+tt2085059,Black Mirror,1,8.033,219098.0,3
+tt2085059,Black Mirror,2,7.85,253078.0,4
+tt2085059,Black Mirror,3,8.183,379623.0,6
+tt2085059,Black Mirror,4,7.8,346699.0,6
+tt2085059,Black Mirror,5,6.8,147404.0,3
+tt2085059,Black Mirror,6,6.82,189703.0,5
+tt2085059,Black Mirror,7,7.533,185435.0,6
+tt3032476,Better Call Saul,1,8.68,281353.0,10
+tt3032476,Better Call Saul,2,8.5,206129.0,10
+tt3032476,Better Call Saul,3,8.72,218525.0,10
+tt3032476,Better Call Saul,4,8.63,195435.0,10
+tt3032476,Better Call Saul,5,9.06,248754.0,10
+tt3032476,Better Call Saul,6,9.1,536466.0,13
+tt0108778,Friends,1,8.133,187137.0,24
+tt0108778,Friends,2,8.283,162127.0,24
+tt0108778,Friends,3,8.24,156132.0,25
+tt0108778,Friends,4,8.321,147498.0,24
+tt0108778,Friends,5,8.467,150935.0,24
+tt0108778,Friends,6,8.32,142345.0,25
+tt0108778,Friends,7,8.246,128132.0,24
+tt0108778,Friends,8,8.283,129541.0,24
+tt0108778,Friends,9,8.104,115280.0,23
+tt0108778,Friends,10,8.539,106657.0,18
+tt0386676,The Office,1,7.75,67051.0,6
+tt0386676,The Office,2,8.277,197014.0,22
+tt0386676,The Office,3,8.435,186476.0,23
+tt0386676,The Office,4,8.4,111464.0,14
+tt0386676,The Office,5,8.338,189272.0,26
+tt0386676,The Office,6,8.038,167310.0,26
+tt0386676,The Office,7,8.215,171159.0,27
+tt0386676,The Office,8,7.392,127561.0,24
+tt0386676,The Office,9,7.678,147862.0,23
+tt0436992,Doctor Who,1,7.915,132743.0,13
+tt0436992,Doctor Who,2,7.8,137067.0,14
+tt0436992,Doctor Who,3,8.014,146403.0,14
+tt0436992,Doctor Who,4,8.314,133986.0,14
+tt0436992,Doctor Who,5,8.069,118203.0,13
+tt0436992,Doctor Who,6,8.014,113797.0,14
+tt0436992,Doctor Who,7,7.667,115771.0,15
+tt0436992,Doctor Who,8,7.685,101594.0,13
+tt0436992,Doctor Who,9,7.992,96414.0,13
+tt0436992,Doctor Who,10,7.646,75290.0,13
+tt0436992,Doctor Who,11,6.264,95743.0,11
+tt0436992,Doctor Who,12,6.09,62476.0,10
+tt0436992,Doctor Who,13,6.45,26187.0,6
+tt0121955,South Park,1,7.836,67984.0,14
+tt0121955,South Park,2,7.689,70156.0,18
+tt0121955,South Park,3,7.871,63621.0,17
+tt0121955,South Park,4,8.047,61561.0,17
+tt0121955,South Park,5,8.35,65449.0,14
+tt0121955,South Park,6,8.376,68036.0,17
+tt0121955,South Park,7,8.327,59868.0,15
+tt0121955,South Park,8,8.593,62103.0,14
+tt0121955,South Park,9,8.343,57075.0,14
+tt0121955,South Park,10,8.243,62780.0,14
+tt0121955,South Park,11,8.529,61695.0,14
+tt0121955,South Park,12,7.943,50041.0,14
+tt0121955,South Park,13,8.086,50908.0,14
+tt0121955,South Park,14,8.114,47452.0,14
+tt0121955,South Park,15,7.664,45138.0,14
+tt0121955,South Park,16,7.536,42588.0,14
+tt0121955,South Park,17,7.95,33865.0,10
+tt0121955,South Park,18,7.87,33278.0,10
+tt0121955,South Park,19,8.04,32946.0,10
+tt0121955,South Park,20,7.51,25916.0,10
+tt0121955,South Park,21,7.38,27389.0,10
+tt0121955,South Park,22,7.58,26519.0,10
+tt0121955,South Park,23,7.63,27677.0,10
+tt0121955,South Park,24,7.9,10529.0,2
+tt0121955,South Park,25,7.3,15472.0,6
+tt0121955,South Park,26,7.667,18591.0,6
+tt0121955,South Park,27,8.02,30077.0,5
+tt0121955,South Park,28,6.96,10533.0,5
+tt3581920,The Last of Us,1,8.667,910473.0,9
+tt3581920,The Last of Us,2,7.257,264735.0,7
+tt0773262,Dexter,1,8.742,205391.0,12
+tt0773262,Dexter,2,8.767,154140.0,12
+tt0773262,Dexter,3,8.425,126819.0,12
+tt0773262,Dexter,4,8.917,177650.0,12
+tt0773262,Dexter,5,8.533,117720.0,12
+tt0773262,Dexter,6,8.15,116042.0,12
+tt0773262,Dexter,7,8.675,127473.0,12
+tt0773262,Dexter,8,7.4,140439.0,12
+tt2861424,Rick and Morty,1,8.536,210769.0,11
+tt2861424,Rick and Morty,2,8.69,183337.0,10
+tt2861424,Rick and Morty,3,8.7,210361.0,10
+tt2861424,Rick and Morty,4,8.36,156743.0,10
+tt2861424,Rick and Morty,5,7.73,141686.0,10
+tt2861424,Rick and Morty,6,8.01,96325.0,10
+tt2861424,Rick and Morty,7,7.38,104893.0,10
+tt2861424,Rick and Morty,8,7.44,61553.0,10
+tt0898266,The Big Bang Theory,1,8.071,99811.0,17
+tt0898266,The Big Bang Theory,2,8.157,118592.0,23
+tt0898266,The Big Bang Theory,3,8.196,110559.0,23
+tt0898266,The Big Bang Theory,4,8.033,107223.0,24
+tt0898266,The Big Bang Theory,5,7.925,103573.0,24
+tt0898266,The Big Bang Theory,6,7.946,101310.0,24
+tt0898266,The Big Bang Theory,7,7.85,96896.0,24
+tt0898266,The Big Bang Theory,8,7.465,85131.0,23
+tt0898266,The Big Bang Theory,9,7.571,86176.0,24
+tt0898266,The Big Bang Theory,10,7.4,76265.0,24
+tt0898266,The Big Bang Theory,11,7.333,71608.0,24
+tt0898266,The Big Bang Theory,12,7.471,81899.0,24
+tt0106179,The X-Files,1,7.629,185944.0,24
+tt0106179,The X-Files,2,7.792,147153.0,25
+tt0106179,The X-Files,3,7.95,132258.0,24
+tt0106179,The X-Files,4,7.942,117944.0,24
+tt0106179,The X-Files,5,8.05,93811.0,20
+tt0106179,The X-Files,6,8.077,99169.0,22
+tt0106179,The X-Files,7,7.541,86448.0,22
+tt0106179,The X-Files,8,7.71,69521.0,21
+tt0106179,The X-Files,9,7.36,57555.0,20
+tt0106179,The X-Files,10,7.367,41580.0,6
+tt0106179,The X-Files,11,7.43,37299.0,10
+tt0411008,Lost,1,8.536,245006.0,25
+tt0411008,Lost,2,8.442,187745.0,24
+tt0411008,Lost,3,8.487,188571.0,23
+tt0411008,Lost,4,8.579,118663.0,14
+tt0411008,Lost,5,8.535,118927.0,17
+tt0411008,Lost,6,8.306,132034.0,18
+tt0460649,How I Met Your Mother,1,8.15,126863.0,22
+tt0460649,How I Met Your Mother,2,8.318,110139.0,22
+tt0460649,How I Met Your Mother,3,8.15,91131.0,20
+tt0460649,How I Met Your Mother,4,8.125,105183.0,24
+tt0460649,How I Met Your Mother,5,8.042,105616.0,24
+tt0460649,How I Met Your Mother,6,8.042,100273.0,24
+tt0460649,How I Met Your Mother,7,8.013,101156.0,24
+tt0460649,How I Met Your Mother,8,7.796,103512.0,24
+tt0460649,How I Met Your Mother,9,7.471,140868.0,24
+tt11198330,House of the Dragon,1,8.73,609404.0,10
+tt11198330,House of the Dragon,2,7.788,363447.0,8
+tt0141842,The Sopranos,1,8.538,172253.0,13
+tt0141842,The Sopranos,2,8.562,143165.0,13
+tt0141842,The Sopranos,3,8.692,144394.0,13
+tt0141842,The Sopranos,4,8.392,124681.0,13
+tt0141842,The Sopranos,5,8.685,129487.0,13
+tt0141842,The Sopranos,6,8.71,213864.0,21
+tt0182576,Family Guy,1,7.4,27561.0,7
+tt0182576,Family Guy,2,7.548,60848.0,21
+tt0182576,Family Guy,3,7.536,54091.0,22
+tt0182576,Family Guy,4,7.577,68701.0,30
+tt0182576,Family Guy,5,7.578,39042.0,18
+tt0182576,Family Guy,6,7.517,32908.0,12
+tt0182576,Family Guy,7,7.431,35670.0,16
+tt0182576,Family Guy,8,7.324,50926.0,21
+tt0182576,Family Guy,9,7.289,46111.0,18
+tt0182576,Family Guy,10,7.196,45169.0,23
+tt0182576,Family Guy,11,7.086,37859.0,22
+tt0182576,Family Guy,12,6.519,38694.0,21
+tt0182576,Family Guy,13,6.828,32066.0,18
+tt0182576,Family Guy,14,6.965,28925.0,20
+tt0182576,Family Guy,15,6.955,27187.0,20
+tt0182576,Family Guy,16,7.18,33005.0,20
+tt0182576,Family Guy,17,6.49,29461.0,20
+tt0182576,Family Guy,18,6.63,23928.0,20
+tt0182576,Family Guy,19,6.685,23104.0,20
+tt0182576,Family Guy,20,6.57,19823.0,20
+tt0182576,Family Guy,21,6.665,18782.0,20
+tt0182576,Family Guy,22,6.282,12818.0,17
+tt0182576,Family Guy,23,6.14,11780.0,20
+tt0182576,Family Guy,24,6.564,3800.0,11
+tt1190634,The Boys,1,8.55,180396.0,8
+tt1190634,The Boys,2,8.538,168184.0,8
+tt1190634,The Boys,3,8.638,196484.0,8
+tt1190634,The Boys,4,7.975,197524.0,8
+tt1190634,The Boys,5,8.733,53432.0,3
+tt1710308,Regular Show,1,8.542,52739.0,12
+tt1710308,Regular Show,2,8.675,107890.0,28
+tt1710308,Regular Show,3,8.418,132031.0,39
+tt1710308,Regular Show,4,8.235,116612.0,37
+tt1710308,Regular Show,5,8.224,109822.0,37
+tt1710308,Regular Show,6,8.443,84094.0,28
+tt1710308,Regular Show,7,8.333,103749.0,36
+tt1710308,Regular Show,8,8.559,86662.0,27
+tt0098904,Seinfeld,1,7.34,30826.0,5
+tt0098904,Seinfeld,2,7.925,63914.0,12
+tt0098904,Seinfeld,3,8.168,112385.0,22
+tt0098904,Seinfeld,4,8.404,113925.0,23
+tt0098904,Seinfeld,5,8.4,100239.0,21
+tt0098904,Seinfeld,6,8.183,95811.0,23
+tt0098904,Seinfeld,7,8.409,94001.0,22
+tt0098904,Seinfeld,8,8.414,91334.0,22
+tt0098904,Seinfeld,9,8.209,90992.0,22
+tt0452046,Criminal Minds,1,7.727,71480.0,22
+tt0452046,Criminal Minds,2,7.978,66138.0,23
+tt0452046,Criminal Minds,3,7.875,54547.0,20
+tt0452046,Criminal Minds,4,7.973,69899.0,26
+tt0452046,Criminal Minds,5,7.726,59738.0,23
+tt0452046,Criminal Minds,6,7.638,56918.0,24
+tt0452046,Criminal Minds,7,7.721,54903.0,24
+tt0452046,Criminal Minds,8,7.625,54431.0,24
+tt0452046,Criminal Minds,9,7.7,51735.0,24
+tt0452046,Criminal Minds,10,7.504,51902.0,23
+tt0452046,Criminal Minds,11,7.505,47207.0,22
+tt0452046,Criminal Minds,12,7.418,45902.0,22
+tt0452046,Criminal Minds,13,7.473,34370.0,22
+tt0452046,Criminal Minds,14,7.547,17146.0,15
+tt0452046,Criminal Minds,15,7.68,9810.0,10
+tt0452046,Criminal Minds,16,7.93,8211.0,10
+tt0452046,Criminal Minds,17,7.62,5326.0,10
+tt0452046,Criminal Minds,18,7.31,4384.0,10
+tt0412142,House,1,8.3,122239.0,22
+tt0412142,House,2,8.388,111282.0,24
+tt0412142,House,3,8.417,102230.0,24
+tt0412142,House,4,8.581,85010.0,16
+tt0412142,House,5,8.429,95982.0,24
+tt0412142,House,6,8.414,86583.0,21
+tt0412142,House,7,8.217,75061.0,23
+tt0412142,House,8,8.191,73273.0,23
+tt6741278,Invincible,1,8.65,192222.0,8
+tt6741278,Invincible,2,8.362,129051.0,8
+tt6741278,Invincible,3,8.8,251436.0,8
+tt6741278,Invincible,4,8.743,175929.0,7
+tt0092455,Star Trek: The Next Generation,1,6.748,116576.0,25
+tt0092455,Star Trek: The Next Generation,2,6.877,96481.0,22
+tt0092455,Star Trek: The Next Generation,3,7.535,114018.0,26
+tt0092455,Star Trek: The Next Generation,4,7.531,106425.0,26
+tt0092455,Star Trek: The Next Generation,5,7.596,107745.0,26
+tt0092455,Star Trek: The Next Generation,6,7.669,97164.0,26
+tt0092455,Star Trek: The Next Generation,7,7.168,91839.0,25
+tt12343534,Jujutsu Kaisen,1,8.371,227570.0,24
+tt12343534,Jujutsu Kaisen,2,8.987,296310.0,23
+tt12343534,Jujutsu Kaisen,3,8.925,203128.0,12
+tt2193021,Arrow,1,8.235,135287.0,23
+tt2193021,Arrow,2,8.652,128404.0,23
+tt2193021,Arrow,3,8.396,121191.0,23
+tt2193021,Arrow,4,7.583,96480.0,23
+tt2193021,Arrow,5,8.235,85135.0,23
+tt2193021,Arrow,6,7.874,61383.0,23
+tt2193021,Arrow,7,8.014,54667.0,22
+tt2193021,Arrow,8,8.42,28352.0,10
+tt3107288,The Flash,1,8.552,184213.0,23
+tt3107288,The Flash,2,8.452,131671.0,23
+tt3107288,The Flash,3,8.057,105386.0,23
+tt3107288,The Flash,4,7.483,84043.0,23
+tt3107288,The Flash,5,7.773,62968.0,22
+tt3107288,The Flash,6,7.289,44538.0,19
+tt3107288,The Flash,7,6.517,36555.0,18
+tt3107288,The Flash,8,6.84,29885.0,20
+tt3107288,The Flash,9,6.046,23999.0,13
+tt9561862,"Love, Death & Robots",1,7.311,381733.0,18
+tt9561862,"Love, Death & Robots",2,7.025,110610.0,8
+tt9561862,"Love, Death & Robots",3,7.367,129106.0,9
+tt9561862,"Love, Death & Robots",4,6.07,74048.0,10
+tt0458290,Star Wars: The Clone Wars,1,7.327,121735.0,22
+tt0458290,Star Wars: The Clone Wars,2,7.664,100506.0,22
+tt0458290,Star Wars: The Clone Wars,3,7.795,100409.0,22
+tt0458290,Star Wars: The Clone Wars,4,7.927,96009.0,22
+tt0458290,Star Wars: The Clone Wars,5,7.98,94635.0,20
+tt0458290,Star Wars: The Clone Wars,6,7.977,53877.0,13
+tt0458290,Star Wars: The Clone Wars,7,8.1,124049.0,12
+tt11126994,Arcane,1,9.089,339518.0,9
+tt11126994,Arcane,2,9.278,344687.0,9
+tt8111088,The Mandalorian,1,8.475,250163.0,8
+tt8111088,The Mandalorian,2,8.838,265527.0,8
+tt8111088,The Mandalorian,3,7.725,156468.0,8
+tt0472954,It's Always Sunny in Philadelphia,1,8.086,37190.0,7
+tt0472954,It's Always Sunny in Philadelphia,2,8.46,48383.0,10
+tt0472954,It's Always Sunny in Philadelphia,3,8.48,64309.0,15
+tt0472954,It's Always Sunny in Philadelphia,4,8.562,58936.0,13
+tt0472954,It's Always Sunny in Philadelphia,5,8.575,46840.0,12
+tt0472954,It's Always Sunny in Philadelphia,6,8.354,47766.0,13
+tt0472954,It's Always Sunny in Philadelphia,7,8.369,48810.0,13
+tt0472954,It's Always Sunny in Philadelphia,8,8.48,35586.0,10
+tt0472954,It's Always Sunny in Philadelphia,9,8.57,36875.0,10
+tt0472954,It's Always Sunny in Philadelphia,10,8.42,43286.0,10
+tt0472954,It's Always Sunny in Philadelphia,11,8.411,33658.0,9
+tt0472954,It's Always Sunny in Philadelphia,12,8.5,41079.0,10
+tt0472954,It's Always Sunny in Philadelphia,13,7.85,40368.0,10
+tt0472954,It's Always Sunny in Philadelphia,14,8.0,27848.0,10
+tt0472954,It's Always Sunny in Philadelphia,15,8.063,21341.0,8
+tt0472954,It's Always Sunny in Philadelphia,16,8.2,21399.0,8
+tt0472954,It's Always Sunny in Philadelphia,17,8.138,17276.0,8
+tt1442437,Modern Family,1,8.029,96297.0,24
+tt1442437,Modern Family,2,7.987,78594.0,24
+tt1442437,Modern Family,3,7.863,71014.0,24
+tt1442437,Modern Family,4,7.938,69116.0,24
+tt1442437,Modern Family,5,7.912,66900.0,24
+tt1442437,Modern Family,6,7.921,68548.0,24
+tt1442437,Modern Family,7,7.8,52011.0,22
+tt1442437,Modern Family,8,7.436,46288.0,22
+tt1442437,Modern Family,9,7.345,41866.0,22
+tt1442437,Modern Family,10,7.323,39662.0,22
+tt1442437,Modern Family,11,7.456,34238.0,18
+tt27497448,A Knight of the Seven Kingdoms,1,8.867,664140.0,6
+tt5626028,My Hero Academia,1,8.077,46799.0,13
+tt5626028,My Hero Academia,2,7.942,76357.0,26
+tt5626028,My Hero Academia,3,8.024,83760.0,25
+tt5626028,My Hero Academia,4,7.972,80907.0,25
+tt5626028,My Hero Academia,5,7.716,61933.0,25
+tt5626028,My Hero Academia,6,8.704,76186.0,25
+tt5626028,My Hero Academia,7,8.695,73222.0,21
+tt5626028,My Hero Academia,8,9.445,162162.0,11
+tt4158110,Mr. Robot,1,8.68,165352.0,10
+tt4158110,Mr. Robot,2,8.592,121524.0,12
+tt4158110,Mr. Robot,3,9.04,114971.0,10
+tt4158110,Mr. Robot,4,9.231,226970.0,13
+tt2467372,Brooklyn Nine-Nine,1,7.927,107531.0,22
+tt2467372,Brooklyn Nine-Nine,2,8.009,91647.0,23
+tt2467372,Brooklyn Nine-Nine,3,7.991,84337.0,23
+tt2467372,Brooklyn Nine-Nine,4,8.059,77006.0,22
+tt2467372,Brooklyn Nine-Nine,5,8.186,85536.0,22
+tt2467372,Brooklyn Nine-Nine,6,7.939,65903.0,18
+tt2467372,Brooklyn Nine-Nine,7,8.162,43317.0,13
+tt2467372,Brooklyn Nine-Nine,8,7.59,43515.0,10
+tt0118276,Buffy the Vampire Slayer,1,7.558,61587.0,12
+tt0118276,Buffy the Vampire Slayer,2,8.032,103009.0,22
+tt0118276,Buffy the Vampire Slayer,3,8.318,96446.0,22
+tt0118276,Buffy the Vampire Slayer,4,7.886,93133.0,22
+tt0118276,Buffy the Vampire Slayer,5,8.055,82673.0,22
+tt0118276,Buffy the Vampire Slayer,6,7.964,79682.0,22
+tt0118276,Buffy the Vampire Slayer,7,7.986,67385.0,22
+tt3398228,BoJack Horseman,1,7.825,92228.0,12
+tt3398228,BoJack Horseman,2,8.2,80477.0,12
+tt3398228,BoJack Horseman,3,8.417,89786.0,12
+tt3398228,BoJack Horseman,4,8.492,93095.0,12
+tt3398228,BoJack Horseman,5,8.692,94345.0,12
+tt3398228,BoJack Horseman,6,8.806,127398.0,16
+tt0203259,Law & Order: Special Victims Unit,1,7.927,29962.0,22
+tt0203259,Law & Order: Special Victims Unit,2,8.086,24405.0,21
+tt0203259,Law & Order: Special Victims Unit,3,8.157,25668.0,23
+tt0203259,Law & Order: Special Victims Unit,4,8.204,26884.0,25
+tt0203259,Law & Order: Special Victims Unit,5,8.196,26627.0,25
+tt0203259,Law & Order: Special Victims Unit,6,8.152,30178.0,23
+tt0203259,Law & Order: Special Victims Unit,7,8.136,28128.0,22
+tt0203259,Law & Order: Special Victims Unit,8,8.086,24198.0,22
+tt0203259,Law & Order: Special Victims Unit,9,8.116,25009.0,19
+tt0203259,Law & Order: Special Victims Unit,10,8.182,26608.0,22
+tt0203259,Law & Order: Special Victims Unit,11,7.992,26504.0,24
+tt0203259,Law & Order: Special Victims Unit,12,8.112,27214.0,24
+tt0203259,Law & Order: Special Victims Unit,13,7.943,23973.0,23
+tt0203259,Law & Order: Special Victims Unit,14,8.1,26220.0,24
+tt0203259,Law & Order: Special Victims Unit,15,7.988,24587.0,24
+tt0203259,Law & Order: Special Victims Unit,16,7.504,25393.0,23
+tt0203259,Law & Order: Special Victims Unit,17,8.07,25144.0,23
+tt0203259,Law & Order: Special Victims Unit,18,7.648,21068.0,21
+tt0203259,Law & Order: Special Victims Unit,19,7.796,24488.0,24
+tt0203259,Law & Order: Special Victims Unit,20,7.771,20910.0,24
+tt0203259,Law & Order: Special Victims Unit,21,7.88,11560.0,20
+tt0203259,Law & Order: Special Victims Unit,22,7.669,10307.0,16
+tt0203259,Law & Order: Special Victims Unit,23,7.891,11497.0,22
+tt0203259,Law & Order: Special Victims Unit,24,7.705,10155.0,22
+tt0203259,Law & Order: Special Victims Unit,25,7.515,6028.0,13
+tt0203259,Law & Order: Special Victims Unit,26,7.714,8131.0,22
+tt0203259,Law & Order: Special Victims Unit,27,7.888,4492.0,17
+tt0413573,Grey's Anatomy,1,8.122,20798.0,9
+tt0413573,Grey's Anatomy,2,8.385,53724.0,27
+tt0413573,Grey's Anatomy,3,8.14,42350.0,25
+tt0413573,Grey's Anatomy,4,8.065,25310.0,17
+tt0413573,Grey's Anatomy,5,8.446,40049.0,24
+tt0413573,Grey's Anatomy,6,8.242,39548.0,24
+tt0413573,Grey's Anatomy,7,7.841,31508.0,22
+tt0413573,Grey's Anatomy,8,8.242,33134.0,24
+tt0413573,Grey's Anatomy,9,8.154,30784.0,24
+tt0413573,Grey's Anatomy,10,7.85,29766.0,24
+tt0413573,Grey's Anatomy,11,7.812,31617.0,25
+tt0413573,Grey's Anatomy,12,8.083,29621.0,24
+tt0413573,Grey's Anatomy,13,7.767,27805.0,24
+tt0413573,Grey's Anatomy,14,8.079,30024.0,24
+tt0413573,Grey's Anatomy,15,7.928,28471.0,25
+tt0413573,Grey's Anatomy,16,7.376,20662.0,21
+tt0413573,Grey's Anatomy,17,7.212,18451.0,17
+tt0413573,Grey's Anatomy,18,7.335,13549.0,20
+tt0413573,Grey's Anatomy,19,7.28,11212.0,20
+tt0413573,Grey's Anatomy,20,7.37,4086.0,10
+tt0413573,Grey's Anatomy,21,7.467,6569.0,18
+tt0413573,Grey's Anatomy,22,7.569,3517.0,16
+tt7631058,The Lord of the Rings: The Rings of Power,1,7.238,379273.0,8
+tt7631058,The Lord of the Rings: The Rings of Power,2,7.188,188716.0,8
+tt1844624,American Horror Story,1,8.0,81439.0,12
+tt1844624,American Horror Story,2,8.315,75886.0,13
+tt1844624,American Horror Story,3,7.969,66913.0,13
+tt1844624,American Horror Story,4,7.946,59136.0,13
+tt1844624,American Horror Story,5,7.792,47986.0,12
+tt1844624,American Horror Story,6,7.66,39805.0,10
+tt1844624,American Horror Story,7,7.209,39227.0,11
+tt1844624,American Horror Story,8,7.98,44270.0,10
+tt1844624,American Horror Story,9,7.811,30711.0,9
+tt1844624,American Horror Story,10,6.62,34396.0,10
+tt1844624,American Horror Story,11,5.82,21908.0,10
+tt1844624,American Horror Story,12,5.322,16764.0,9
