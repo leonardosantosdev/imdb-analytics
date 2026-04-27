@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-20T08:20:28+00:00",
-  "snapshotDate": "2026-04-20",
+  "generatedAt": "2026-04-27T08:35:41+00:00",
+  "snapshotDate": "2026-04-27",
   "rows": 50,
   "data": [
     {
@@ -30,10 +30,10 @@
     {
       "seriesTconst": "tt8560918",
       "seriesTitle": "The Queen of Flow",
-      "season1Rating": 8.678,
-      "lastSeasonRating": 2.098,
+      "season1Rating": 8.682,
+      "lastSeasonRating": 2.143,
       "lastSeason": 3,
-      "qualityDrop": 6.58
+      "qualityDrop": 6.539
     },
     {
       "seriesTconst": "tt0072506",
@@ -100,19 +100,19 @@
       "qualityDrop": 5.4
     },
     {
-      "seriesTconst": "tt0121016",
-      "seriesTitle": "Die Rudi Carrell Show",
-      "season1Rating": 9.3,
-      "lastSeasonRating": 4.0,
-      "lastSeason": 2,
-      "qualityDrop": 5.3
-    },
-    {
       "seriesTconst": "tt0063890",
       "seriesTitle": "The David Frost Show",
       "season1Rating": 6.5,
       "lastSeasonRating": 1.2,
       "lastSeason": 4,
+      "qualityDrop": 5.3
+    },
+    {
+      "seriesTconst": "tt0121016",
+      "seriesTitle": "Die Rudi Carrell Show",
+      "season1Rating": 9.3,
+      "lastSeasonRating": 4.0,
+      "lastSeason": 2,
       "qualityDrop": 5.3
     },
     {
@@ -204,19 +204,19 @@
       "qualityDrop": 4.75
     },
     {
-      "seriesTconst": "tt5472884",
-      "seriesTitle": "Drunk History: El Lado Borroso De La Historia",
-      "season1Rating": 6.7,
-      "lastSeasonRating": 2.1,
-      "lastSeason": 3,
-      "qualityDrop": 4.6
-    },
-    {
       "seriesTconst": "tt0479336",
       "seriesTitle": "Pinoy Big Brother",
       "season1Rating": 5.6,
       "lastSeasonRating": 1.0,
       "lastSeason": 11,
+      "qualityDrop": 4.6
+    },
+    {
+      "seriesTconst": "tt5472884",
+      "seriesTitle": "Drunk History: El Lado Borroso De La Historia",
+      "season1Rating": 6.7,
+      "lastSeasonRating": 2.1,
+      "lastSeason": 3,
       "qualityDrop": 4.6
     },
     {
@@ -340,11 +340,11 @@
       "qualityDrop": 4.106
     },
     {
-      "seriesTconst": "tt0088473",
-      "seriesTitle": "Adventures in Wonderland",
-      "season1Rating": 9.5,
-      "lastSeasonRating": 5.4,
-      "lastSeason": 3,
+      "seriesTconst": "tt1724588",
+      "seriesTitle": "Ebert Presents: At the Movies",
+      "season1Rating": 6.3,
+      "lastSeasonRating": 2.2,
+      "lastSeason": 2,
       "qualityDrop": 4.1
     },
     {
@@ -356,11 +356,11 @@
       "qualityDrop": 4.1
     },
     {
-      "seriesTconst": "tt1724588",
-      "seriesTitle": "Ebert Presents: At the Movies",
-      "season1Rating": 6.3,
-      "lastSeasonRating": 2.2,
-      "lastSeason": 2,
+      "seriesTconst": "tt0088473",
+      "seriesTitle": "Adventures in Wonderland",
+      "season1Rating": 9.5,
+      "lastSeasonRating": 5.4,
+      "lastSeason": 3,
       "qualityDrop": 4.1
     },
     {
@@ -399,9 +399,9 @@
       "seriesTconst": "tt5180504",
       "seriesTitle": "The Witcher",
       "season1Rating": 8.275,
-      "lastSeasonRating": 4.388,
+      "lastSeasonRating": 4.387,
       "lastSeason": 4,
-      "qualityDrop": 3.887
+      "qualityDrop": 3.888
     }
   ]
 }
