@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-27T08:35:41+00:00",
-  "snapshotDate": "2026-04-27",
+  "generatedAt": "2026-05-04T08:37:45+00:00",
+  "snapshotDate": "2026-05-04",
   "rows": 50,
   "data": [
     {
@@ -30,10 +30,10 @@
     {
       "seriesTconst": "tt8560918",
       "seriesTitle": "The Queen of Flow",
-      "season1Rating": 8.682,
-      "lastSeasonRating": 2.143,
+      "season1Rating": 8.685,
+      "lastSeasonRating": 2.151,
       "lastSeason": 3,
-      "qualityDrop": 6.539
+      "qualityDrop": 6.534
     },
     {
       "seriesTconst": "tt0072506",
@@ -54,10 +54,10 @@
     {
       "seriesTconst": "tt0063908",
       "seriesTitle": "Hee Haw",
-      "season1Rating": 6.92,
+      "season1Rating": 6.836,
       "lastSeasonRating": 1.0,
       "lastSeason": 12,
-      "qualityDrop": 5.92
+      "qualityDrop": 5.836
     },
     {
       "seriesTconst": "tt0122824",
@@ -84,14 +84,6 @@
       "qualityDrop": 5.5
     },
     {
-      "seriesTconst": "tt0154063",
-      "seriesTitle": "Chiquititas",
-      "season1Rating": 9.2,
-      "lastSeasonRating": 3.8,
-      "lastSeason": 6,
-      "qualityDrop": 5.4
-    },
-    {
       "seriesTconst": "tt0775367",
       "seriesTitle": "HBO Boxing",
       "season1Rating": 8.6,
@@ -100,12 +92,12 @@
       "qualityDrop": 5.4
     },
     {
-      "seriesTconst": "tt0063890",
-      "seriesTitle": "The David Frost Show",
-      "season1Rating": 6.5,
-      "lastSeasonRating": 1.2,
-      "lastSeason": 4,
-      "qualityDrop": 5.3
+      "seriesTconst": "tt0154063",
+      "seriesTitle": "Chiquititas",
+      "season1Rating": 9.2,
+      "lastSeasonRating": 3.8,
+      "lastSeason": 6,
+      "qualityDrop": 5.4
     },
     {
       "seriesTconst": "tt0121016",
@@ -113,6 +105,14 @@
       "season1Rating": 9.3,
       "lastSeasonRating": 4.0,
       "lastSeason": 2,
+      "qualityDrop": 5.3
+    },
+    {
+      "seriesTconst": "tt0063890",
+      "seriesTitle": "The David Frost Show",
+      "season1Rating": 6.5,
+      "lastSeasonRating": 1.2,
+      "lastSeason": 4,
       "qualityDrop": 5.3
     },
     {
@@ -140,19 +140,19 @@
       "qualityDrop": 5.008
     },
     {
-      "seriesTconst": "tt5191128",
-      "seriesTitle": "The Break",
-      "season1Rating": 7.8,
-      "lastSeasonRating": 2.8,
-      "lastSeason": 3,
-      "qualityDrop": 5.0
-    },
-    {
       "seriesTconst": "tt0815086",
       "seriesTitle": "Walmart Soundcheck",
       "season1Rating": 9.2,
       "lastSeasonRating": 4.2,
       "lastSeason": 2,
+      "qualityDrop": 5.0
+    },
+    {
+      "seriesTconst": "tt5191128",
+      "seriesTitle": "The Break",
+      "season1Rating": 7.8,
+      "lastSeasonRating": 2.8,
+      "lastSeason": 3,
       "qualityDrop": 5.0
     },
     {
@@ -188,14 +188,6 @@
       "qualityDrop": 4.833
     },
     {
-      "seriesTconst": "tt0048892",
-      "seriesTitle": "The Joseph Cotten Show: On Trial",
-      "season1Rating": 9.4,
-      "lastSeasonRating": 4.65,
-      "lastSeason": 2,
-      "qualityDrop": 4.75
-    },
-    {
       "seriesTconst": "tt0360301",
       "seriesTitle": "Player$",
       "season1Rating": 7.2,
@@ -204,12 +196,12 @@
       "qualityDrop": 4.75
     },
     {
-      "seriesTconst": "tt0479336",
-      "seriesTitle": "Pinoy Big Brother",
-      "season1Rating": 5.6,
-      "lastSeasonRating": 1.0,
-      "lastSeason": 11,
-      "qualityDrop": 4.6
+      "seriesTconst": "tt0048892",
+      "seriesTitle": "On Trial",
+      "season1Rating": 9.4,
+      "lastSeasonRating": 4.65,
+      "lastSeason": 2,
+      "qualityDrop": 4.75
     },
     {
       "seriesTconst": "tt5472884",
@@ -217,6 +209,14 @@
       "season1Rating": 6.7,
       "lastSeasonRating": 2.1,
       "lastSeason": 3,
+      "qualityDrop": 4.6
+    },
+    {
+      "seriesTconst": "tt0479336",
+      "seriesTitle": "Pinoy Big Brother",
+      "season1Rating": 5.6,
+      "lastSeasonRating": 1.0,
+      "lastSeason": 11,
       "qualityDrop": 4.6
     },
     {
@@ -285,7 +285,7 @@
     },
     {
       "seriesTconst": "tt0856757",
-      "seriesTitle": "Yaprak D\u00f6k\u00fcm\u00fc",
+      "seriesTitle": "Leaf Cast",
       "season1Rating": 6.803,
       "lastSeasonRating": 2.533,
       "lastSeason": 5,
@@ -327,9 +327,9 @@
       "seriesTconst": "tt16994878",
       "seriesTitle": "7 vs. Wild",
       "season1Rating": 8.05,
-      "lastSeasonRating": 3.938,
+      "lastSeasonRating": 3.937,
       "lastSeason": 5,
-      "qualityDrop": 4.112
+      "qualityDrop": 4.113
     },
     {
       "seriesTconst": "tt10827252",
@@ -348,19 +348,19 @@
       "qualityDrop": 4.1
     },
     {
-      "seriesTconst": "tt1885777",
-      "seriesTitle": "Funny as Hell",
-      "season1Rating": 5.6,
-      "lastSeasonRating": 1.5,
-      "lastSeason": 2,
-      "qualityDrop": 4.1
-    },
-    {
       "seriesTconst": "tt0088473",
       "seriesTitle": "Adventures in Wonderland",
       "season1Rating": 9.5,
       "lastSeasonRating": 5.4,
       "lastSeason": 3,
+      "qualityDrop": 4.1
+    },
+    {
+      "seriesTconst": "tt1885777",
+      "seriesTitle": "Funny as Hell",
+      "season1Rating": 5.6,
+      "lastSeasonRating": 1.5,
+      "lastSeason": 2,
       "qualityDrop": 4.1
     },
     {
@@ -380,12 +380,12 @@
       "qualityDrop": 4.008
     },
     {
-      "seriesTconst": "tt31365727",
-      "seriesTitle": "A renitens",
-      "season1Rating": 8.337,
-      "lastSeasonRating": 4.4,
-      "lastSeason": 3,
-      "qualityDrop": 3.937
+      "seriesTconst": "tt36593053",
+      "seriesTitle": "Love Island: Beyond the Villa",
+      "season1Rating": 7.675,
+      "lastSeasonRating": 3.7,
+      "lastSeason": 2,
+      "qualityDrop": 3.975
     },
     {
       "seriesTconst": "tt0486068",
