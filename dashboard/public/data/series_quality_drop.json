@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-18T10:17:16+00:00",
-  "snapshotDate": "2026-05-18",
+  "generatedAt": "2026-05-25T10:21:24+00:00",
+  "snapshotDate": "2026-05-25",
   "rows": 50,
   "data": [
     {
@@ -28,20 +28,20 @@
       "qualityDrop": 5.836
     },
     {
+      "seriesTconst": "tt8560918",
+      "seriesTitle": "The Queen of Flow",
+      "season1Rating": 8.818,
+      "lastSeasonRating": 3.0,
+      "lastSeason": 3,
+      "qualityDrop": 5.818
+    },
+    {
       "seriesTconst": "tt0122824",
       "seriesTitle": "Linda",
       "season1Rating": 7.267,
       "lastSeasonRating": 1.5,
       "lastSeason": 4,
       "qualityDrop": 5.767
-    },
-    {
-      "seriesTconst": "tt8560918",
-      "seriesTitle": "The Queen of Flow",
-      "season1Rating": 8.648,
-      "lastSeasonRating": 2.978,
-      "lastSeason": 3,
-      "qualityDrop": 5.67
     },
     {
       "seriesTconst": "tt10467076",
@@ -76,19 +76,19 @@
       "qualityDrop": 5.4
     },
     {
-      "seriesTconst": "tt0121016",
-      "seriesTitle": "Die Rudi Carrell Show",
-      "season1Rating": 9.3,
-      "lastSeasonRating": 4.0,
-      "lastSeason": 2,
-      "qualityDrop": 5.3
-    },
-    {
       "seriesTconst": "tt0063890",
       "seriesTitle": "The David Frost Show",
       "season1Rating": 6.5,
       "lastSeasonRating": 1.2,
       "lastSeason": 4,
+      "qualityDrop": 5.3
+    },
+    {
+      "seriesTconst": "tt0121016",
+      "seriesTitle": "Die Rudi Carrell Show",
+      "season1Rating": 9.3,
+      "lastSeasonRating": 4.0,
+      "lastSeason": 2,
       "qualityDrop": 5.3
     },
     {
@@ -116,19 +116,19 @@
       "qualityDrop": 5.0
     },
     {
-      "seriesTconst": "tt4508902",
-      "seriesTitle": "One Punch Man",
-      "season1Rating": 8.775,
-      "lastSeasonRating": 3.775,
-      "lastSeason": 3,
-      "qualityDrop": 5.0
-    },
-    {
       "seriesTconst": "tt0815086",
       "seriesTitle": "Walmart Soundcheck",
       "season1Rating": 9.2,
       "lastSeasonRating": 4.2,
       "lastSeason": 2,
+      "qualityDrop": 5.0
+    },
+    {
+      "seriesTconst": "tt4508902",
+      "seriesTitle": "One Punch Man",
+      "season1Rating": 8.775,
+      "lastSeasonRating": 3.775,
+      "lastSeason": 3,
       "qualityDrop": 5.0
     },
     {
@@ -244,12 +244,20 @@
       "qualityDrop": 4.3
     },
     {
+      "seriesTconst": "tt0115367",
+      "seriesTitle": "Sparks",
+      "season1Rating": 8.6,
+      "lastSeasonRating": 4.3,
+      "lastSeason": 2,
+      "qualityDrop": 4.3
+    },
+    {
       "seriesTconst": "tt0856757",
       "seriesTitle": "Leaf Cast",
-      "season1Rating": 6.808,
+      "season1Rating": 6.797,
       "lastSeasonRating": 2.533,
       "lastSeason": 5,
-      "qualityDrop": 4.275
+      "qualityDrop": 4.264
     },
     {
       "seriesTconst": "tt8537520",
@@ -260,20 +268,20 @@
       "qualityDrop": 4.243
     },
     {
+      "seriesTconst": "tt13488080",
+      "seriesTitle": "Rainbow High",
+      "season1Rating": 8.378,
+      "lastSeasonRating": 4.167,
+      "lastSeason": 6,
+      "qualityDrop": 4.211
+    },
+    {
       "seriesTconst": "tt1856010",
       "seriesTitle": "House of Cards",
       "season1Rating": 8.392,
       "lastSeasonRating": 4.188,
       "lastSeason": 6,
       "qualityDrop": 4.204
-    },
-    {
-      "seriesTconst": "tt0115367",
-      "seriesTitle": "Sparks",
-      "season1Rating": 8.5,
-      "lastSeasonRating": 4.3,
-      "lastSeason": 2,
-      "qualityDrop": 4.2
     },
     {
       "seriesTconst": "tt16994878",
@@ -292,6 +300,14 @@
       "qualityDrop": 4.106
     },
     {
+      "seriesTconst": "tt1885777",
+      "seriesTitle": "Funny as Hell",
+      "season1Rating": 5.6,
+      "lastSeasonRating": 1.5,
+      "lastSeason": 2,
+      "qualityDrop": 4.1
+    },
+    {
       "seriesTconst": "tt1724588",
       "seriesTitle": "Ebert Presents: At the Movies",
       "season1Rating": 6.3,
@@ -308,20 +324,20 @@
       "qualityDrop": 4.1
     },
     {
-      "seriesTconst": "tt1885777",
-      "seriesTitle": "Funny as Hell",
-      "season1Rating": 5.6,
-      "lastSeasonRating": 1.5,
-      "lastSeason": 2,
-      "qualityDrop": 4.1
-    },
-    {
       "seriesTconst": "tt0315709",
       "seriesTitle": "Smogovci",
       "season1Rating": 8.46,
       "lastSeasonRating": 4.386,
       "lastSeason": 6,
       "qualityDrop": 4.074
+    },
+    {
+      "seriesTconst": "tt9111220",
+      "seriesTitle": "Hudson & Rex",
+      "season1Rating": 7.508,
+      "lastSeasonRating": 3.6,
+      "lastSeason": 9,
+      "qualityDrop": 3.908
     },
     {
       "seriesTconst": "tt0486068",
@@ -340,28 +356,12 @@
       "qualityDrop": 3.888
     },
     {
-      "seriesTconst": "tt13488080",
-      "seriesTitle": "Rainbow High",
-      "season1Rating": 8.378,
-      "lastSeasonRating": 4.533,
-      "lastSeason": 6,
-      "qualityDrop": 3.845
-    },
-    {
       "seriesTconst": "tt0112097",
       "seriesTitle": "Night Stand",
       "season1Rating": 8.017,
       "lastSeasonRating": 4.2,
       "lastSeason": 2,
       "qualityDrop": 3.817
-    },
-    {
-      "seriesTconst": "tt2330453",
-      "seriesTitle": "The Real Housewives of Vancouver",
-      "season1Rating": 8.0,
-      "lastSeasonRating": 4.2,
-      "lastSeason": 2,
-      "qualityDrop": 3.8
     },
     {
       "seriesTconst": "tt0126179",
@@ -372,14 +372,6 @@
       "qualityDrop": 3.75
     },
     {
-      "seriesTconst": "tt9111220",
-      "seriesTitle": "Hudson & Rex",
-      "season1Rating": 7.508,
-      "lastSeasonRating": 3.8,
-      "lastSeason": 9,
-      "qualityDrop": 3.708
-    },
-    {
       "seriesTconst": "tt5472884",
       "seriesTitle": "Drunk History: El Lado Borroso De La Historia",
       "season1Rating": 8.45,
@@ -388,19 +380,27 @@
       "qualityDrop": 3.65
     },
     {
+      "seriesTconst": "tt0396968",
+      "seriesTitle": "American Hot Rod",
+      "season1Rating": 7.8,
+      "lastSeasonRating": 4.2,
+      "lastSeason": 4,
+      "qualityDrop": 3.6
+    },
+    {
+      "seriesTconst": "tt1792654",
+      "seriesTitle": "Cubed",
+      "season1Rating": 5.7,
+      "lastSeasonRating": 2.1,
+      "lastSeason": 2,
+      "qualityDrop": 3.6
+    },
+    {
       "seriesTconst": "tt0124260",
       "seriesTitle": "Student Bodies",
       "season1Rating": 7.6,
       "lastSeasonRating": 4.0,
       "lastSeason": 2,
-      "qualityDrop": 3.6
-    },
-    {
-      "seriesTconst": "tt0344743",
-      "seriesTitle": "V.I.P.-Schaukel",
-      "season1Rating": 7.0,
-      "lastSeasonRating": 3.4,
-      "lastSeason": 7,
       "qualityDrop": 3.6
     }
   ]
