@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-25T10:21:24+00:00",
-  "snapshotDate": "2026-05-25",
+  "generatedAt": "2026-06-01T11:47:39+00:00",
+  "snapshotDate": "2026-06-01",
   "rows": 50,
   "data": [
     {
@@ -22,18 +22,18 @@
     {
       "seriesTconst": "tt0063908",
       "seriesTitle": "Hee Haw",
-      "season1Rating": 6.836,
+      "season1Rating": 6.855,
       "lastSeasonRating": 1.0,
       "lastSeason": 12,
-      "qualityDrop": 5.836
+      "qualityDrop": 5.855
     },
     {
       "seriesTconst": "tt8560918",
       "seriesTitle": "The Queen of Flow",
       "season1Rating": 8.818,
-      "lastSeasonRating": 3.0,
+      "lastSeasonRating": 3.034,
       "lastSeason": 3,
-      "qualityDrop": 5.818
+      "qualityDrop": 5.784
     },
     {
       "seriesTconst": "tt0122824",
@@ -76,19 +76,19 @@
       "qualityDrop": 5.4
     },
     {
-      "seriesTconst": "tt0063890",
-      "seriesTitle": "The David Frost Show",
-      "season1Rating": 6.5,
-      "lastSeasonRating": 1.2,
-      "lastSeason": 4,
-      "qualityDrop": 5.3
-    },
-    {
       "seriesTconst": "tt0121016",
       "seriesTitle": "Die Rudi Carrell Show",
       "season1Rating": 9.3,
       "lastSeasonRating": 4.0,
       "lastSeason": 2,
+      "qualityDrop": 5.3
+    },
+    {
+      "seriesTconst": "tt0063890",
+      "seriesTitle": "The David Frost Show",
+      "season1Rating": 6.5,
+      "lastSeasonRating": 1.2,
+      "lastSeason": 4,
       "qualityDrop": 5.3
     },
     {
@@ -116,19 +116,19 @@
       "qualityDrop": 5.0
     },
     {
-      "seriesTconst": "tt0815086",
-      "seriesTitle": "Walmart Soundcheck",
-      "season1Rating": 9.2,
-      "lastSeasonRating": 4.2,
-      "lastSeason": 2,
-      "qualityDrop": 5.0
-    },
-    {
       "seriesTconst": "tt4508902",
       "seriesTitle": "One Punch Man",
       "season1Rating": 8.775,
       "lastSeasonRating": 3.775,
       "lastSeason": 3,
+      "qualityDrop": 5.0
+    },
+    {
+      "seriesTconst": "tt0815086",
+      "seriesTitle": "Walmart Soundcheck",
+      "season1Rating": 9.2,
+      "lastSeasonRating": 4.2,
+      "lastSeason": 2,
       "qualityDrop": 5.0
     },
     {
@@ -190,18 +190,10 @@
     {
       "seriesTconst": "tt16897176",
       "seriesTitle": "Royal Histories",
-      "season1Rating": 7.029,
+      "season1Rating": 7.014,
       "lastSeasonRating": 2.5,
       "lastSeason": 8,
-      "qualityDrop": 4.529
-    },
-    {
-      "seriesTconst": "tt0306760",
-      "seriesTitle": "Edel & Starck",
-      "season1Rating": 7.7,
-      "lastSeasonRating": 3.2,
-      "lastSeason": 4,
-      "qualityDrop": 4.5
+      "qualityDrop": 4.514
     },
     {
       "seriesTconst": "tt0081857",
@@ -236,12 +228,12 @@
       "qualityDrop": 4.4
     },
     {
-      "seriesTconst": "tt1141678",
-      "seriesTitle": "Inspektor Rolle",
-      "season1Rating": 7.7,
-      "lastSeasonRating": 3.4,
-      "lastSeason": 2,
-      "qualityDrop": 4.3
+      "seriesTconst": "tt0306760",
+      "seriesTitle": "Edel & Starck",
+      "season1Rating": 7.6,
+      "lastSeasonRating": 3.2,
+      "lastSeason": 4,
+      "qualityDrop": 4.4
     },
     {
       "seriesTconst": "tt0115367",
@@ -252,12 +244,20 @@
       "qualityDrop": 4.3
     },
     {
+      "seriesTconst": "tt1141678",
+      "seriesTitle": "Inspektor Rolle",
+      "season1Rating": 7.7,
+      "lastSeasonRating": 3.4,
+      "lastSeason": 2,
+      "qualityDrop": 4.3
+    },
+    {
       "seriesTconst": "tt0856757",
       "seriesTitle": "Leaf Cast",
-      "season1Rating": 6.797,
-      "lastSeasonRating": 2.533,
+      "season1Rating": 6.8,
+      "lastSeasonRating": 2.553,
       "lastSeason": 5,
-      "qualityDrop": 4.264
+      "qualityDrop": 4.247
     },
     {
       "seriesTconst": "tt8537520",
@@ -286,10 +286,10 @@
     {
       "seriesTconst": "tt16994878",
       "seriesTitle": "7 vs. Wild",
-      "season1Rating": 8.05,
+      "season1Rating": 8.106,
       "lastSeasonRating": 3.937,
       "lastSeason": 5,
-      "qualityDrop": 4.113
+      "qualityDrop": 4.169
     },
     {
       "seriesTconst": "tt10827252",
@@ -300,11 +300,11 @@
       "qualityDrop": 4.106
     },
     {
-      "seriesTconst": "tt1885777",
-      "seriesTitle": "Funny as Hell",
-      "season1Rating": 5.6,
-      "lastSeasonRating": 1.5,
-      "lastSeason": 2,
+      "seriesTconst": "tt0088473",
+      "seriesTitle": "Adventures in Wonderland",
+      "season1Rating": 9.5,
+      "lastSeasonRating": 5.4,
+      "lastSeason": 3,
       "qualityDrop": 4.1
     },
     {
@@ -316,11 +316,11 @@
       "qualityDrop": 4.1
     },
     {
-      "seriesTconst": "tt0088473",
-      "seriesTitle": "Adventures in Wonderland",
-      "season1Rating": 9.5,
-      "lastSeasonRating": 5.4,
-      "lastSeason": 3,
+      "seriesTconst": "tt1885777",
+      "seriesTitle": "Funny as Hell",
+      "season1Rating": 5.6,
+      "lastSeasonRating": 1.5,
+      "lastSeason": 2,
       "qualityDrop": 4.1
     },
     {
@@ -332,12 +332,20 @@
       "qualityDrop": 4.074
     },
     {
-      "seriesTconst": "tt9111220",
-      "seriesTitle": "Hudson & Rex",
-      "season1Rating": 7.508,
-      "lastSeasonRating": 3.6,
-      "lastSeason": 9,
-      "qualityDrop": 3.908
+      "seriesTconst": "tt31365727",
+      "seriesTitle": "A renitens",
+      "season1Rating": 8.337,
+      "lastSeasonRating": 4.367,
+      "lastSeason": 3,
+      "qualityDrop": 3.97
+    },
+    {
+      "seriesTconst": "tt5180504",
+      "seriesTitle": "The Witcher",
+      "season1Rating": 8.288,
+      "lastSeasonRating": 4.387,
+      "lastSeason": 4,
+      "qualityDrop": 3.901
     },
     {
       "seriesTconst": "tt0486068",
@@ -348,20 +356,20 @@
       "qualityDrop": 3.9
     },
     {
-      "seriesTconst": "tt5180504",
-      "seriesTitle": "The Witcher",
-      "season1Rating": 8.275,
-      "lastSeasonRating": 4.387,
-      "lastSeason": 4,
-      "qualityDrop": 3.888
-    },
-    {
       "seriesTconst": "tt0112097",
       "seriesTitle": "Night Stand",
       "season1Rating": 8.017,
       "lastSeasonRating": 4.2,
       "lastSeason": 2,
       "qualityDrop": 3.817
+    },
+    {
+      "seriesTconst": "tt9111220",
+      "seriesTitle": "Hudson & Rex",
+      "season1Rating": 7.508,
+      "lastSeasonRating": 3.7,
+      "lastSeason": 9,
+      "qualityDrop": 3.808
     },
     {
       "seriesTconst": "tt0126179",
@@ -392,14 +400,6 @@
       "seriesTitle": "Cubed",
       "season1Rating": 5.7,
       "lastSeasonRating": 2.1,
-      "lastSeason": 2,
-      "qualityDrop": 3.6
-    },
-    {
-      "seriesTconst": "tt0124260",
-      "seriesTitle": "Student Bodies",
-      "season1Rating": 7.6,
-      "lastSeasonRating": 4.0,
       "lastSeason": 2,
       "qualityDrop": 3.6
     }
