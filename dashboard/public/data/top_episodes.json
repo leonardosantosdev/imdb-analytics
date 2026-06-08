@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-01T11:47:39+00:00",
-  "snapshotDate": "2026-06-01",
+  "generatedAt": "2026-06-08T11:08:59+00:00",
+  "snapshotDate": "2026-06-08",
   "rows": 200,
   "data": [
     {
@@ -10,7 +10,7 @@
       "seasonNumber": 6,
       "episodeNumber": 9,
       "averageRating": 9.9,
-      "numVotes": 307805
+      "numVotes": 308144
     },
     {
       "tconst": "tt4283094",
@@ -19,7 +19,7 @@
       "seasonNumber": 6,
       "episodeNumber": 10,
       "averageRating": 9.9,
-      "numVotes": 226923
+      "numVotes": 227217
     },
     {
       "tconst": "tt2178784",
@@ -28,7 +28,7 @@
       "seasonNumber": 3,
       "episodeNumber": 9,
       "averageRating": 9.9,
-      "numVotes": 181720
+      "numVotes": 181747
     },
     {
       "tconst": "tt34952922",
@@ -37,7 +37,7 @@
       "seasonNumber": 3,
       "episodeNumber": 8,
       "averageRating": 9.9,
-      "numVotes": 98244
+      "numVotes": 98570
     },
     {
       "tconst": "tt12187040",
@@ -46,7 +46,7 @@
       "seasonNumber": 6,
       "episodeNumber": 7,
       "averageRating": 9.9,
-      "numVotes": 85874
+      "numVotes": 86144
     },
     {
       "tconst": "tt39848784",
@@ -55,7 +55,7 @@
       "seasonNumber": 4,
       "episodeNumber": 7,
       "averageRating": 9.9,
-      "numVotes": 49659
+      "numVotes": 50194
     },
     {
       "tconst": "tt8084176",
@@ -64,7 +64,7 @@
       "seasonNumber": 4,
       "episodeNumber": 7,
       "averageRating": 9.9,
-      "numVotes": 46855
+      "numVotes": 46979
     },
     {
       "tconst": "tt11294360",
@@ -73,7 +73,7 @@
       "seasonNumber": 1,
       "episodeNumber": 24,
       "averageRating": 9.9,
-      "numVotes": 40518
+      "numVotes": 40976
     },
     {
       "tconst": "tt11028174",
@@ -82,7 +82,7 @@
       "seasonNumber": 6,
       "episodeNumber": 15,
       "averageRating": 9.9,
-      "numVotes": 32959
+      "numVotes": 33078
     },
     {
       "tconst": "tt1204265",
@@ -91,7 +91,16 @@
       "seasonNumber": 3,
       "episodeNumber": 21,
       "averageRating": 9.9,
-      "numVotes": 27035
+      "numVotes": 27142
+    },
+    {
+      "tconst": "tt41799462",
+      "seriesTitle": "Re: Zero - Starting Life in Another World",
+      "episodeTitle": "Omae wa Dare da",
+      "seasonNumber": 4,
+      "episodeNumber": 8,
+      "averageRating": 9.9,
+      "numVotes": 25919
     },
     {
       "tconst": "tt9313978",
@@ -100,7 +109,7 @@
       "seasonNumber": 7,
       "episodeNumber": 12,
       "averageRating": 9.9,
-      "numVotes": 24530
+      "numVotes": 24632
     },
     {
       "tconst": "tt1310121",
@@ -109,7 +118,7 @@
       "seasonNumber": 2,
       "episodeNumber": 25,
       "averageRating": 9.9,
-      "numVotes": 19321
+      "numVotes": 19520
     },
     {
       "tconst": "tt0701989",
@@ -118,16 +127,7 @@
       "seasonNumber": 5,
       "episodeNumber": 12,
       "averageRating": 9.9,
-      "numVotes": 19184
-    },
-    {
-      "tconst": "tt41799462",
-      "seriesTitle": "Re: Zero - Starting Life in Another World",
-      "episodeTitle": "Who Are You?",
-      "seasonNumber": 4,
-      "episodeNumber": 8,
-      "averageRating": 9.9,
-      "numVotes": 17669
+      "numVotes": 19180
     },
     {
       "tconst": "tt6381882",
@@ -136,7 +136,7 @@
       "seasonNumber": 8,
       "episodeNumber": 27,
       "averageRating": 9.9,
-      "numVotes": 9243
+      "numVotes": 9273
     },
     {
       "tconst": "tt2301455",
@@ -145,7 +145,7 @@
       "seasonNumber": 5,
       "episodeNumber": 16,
       "averageRating": 9.8,
-      "numVotes": 291046
+      "numVotes": 291215
     },
     {
       "tconst": "tt9906260",
@@ -154,7 +154,7 @@
       "seasonNumber": 3,
       "episodeNumber": 17,
       "averageRating": 9.8,
-      "numVotes": 165807
+      "numVotes": 166134
     },
     {
       "tconst": "tt1683088",
@@ -163,7 +163,7 @@
       "seasonNumber": 4,
       "episodeNumber": 13,
       "averageRating": 9.8,
-      "numVotes": 156738
+      "numVotes": 156753
     },
     {
       "tconst": "tt3866850",
@@ -172,7 +172,7 @@
       "seasonNumber": 5,
       "episodeNumber": 8,
       "averageRating": 9.8,
-      "numVotes": 142242
+      "numVotes": 142300
     },
     {
       "tconst": "tt13857684",
@@ -181,7 +181,7 @@
       "seasonNumber": 4,
       "episodeNumber": 7,
       "averageRating": 9.8,
-      "numVotes": 130009
+      "numVotes": 130281
     },
     {
       "tconst": "tt9898836",
@@ -190,7 +190,7 @@
       "seasonNumber": 3,
       "episodeNumber": 16,
       "averageRating": 9.8,
-      "numVotes": 119363
+      "numVotes": 119688
     },
     {
       "tconst": "tt17505964",
@@ -199,7 +199,7 @@
       "seasonNumber": 4,
       "episodeNumber": 20,
       "averageRating": 9.8,
-      "numVotes": 104305
+      "numVotes": 104609
     },
     {
       "tconst": "tt13819632",
@@ -208,7 +208,7 @@
       "seasonNumber": 4,
       "episodeNumber": 6,
       "averageRating": 9.8,
-      "numVotes": 103340
+      "numVotes": 103609
     },
     {
       "tconst": "tt13605714",
@@ -217,7 +217,7 @@
       "seasonNumber": 4,
       "episodeNumber": 5,
       "averageRating": 9.8,
-      "numVotes": 103045
+      "numVotes": 103334
     },
     {
       "tconst": "tt17594170",
@@ -226,7 +226,7 @@
       "seasonNumber": 4,
       "episodeNumber": 21,
       "averageRating": 9.8,
-      "numVotes": 101951
+      "numVotes": 102240
     },
     {
       "tconst": "tt10023374",
@@ -235,7 +235,7 @@
       "seasonNumber": 3,
       "episodeNumber": 18,
       "averageRating": 9.8,
-      "numVotes": 94640
+      "numVotes": 94938
     },
     {
       "tconst": "tt11630828",
@@ -244,7 +244,7 @@
       "seasonNumber": 6,
       "episodeNumber": 13,
       "averageRating": 9.8,
-      "numVotes": 78801
+      "numVotes": 79001
     },
     {
       "tconst": "tt10034602",
@@ -253,7 +253,7 @@
       "seasonNumber": 3,
       "episodeNumber": 20,
       "averageRating": 9.8,
-      "numVotes": 74770
+      "numVotes": 75046
     },
     {
       "tconst": "tt38504411",
@@ -262,7 +262,7 @@
       "seasonNumber": 1,
       "episodeNumber": 5,
       "averageRating": 9.8,
-      "numVotes": 74426
+      "numVotes": 74755
     },
     {
       "tconst": "tt9166696",
@@ -271,7 +271,7 @@
       "seasonNumber": 1,
       "episodeNumber": 5,
       "averageRating": 9.8,
-      "numVotes": 72170
+      "numVotes": 72310
     },
     {
       "tconst": "tt6723680",
@@ -280,7 +280,7 @@
       "seasonNumber": 2,
       "episodeNumber": 6,
       "averageRating": 9.8,
-      "numVotes": 71797
+      "numVotes": 72084
     },
     {
       "tconst": "tt13052880",
@@ -289,7 +289,7 @@
       "seasonNumber": 2,
       "episodeNumber": 8,
       "averageRating": 9.8,
-      "numVotes": 67547
+      "numVotes": 67667
     },
     {
       "tconst": "tt1322867",
@@ -298,7 +298,7 @@
       "seasonNumber": 1,
       "episodeNumber": 377,
       "averageRating": 9.8,
-      "numVotes": 66419
+      "numVotes": 66584
     },
     {
       "tconst": "tt1830404",
@@ -307,7 +307,7 @@
       "seasonNumber": 1,
       "episodeNumber": 485,
       "averageRating": 9.8,
-      "numVotes": 59675
+      "numVotes": 59781
     },
     {
       "tconst": "tt1453919",
@@ -316,7 +316,7 @@
       "seasonNumber": 1,
       "episodeNumber": 405,
       "averageRating": 9.8,
-      "numVotes": 56597
+      "numVotes": 56689
     },
     {
       "tconst": "tt12187044",
@@ -325,7 +325,7 @@
       "seasonNumber": 6,
       "episodeNumber": 8,
       "averageRating": 9.8,
-      "numVotes": 56324
+      "numVotes": 56506
     },
     {
       "tconst": "tt38504412",
@@ -334,7 +334,7 @@
       "seasonNumber": 1,
       "episodeNumber": 6,
       "averageRating": 9.8,
-      "numVotes": 47714
+      "numVotes": 48042
     },
     {
       "tconst": "tt37560958",
@@ -343,7 +343,7 @@
       "seasonNumber": 1,
       "episodeNumber": 1136,
       "averageRating": 9.8,
-      "numVotes": 46694
+      "numVotes": 46817
     },
     {
       "tconst": "tt21151974",
@@ -352,7 +352,7 @@
       "seasonNumber": 4,
       "episodeNumber": 3,
       "averageRating": 9.8,
-      "numVotes": 44772
+      "numVotes": 44842
     },
     {
       "tconst": "tt1444421",
@@ -361,16 +361,7 @@
       "seasonNumber": 4,
       "episodeNumber": 12,
       "averageRating": 9.8,
-      "numVotes": 43806
-    },
-    {
-      "tconst": "tt5218332",
-      "seriesTitle": "Rick and Morty",
-      "episodeTitle": "The Ricklantis Mixup",
-      "seasonNumber": 3,
-      "episodeNumber": 7,
-      "averageRating": 9.8,
-      "numVotes": 42676
+      "numVotes": 43841
     },
     {
       "tconst": "tt40339350",
@@ -379,7 +370,16 @@
       "seasonNumber": 3,
       "episodeNumber": 12,
       "averageRating": 9.8,
-      "numVotes": 42348
+      "numVotes": 42987
+    },
+    {
+      "tconst": "tt5218332",
+      "seriesTitle": "Rick and Morty",
+      "episodeTitle": "The Ricklantis Mixup",
+      "seasonNumber": 3,
+      "episodeNumber": 7,
+      "averageRating": 9.8,
+      "numVotes": 42889
     },
     {
       "tconst": "tt9691188",
@@ -388,7 +388,7 @@
       "seasonNumber": 1,
       "episodeNumber": 8,
       "averageRating": 9.8,
-      "numVotes": 40007
+      "numVotes": 40268
     },
     {
       "tconst": "tt17521746",
@@ -397,7 +397,7 @@
       "seasonNumber": 2,
       "episodeNumber": 17,
       "averageRating": 9.8,
-      "numVotes": 31409
+      "numVotes": 31483
     },
     {
       "tconst": "tt10883092",
@@ -406,7 +406,7 @@
       "seasonNumber": 4,
       "episodeNumber": 13,
       "averageRating": 9.8,
-      "numVotes": 30880
+      "numVotes": 30978
     },
     {
       "tconst": "tt38896857",
@@ -415,7 +415,7 @@
       "seasonNumber": 8,
       "episodeNumber": 8,
       "averageRating": 9.8,
-      "numVotes": 30140
+      "numVotes": 30209
     },
     {
       "tconst": "tt1000252",
@@ -424,7 +424,7 @@
       "seasonNumber": 3,
       "episodeNumber": 10,
       "averageRating": 9.8,
-      "numVotes": 28124
+      "numVotes": 28112
     },
     {
       "tconst": "tt3230908",
@@ -433,7 +433,7 @@
       "seasonNumber": 2,
       "episodeNumber": 13,
       "averageRating": 9.8,
-      "numVotes": 27469
+      "numVotes": 27419
     },
     {
       "tconst": "tt2669746",
@@ -442,7 +442,7 @@
       "seasonNumber": 9,
       "episodeNumber": 23,
       "averageRating": 9.8,
-      "numVotes": 26562
+      "numVotes": 26585
     },
     {
       "tconst": "tt8266826",
@@ -451,7 +451,16 @@
       "seasonNumber": 5,
       "episodeNumber": 6,
       "averageRating": 9.8,
-      "numVotes": 24708
+      "numVotes": 24766
+    },
+    {
+      "tconst": "tt41799458",
+      "seriesTitle": "Re: Zero - Starting Life in Another World",
+      "episodeTitle": "Zangai",
+      "seasonNumber": 4,
+      "episodeNumber": 9,
+      "averageRating": 9.8,
+      "numVotes": 22357
     },
     {
       "tconst": "tt1833197",
@@ -460,7 +469,7 @@
       "seasonNumber": 7,
       "episodeNumber": 22,
       "averageRating": 9.8,
-      "numVotes": 21833
+      "numVotes": 21842
     },
     {
       "tconst": "tt9313966",
@@ -469,7 +478,7 @@
       "seasonNumber": 7,
       "episodeNumber": 10,
       "averageRating": 9.8,
-      "numVotes": 21081
+      "numVotes": 21159
     },
     {
       "tconst": "tt38599375",
@@ -478,7 +487,7 @@
       "seasonNumber": 8,
       "episodeNumber": 3,
       "averageRating": 9.8,
-      "numVotes": 20848
+      "numVotes": 20929
     },
     {
       "tconst": "tt6542628",
@@ -487,16 +496,7 @@
       "seasonNumber": 4,
       "episodeNumber": 11,
       "averageRating": 9.8,
-      "numVotes": 19475
-    },
-    {
-      "tconst": "tt9313968",
-      "seriesTitle": "Star Wars: The Clone Wars",
-      "episodeTitle": "Shattered",
-      "seasonNumber": 7,
-      "episodeNumber": 11,
-      "averageRating": 9.8,
-      "numVotes": 19260
+      "numVotes": 19556
     },
     {
       "tconst": "tt3748420",
@@ -505,7 +505,16 @@
       "seasonNumber": 1,
       "episodeNumber": 131,
       "averageRating": 9.8,
-      "numVotes": 19248
+      "numVotes": 19352
+    },
+    {
+      "tconst": "tt9313968",
+      "seriesTitle": "Star Wars: The Clone Wars",
+      "episodeTitle": "Shattered",
+      "seasonNumber": 7,
+      "episodeNumber": 11,
+      "averageRating": 9.8,
+      "numVotes": 19335
     },
     {
       "tconst": "tt3673600",
@@ -514,25 +523,7 @@
       "seasonNumber": 1,
       "episodeNumber": 126,
       "averageRating": 9.8,
-      "numVotes": 17807
-    },
-    {
-      "tconst": "tt1595996",
-      "seriesTitle": "Community",
-      "episodeTitle": "Modern Warfare",
-      "seasonNumber": 1,
-      "episodeNumber": 23,
-      "averageRating": 9.8,
-      "numVotes": 16585
-    },
-    {
-      "tconst": "tt8527962",
-      "seriesTitle": "My Hero Academia",
-      "episodeTitle": "One For All",
-      "seasonNumber": 3,
-      "episodeNumber": 11,
-      "averageRating": 9.8,
-      "numVotes": 15490
+      "numVotes": 17895
     },
     {
       "tconst": "tt5908784",
@@ -541,7 +532,43 @@
       "seasonNumber": 1,
       "episodeNumber": 15,
       "averageRating": 9.8,
-      "numVotes": 15485
+      "numVotes": 17357
+    },
+    {
+      "tconst": "tt1595996",
+      "seriesTitle": "Community",
+      "episodeTitle": "Modern Warfare",
+      "seasonNumber": 1,
+      "episodeNumber": 23,
+      "averageRating": 9.8,
+      "numVotes": 16580
+    },
+    {
+      "tconst": "tt38672635",
+      "seriesTitle": "My Hero Academia",
+      "episodeTitle": "Quirk: Explosion!!",
+      "seasonNumber": 8,
+      "episodeNumber": 4,
+      "averageRating": 9.8,
+      "numVotes": 16393
+    },
+    {
+      "tconst": "tt41789970",
+      "seriesTitle": "Re: Zero - Starting Life in Another World",
+      "episodeTitle": "Kanshi-t\u00f4 no Bannin",
+      "seasonNumber": 4,
+      "episodeNumber": 3,
+      "averageRating": 9.8,
+      "numVotes": 16018
+    },
+    {
+      "tconst": "tt8527962",
+      "seriesTitle": "My Hero Academia",
+      "episodeTitle": "One For All",
+      "seasonNumber": 3,
+      "episodeNumber": 11,
+      "averageRating": 9.8,
+      "numVotes": 15563
     },
     {
       "tconst": "tt1204264",
@@ -550,7 +577,7 @@
       "seasonNumber": 3,
       "episodeNumber": 20,
       "averageRating": 9.8,
-      "numVotes": 15298
+      "numVotes": 15361
     },
     {
       "tconst": "tt2060963",
@@ -559,7 +586,7 @@
       "seasonNumber": 3,
       "episodeNumber": 4,
       "averageRating": 9.8,
-      "numVotes": 14880
+      "numVotes": 14848
     },
     {
       "tconst": "tt4128194",
@@ -568,7 +595,7 @@
       "seasonNumber": 4,
       "episodeNumber": 11,
       "averageRating": 9.8,
-      "numVotes": 14783
+      "numVotes": 14806
     },
     {
       "tconst": "tt4679214",
@@ -577,7 +604,7 @@
       "seasonNumber": 5,
       "episodeNumber": 13,
       "averageRating": 9.8,
-      "numVotes": 14101
+      "numVotes": 14164
     },
     {
       "tconst": "tt3827236",
@@ -586,7 +613,7 @@
       "seasonNumber": 1,
       "episodeNumber": 135,
       "averageRating": 9.8,
-      "numVotes": 13575
+      "numVotes": 13680
     },
     {
       "tconst": "tt3767938",
@@ -595,25 +622,7 @@
       "seasonNumber": 10,
       "episodeNumber": 4,
       "averageRating": 9.8,
-      "numVotes": 13185
-    },
-    {
-      "tconst": "tt41789970",
-      "seriesTitle": "Re: Zero - Starting Life in Another World",
-      "episodeTitle": "The Keeper of the Watchtower",
-      "seasonNumber": 4,
-      "episodeNumber": 3,
-      "averageRating": 9.8,
-      "numVotes": 12408
-    },
-    {
-      "tconst": "tt5153884",
-      "seriesTitle": "Gravity Falls",
-      "episodeTitle": "Weirdmageddon 3: Take Back the Falls",
-      "seasonNumber": 2,
-      "episodeNumber": 20,
-      "averageRating": 9.8,
-      "numVotes": 10717
+      "numVotes": 13219
     },
     {
       "tconst": "tt39166973",
@@ -622,7 +631,16 @@
       "seasonNumber": 1,
       "episodeNumber": 1153,
       "averageRating": 9.8,
-      "numVotes": 10689
+      "numVotes": 10795
+    },
+    {
+      "tconst": "tt5153884",
+      "seriesTitle": "Gravity Falls",
+      "episodeTitle": "Weirdmageddon 3: Take Back the Falls",
+      "seasonNumber": 2,
+      "episodeNumber": 20,
+      "averageRating": 9.8,
+      "numVotes": 10781
     },
     {
       "tconst": "tt4460256",
@@ -631,16 +649,7 @@
       "seasonNumber": 2,
       "episodeNumber": 11,
       "averageRating": 9.8,
-      "numVotes": 10637
-    },
-    {
-      "tconst": "tt6080222",
-      "seriesTitle": "LazyTown",
-      "episodeTitle": "Robbie's Dream Team",
-      "seasonNumber": 4,
-      "episodeNumber": 12,
-      "averageRating": 9.8,
-      "numVotes": 10266
+      "numVotes": 10668
     },
     {
       "tconst": "tt5340582",
@@ -649,7 +658,7 @@
       "seasonNumber": 2,
       "episodeNumber": 22,
       "averageRating": 9.8,
-      "numVotes": 9861
+      "numVotes": 9912
     },
     {
       "tconst": "tt8142470",
@@ -658,7 +667,16 @@
       "seasonNumber": 1,
       "episodeNumber": 10,
       "averageRating": 9.8,
-      "numVotes": 9630
+      "numVotes": 9701
+    },
+    {
+      "tconst": "tt6080222",
+      "seriesTitle": "LazyTown",
+      "episodeTitle": "Robbie's Dream Team",
+      "seasonNumber": 4,
+      "episodeNumber": 12,
+      "averageRating": 9.8,
+      "numVotes": 8113
     },
     {
       "tconst": "tt28014043",
@@ -667,7 +685,7 @@
       "seasonNumber": 2,
       "episodeNumber": 21,
       "averageRating": 9.8,
-      "numVotes": 7688
+      "numVotes": 7734
     },
     {
       "tconst": "tt0707287",
@@ -676,7 +694,7 @@
       "seasonNumber": 2,
       "episodeNumber": 15,
       "averageRating": 9.8,
-      "numVotes": 7444
+      "numVotes": 7458
     },
     {
       "tconst": "tt13989180",
@@ -685,16 +703,7 @@
       "seasonNumber": 4,
       "episodeNumber": 13,
       "averageRating": 9.8,
-      "numVotes": 7360
-    },
-    {
-      "tconst": "tt8164820",
-      "seriesTitle": "Adventure Time",
-      "episodeTitle": "Come Along With Me",
-      "seasonNumber": 10,
-      "episodeNumber": 13,
-      "averageRating": 9.8,
-      "numVotes": 6358
+      "numVotes": 7385
     },
     {
       "tconst": "tt4792756",
@@ -703,7 +712,16 @@
       "seasonNumber": 1,
       "episodeNumber": 22,
       "averageRating": 9.8,
-      "numVotes": 6345
+      "numVotes": 6421
+    },
+    {
+      "tconst": "tt8164820",
+      "seriesTitle": "Adventure Time",
+      "episodeTitle": "Come Along With Me",
+      "seasonNumber": 10,
+      "episodeNumber": 13,
+      "averageRating": 9.8,
+      "numVotes": 6380
     },
     {
       "tconst": "tt23875712",
@@ -712,7 +730,7 @@
       "seasonNumber": 5,
       "episodeNumber": 38,
       "averageRating": 9.8,
-      "numVotes": 5815
+      "numVotes": 5870
     },
     {
       "tconst": "tt21034246",
@@ -721,7 +739,16 @@
       "seasonNumber": 3,
       "episodeNumber": 13,
       "averageRating": 9.8,
-      "numVotes": 5612
+      "numVotes": 5670
+    },
+    {
+      "tconst": "tt31491044",
+      "seriesTitle": "Bluey",
+      "episodeTitle": "The Sign",
+      "seasonNumber": 3,
+      "episodeNumber": 49,
+      "averageRating": 9.8,
+      "numVotes": 5627
     },
     {
       "tconst": "tt5443910",
@@ -730,7 +757,7 @@
       "seasonNumber": 4,
       "episodeNumber": 40,
       "averageRating": 9.8,
-      "numVotes": 5275
+      "numVotes": 5307
     },
     {
       "tconst": "tt2301449",
@@ -739,7 +766,7 @@
       "seasonNumber": 5,
       "episodeNumber": 13,
       "averageRating": 9.7,
-      "numVotes": 126148
+      "numVotes": 126137
     },
     {
       "tconst": "tt5775846",
@@ -748,7 +775,7 @@
       "seasonNumber": 7,
       "episodeNumber": 4,
       "averageRating": 9.7,
-      "numVotes": 123447
+      "numVotes": 123643
     },
     {
       "tconst": "tt4283028",
@@ -757,7 +784,7 @@
       "seasonNumber": 6,
       "episodeNumber": 5,
       "averageRating": 9.7,
-      "numVotes": 107181
+      "numVotes": 107354
     },
     {
       "tconst": "tt27715317",
@@ -766,7 +793,7 @@
       "seasonNumber": 1,
       "episodeNumber": 1062,
       "averageRating": 9.7,
-      "numVotes": 102977
+      "numVotes": 103063
     },
     {
       "tconst": "tt17277218",
@@ -775,7 +802,7 @@
       "seasonNumber": 4,
       "episodeNumber": 19,
       "averageRating": 9.7,
-      "numVotes": 96514
+      "numVotes": 96736
     },
     {
       "tconst": "tt3060910",
@@ -784,7 +811,7 @@
       "seasonNumber": 4,
       "episodeNumber": 6,
       "averageRating": 9.7,
-      "numVotes": 90256
+      "numVotes": 90213
     },
     {
       "tconst": "tt19811660",
@@ -793,7 +820,7 @@
       "seasonNumber": 1,
       "episodeNumber": 1015,
       "averageRating": 9.7,
-      "numVotes": 88904
+      "numVotes": 89024
     },
     {
       "tconst": "tt3060782",
@@ -802,7 +829,7 @@
       "seasonNumber": 4,
       "episodeNumber": 8,
       "averageRating": 9.7,
-      "numVotes": 87928
+      "numVotes": 87858
     },
     {
       "tconst": "tt2832378",
@@ -811,7 +838,7 @@
       "seasonNumber": 4,
       "episodeNumber": 2,
       "averageRating": 9.7,
-      "numVotes": 87673
+      "numVotes": 87603
     },
     {
       "tconst": "tt2084342",
@@ -820,7 +847,7 @@
       "seasonNumber": 2,
       "episodeNumber": 9,
       "averageRating": 9.7,
-      "numVotes": 84317
+      "numVotes": 84226
     },
     {
       "tconst": "tt1683086",
@@ -829,7 +856,7 @@
       "seasonNumber": 4,
       "episodeNumber": 11,
       "averageRating": 9.7,
-      "numVotes": 83198
+      "numVotes": 83167
     },
     {
       "tconst": "tt3060860",
@@ -838,7 +865,7 @@
       "seasonNumber": 4,
       "episodeNumber": 10,
       "averageRating": 9.7,
-      "numVotes": 78722
+      "numVotes": 78689
     },
     {
       "tconst": "tt1615553",
@@ -847,7 +874,7 @@
       "seasonNumber": 3,
       "episodeNumber": 13,
       "averageRating": 9.7,
-      "numVotes": 75193
+      "numVotes": 75113
     },
     {
       "tconst": "tt1821284",
@@ -856,7 +883,7 @@
       "seasonNumber": 1,
       "episodeNumber": 483,
       "averageRating": 9.7,
-      "numVotes": 60180
+      "numVotes": 60253
     },
     {
       "tconst": "tt36351486",
@@ -865,7 +892,7 @@
       "seasonNumber": 1,
       "episodeNumber": 9,
       "averageRating": 9.7,
-      "numVotes": 58446
+      "numVotes": 58541
     },
     {
       "tconst": "tt14132418",
@@ -874,7 +901,7 @@
       "seasonNumber": 4,
       "episodeNumber": 14,
       "averageRating": 9.7,
-      "numVotes": 55399
+      "numVotes": 55604
     },
     {
       "tconst": "tt1824873",
@@ -883,7 +910,7 @@
       "seasonNumber": 1,
       "episodeNumber": 484,
       "averageRating": 9.7,
-      "numVotes": 53428
+      "numVotes": 53494
     },
     {
       "tconst": "tt6723710",
@@ -892,7 +919,7 @@
       "seasonNumber": 2,
       "episodeNumber": 12,
       "averageRating": 9.7,
-      "numVotes": 52856
+      "numVotes": 53087
     },
     {
       "tconst": "tt1806725",
@@ -901,7 +928,7 @@
       "seasonNumber": 1,
       "episodeNumber": 482,
       "averageRating": 9.7,
-      "numVotes": 51938
+      "numVotes": 51998
     },
     {
       "tconst": "tt10064964",
@@ -910,7 +937,7 @@
       "seasonNumber": 3,
       "episodeNumber": 21,
       "averageRating": 9.7,
-      "numVotes": 49008
+      "numVotes": 49254
     },
     {
       "tconst": "tt12187032",
@@ -919,7 +946,7 @@
       "seasonNumber": 6,
       "episodeNumber": 3,
       "averageRating": 9.7,
-      "numVotes": 48477
+      "numVotes": 48673
     },
     {
       "tconst": "tt36351467",
@@ -928,16 +955,7 @@
       "seasonNumber": 1,
       "episodeNumber": 4,
       "averageRating": 9.7,
-      "numVotes": 48318
-    },
-    {
-      "tconst": "tt15496376",
-      "seriesTitle": "Arcane",
-      "episodeTitle": "The Base Violence Necessary for Change",
-      "seasonNumber": 1,
-      "episodeNumber": 3,
-      "averageRating": 9.7,
-      "numVotes": 47873
+      "numVotes": 48425
     },
     {
       "tconst": "tt34952920",
@@ -946,25 +964,16 @@
       "seasonNumber": 3,
       "episodeNumber": 7,
       "averageRating": 9.7,
-      "numVotes": 47754
+      "numVotes": 47978
     },
     {
-      "tconst": "tt34383697",
+      "tconst": "tt15496376",
       "seriesTitle": "Arcane",
-      "episodeTitle": "The Message Hidden Within the Pattern",
-      "seasonNumber": 2,
-      "episodeNumber": 6,
-      "averageRating": 9.7,
-      "numVotes": 45358
-    },
-    {
-      "tconst": "tt7453430",
-      "seriesTitle": "One Piece",
-      "episodeTitle": "Kanashiki Kettou: Luffy tai Sanji (Kouhen)",
+      "episodeTitle": "The Base Violence Necessary for Change",
       "seasonNumber": 1,
-      "episodeNumber": 808,
+      "episodeNumber": 3,
       "averageRating": 9.7,
-      "numVotes": 45226
+      "numVotes": 47968
     },
     {
       "tconst": "tt39848781",
@@ -973,7 +982,25 @@
       "seasonNumber": 4,
       "episodeNumber": 5,
       "averageRating": 9.7,
-      "numVotes": 45209
+      "numVotes": 45554
+    },
+    {
+      "tconst": "tt34383697",
+      "seriesTitle": "Arcane",
+      "episodeTitle": "The Message Hidden Within the Pattern",
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "averageRating": 9.7,
+      "numVotes": 45411
+    },
+    {
+      "tconst": "tt7453430",
+      "seriesTitle": "One Piece",
+      "episodeTitle": "Kanashiki Kettou: Luffy tai Sanji (Kouhen)",
+      "seasonNumber": 1,
+      "episodeNumber": 808,
+      "averageRating": 9.7,
+      "numVotes": 45275
     },
     {
       "tconst": "tt15496440",
@@ -982,7 +1009,7 @@
       "seasonNumber": 1,
       "episodeNumber": 9,
       "averageRating": 9.7,
-      "numVotes": 44940
+      "numVotes": 45028
     },
     {
       "tconst": "tt5719536",
@@ -991,16 +1018,7 @@
       "seasonNumber": 3,
       "episodeNumber": 5,
       "averageRating": 9.7,
-      "numVotes": 42281
-    },
-    {
-      "tconst": "tt4575388",
-      "seriesTitle": "The Walking Dead",
-      "episodeTitle": "No Way Out",
-      "seasonNumber": 6,
-      "episodeNumber": 9,
-      "averageRating": 9.7,
-      "numVotes": 38903
+      "numVotes": 42450
     },
     {
       "tconst": "tt8772218",
@@ -1009,16 +1027,16 @@
       "seasonNumber": 5,
       "episodeNumber": 8,
       "averageRating": 9.7,
-      "numVotes": 38896
+      "numVotes": 39051
     },
     {
-      "tconst": "tt8772220",
-      "seriesTitle": "Better Call Saul",
-      "episodeTitle": "Bad Choice Road",
-      "seasonNumber": 5,
+      "tconst": "tt4575388",
+      "seriesTitle": "The Walking Dead",
+      "episodeTitle": "No Way Out",
+      "seasonNumber": 6,
       "episodeNumber": 9,
       "averageRating": 9.7,
-      "numVotes": 37045
+      "numVotes": 39005
     },
     {
       "tconst": "tt39370459",
@@ -1027,7 +1045,16 @@
       "seasonNumber": 3,
       "episodeNumber": 4,
       "averageRating": 9.7,
-      "numVotes": 36927
+      "numVotes": 37197
+    },
+    {
+      "tconst": "tt8772220",
+      "seriesTitle": "Better Call Saul",
+      "episodeTitle": "Bad Choice Road",
+      "seasonNumber": 5,
+      "episodeNumber": 9,
+      "averageRating": 9.7,
+      "numVotes": 37192
     },
     {
       "tconst": "tt30673629",
@@ -1036,7 +1063,7 @@
       "seasonNumber": 1,
       "episodeNumber": 1089,
       "averageRating": 9.7,
-      "numVotes": 36159
+      "numVotes": 36203
     },
     {
       "tconst": "tt13424098",
@@ -1045,7 +1072,7 @@
       "seasonNumber": 1,
       "episodeNumber": 9,
       "averageRating": 9.7,
-      "numVotes": 34993
+      "numVotes": 35099
     },
     {
       "tconst": "tt31989046",
@@ -1054,7 +1081,7 @@
       "seasonNumber": 1,
       "episodeNumber": 1100,
       "averageRating": 9.7,
-      "numVotes": 34495
+      "numVotes": 34539
     },
     {
       "tconst": "tt32886743",
@@ -1063,7 +1090,7 @@
       "seasonNumber": 1,
       "episodeNumber": 1112,
       "averageRating": 9.7,
-      "numVotes": 33900
+      "numVotes": 33949
     },
     {
       "tconst": "tt5229638",
@@ -1072,7 +1099,7 @@
       "seasonNumber": 1,
       "episodeNumber": 10,
       "averageRating": 9.7,
-      "numVotes": 33168
+      "numVotes": 33195
     },
     {
       "tconst": "tt14180486",
@@ -1081,7 +1108,7 @@
       "seasonNumber": 1,
       "episodeNumber": 968,
       "averageRating": 9.7,
-      "numVotes": 32456
+      "numVotes": 32502
     },
     {
       "tconst": "tt20603308",
@@ -1090,7 +1117,7 @@
       "seasonNumber": 2,
       "episodeNumber": 8,
       "averageRating": 9.7,
-      "numVotes": 31163
+      "numVotes": 31243
     },
     {
       "tconst": "tt33990561",
@@ -1099,7 +1126,7 @@
       "seasonNumber": 3,
       "episodeNumber": 9,
       "averageRating": 9.7,
-      "numVotes": 27156
+      "numVotes": 27214
     },
     {
       "tconst": "tt29452438",
@@ -1108,7 +1135,7 @@
       "seasonNumber": 4,
       "episodeNumber": 8,
       "averageRating": 9.7,
-      "numVotes": 27148
+      "numVotes": 27213
     },
     {
       "tconst": "tt29621863",
@@ -1117,7 +1144,7 @@
       "seasonNumber": 2,
       "episodeNumber": 16,
       "averageRating": 9.7,
-      "numVotes": 25314
+      "numVotes": 25460
     },
     {
       "tconst": "tt26230388",
@@ -1126,7 +1153,7 @@
       "seasonNumber": 2,
       "episodeNumber": 7,
       "averageRating": 9.7,
-      "numVotes": 24742
+      "numVotes": 24808
     },
     {
       "tconst": "tt29621867",
@@ -1135,7 +1162,7 @@
       "seasonNumber": 2,
       "episodeNumber": 17,
       "averageRating": 9.7,
-      "numVotes": 24050
+      "numVotes": 24205
     },
     {
       "tconst": "tt10433100",
@@ -1144,7 +1171,7 @@
       "seasonNumber": 1,
       "episodeNumber": 19,
       "averageRating": 9.7,
-      "numVotes": 23650
+      "numVotes": 23702
     },
     {
       "tconst": "tt5326246",
@@ -1153,7 +1180,7 @@
       "seasonNumber": 1,
       "episodeNumber": 726,
       "averageRating": 9.7,
-      "numVotes": 23478
+      "numVotes": 23503
     },
     {
       "tconst": "tt33050635",
@@ -1162,7 +1189,7 @@
       "seasonNumber": 1,
       "episodeNumber": 1114,
       "averageRating": 9.7,
-      "numVotes": 23327
+      "numVotes": 23371
     },
     {
       "tconst": "tt1054352",
@@ -1171,7 +1198,7 @@
       "seasonNumber": 1,
       "episodeNumber": 309,
       "averageRating": 9.7,
-      "numVotes": 22957
+      "numVotes": 23000
     },
     {
       "tconst": "tt1055053",
@@ -1180,7 +1207,7 @@
       "seasonNumber": 1,
       "episodeNumber": 312,
       "averageRating": 9.7,
-      "numVotes": 22525
+      "numVotes": 22573
     },
     {
       "tconst": "tt0705272",
@@ -1189,7 +1216,7 @@
       "seasonNumber": 3,
       "episodeNumber": 11,
       "averageRating": 9.7,
-      "numVotes": 22425
+      "numVotes": 22224
     },
     {
       "tconst": "tt15423196",
@@ -1198,7 +1225,7 @@
       "seasonNumber": 3,
       "episodeNumber": 9,
       "averageRating": 9.7,
-      "numVotes": 22052
+      "numVotes": 22132
     },
     {
       "tconst": "tt1044632",
@@ -1207,7 +1234,7 @@
       "seasonNumber": 1,
       "episodeNumber": 278,
       "averageRating": 9.7,
-      "numVotes": 21963
+      "numVotes": 22018
     },
     {
       "tconst": "tt9632460",
@@ -1216,7 +1243,7 @@
       "seasonNumber": 1,
       "episodeNumber": 870,
       "averageRating": 9.7,
-      "numVotes": 21926
+      "numVotes": 21948
     },
     {
       "tconst": "tt0994365",
@@ -1225,7 +1252,7 @@
       "seasonNumber": 4,
       "episodeNumber": 5,
       "averageRating": 9.7,
-      "numVotes": 21174
+      "numVotes": 21164
     },
     {
       "tconst": "tt11079892",
@@ -1234,7 +1261,7 @@
       "seasonNumber": 2,
       "episodeNumber": 10,
       "averageRating": 9.7,
-      "numVotes": 20819
+      "numVotes": 20882
     },
     {
       "tconst": "tt8084166",
@@ -1243,7 +1270,7 @@
       "seasonNumber": 4,
       "episodeNumber": 5,
       "averageRating": 9.7,
-      "numVotes": 20658
+      "numVotes": 20718
     },
     {
       "tconst": "tt1248736",
@@ -1252,7 +1279,7 @@
       "seasonNumber": 5,
       "episodeNumber": 13,
       "averageRating": 9.7,
-      "numVotes": 20269
+      "numVotes": 20306
     },
     {
       "tconst": "tt8084180",
@@ -1261,7 +1288,7 @@
       "seasonNumber": 4,
       "episodeNumber": 9,
       "averageRating": 9.7,
-      "numVotes": 20122
+      "numVotes": 20187
     },
     {
       "tconst": "tt33609042",
@@ -1270,7 +1297,7 @@
       "seasonNumber": 1,
       "episodeNumber": 7,
       "averageRating": 9.7,
-      "numVotes": 19903
+      "numVotes": 19958
     },
     {
       "tconst": "tt38366977",
@@ -1279,7 +1306,7 @@
       "seasonNumber": 1,
       "episodeNumber": 1144,
       "averageRating": 9.7,
-      "numVotes": 19812
+      "numVotes": 19860
     },
     {
       "tconst": "tt6633696",
@@ -1288,7 +1315,7 @@
       "seasonNumber": 3,
       "episodeNumber": 5,
       "averageRating": 9.7,
-      "numVotes": 19002
+      "numVotes": 19074
     },
     {
       "tconst": "tt37593495",
@@ -1297,16 +1324,7 @@
       "seasonNumber": 1,
       "episodeNumber": 1137,
       "averageRating": 9.7,
-      "numVotes": 18179
-    },
-    {
-      "tconst": "tt4089754",
-      "seriesTitle": "Hannibal",
-      "episodeTitle": "The Wrath of the Lamb",
-      "seasonNumber": 3,
-      "episodeNumber": 13,
-      "averageRating": 9.7,
-      "numVotes": 17938
+      "numVotes": 18235
     },
     {
       "tconst": "tt33683557",
@@ -1315,7 +1333,16 @@
       "seasonNumber": 1,
       "episodeNumber": 1122,
       "averageRating": 9.7,
-      "numVotes": 17913
+      "numVotes": 17953
+    },
+    {
+      "tconst": "tt4089754",
+      "seriesTitle": "Hannibal",
+      "episodeTitle": "The Wrath of the Lamb",
+      "seasonNumber": 3,
+      "episodeNumber": 13,
+      "averageRating": 9.7,
+      "numVotes": 17948
     },
     {
       "tconst": "tt8956332",
@@ -1324,7 +1351,7 @@
       "seasonNumber": 2,
       "episodeNumber": 5,
       "averageRating": 9.7,
-      "numVotes": 17822
+      "numVotes": 17846
     },
     {
       "tconst": "tt36956517",
@@ -1333,7 +1360,7 @@
       "seasonNumber": 1,
       "episodeNumber": 1,
       "averageRating": 9.7,
-      "numVotes": 17515
+      "numVotes": 17658
     },
     {
       "tconst": "tt33070570",
@@ -1342,7 +1369,7 @@
       "seasonNumber": 1,
       "episodeNumber": 1115,
       "averageRating": 9.7,
-      "numVotes": 17466
+      "numVotes": 17501
     },
     {
       "tconst": "tt6635194",
@@ -1351,7 +1378,7 @@
       "seasonNumber": 3,
       "episodeNumber": 6,
       "averageRating": 9.7,
-      "numVotes": 16956
+      "numVotes": 17029
     },
     {
       "tconst": "tt1411541",
@@ -1360,25 +1387,7 @@
       "seasonNumber": 1,
       "episodeNumber": 396,
       "averageRating": 9.7,
-      "numVotes": 16863
-    },
-    {
-      "tconst": "tt38672635",
-      "seriesTitle": "My Hero Academia",
-      "episodeTitle": "Quirk: Explosion!!",
-      "seasonNumber": 8,
-      "episodeNumber": 4,
-      "averageRating": 9.7,
-      "numVotes": 16327
-    },
-    {
-      "tconst": "tt0705260",
-      "seriesTitle": "The Sopranos",
-      "episodeTitle": "Long Term Parking",
-      "seasonNumber": 5,
-      "episodeNumber": 12,
-      "averageRating": 9.7,
-      "numVotes": 16314
+      "numVotes": 16919
     },
     {
       "tconst": "tt8253126",
@@ -1387,7 +1396,16 @@
       "seasonNumber": 3,
       "episodeNumber": 24,
       "averageRating": 9.7,
-      "numVotes": 16284
+      "numVotes": 16308
+    },
+    {
+      "tconst": "tt0705260",
+      "seriesTitle": "The Sopranos",
+      "episodeTitle": "Long Term Parking",
+      "seasonNumber": 5,
+      "episodeNumber": 12,
+      "averageRating": 9.7,
+      "numVotes": 16120
     },
     {
       "tconst": "tt9313962",
@@ -1396,16 +1414,7 @@
       "seasonNumber": 7,
       "episodeNumber": 9,
       "averageRating": 9.7,
-      "numVotes": 15853
-    },
-    {
-      "tconst": "tt1216108",
-      "seriesTitle": "House",
-      "episodeTitle": "House's Head",
-      "seasonNumber": 4,
-      "episodeNumber": 15,
-      "averageRating": 9.7,
-      "numVotes": 15440
+      "numVotes": 15928
     },
     {
       "tconst": "tt0583452",
@@ -1414,7 +1423,16 @@
       "seasonNumber": 5,
       "episodeNumber": 14,
       "averageRating": 9.7,
-      "numVotes": 15411
+      "numVotes": 15430
+    },
+    {
+      "tconst": "tt1216108",
+      "seriesTitle": "House",
+      "episodeTitle": "House's Head",
+      "seasonNumber": 4,
+      "episodeNumber": 15,
+      "averageRating": 9.7,
+      "numVotes": 15414
     },
     {
       "tconst": "tt14571480",
@@ -1423,7 +1441,7 @@
       "seasonNumber": 1,
       "episodeNumber": 974,
       "averageRating": 9.7,
-      "numVotes": 15173
+      "numVotes": 15212
     },
     {
       "tconst": "tt1626753",
@@ -1432,7 +1450,7 @@
       "seasonNumber": 5,
       "episodeNumber": 22,
       "averageRating": 9.7,
-      "numVotes": 15073
+      "numVotes": 15074
     },
     {
       "tconst": "tt27589539",
@@ -1441,7 +1459,7 @@
       "seasonNumber": 2,
       "episodeNumber": 22,
       "averageRating": 9.7,
-      "numVotes": 14255
+      "numVotes": 14386
     },
     {
       "tconst": "tt4927314",
@@ -1450,16 +1468,7 @@
       "seasonNumber": 1,
       "episodeNumber": 706,
       "averageRating": 9.7,
-      "numVotes": 14198
-    },
-    {
-      "tconst": "tt0995838",
-      "seriesTitle": "The Sopranos",
-      "episodeTitle": "The Blue Comet",
-      "seasonNumber": 6,
-      "episodeNumber": 20,
-      "averageRating": 9.7,
-      "numVotes": 14141
+      "numVotes": 14221
     },
     {
       "tconst": "tt1216109",
@@ -1468,7 +1477,16 @@
       "seasonNumber": 4,
       "episodeNumber": 16,
       "averageRating": 9.7,
-      "numVotes": 13999
+      "numVotes": 13976
+    },
+    {
+      "tconst": "tt0995838",
+      "seriesTitle": "The Sopranos",
+      "episodeTitle": "The Blue Comet",
+      "seasonNumber": 6,
+      "episodeNumber": 20,
+      "averageRating": 9.7,
+      "numVotes": 13948
     },
     {
       "tconst": "tt5218488",
@@ -1477,7 +1495,7 @@
       "seasonNumber": 3,
       "episodeNumber": 11,
       "averageRating": 9.7,
-      "numVotes": 13823
+      "numVotes": 13889
     },
     {
       "tconst": "tt27589543",
@@ -1486,7 +1504,7 @@
       "seasonNumber": 2,
       "episodeNumber": 23,
       "averageRating": 9.7,
-      "numVotes": 12927
+      "numVotes": 13077
     },
     {
       "tconst": "tt15757632",
@@ -1495,7 +1513,7 @@
       "seasonNumber": 2,
       "episodeNumber": 7,
       "averageRating": 9.7,
-      "numVotes": 12894
+      "numVotes": 12954
     },
     {
       "tconst": "tt36733280",
@@ -1504,7 +1522,7 @@
       "seasonNumber": 1,
       "episodeNumber": 1128,
       "averageRating": 9.7,
-      "numVotes": 12545
+      "numVotes": 12585
     },
     {
       "tconst": "tt0533466",
@@ -1513,7 +1531,7 @@
       "seasonNumber": 6,
       "episodeNumber": 7,
       "averageRating": 9.7,
-      "numVotes": 12295
+      "numVotes": 12251
     },
     {
       "tconst": "tt4938410",
@@ -1522,7 +1540,7 @@
       "seasonNumber": 5,
       "episodeNumber": 10,
       "averageRating": 9.7,
-      "numVotes": 11680
+      "numVotes": 11697
     },
     {
       "tconst": "tt21480058",
@@ -1531,7 +1549,7 @@
       "seasonNumber": 1,
       "episodeNumber": 1028,
       "averageRating": 9.7,
-      "numVotes": 11325
+      "numVotes": 11354
     },
     {
       "tconst": "tt1226418",
@@ -1540,7 +1558,7 @@
       "seasonNumber": 4,
       "episodeNumber": 19,
       "averageRating": 9.7,
-      "numVotes": 11206
+      "numVotes": 11216
     },
     {
       "tconst": "tt31322436",
@@ -1549,7 +1567,7 @@
       "seasonNumber": 1,
       "episodeNumber": 5,
       "averageRating": 9.7,
-      "numVotes": 11049
+      "numVotes": 11118
     },
     {
       "tconst": "tt1023407",
@@ -1558,7 +1576,7 @@
       "seasonNumber": 1,
       "episodeNumber": 236,
       "averageRating": 9.7,
-      "numVotes": 11021
+      "numVotes": 11080
     },
     {
       "tconst": "tt7629358",
@@ -1567,7 +1585,7 @@
       "seasonNumber": 2,
       "episodeNumber": 6,
       "averageRating": 9.7,
-      "numVotes": 10841
+      "numVotes": 10866
     },
     {
       "tconst": "tt1319916",
@@ -1576,7 +1594,7 @@
       "seasonNumber": 4,
       "episodeNumber": 13,
       "averageRating": 9.7,
-      "numVotes": 10764
+      "numVotes": 10780
     },
     {
       "tconst": "tt12539164",
@@ -1585,16 +1603,7 @@
       "seasonNumber": 2,
       "episodeNumber": 26,
       "averageRating": 9.7,
-      "numVotes": 10499
-    },
-    {
-      "tconst": "tt0533443",
-      "seriesTitle": "Buffy the Vampire Slayer",
-      "episodeTitle": "Hush",
-      "seasonNumber": 4,
-      "episodeNumber": 10,
-      "averageRating": 9.7,
-      "numVotes": 9935
+      "numVotes": 10507
     },
     {
       "tconst": "tt30273851",
@@ -1603,7 +1612,16 @@
       "seasonNumber": 1,
       "episodeNumber": 5,
       "averageRating": 9.7,
-      "numVotes": 9833
+      "numVotes": 10029
+    },
+    {
+      "tconst": "tt0533443",
+      "seriesTitle": "Buffy the Vampire Slayer",
+      "episodeTitle": "Hush",
+      "seasonNumber": 4,
+      "episodeNumber": 10,
+      "averageRating": 9.7,
+      "numVotes": 9898
     },
     {
       "tconst": "tt1559909",
@@ -1612,7 +1630,7 @@
       "seasonNumber": 3,
       "episodeNumber": 13,
       "averageRating": 9.7,
-      "numVotes": 9736
+      "numVotes": 9720
     },
     {
       "tconst": "tt12045824",
@@ -1621,7 +1639,7 @@
       "seasonNumber": 4,
       "episodeNumber": 25,
       "averageRating": 9.7,
-      "numVotes": 9614
+      "numVotes": 9699
     },
     {
       "tconst": "tt2628854",
@@ -1630,7 +1648,7 @@
       "seasonNumber": 5,
       "episodeNumber": 20,
       "averageRating": 9.7,
-      "numVotes": 9555
+      "numVotes": 9548
     },
     {
       "tconst": "tt1989158",
@@ -1639,7 +1657,7 @@
       "seasonNumber": 1,
       "episodeNumber": 133,
       "averageRating": 9.7,
-      "numVotes": 9349
+      "numVotes": 9399
     },
     {
       "tconst": "tt0533496",
@@ -1648,7 +1666,7 @@
       "seasonNumber": 5,
       "episodeNumber": 16,
       "averageRating": 9.7,
-      "numVotes": 9172
+      "numVotes": 9166
     },
     {
       "tconst": "tt4532988",
@@ -1657,7 +1675,7 @@
       "seasonNumber": 4,
       "episodeNumber": 22,
       "averageRating": 9.7,
-      "numVotes": 9090
+      "numVotes": 9123
     },
     {
       "tconst": "tt2553414",
@@ -1666,7 +1684,7 @@
       "seasonNumber": 3,
       "episodeNumber": 10,
       "averageRating": 9.7,
-      "numVotes": 9034
+      "numVotes": 8984
     },
     {
       "tconst": "tt1805117",
@@ -1675,7 +1693,7 @@
       "seasonNumber": 1,
       "episodeNumber": 481,
       "averageRating": 9.7,
-      "numVotes": 8941
+      "numVotes": 8982
     },
     {
       "tconst": "tt11488600",
@@ -1684,7 +1702,7 @@
       "seasonNumber": 4,
       "episodeNumber": 13,
       "averageRating": 9.7,
-      "numVotes": 8814
+      "numVotes": 8867
     },
     {
       "tconst": "tt1675927",
@@ -1693,7 +1711,7 @@
       "seasonNumber": 1,
       "episodeNumber": 63,
       "averageRating": 9.7,
-      "numVotes": 8715
+      "numVotes": 8769
     },
     {
       "tconst": "tt2542356",
@@ -1702,16 +1720,7 @@
       "seasonNumber": 5,
       "episodeNumber": 16,
       "averageRating": 9.7,
-      "numVotes": 8521
-    },
-    {
-      "tconst": "tt3291628",
-      "seriesTitle": "Person of Interest",
-      "episodeTitle": "The Crossing",
-      "seasonNumber": 3,
-      "episodeNumber": 9,
-      "averageRating": 9.7,
-      "numVotes": 8165
+      "numVotes": 8433
     },
     {
       "tconst": "tt39389486",
@@ -1720,7 +1729,16 @@
       "seasonNumber": 1,
       "episodeNumber": 10,
       "averageRating": 9.7,
-      "numVotes": 8157
+      "numVotes": 8340
+    },
+    {
+      "tconst": "tt3291628",
+      "seriesTitle": "Person of Interest",
+      "episodeTitle": "The Crossing",
+      "seasonNumber": 3,
+      "episodeNumber": 9,
+      "averageRating": 9.7,
+      "numVotes": 8181
     },
     {
       "tconst": "tt3331452",
@@ -1729,7 +1747,7 @@
       "seasonNumber": 3,
       "episodeNumber": 10,
       "averageRating": 9.7,
-      "numVotes": 7980
+      "numVotes": 7995
     },
     {
       "tconst": "tt1615666",
@@ -1738,7 +1756,7 @@
       "seasonNumber": 4,
       "episodeNumber": 7,
       "averageRating": 9.7,
-      "numVotes": 7955
+      "numVotes": 7935
     },
     {
       "tconst": "tt4679206",
@@ -1747,7 +1765,7 @@
       "seasonNumber": 5,
       "episodeNumber": 10,
       "averageRating": 9.7,
-      "numVotes": 7604
+      "numVotes": 7618
     },
     {
       "tconst": "tt40232237",
@@ -1756,7 +1774,7 @@
       "seasonNumber": 3,
       "episodeNumber": 21,
       "averageRating": 9.7,
-      "numVotes": 7536
+      "numVotes": 7583
     },
     {
       "tconst": "tt2414266",
@@ -1765,7 +1783,7 @@
       "seasonNumber": 1,
       "episodeNumber": 47,
       "averageRating": 9.7,
-      "numVotes": 7453
+      "numVotes": 7510
     },
     {
       "tconst": "tt39109927",
@@ -1774,16 +1792,7 @@
       "seasonNumber": 1,
       "episodeNumber": 1152,
       "averageRating": 9.7,
-      "numVotes": 7310
-    },
-    {
-      "tconst": "tt6439870",
-      "seriesTitle": "This Is Us",
-      "episodeTitle": "Super Bowl Sunday",
-      "seasonNumber": 2,
-      "episodeNumber": 14,
-      "averageRating": 9.7,
-      "numVotes": 6847
+      "numVotes": 7357
     },
     {
       "tconst": "tt9583206",
@@ -1792,16 +1801,7 @@
       "seasonNumber": 1,
       "episodeNumber": 12,
       "averageRating": 9.7,
-      "numVotes": 6845
-    },
-    {
-      "tconst": "tt1484414",
-      "seriesTitle": "Mad Men",
-      "episodeTitle": "Shut the Door. Have a Seat",
-      "seasonNumber": 3,
-      "episodeNumber": 13,
-      "averageRating": 9.7,
-      "numVotes": 6845
+      "numVotes": 6890
     }
   ]
 }

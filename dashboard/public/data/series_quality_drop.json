@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-01T11:47:39+00:00",
-  "snapshotDate": "2026-06-01",
+  "generatedAt": "2026-06-08T11:08:59+00:00",
+  "snapshotDate": "2026-06-08",
   "rows": 50,
   "data": [
     {
@@ -76,19 +76,19 @@
       "qualityDrop": 5.4
     },
     {
-      "seriesTconst": "tt0121016",
-      "seriesTitle": "Die Rudi Carrell Show",
-      "season1Rating": 9.3,
-      "lastSeasonRating": 4.0,
-      "lastSeason": 2,
-      "qualityDrop": 5.3
-    },
-    {
       "seriesTconst": "tt0063890",
       "seriesTitle": "The David Frost Show",
       "season1Rating": 6.5,
       "lastSeasonRating": 1.2,
       "lastSeason": 4,
+      "qualityDrop": 5.3
+    },
+    {
+      "seriesTconst": "tt0121016",
+      "seriesTitle": "Die Rudi Carrell Show",
+      "season1Rating": 9.3,
+      "lastSeasonRating": 4.0,
+      "lastSeason": 2,
       "qualityDrop": 5.3
     },
     {
@@ -108,14 +108,6 @@
       "qualityDrop": 5.05
     },
     {
-      "seriesTconst": "tt5191128",
-      "seriesTitle": "The Break",
-      "season1Rating": 7.8,
-      "lastSeasonRating": 2.8,
-      "lastSeason": 3,
-      "qualityDrop": 5.0
-    },
-    {
       "seriesTconst": "tt4508902",
       "seriesTitle": "One Punch Man",
       "season1Rating": 8.775,
@@ -132,6 +124,14 @@
       "qualityDrop": 5.0
     },
     {
+      "seriesTconst": "tt5191128",
+      "seriesTitle": "The Break",
+      "season1Rating": 7.8,
+      "lastSeasonRating": 2.8,
+      "lastSeason": 3,
+      "qualityDrop": 5.0
+    },
+    {
       "seriesTconst": "tt2214918",
       "seriesTitle": "Nicht nachmachen!",
       "season1Rating": 7.9,
@@ -143,9 +143,9 @@
       "seriesTconst": "tt0329829",
       "seriesTitle": "Fireman Sam",
       "season1Rating": 8.6,
-      "lastSeasonRating": 3.726,
+      "lastSeasonRating": 3.7,
       "lastSeason": 16,
-      "qualityDrop": 4.874
+      "qualityDrop": 4.9
     },
     {
       "seriesTconst": "tt4277268",
@@ -154,6 +154,14 @@
       "lastSeasonRating": 3.4,
       "lastSeason": 2,
       "qualityDrop": 4.86
+    },
+    {
+      "seriesTconst": "tt0081857",
+      "seriesTitle": "Entertainment Tonight",
+      "season1Rating": 8.3,
+      "lastSeasonRating": 3.5,
+      "lastSeason": 40,
+      "qualityDrop": 4.8
     },
     {
       "seriesTconst": "tt0048892",
@@ -196,14 +204,6 @@
       "qualityDrop": 4.514
     },
     {
-      "seriesTconst": "tt0081857",
-      "seriesTitle": "Entertainment Tonight",
-      "season1Rating": 8.0,
-      "lastSeasonRating": 3.5,
-      "lastSeason": 40,
-      "qualityDrop": 4.5
-    },
-    {
       "seriesTconst": "tt5723284",
       "seriesTitle": "I Hate Everything",
       "season1Rating": 5.872,
@@ -220,14 +220,6 @@
       "qualityDrop": 4.417
     },
     {
-      "seriesTconst": "tt0101117",
-      "seriesTitle": "The Hidden Room",
-      "season1Rating": 6.7,
-      "lastSeasonRating": 2.3,
-      "lastSeason": 2,
-      "qualityDrop": 4.4
-    },
-    {
       "seriesTconst": "tt0306760",
       "seriesTitle": "Edel & Starck",
       "season1Rating": 7.6,
@@ -236,12 +228,20 @@
       "qualityDrop": 4.4
     },
     {
-      "seriesTconst": "tt0115367",
-      "seriesTitle": "Sparks",
-      "season1Rating": 8.6,
-      "lastSeasonRating": 4.3,
+      "seriesTconst": "tt0101117",
+      "seriesTitle": "The Hidden Room",
+      "season1Rating": 6.7,
+      "lastSeasonRating": 2.3,
       "lastSeason": 2,
-      "qualityDrop": 4.3
+      "qualityDrop": 4.4
+    },
+    {
+      "seriesTconst": "tt0856757",
+      "seriesTitle": "Leaf Cast",
+      "season1Rating": 6.855,
+      "lastSeasonRating": 2.553,
+      "lastSeason": 5,
+      "qualityDrop": 4.302
     },
     {
       "seriesTconst": "tt1141678",
@@ -252,12 +252,12 @@
       "qualityDrop": 4.3
     },
     {
-      "seriesTconst": "tt0856757",
-      "seriesTitle": "Leaf Cast",
-      "season1Rating": 6.8,
-      "lastSeasonRating": 2.553,
-      "lastSeason": 5,
-      "qualityDrop": 4.247
+      "seriesTconst": "tt0115367",
+      "seriesTitle": "Sparks",
+      "season1Rating": 8.6,
+      "lastSeasonRating": 4.3,
+      "lastSeason": 2,
+      "qualityDrop": 4.3
     },
     {
       "seriesTconst": "tt8537520",
@@ -286,10 +286,10 @@
     {
       "seriesTconst": "tt16994878",
       "seriesTitle": "7 vs. Wild",
-      "season1Rating": 8.106,
-      "lastSeasonRating": 3.937,
+      "season1Rating": 8.119,
+      "lastSeasonRating": 3.938,
       "lastSeason": 5,
-      "qualityDrop": 4.169
+      "qualityDrop": 4.181
     },
     {
       "seriesTconst": "tt10827252",
@@ -300,11 +300,11 @@
       "qualityDrop": 4.106
     },
     {
-      "seriesTconst": "tt0088473",
-      "seriesTitle": "Adventures in Wonderland",
-      "season1Rating": 9.5,
-      "lastSeasonRating": 5.4,
-      "lastSeason": 3,
+      "seriesTconst": "tt1885777",
+      "seriesTitle": "Funny as Hell",
+      "season1Rating": 5.6,
+      "lastSeasonRating": 1.5,
+      "lastSeason": 2,
       "qualityDrop": 4.1
     },
     {
@@ -316,11 +316,11 @@
       "qualityDrop": 4.1
     },
     {
-      "seriesTconst": "tt1885777",
-      "seriesTitle": "Funny as Hell",
-      "season1Rating": 5.6,
-      "lastSeasonRating": 1.5,
-      "lastSeason": 2,
+      "seriesTconst": "tt0088473",
+      "seriesTitle": "Adventures in Wonderland",
+      "season1Rating": 9.5,
+      "lastSeasonRating": 5.4,
+      "lastSeason": 3,
       "qualityDrop": 4.1
     },
     {
@@ -340,14 +340,6 @@
       "qualityDrop": 3.97
     },
     {
-      "seriesTconst": "tt5180504",
-      "seriesTitle": "The Witcher",
-      "season1Rating": 8.288,
-      "lastSeasonRating": 4.387,
-      "lastSeason": 4,
-      "qualityDrop": 3.901
-    },
-    {
       "seriesTconst": "tt0486068",
       "seriesTitle": "Indian Idol",
       "season1Rating": 8.2,
@@ -356,20 +348,20 @@
       "qualityDrop": 3.9
     },
     {
+      "seriesTconst": "tt5180504",
+      "seriesTitle": "The Witcher",
+      "season1Rating": 8.275,
+      "lastSeasonRating": 4.387,
+      "lastSeason": 4,
+      "qualityDrop": 3.888
+    },
+    {
       "seriesTconst": "tt0112097",
       "seriesTitle": "Night Stand",
       "season1Rating": 8.017,
       "lastSeasonRating": 4.2,
       "lastSeason": 2,
       "qualityDrop": 3.817
-    },
-    {
-      "seriesTconst": "tt9111220",
-      "seriesTitle": "Hudson & Rex",
-      "season1Rating": 7.508,
-      "lastSeasonRating": 3.7,
-      "lastSeason": 9,
-      "qualityDrop": 3.808
     },
     {
       "seriesTconst": "tt0126179",
@@ -388,19 +380,27 @@
       "qualityDrop": 3.65
     },
     {
+      "seriesTconst": "tt0344743",
+      "seriesTitle": "V.I.P.-Schaukel",
+      "season1Rating": 7.0,
+      "lastSeasonRating": 3.4,
+      "lastSeason": 7,
+      "qualityDrop": 3.6
+    },
+    {
+      "seriesTconst": "tt0124260",
+      "seriesTitle": "Student Bodies",
+      "season1Rating": 7.6,
+      "lastSeasonRating": 4.0,
+      "lastSeason": 2,
+      "qualityDrop": 3.6
+    },
+    {
       "seriesTconst": "tt0396968",
       "seriesTitle": "American Hot Rod",
       "season1Rating": 7.8,
       "lastSeasonRating": 4.2,
       "lastSeason": 4,
-      "qualityDrop": 3.6
-    },
-    {
-      "seriesTconst": "tt1792654",
-      "seriesTitle": "Cubed",
-      "season1Rating": 5.7,
-      "lastSeasonRating": 2.1,
-      "lastSeason": 2,
       "qualityDrop": 3.6
     }
   ]
