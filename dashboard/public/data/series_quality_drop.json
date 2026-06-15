@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-08T11:08:59+00:00",
-  "snapshotDate": "2026-06-08",
+  "generatedAt": "2026-06-15T12:30:01+00:00",
+  "snapshotDate": "2026-06-15",
   "rows": 50,
   "data": [
     {
@@ -76,19 +76,19 @@
       "qualityDrop": 5.4
     },
     {
-      "seriesTconst": "tt0063890",
-      "seriesTitle": "The David Frost Show",
-      "season1Rating": 6.5,
-      "lastSeasonRating": 1.2,
-      "lastSeason": 4,
-      "qualityDrop": 5.3
-    },
-    {
       "seriesTconst": "tt0121016",
       "seriesTitle": "Die Rudi Carrell Show",
       "season1Rating": 9.3,
       "lastSeasonRating": 4.0,
       "lastSeason": 2,
+      "qualityDrop": 5.3
+    },
+    {
+      "seriesTconst": "tt0063890",
+      "seriesTitle": "The David Frost Show",
+      "season1Rating": 6.5,
+      "lastSeasonRating": 1.2,
+      "lastSeason": 4,
       "qualityDrop": 5.3
     },
     {
@@ -116,19 +116,19 @@
       "qualityDrop": 5.0
     },
     {
-      "seriesTconst": "tt0815086",
-      "seriesTitle": "Walmart Soundcheck",
-      "season1Rating": 9.2,
-      "lastSeasonRating": 4.2,
-      "lastSeason": 2,
-      "qualityDrop": 5.0
-    },
-    {
       "seriesTconst": "tt5191128",
       "seriesTitle": "The Break",
       "season1Rating": 7.8,
       "lastSeasonRating": 2.8,
       "lastSeason": 3,
+      "qualityDrop": 5.0
+    },
+    {
+      "seriesTconst": "tt0815086",
+      "seriesTitle": "Walmart Soundcheck",
+      "season1Rating": 9.2,
+      "lastSeasonRating": 4.2,
+      "lastSeason": 2,
       "qualityDrop": 5.0
     },
     {
@@ -220,19 +220,19 @@
       "qualityDrop": 4.417
     },
     {
-      "seriesTconst": "tt0306760",
-      "seriesTitle": "Edel & Starck",
-      "season1Rating": 7.6,
-      "lastSeasonRating": 3.2,
-      "lastSeason": 4,
-      "qualityDrop": 4.4
-    },
-    {
       "seriesTconst": "tt0101117",
       "seriesTitle": "The Hidden Room",
       "season1Rating": 6.7,
       "lastSeasonRating": 2.3,
       "lastSeason": 2,
+      "qualityDrop": 4.4
+    },
+    {
+      "seriesTconst": "tt0306760",
+      "seriesTitle": "Edel & Starck",
+      "season1Rating": 7.6,
+      "lastSeasonRating": 3.2,
+      "lastSeason": 4,
       "qualityDrop": 4.4
     },
     {
@@ -244,18 +244,18 @@
       "qualityDrop": 4.302
     },
     {
-      "seriesTconst": "tt1141678",
-      "seriesTitle": "Inspektor Rolle",
-      "season1Rating": 7.7,
-      "lastSeasonRating": 3.4,
-      "lastSeason": 2,
-      "qualityDrop": 4.3
-    },
-    {
       "seriesTconst": "tt0115367",
       "seriesTitle": "Sparks",
       "season1Rating": 8.6,
       "lastSeasonRating": 4.3,
+      "lastSeason": 2,
+      "qualityDrop": 4.3
+    },
+    {
+      "seriesTconst": "tt1141678",
+      "seriesTitle": "Inspektor Rolle",
+      "season1Rating": 7.7,
+      "lastSeasonRating": 3.4,
       "lastSeason": 2,
       "qualityDrop": 4.3
     },
@@ -287,9 +287,9 @@
       "seriesTconst": "tt16994878",
       "seriesTitle": "7 vs. Wild",
       "season1Rating": 8.119,
-      "lastSeasonRating": 3.938,
+      "lastSeasonRating": 3.944,
       "lastSeason": 5,
-      "qualityDrop": 4.181
+      "qualityDrop": 4.175
     },
     {
       "seriesTconst": "tt10827252",
@@ -308,19 +308,19 @@
       "qualityDrop": 4.1
     },
     {
-      "seriesTconst": "tt1724588",
-      "seriesTitle": "Ebert Presents: At the Movies",
-      "season1Rating": 6.3,
-      "lastSeasonRating": 2.2,
-      "lastSeason": 2,
-      "qualityDrop": 4.1
-    },
-    {
       "seriesTconst": "tt0088473",
       "seriesTitle": "Adventures in Wonderland",
       "season1Rating": 9.5,
       "lastSeasonRating": 5.4,
       "lastSeason": 3,
+      "qualityDrop": 4.1
+    },
+    {
+      "seriesTconst": "tt1724588",
+      "seriesTitle": "Ebert Presents: At the Movies",
+      "season1Rating": 6.3,
+      "lastSeasonRating": 2.2,
+      "lastSeason": 2,
       "qualityDrop": 4.1
     },
     {
@@ -340,20 +340,20 @@
       "qualityDrop": 3.97
     },
     {
+      "seriesTconst": "tt5180504",
+      "seriesTitle": "The Witcher",
+      "season1Rating": 8.288,
+      "lastSeasonRating": 4.387,
+      "lastSeason": 4,
+      "qualityDrop": 3.901
+    },
+    {
       "seriesTconst": "tt0486068",
       "seriesTitle": "Indian Idol",
       "season1Rating": 8.2,
       "lastSeasonRating": 4.3,
       "lastSeason": 11,
       "qualityDrop": 3.9
-    },
-    {
-      "seriesTconst": "tt5180504",
-      "seriesTitle": "The Witcher",
-      "season1Rating": 8.275,
-      "lastSeasonRating": 4.387,
-      "lastSeason": 4,
-      "qualityDrop": 3.888
     },
     {
       "seriesTconst": "tt0112097",
@@ -380,14 +380,6 @@
       "qualityDrop": 3.65
     },
     {
-      "seriesTconst": "tt0344743",
-      "seriesTitle": "V.I.P.-Schaukel",
-      "season1Rating": 7.0,
-      "lastSeasonRating": 3.4,
-      "lastSeason": 7,
-      "qualityDrop": 3.6
-    },
-    {
       "seriesTconst": "tt0124260",
       "seriesTitle": "Student Bodies",
       "season1Rating": 7.6,
@@ -401,6 +393,14 @@
       "season1Rating": 7.8,
       "lastSeasonRating": 4.2,
       "lastSeason": 4,
+      "qualityDrop": 3.6
+    },
+    {
+      "seriesTconst": "tt0344743",
+      "seriesTitle": "V.I.P.-Schaukel",
+      "season1Rating": 7.0,
+      "lastSeasonRating": 3.4,
+      "lastSeason": 7,
       "qualityDrop": 3.6
     }
   ]
