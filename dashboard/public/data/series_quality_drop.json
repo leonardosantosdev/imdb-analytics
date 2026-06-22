@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-15T12:30:01+00:00",
-  "snapshotDate": "2026-06-15",
+  "generatedAt": "2026-06-22T12:16:34+00:00",
+  "snapshotDate": "2026-06-22",
   "rows": 50,
   "data": [
     {
@@ -28,20 +28,20 @@
       "qualityDrop": 5.855
     },
     {
-      "seriesTconst": "tt8560918",
-      "seriesTitle": "The Queen of Flow",
-      "season1Rating": 8.818,
-      "lastSeasonRating": 3.034,
-      "lastSeason": 3,
-      "qualityDrop": 5.784
-    },
-    {
       "seriesTconst": "tt0122824",
       "seriesTitle": "Linda",
       "season1Rating": 7.267,
       "lastSeasonRating": 1.5,
       "lastSeason": 4,
       "qualityDrop": 5.767
+    },
+    {
+      "seriesTconst": "tt8560918",
+      "seriesTitle": "The Queen of Flow",
+      "season1Rating": 8.818,
+      "lastSeasonRating": 3.148,
+      "lastSeason": 3,
+      "qualityDrop": 5.67
     },
     {
       "seriesTconst": "tt10467076",
@@ -108,11 +108,11 @@
       "qualityDrop": 5.05
     },
     {
-      "seriesTconst": "tt4508902",
-      "seriesTitle": "One Punch Man",
-      "season1Rating": 8.775,
-      "lastSeasonRating": 3.775,
-      "lastSeason": 3,
+      "seriesTconst": "tt0815086",
+      "seriesTitle": "Walmart Soundcheck",
+      "season1Rating": 9.2,
+      "lastSeasonRating": 4.2,
+      "lastSeason": 2,
       "qualityDrop": 5.0
     },
     {
@@ -124,20 +124,12 @@
       "qualityDrop": 5.0
     },
     {
-      "seriesTconst": "tt0815086",
-      "seriesTitle": "Walmart Soundcheck",
-      "season1Rating": 9.2,
-      "lastSeasonRating": 4.2,
-      "lastSeason": 2,
-      "qualityDrop": 5.0
-    },
-    {
-      "seriesTconst": "tt2214918",
-      "seriesTitle": "Nicht nachmachen!",
-      "season1Rating": 7.9,
-      "lastSeasonRating": 3.0,
+      "seriesTconst": "tt4508902",
+      "seriesTitle": "One Punch Man",
+      "season1Rating": 8.775,
+      "lastSeasonRating": 3.792,
       "lastSeason": 3,
-      "qualityDrop": 4.9
+      "qualityDrop": 4.983
     },
     {
       "seriesTconst": "tt0329829",
@@ -145,6 +137,14 @@
       "season1Rating": 8.6,
       "lastSeasonRating": 3.7,
       "lastSeason": 16,
+      "qualityDrop": 4.9
+    },
+    {
+      "seriesTconst": "tt2214918",
+      "seriesTitle": "Nicht nachmachen!",
+      "season1Rating": 7.9,
+      "lastSeasonRating": 3.0,
+      "lastSeason": 3,
       "qualityDrop": 4.9
     },
     {
@@ -206,10 +206,10 @@
     {
       "seriesTconst": "tt5723284",
       "seriesTitle": "I Hate Everything",
-      "season1Rating": 5.872,
+      "season1Rating": 5.883,
       "lastSeasonRating": 1.4,
       "lastSeason": 12,
-      "qualityDrop": 4.472
+      "qualityDrop": 4.483
     },
     {
       "seriesTconst": "tt0375289",
@@ -220,19 +220,19 @@
       "qualityDrop": 4.417
     },
     {
-      "seriesTconst": "tt0101117",
-      "seriesTitle": "The Hidden Room",
-      "season1Rating": 6.7,
-      "lastSeasonRating": 2.3,
-      "lastSeason": 2,
-      "qualityDrop": 4.4
-    },
-    {
       "seriesTconst": "tt0306760",
       "seriesTitle": "Edel & Starck",
       "season1Rating": 7.6,
       "lastSeasonRating": 3.2,
       "lastSeason": 4,
+      "qualityDrop": 4.4
+    },
+    {
+      "seriesTconst": "tt0101117",
+      "seriesTitle": "The Hidden Room",
+      "season1Rating": 6.7,
+      "lastSeasonRating": 2.3,
+      "lastSeason": 2,
       "qualityDrop": 4.4
     },
     {
@@ -244,18 +244,18 @@
       "qualityDrop": 4.302
     },
     {
-      "seriesTconst": "tt0115367",
-      "seriesTitle": "Sparks",
-      "season1Rating": 8.6,
-      "lastSeasonRating": 4.3,
-      "lastSeason": 2,
-      "qualityDrop": 4.3
-    },
-    {
       "seriesTconst": "tt1141678",
       "seriesTitle": "Inspektor Rolle",
       "season1Rating": 7.7,
       "lastSeasonRating": 3.4,
+      "lastSeason": 2,
+      "qualityDrop": 4.3
+    },
+    {
+      "seriesTconst": "tt0115367",
+      "seriesTitle": "Sparks",
+      "season1Rating": 8.6,
+      "lastSeasonRating": 4.3,
       "lastSeason": 2,
       "qualityDrop": 4.3
     },
@@ -287,9 +287,9 @@
       "seriesTconst": "tt16994878",
       "seriesTitle": "7 vs. Wild",
       "season1Rating": 8.119,
-      "lastSeasonRating": 3.944,
+      "lastSeasonRating": 3.975,
       "lastSeason": 5,
-      "qualityDrop": 4.175
+      "qualityDrop": 4.144
     },
     {
       "seriesTconst": "tt10827252",
@@ -300,19 +300,19 @@
       "qualityDrop": 4.106
     },
     {
-      "seriesTconst": "tt1885777",
-      "seriesTitle": "Funny as Hell",
-      "season1Rating": 5.6,
-      "lastSeasonRating": 1.5,
-      "lastSeason": 2,
-      "qualityDrop": 4.1
-    },
-    {
       "seriesTconst": "tt0088473",
       "seriesTitle": "Adventures in Wonderland",
       "season1Rating": 9.5,
       "lastSeasonRating": 5.4,
       "lastSeason": 3,
+      "qualityDrop": 4.1
+    },
+    {
+      "seriesTconst": "tt1885777",
+      "seriesTitle": "Funny as Hell",
+      "season1Rating": 5.6,
+      "lastSeasonRating": 1.5,
+      "lastSeason": 2,
       "qualityDrop": 4.1
     },
     {
@@ -340,20 +340,20 @@
       "qualityDrop": 3.97
     },
     {
-      "seriesTconst": "tt5180504",
-      "seriesTitle": "The Witcher",
-      "season1Rating": 8.288,
-      "lastSeasonRating": 4.387,
-      "lastSeason": 4,
-      "qualityDrop": 3.901
-    },
-    {
       "seriesTconst": "tt0486068",
       "seriesTitle": "Indian Idol",
       "season1Rating": 8.2,
       "lastSeasonRating": 4.3,
       "lastSeason": 11,
       "qualityDrop": 3.9
+    },
+    {
+      "seriesTconst": "tt5180504",
+      "seriesTitle": "The Witcher",
+      "season1Rating": 8.275,
+      "lastSeasonRating": 4.388,
+      "lastSeason": 4,
+      "qualityDrop": 3.887
     },
     {
       "seriesTconst": "tt0112097",
@@ -380,19 +380,19 @@
       "qualityDrop": 3.65
     },
     {
-      "seriesTconst": "tt0124260",
-      "seriesTitle": "Student Bodies",
-      "season1Rating": 7.6,
-      "lastSeasonRating": 4.0,
-      "lastSeason": 2,
-      "qualityDrop": 3.6
-    },
-    {
       "seriesTconst": "tt0396968",
       "seriesTitle": "American Hot Rod",
       "season1Rating": 7.8,
       "lastSeasonRating": 4.2,
       "lastSeason": 4,
+      "qualityDrop": 3.6
+    },
+    {
+      "seriesTconst": "tt1792654",
+      "seriesTitle": "Cubed",
+      "season1Rating": 5.7,
+      "lastSeasonRating": 2.1,
+      "lastSeason": 2,
       "qualityDrop": 3.6
     },
     {
