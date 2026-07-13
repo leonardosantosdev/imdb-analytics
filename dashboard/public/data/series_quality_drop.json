@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-06T10:50:12+00:00",
-  "snapshotDate": "2026-07-06",
+  "generatedAt": "2026-07-13T09:39:06+00:00",
+  "snapshotDate": "2026-07-13",
   "rows": 50,
   "data": [
     {
@@ -100,19 +100,19 @@
       "qualityDrop": 5.05
     },
     {
-      "seriesTconst": "tt0815086",
-      "seriesTitle": "Walmart Soundcheck",
-      "season1Rating": 9.2,
-      "lastSeasonRating": 4.2,
-      "lastSeason": 2,
-      "qualityDrop": 5.0
-    },
-    {
       "seriesTconst": "tt5191128",
       "seriesTitle": "The Break",
       "season1Rating": 7.8,
       "lastSeasonRating": 2.8,
       "lastSeason": 3,
+      "qualityDrop": 5.0
+    },
+    {
+      "seriesTconst": "tt0815086",
+      "seriesTitle": "Walmart Soundcheck",
+      "season1Rating": 9.2,
+      "lastSeasonRating": 4.2,
+      "lastSeason": 2,
       "qualityDrop": 5.0
     },
     {
@@ -122,14 +122,6 @@
       "lastSeasonRating": 3.8,
       "lastSeason": 3,
       "qualityDrop": 4.975
-    },
-    {
-      "seriesTconst": "tt2214918",
-      "seriesTitle": "Nicht nachmachen!",
-      "season1Rating": 7.9,
-      "lastSeasonRating": 3.0,
-      "lastSeason": 3,
-      "qualityDrop": 4.9
     },
     {
       "seriesTconst": "tt0329829",
@@ -146,6 +138,14 @@
       "lastSeasonRating": 3.4,
       "lastSeason": 2,
       "qualityDrop": 4.86
+    },
+    {
+      "seriesTconst": "tt2214918",
+      "seriesTitle": "Nicht nachmachen!",
+      "season1Rating": 7.817,
+      "lastSeasonRating": 3.0,
+      "lastSeason": 3,
+      "qualityDrop": 4.817
     },
     {
       "seriesTconst": "tt0081857",
@@ -212,14 +212,6 @@
       "qualityDrop": 4.417
     },
     {
-      "seriesTconst": "tt0101117",
-      "seriesTitle": "The Hidden Room",
-      "season1Rating": 6.7,
-      "lastSeasonRating": 2.3,
-      "lastSeason": 2,
-      "qualityDrop": 4.4
-    },
-    {
       "seriesTconst": "tt0306760",
       "seriesTitle": "Edel & Starck",
       "season1Rating": 7.6,
@@ -228,12 +220,12 @@
       "qualityDrop": 4.4
     },
     {
-      "seriesTconst": "tt0856757",
-      "seriesTitle": "Leaf Cast",
-      "season1Rating": 6.939,
-      "lastSeasonRating": 2.56,
-      "lastSeason": 5,
-      "qualityDrop": 4.379
+      "seriesTconst": "tt0101117",
+      "seriesTitle": "The Hidden Room",
+      "season1Rating": 6.7,
+      "lastSeasonRating": 2.3,
+      "lastSeason": 2,
+      "qualityDrop": 4.4
     },
     {
       "seriesTconst": "tt1141678",
@@ -250,6 +242,14 @@
       "lastSeasonRating": 4.3,
       "lastSeason": 2,
       "qualityDrop": 4.3
+    },
+    {
+      "seriesTconst": "tt0856757",
+      "seriesTitle": "Leaf Cast",
+      "season1Rating": 6.861,
+      "lastSeasonRating": 2.593,
+      "lastSeason": 5,
+      "qualityDrop": 4.268
     },
     {
       "seriesTconst": "tt8537520",
@@ -292,11 +292,11 @@
       "qualityDrop": 4.106
     },
     {
-      "seriesTconst": "tt1724588",
-      "seriesTitle": "Ebert Presents: At the Movies",
-      "season1Rating": 6.3,
-      "lastSeasonRating": 2.2,
-      "lastSeason": 2,
+      "seriesTconst": "tt0088473",
+      "seriesTitle": "Adventures in Wonderland",
+      "season1Rating": 9.5,
+      "lastSeasonRating": 5.4,
+      "lastSeason": 3,
       "qualityDrop": 4.1
     },
     {
@@ -308,11 +308,11 @@
       "qualityDrop": 4.1
     },
     {
-      "seriesTconst": "tt0088473",
-      "seriesTitle": "Adventures in Wonderland",
-      "season1Rating": 9.5,
-      "lastSeasonRating": 5.4,
-      "lastSeason": 3,
+      "seriesTconst": "tt1724588",
+      "seriesTitle": "Ebert Presents: At the Movies",
+      "season1Rating": 6.3,
+      "lastSeasonRating": 2.2,
+      "lastSeason": 2,
       "qualityDrop": 4.1
     },
     {
@@ -322,14 +322,6 @@
       "lastSeasonRating": 4.386,
       "lastSeason": 6,
       "qualityDrop": 4.074
-    },
-    {
-      "seriesTconst": "tt31365727",
-      "seriesTitle": "A renitens",
-      "season1Rating": 8.325,
-      "lastSeasonRating": 4.367,
-      "lastSeason": 3,
-      "qualityDrop": 3.958
     },
     {
       "seriesTconst": "tt5180504",
@@ -346,6 +338,14 @@
       "lastSeasonRating": 4.3,
       "lastSeason": 11,
       "qualityDrop": 3.9
+    },
+    {
+      "seriesTconst": "tt31365727",
+      "seriesTitle": "A renitens",
+      "season1Rating": 8.325,
+      "lastSeasonRating": 4.433,
+      "lastSeason": 3,
+      "qualityDrop": 3.892
     },
     {
       "seriesTconst": "tt0112097",
@@ -372,10 +372,18 @@
       "qualityDrop": 3.65
     },
     {
-      "seriesTconst": "tt0124260",
-      "seriesTitle": "Student Bodies",
-      "season1Rating": 7.6,
-      "lastSeasonRating": 4.0,
+      "seriesTconst": "tt0396968",
+      "seriesTitle": "American Hot Rod",
+      "season1Rating": 7.8,
+      "lastSeasonRating": 4.2,
+      "lastSeason": 4,
+      "qualityDrop": 3.6
+    },
+    {
+      "seriesTconst": "tt1792654",
+      "seriesTitle": "Cubed",
+      "season1Rating": 5.7,
+      "lastSeasonRating": 2.1,
       "lastSeason": 2,
       "qualityDrop": 3.6
     },
@@ -385,14 +393,6 @@
       "season1Rating": 7.0,
       "lastSeasonRating": 3.4,
       "lastSeason": 7,
-      "qualityDrop": 3.6
-    },
-    {
-      "seriesTconst": "tt0396968",
-      "seriesTitle": "American Hot Rod",
-      "season1Rating": 7.8,
-      "lastSeasonRating": 4.2,
-      "lastSeason": 4,
       "qualityDrop": 3.6
     },
     {
