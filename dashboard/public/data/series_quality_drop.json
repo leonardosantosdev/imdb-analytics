@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T09:39:06+00:00",
-  "snapshotDate": "2026-07-13",
+  "generatedAt": "2026-07-20T09:26:09+00:00",
+  "snapshotDate": "2026-07-20",
   "rows": 50,
   "data": [
     {
@@ -60,19 +60,19 @@
       "qualityDrop": 5.4
     },
     {
-      "seriesTconst": "tt0121016",
-      "seriesTitle": "Die Rudi Carrell Show",
-      "season1Rating": 9.3,
-      "lastSeasonRating": 4.0,
-      "lastSeason": 2,
-      "qualityDrop": 5.3
-    },
-    {
       "seriesTconst": "tt0063890",
       "seriesTitle": "The David Frost Show",
       "season1Rating": 6.5,
       "lastSeasonRating": 1.2,
       "lastSeason": 4,
+      "qualityDrop": 5.3
+    },
+    {
+      "seriesTconst": "tt0121016",
+      "seriesTitle": "Die Rudi Carrell Show",
+      "season1Rating": 9.3,
+      "lastSeasonRating": 4.0,
+      "lastSeason": 2,
       "qualityDrop": 5.3
     },
     {
@@ -156,18 +156,18 @@
       "qualityDrop": 4.8
     },
     {
-      "seriesTconst": "tt0360301",
-      "seriesTitle": "Player$",
-      "season1Rating": 7.2,
-      "lastSeasonRating": 2.45,
-      "lastSeason": 2,
-      "qualityDrop": 4.75
-    },
-    {
       "seriesTconst": "tt0048892",
       "seriesTitle": "On Trial",
       "season1Rating": 9.4,
       "lastSeasonRating": 4.65,
+      "lastSeason": 2,
+      "qualityDrop": 4.75
+    },
+    {
+      "seriesTconst": "tt0360301",
+      "seriesTitle": "Player$",
+      "season1Rating": 7.2,
+      "lastSeasonRating": 2.45,
       "lastSeason": 2,
       "qualityDrop": 4.75
     },
@@ -212,19 +212,19 @@
       "qualityDrop": 4.417
     },
     {
-      "seriesTconst": "tt0306760",
-      "seriesTitle": "Edel & Starck",
-      "season1Rating": 7.6,
-      "lastSeasonRating": 3.2,
-      "lastSeason": 4,
-      "qualityDrop": 4.4
-    },
-    {
       "seriesTconst": "tt0101117",
       "seriesTitle": "The Hidden Room",
       "season1Rating": 6.7,
       "lastSeasonRating": 2.3,
       "lastSeason": 2,
+      "qualityDrop": 4.4
+    },
+    {
+      "seriesTconst": "tt0306760",
+      "seriesTitle": "Edel & Starck",
+      "season1Rating": 7.6,
+      "lastSeasonRating": 3.2,
+      "lastSeason": 4,
       "qualityDrop": 4.4
     },
     {
@@ -244,14 +244,6 @@
       "qualityDrop": 4.3
     },
     {
-      "seriesTconst": "tt0856757",
-      "seriesTitle": "Leaf Cast",
-      "season1Rating": 6.861,
-      "lastSeasonRating": 2.593,
-      "lastSeason": 5,
-      "qualityDrop": 4.268
-    },
-    {
       "seriesTconst": "tt8537520",
       "seriesTitle": "Bigg Boss Malayalam",
       "season1Rating": 6.993,
@@ -266,6 +258,14 @@
       "lastSeasonRating": 4.167,
       "lastSeason": 6,
       "qualityDrop": 4.211
+    },
+    {
+      "seriesTconst": "tt0856757",
+      "seriesTitle": "Leaf Cast",
+      "season1Rating": 6.863,
+      "lastSeasonRating": 2.653,
+      "lastSeason": 5,
+      "qualityDrop": 4.21
     },
     {
       "seriesTconst": "tt1856010",
@@ -290,14 +290,6 @@
       "lastSeasonRating": 2.0,
       "lastSeason": 6,
       "qualityDrop": 4.106
-    },
-    {
-      "seriesTconst": "tt0088473",
-      "seriesTitle": "Adventures in Wonderland",
-      "season1Rating": 9.5,
-      "lastSeasonRating": 5.4,
-      "lastSeason": 3,
-      "qualityDrop": 4.1
     },
     {
       "seriesTconst": "tt1885777",
@@ -364,6 +356,14 @@
       "qualityDrop": 3.75
     },
     {
+      "seriesTconst": "tt0088473",
+      "seriesTitle": "Adventures in Wonderland",
+      "season1Rating": 9.1,
+      "lastSeasonRating": 5.4,
+      "lastSeason": 3,
+      "qualityDrop": 3.7
+    },
+    {
       "seriesTconst": "tt5472884",
       "seriesTitle": "Drunk History: El Lado Borroso De La Historia",
       "season1Rating": 8.45,
@@ -372,11 +372,11 @@
       "qualityDrop": 3.65
     },
     {
-      "seriesTconst": "tt0396968",
-      "seriesTitle": "American Hot Rod",
-      "season1Rating": 7.8,
-      "lastSeasonRating": 4.2,
-      "lastSeason": 4,
+      "seriesTconst": "tt0086800",
+      "seriesTitle": "Sharon, Lois & Bram's Elephant Show",
+      "season1Rating": 8.2,
+      "lastSeasonRating": 4.6,
+      "lastSeason": 5,
       "qualityDrop": 3.6
     },
     {
@@ -388,19 +388,19 @@
       "qualityDrop": 3.6
     },
     {
+      "seriesTconst": "tt0396968",
+      "seriesTitle": "American Hot Rod",
+      "season1Rating": 7.8,
+      "lastSeasonRating": 4.2,
+      "lastSeason": 4,
+      "qualityDrop": 3.6
+    },
+    {
       "seriesTconst": "tt0344743",
       "seriesTitle": "V.I.P.-Schaukel",
       "season1Rating": 7.0,
       "lastSeasonRating": 3.4,
       "lastSeason": 7,
-      "qualityDrop": 3.6
-    },
-    {
-      "seriesTconst": "tt0086800",
-      "seriesTitle": "Sharon, Lois & Bram's Elephant Show",
-      "season1Rating": 8.2,
-      "lastSeasonRating": 4.6,
-      "lastSeason": 5,
       "qualityDrop": 3.6
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T09:39:06+00:00",
-  "snapshotDate": "2026-07-13",
+  "generatedAt": "2026-07-20T09:26:09+00:00",
+  "snapshotDate": "2026-07-20",
   "rows": 113,
   "data": [
     {
@@ -12,7 +12,7 @@
       "startYear": 1916,
       "genres": "Drama,History",
       "averageRating": 7.6,
-      "numVotes": 18055
+      "numVotes": 18062
     },
     {
       "decade": 1910,
@@ -23,7 +23,7 @@
       "startYear": 1919,
       "genres": "Drama,Romance",
       "averageRating": 7.2,
-      "numVotes": 11797
+      "numVotes": 11801
     },
     {
       "decade": 1910,
@@ -34,7 +34,7 @@
       "startYear": 1915,
       "genres": "Drama,War",
       "averageRating": 6.1,
-      "numVotes": 28384
+      "numVotes": 28392
     },
     {
       "decade": 1920,
@@ -45,7 +45,7 @@
       "startYear": 1929,
       "genres": "Documentary",
       "averageRating": 8.3,
-      "numVotes": 30501
+      "numVotes": 30519
     },
     {
       "decade": 1920,
@@ -56,7 +56,7 @@
       "startYear": 1927,
       "genres": "Drama,Sci-Fi",
       "averageRating": 8.2,
-      "numVotes": 201925
+      "numVotes": 202027
     },
     {
       "decade": 1920,
@@ -67,7 +67,7 @@
       "startYear": 1921,
       "genres": "Comedy,Drama,Family",
       "averageRating": 8.2,
-      "numVotes": 146169
+      "numVotes": 146241
     },
     {
       "decade": 1920,
@@ -78,7 +78,7 @@
       "startYear": 1925,
       "genres": "Adventure,Comedy,Drama",
       "averageRating": 8.1,
-      "numVotes": 128476
+      "numVotes": 128540
     },
     {
       "decade": 1920,
@@ -89,7 +89,7 @@
       "startYear": 1926,
       "genres": "Action,Adventure,Comedy",
       "averageRating": 8.1,
-      "numVotes": 105402
+      "numVotes": 105471
     },
     {
       "decade": 1920,
@@ -100,7 +100,7 @@
       "startYear": 1928,
       "genres": "Biography,Drama,History",
       "averageRating": 8.1,
-      "numVotes": 68614
+      "numVotes": 68673
     },
     {
       "decade": 1920,
@@ -111,7 +111,7 @@
       "startYear": 1924,
       "genres": "Action,Comedy,Romance",
       "averageRating": 8.1,
-      "numVotes": 66266
+      "numVotes": 66347
     },
     {
       "decade": 1920,
@@ -122,7 +122,7 @@
       "startYear": 1927,
       "genres": "Drama,Romance",
       "averageRating": 8.1,
-      "numVotes": 56841
+      "numVotes": 56865
     },
     {
       "decade": 1920,
@@ -133,7 +133,7 @@
       "startYear": 1928,
       "genres": "Comedy,Family,Romance",
       "averageRating": 8.1,
-      "numVotes": 38706
+      "numVotes": 38727
     },
     {
       "decade": 1920,
@@ -144,7 +144,7 @@
       "startYear": 1923,
       "genres": "Action,Comedy,Romance",
       "averageRating": 8.1,
-      "numVotes": 24956
+      "numVotes": 24972
     },
     {
       "decade": 1930,
@@ -155,7 +155,7 @@
       "startYear": 1936,
       "genres": "Comedy,Drama,Romance",
       "averageRating": 8.5,
-      "numVotes": 286111
+      "numVotes": 286241
     },
     {
       "decade": 1930,
@@ -166,7 +166,7 @@
       "startYear": 1931,
       "genres": "Comedy,Drama,Romance",
       "averageRating": 8.5,
-      "numVotes": 217085
+      "numVotes": 217190
     },
     {
       "decade": 1930,
@@ -177,7 +177,7 @@
       "startYear": 1931,
       "genres": "Crime,Mystery,Thriller",
       "averageRating": 8.3,
-      "numVotes": 183364
+      "numVotes": 183455
     },
     {
       "decade": 1930,
@@ -188,7 +188,7 @@
       "startYear": 1939,
       "genres": "Drama,Romance,War",
       "averageRating": 8.2,
-      "numVotes": 356633
+      "numVotes": 356823
     },
     {
       "decade": 1930,
@@ -199,7 +199,7 @@
       "startYear": 1932,
       "genres": "Crime,Drama,Film-Noir",
       "averageRating": 8.2,
-      "numVotes": 15694
+      "numVotes": 15708
     },
     {
       "decade": 1930,
@@ -210,7 +210,7 @@
       "startYear": 1939,
       "genres": "Adventure,Family,Fantasy",
       "averageRating": 8.1,
-      "numVotes": 469386
+      "numVotes": 469693
     },
     {
       "decade": 1930,
@@ -221,7 +221,7 @@
       "startYear": 1939,
       "genres": "Comedy,Drama",
       "averageRating": 8.1,
-      "numVotes": 129853
+      "numVotes": 129910
     },
     {
       "decade": 1930,
@@ -232,7 +232,7 @@
       "startYear": 1934,
       "genres": "Comedy,Romance",
       "averageRating": 8.1,
-      "numVotes": 120073
+      "numVotes": 120126
     },
     {
       "decade": 1930,
@@ -243,7 +243,7 @@
       "startYear": 1930,
       "genres": "Drama,War",
       "averageRating": 8.1,
-      "numVotes": 72295
+      "numVotes": 72326
     },
     {
       "decade": 1930,
@@ -254,7 +254,7 @@
       "startYear": 1937,
       "genres": "Drama,Romance",
       "averageRating": 8.1,
-      "numVotes": 10677
+      "numVotes": 10682
     },
     {
       "decade": 1940,
@@ -265,7 +265,7 @@
       "startYear": 1946,
       "genres": "Drama,Family,Fantasy",
       "averageRating": 8.6,
-      "numVotes": 555665
+      "numVotes": 555989
     },
     {
       "decade": 1940,
@@ -276,7 +276,7 @@
       "startYear": 1942,
       "genres": "Drama,Romance,War",
       "averageRating": 8.5,
-      "numVotes": 656913
+      "numVotes": 657274
     },
     {
       "decade": 1940,
@@ -287,7 +287,7 @@
       "startYear": 1940,
       "genres": "Comedy,Drama,War",
       "averageRating": 8.4,
-      "numVotes": 258987
+      "numVotes": 259097
     },
     {
       "decade": 1940,
@@ -298,7 +298,7 @@
       "startYear": 1944,
       "genres": "Crime,Drama,Film-Noir",
       "averageRating": 8.3,
-      "numVotes": 182157
+      "numVotes": 182246
     },
     {
       "decade": 1940,
@@ -309,7 +309,7 @@
       "startYear": 1945,
       "genres": "Drama,Romance",
       "averageRating": 8.3,
-      "numVotes": 22585
+      "numVotes": 22599
     },
     {
       "decade": 1940,
@@ -320,7 +320,7 @@
       "startYear": 1941,
       "genres": "Drama,Mystery",
       "averageRating": 8.2,
-      "numVotes": 494160
+      "numVotes": 494353
     },
     {
       "decade": 1940,
@@ -331,7 +331,7 @@
       "startYear": 1948,
       "genres": "Drama",
       "averageRating": 8.2,
-      "numVotes": 192154
+      "numVotes": 192245
     },
     {
       "decade": 1940,
@@ -342,7 +342,7 @@
       "startYear": 1948,
       "genres": "Adventure,Drama,Western",
       "averageRating": 8.2,
-      "numVotes": 141912
+      "numVotes": 142005
     },
     {
       "decade": 1940,
@@ -353,7 +353,7 @@
       "startYear": 1949,
       "genres": "Comedy,Drama",
       "averageRating": 8.2,
-      "numVotes": 21751
+      "numVotes": 21766
     },
     {
       "decade": 1940,
@@ -364,7 +364,7 @@
       "startYear": 1949,
       "genres": "Drama,Film-Noir,Mystery",
       "averageRating": 8.1,
-      "numVotes": 196242
+      "numVotes": 196335
     },
     {
       "decade": 1950,
@@ -375,7 +375,7 @@
       "startYear": 1957,
       "genres": "Crime,Drama",
       "averageRating": 9.0,
-      "numVotes": 990535
+      "numVotes": 991764
     },
     {
       "decade": 1950,
@@ -386,7 +386,7 @@
       "startYear": 1959,
       "genres": "Drama,Fantasy,Horror",
       "averageRating": 9.0,
-      "numVotes": 109372
+      "numVotes": 109461
     },
     {
       "decade": 1950,
@@ -397,7 +397,7 @@
       "startYear": 1954,
       "genres": "Action,Drama",
       "averageRating": 8.6,
-      "numVotes": 403161
+      "numVotes": 403379
     },
     {
       "decade": 1950,
@@ -408,7 +408,7 @@
       "startYear": 1951,
       "genres": "Comedy",
       "averageRating": 8.5,
-      "numVotes": 31006
+      "numVotes": 31025
     },
     {
       "decade": 1950,
@@ -419,7 +419,7 @@
       "startYear": 1955,
       "genres": "Crime,Drama,Mystery",
       "averageRating": 8.5,
-      "numVotes": 20703
+      "numVotes": 20715
     },
     {
       "decade": 1950,
@@ -430,7 +430,7 @@
       "startYear": 1959,
       "genres": "Drama,History,War",
       "averageRating": 8.5,
-      "numVotes": 11416
+      "numVotes": 11447
     },
     {
       "decade": 1950,
@@ -441,7 +441,7 @@
       "startYear": 1954,
       "genres": "Drama,Mystery,Thriller",
       "averageRating": 8.4,
-      "numVotes": 570308
+      "numVotes": 570620
     },
     {
       "decade": 1950,
@@ -452,7 +452,7 @@
       "startYear": 1950,
       "genres": "Drama,Film-Noir",
       "averageRating": 8.4,
-      "numVotes": 262170
+      "numVotes": 262320
     },
     {
       "decade": 1950,
@@ -463,7 +463,7 @@
       "startYear": 1957,
       "genres": "Drama,War",
       "averageRating": 8.4,
-      "numVotes": 240233
+      "numVotes": 240465
     },
     {
       "decade": 1950,
@@ -474,7 +474,7 @@
       "startYear": 1957,
       "genres": "Crime,Drama,Mystery",
       "averageRating": 8.4,
-      "numVotes": 162951
+      "numVotes": 163066
     },
     {
       "decade": 1960,
@@ -485,7 +485,7 @@
       "startYear": 1966,
       "genres": "Adventure,Drama,Western",
       "averageRating": 8.8,
-      "numVotes": 893642
+      "numVotes": 894256
     },
     {
       "decade": 1960,
@@ -496,7 +496,7 @@
       "startYear": 1969,
       "genres": "Comedy",
       "averageRating": 8.8,
-      "numVotes": 87456
+      "numVotes": 87480
     },
     {
       "decade": 1960,
@@ -507,7 +507,7 @@
       "startYear": 1968,
       "genres": "Family,Fantasy,Music",
       "averageRating": 8.8,
-      "numVotes": 10572
+      "numVotes": 10578
     },
     {
       "decade": 1960,
@@ -518,7 +518,7 @@
       "startYear": 1962,
       "genres": "Drama,Mystery",
       "averageRating": 8.6,
-      "numVotes": 92296
+      "numVotes": 92473
     },
     {
       "decade": 1960,
@@ -529,7 +529,7 @@
       "startYear": 1960,
       "genres": "Drama,Horror,Mystery",
       "averageRating": 8.5,
-      "numVotes": 788643
+      "numVotes": 789114
     },
     {
       "decade": 1960,
@@ -540,7 +540,7 @@
       "startYear": 1968,
       "genres": "Drama,Western",
       "averageRating": 8.5,
-      "numVotes": 385413
+      "numVotes": 385635
     },
     {
       "decade": 1960,
@@ -551,7 +551,7 @@
       "startYear": 1960,
       "genres": "Animation,Comedy",
       "averageRating": 8.5,
-      "numVotes": 37972
+      "numVotes": 37992
     },
     {
       "decade": 1960,
@@ -562,7 +562,7 @@
       "startYear": 1960,
       "genres": "Crime,Drama,Thriller",
       "averageRating": 8.5,
-      "numVotes": 23798
+      "numVotes": 23844
     },
     {
       "decade": 1960,
@@ -573,7 +573,7 @@
       "startYear": 1961,
       "genres": "Comedy,Family",
       "averageRating": 8.5,
-      "numVotes": 13278
+      "numVotes": 13296
     },
     {
       "decade": 1960,
@@ -595,7 +595,7 @@
       "startYear": 1972,
       "genres": "Crime,Drama",
       "averageRating": 9.2,
-      "numVotes": 2235972
+      "numVotes": 2237696
     },
     {
       "decade": 1970,
@@ -606,7 +606,7 @@
       "startYear": 1973,
       "genres": "Documentary,History,War",
       "averageRating": 9.2,
-      "numVotes": 37985
+      "numVotes": 38013
     },
     {
       "decade": 1970,
@@ -617,7 +617,7 @@
       "startYear": 1975,
       "genres": "Comedy",
       "averageRating": 9.1,
-      "numVotes": 46425
+      "numVotes": 46455
     },
     {
       "decade": 1970,
@@ -628,7 +628,7 @@
       "startYear": 1974,
       "genres": "Crime,Drama",
       "averageRating": 9.0,
-      "numVotes": 1500437
+      "numVotes": 1501520
     },
     {
       "decade": 1970,
@@ -639,7 +639,7 @@
       "startYear": 1976,
       "genres": "Comedy,History",
       "averageRating": 8.9,
-      "numVotes": 26507
+      "numVotes": 26528
     },
     {
       "decade": 1970,
@@ -650,7 +650,7 @@
       "startYear": 1976,
       "genres": "Biography,Drama,History",
       "averageRating": 8.9,
-      "numVotes": 12031
+      "numVotes": 12042
     },
     {
       "decade": 1970,
@@ -661,7 +661,7 @@
       "startYear": 1975,
       "genres": "Comedy",
       "averageRating": 8.8,
-      "numVotes": 111736
+      "numVotes": 111786
     },
     {
       "decade": 1970,
@@ -672,7 +672,7 @@
       "startYear": 1976,
       "genres": "Comedy,History",
       "averageRating": 8.8,
-      "numVotes": 22633
+      "numVotes": 22647
     },
     {
       "decade": 1970,
@@ -683,7 +683,7 @@
       "startYear": 1976,
       "genres": "Biography,Drama,History",
       "averageRating": 8.8,
-      "numVotes": 22270
+      "numVotes": 22287
     },
     {
       "decade": 1970,
@@ -694,7 +694,7 @@
       "startYear": 1976,
       "genres": "Comedy",
       "averageRating": 8.7,
-      "numVotes": 22497
+      "numVotes": 22505
     },
     {
       "decade": 1980,
@@ -705,7 +705,7 @@
       "startYear": 1980,
       "genres": "Documentary",
       "averageRating": 9.3,
-      "numVotes": 53437
+      "numVotes": 53470
     },
     {
       "decade": 1980,
@@ -716,7 +716,7 @@
       "startYear": 1981,
       "genres": "Comedy",
       "averageRating": 9.0,
-      "numVotes": 66366
+      "numVotes": 66401
     },
     {
       "decade": 1980,
@@ -727,40 +727,40 @@
       "startYear": 1987,
       "genres": "Adventure,Drama,Family",
       "averageRating": 9.0,
-      "numVotes": 27900
+      "numVotes": 27924
     },
     {
       "decade": 1980,
       "rank": 4,
-      "tconst": "tt0098904",
-      "primaryTitle": "Seinfeld",
-      "titleType": "tvSeries",
-      "startYear": 1989,
-      "genres": "Comedy",
-      "averageRating": 8.9,
-      "numVotes": 386180
-    },
-    {
-      "decade": 1980,
-      "rank": 5,
       "tconst": "tt0092337",
       "primaryTitle": "Dekalog",
       "titleType": "tvMiniSeries",
       "startYear": 1989,
       "genres": "Drama",
       "averageRating": 8.9,
-      "numVotes": 35013
+      "numVotes": 35038
     },
     {
       "decade": 1980,
-      "rank": 6,
+      "rank": 5,
       "tconst": "tt0158417",
       "primaryTitle": "Mahabharat",
       "titleType": "tvSeries",
       "startYear": 1988,
       "genres": "Action,Adventure,Drama",
       "averageRating": 8.9,
-      "numVotes": 27585
+      "numVotes": 27610
+    },
+    {
+      "decade": 1980,
+      "rank": 6,
+      "tconst": "tt0098904",
+      "primaryTitle": "Seinfeld",
+      "titleType": "tvSeries",
+      "startYear": 1989,
+      "genres": "Comedy",
+      "averageRating": 8.8,
+      "numVotes": 386392
     },
     {
       "decade": 1980,
@@ -771,7 +771,7 @@
       "startYear": 1989,
       "genres": "Action,Adventure,Animation",
       "averageRating": 8.8,
-      "numVotes": 104113
+      "numVotes": 104199
     },
     {
       "decade": 1980,
@@ -782,7 +782,7 @@
       "startYear": 1989,
       "genres": "Comedy,War",
       "averageRating": 8.8,
-      "numVotes": 65334
+      "numVotes": 65370
     },
     {
       "decade": 1980,
@@ -793,7 +793,7 @@
       "startYear": 1985,
       "genres": "Drama,War",
       "averageRating": 8.8,
-      "numVotes": 40266
+      "numVotes": 40281
     },
     {
       "decade": 1980,
@@ -804,7 +804,7 @@
       "startYear": 1982,
       "genres": "Comedy,Drama",
       "averageRating": 8.8,
-      "numVotes": 18218
+      "numVotes": 18226
     },
     {
       "decade": 1990,
@@ -815,7 +815,7 @@
       "startYear": 1994,
       "genres": "Drama",
       "averageRating": 9.3,
-      "numVotes": 3205346
+      "numVotes": 3208304
     },
     {
       "decade": 1990,
@@ -826,7 +826,7 @@
       "startYear": 1999,
       "genres": "Crime,Drama",
       "averageRating": 9.2,
-      "numVotes": 585786
+      "numVotes": 586694
     },
     {
       "decade": 1990,
@@ -837,7 +837,7 @@
       "startYear": 1993,
       "genres": "Action,Adventure,Animation",
       "averageRating": 9.1,
-      "numVotes": 17833
+      "numVotes": 17841
     },
     {
       "decade": 1990,
@@ -848,7 +848,7 @@
       "startYear": 1995,
       "genres": "Documentary,Music",
       "averageRating": 9.1,
-      "numVotes": 10995
+      "numVotes": 11017
     },
     {
       "decade": 1990,
@@ -859,7 +859,7 @@
       "startYear": 1993,
       "genres": "Biography,Drama,History",
       "averageRating": 9.0,
-      "numVotes": 1591009
+      "numVotes": 1592099
     },
     {
       "decade": 1990,
@@ -870,7 +870,7 @@
       "startYear": 1999,
       "genres": "Action,Adventure,Animation",
       "averageRating": 9.0,
-      "numVotes": 358972
+      "numVotes": 359543
     },
     {
       "decade": 1990,
@@ -881,7 +881,7 @@
       "startYear": 1992,
       "genres": "Action,Adventure,Animation",
       "averageRating": 9.0,
-      "numVotes": 138288
+      "numVotes": 138414
     },
     {
       "decade": 1990,
@@ -892,7 +892,7 @@
       "startYear": 1990,
       "genres": "Documentary,History,War",
       "averageRating": 9.0,
-      "numVotes": 26396
+      "numVotes": 26417
     },
     {
       "decade": 1990,
@@ -903,7 +903,7 @@
       "startYear": 1993,
       "genres": "Comedy,Drama",
       "averageRating": 9.0,
-      "numVotes": 13186
+      "numVotes": 13202
     },
     {
       "decade": 1990,
@@ -914,7 +914,7 @@
       "startYear": 1998,
       "genres": "Action,Adventure,Animation",
       "averageRating": 8.9,
-      "numVotes": 170904
+      "numVotes": 171155
     },
     {
       "decade": 2000,
@@ -925,7 +925,7 @@
       "startYear": 2008,
       "genres": "Crime,Drama,Thriller",
       "averageRating": 9.5,
-      "numVotes": 2640652
+      "numVotes": 2644068
     },
     {
       "decade": 2000,
@@ -936,7 +936,7 @@
       "startYear": 2001,
       "genres": "Action,Drama,History",
       "averageRating": 9.4,
-      "numVotes": 598280
+      "numVotes": 598798
     },
     {
       "decade": 2000,
@@ -947,7 +947,7 @@
       "startYear": 2006,
       "genres": "Documentary,Family",
       "averageRating": 9.4,
-      "numVotes": 235756
+      "numVotes": 235847
     },
     {
       "decade": 2000,
@@ -958,7 +958,7 @@
       "startYear": 2005,
       "genres": "Action,Adventure,Animation",
       "averageRating": 9.3,
-      "numVotes": 447287
+      "numVotes": 448120
     },
     {
       "decade": 2000,
@@ -969,7 +969,7 @@
       "startYear": 2002,
       "genres": "Crime,Drama,Thriller",
       "averageRating": 9.3,
-      "numVotes": 434051
+      "numVotes": 434515
     },
     {
       "decade": 2000,
@@ -980,7 +980,7 @@
       "startYear": 2008,
       "genres": "Crime,Thriller",
       "averageRating": 9.1,
-      "numVotes": 3186231
+      "numVotes": 3189543
     },
     {
       "decade": 2000,
@@ -991,7 +991,7 @@
       "startYear": 2009,
       "genres": "Action,Adventure,Animation",
       "averageRating": 9.1,
-      "numVotes": 252316
+      "numVotes": 252771
     },
     {
       "decade": 2000,
@@ -1002,7 +1002,7 @@
       "startYear": 2009,
       "genres": "Documentary",
       "averageRating": 9.1,
-      "numVotes": 50477
+      "numVotes": 50494
     },
     {
       "decade": 2000,
@@ -1013,7 +1013,7 @@
       "startYear": 2003,
       "genres": "Adventure,Drama,Fantasy",
       "averageRating": 9.0,
-      "numVotes": 2173967
+      "numVotes": 2175737
     },
     {
       "decade": 2000,
@@ -1024,7 +1024,7 @@
       "startYear": 2005,
       "genres": "Comedy",
       "averageRating": 9.0,
-      "numVotes": 839196
+      "numVotes": 840120
     },
     {
       "decade": 2010,
@@ -1035,7 +1035,7 @@
       "startYear": 2016,
       "genres": "Documentary,Family",
       "averageRating": 9.4,
-      "numVotes": 175786
+      "numVotes": 175888
     },
     {
       "decade": 2010,
@@ -1046,7 +1046,7 @@
       "startYear": 2019,
       "genres": "Drama,History,Thriller",
       "averageRating": 9.3,
-      "numVotes": 1048199
+      "numVotes": 1049810
     },
     {
       "decade": 2010,
@@ -1057,7 +1057,7 @@
       "startYear": 2017,
       "genres": "Documentary,Family",
       "averageRating": 9.3,
-      "numVotes": 58083
+      "numVotes": 58140
     },
     {
       "decade": 2010,
@@ -1068,7 +1068,7 @@
       "startYear": 2018,
       "genres": "Animation,Comedy,Family",
       "averageRating": 9.3,
-      "numVotes": 48290
+      "numVotes": 48394
     },
     {
       "decade": 2010,
@@ -1079,7 +1079,7 @@
       "startYear": 2011,
       "genres": "Drama,Fantasy",
       "averageRating": 9.2,
-      "numVotes": 2633121
+      "numVotes": 2636054
     },
     {
       "decade": 2010,
@@ -1090,7 +1090,7 @@
       "startYear": 2014,
       "genres": "Documentary,Family",
       "averageRating": 9.2,
-      "numVotes": 140452
+      "numVotes": 140512
     },
     {
       "decade": 2010,
@@ -1101,7 +1101,7 @@
       "startYear": 2019,
       "genres": "Documentary,Family",
       "averageRating": 9.2,
-      "numVotes": 63253
+      "numVotes": 63299
     },
     {
       "decade": 2010,
@@ -1112,7 +1112,7 @@
       "startYear": 2015,
       "genres": "Comedy",
       "averageRating": 9.2,
-      "numVotes": 11979
+      "numVotes": 11980
     },
     {
       "decade": 2010,
@@ -1123,7 +1123,7 @@
       "startYear": 2013,
       "genres": "Action,Adventure,Animation",
       "averageRating": 9.1,
-      "numVotes": 729431
+      "numVotes": 730986
     },
     {
       "decade": 2010,
@@ -1134,7 +1134,7 @@
       "startYear": 2017,
       "genres": "Drama,History",
       "averageRating": 9.1,
-      "numVotes": 70350
+      "numVotes": 70449
     },
     {
       "decade": 2020,
@@ -1145,106 +1145,106 @@
       "startYear": 2026,
       "genres": "Action,Adventure,Animation",
       "averageRating": 9.5,
-      "numVotes": 25629
+      "numVotes": 25731
     },
     {
       "decade": 2020,
       "rank": 2,
-      "tconst": "tt28089784",
-      "primaryTitle": "Punjab '95",
-      "titleType": "movie",
-      "startYear": 2026,
-      "genres": "Biography,Crime,Drama",
-      "averageRating": 9.3,
-      "numVotes": 100014
-    },
-    {
-      "decade": 2020,
-      "rank": 3,
       "tconst": "tt12392504",
       "primaryTitle": "Scam 1992: The Harshad Mehta Story",
       "titleType": "tvMiniSeries",
       "startYear": 2020,
       "genres": "Biography,Crime,Drama",
       "averageRating": 9.2,
-      "numVotes": 173813
+      "numVotes": 173906
     },
     {
       "decade": 2020,
-      "rank": 4,
+      "rank": 3,
       "tconst": "tt30263074",
       "primaryTitle": "Sapne Vs Everyone",
       "titleType": "tvSeries",
       "startYear": 2023,
       "genres": "Drama",
       "averageRating": 9.2,
-      "numVotes": 86286
+      "numVotes": 86527
     },
     {
       "decade": 2020,
-      "rank": 5,
+      "rank": 4,
       "tconst": "tt14392248",
       "primaryTitle": "Aspirants",
       "titleType": "tvSeries",
       "startYear": 2021,
       "genres": "Drama",
       "averageRating": 9.1,
-      "numVotes": 319289
+      "numVotes": 319342
     },
     {
       "decade": 2020,
-      "rank": 6,
+      "rank": 5,
       "tconst": "tt13854248",
       "primaryTitle": "The Legend of Hanuman",
       "titleType": "tvSeries",
       "startYear": 2021,
       "genres": "Action,Adventure,Animation",
       "averageRating": 9.1,
-      "numVotes": 13933
+      "numVotes": 13939
     },
     {
       "decade": 2020,
-      "rank": 7,
+      "rank": 6,
       "tconst": "tt11126994",
       "primaryTitle": "Arcane",
       "titleType": "tvSeries",
       "startYear": 2021,
       "genres": "Action,Adventure,Animation",
       "averageRating": 9.0,
-      "numVotes": 449248
+      "numVotes": 449946
     },
     {
       "decade": 2020,
-      "rank": 8,
+      "rank": 7,
       "tconst": "tt8420184",
       "primaryTitle": "The Last Dance",
       "titleType": "tvMiniSeries",
       "startYear": 2020,
       "genres": "Biography,Documentary,History",
       "averageRating": 9.0,
-      "numVotes": 181880
+      "numVotes": 182081
     },
     {
       "decade": 2020,
-      "rank": 9,
+      "rank": 8,
       "tconst": "tt33043892",
       "primaryTitle": "Dexter: Resurrection",
       "titleType": "tvSeries",
       "startYear": 2025,
       "genres": "Crime,Drama,Mystery",
       "averageRating": 9.0,
-      "numVotes": 148610
+      "numVotes": 149433
     },
     {
       "decade": 2020,
-      "rank": 10,
+      "rank": 9,
       "tconst": "tt12004706",
       "primaryTitle": "Panchayat",
       "titleType": "tvSeries",
       "startYear": 2020,
       "genres": "Comedy,Drama",
       "averageRating": 9.0,
-      "numVotes": 118436
+      "numVotes": 118578
+    },
+    {
+      "decade": 2020,
+      "rank": 10,
+      "tconst": "tt28089784",
+      "primaryTitle": "Punjab '95",
+      "titleType": "movie",
+      "startYear": 2026,
+      "genres": "Biography,Crime,Drama",
+      "averageRating": 9.0,
+      "numVotes": 104449
     }
   ]
 }
