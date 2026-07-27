@@ -1,8 +1,16 @@
 {
-  "generatedAt": "2026-07-20T09:26:09+00:00",
-  "snapshotDate": "2026-07-20",
+  "generatedAt": "2026-07-27T10:00:58+00:00",
+  "snapshotDate": "2026-07-27",
   "rows": 50,
   "data": [
+    {
+      "seriesTconst": "tt0096636",
+      "seriesTitle": "Live with Kelly and Mark",
+      "season1Rating": 9.6,
+      "lastSeasonRating": 1.0,
+      "lastSeason": 33,
+      "qualityDrop": 8.6
+    },
     {
       "seriesTconst": "tt0108865",
       "seriesTitle": "Movie Magic",
@@ -78,10 +86,10 @@
     {
       "seriesTconst": "tt8560918",
       "seriesTitle": "The Queen of Flow",
-      "season1Rating": 8.785,
-      "lastSeasonRating": 3.588,
+      "season1Rating": 8.82,
+      "lastSeasonRating": 3.525,
       "lastSeason": 3,
-      "qualityDrop": 5.197
+      "qualityDrop": 5.295
     },
     {
       "seriesTconst": "tt0210450",
@@ -100,14 +108,6 @@
       "qualityDrop": 5.05
     },
     {
-      "seriesTconst": "tt5191128",
-      "seriesTitle": "The Break",
-      "season1Rating": 7.8,
-      "lastSeasonRating": 2.8,
-      "lastSeason": 3,
-      "qualityDrop": 5.0
-    },
-    {
       "seriesTconst": "tt0815086",
       "seriesTitle": "Walmart Soundcheck",
       "season1Rating": 9.2,
@@ -116,12 +116,20 @@
       "qualityDrop": 5.0
     },
     {
+      "seriesTconst": "tt5191128",
+      "seriesTitle": "The Break",
+      "season1Rating": 7.8,
+      "lastSeasonRating": 2.8,
+      "lastSeason": 3,
+      "qualityDrop": 5.0
+    },
+    {
       "seriesTconst": "tt4508902",
       "seriesTitle": "One Punch Man",
       "season1Rating": 8.775,
-      "lastSeasonRating": 3.8,
+      "lastSeasonRating": 3.792,
       "lastSeason": 3,
-      "qualityDrop": 4.975
+      "qualityDrop": 4.983
     },
     {
       "seriesTconst": "tt0329829",
@@ -134,10 +142,10 @@
     {
       "seriesTconst": "tt4277268",
       "seriesTitle": "Billy & Billie",
-      "season1Rating": 8.26,
+      "season1Rating": 8.25,
       "lastSeasonRating": 3.4,
       "lastSeason": 2,
-      "qualityDrop": 4.86
+      "qualityDrop": 4.85
     },
     {
       "seriesTconst": "tt2214918",
@@ -156,18 +164,26 @@
       "qualityDrop": 4.8
     },
     {
-      "seriesTconst": "tt0048892",
-      "seriesTitle": "On Trial",
-      "season1Rating": 9.4,
-      "lastSeasonRating": 4.65,
-      "lastSeason": 2,
-      "qualityDrop": 4.75
+      "seriesTconst": "tt13488080",
+      "seriesTitle": "Rainbow High",
+      "season1Rating": 8.378,
+      "lastSeasonRating": 3.594,
+      "lastSeason": 6,
+      "qualityDrop": 4.784
     },
     {
       "seriesTconst": "tt0360301",
       "seriesTitle": "Player$",
       "season1Rating": 7.2,
       "lastSeasonRating": 2.45,
+      "lastSeason": 2,
+      "qualityDrop": 4.75
+    },
+    {
+      "seriesTconst": "tt0048892",
+      "seriesTitle": "On Trial",
+      "season1Rating": 9.4,
+      "lastSeasonRating": 4.65,
       "lastSeason": 2,
       "qualityDrop": 4.75
     },
@@ -212,14 +228,6 @@
       "qualityDrop": 4.417
     },
     {
-      "seriesTconst": "tt0101117",
-      "seriesTitle": "The Hidden Room",
-      "season1Rating": 6.7,
-      "lastSeasonRating": 2.3,
-      "lastSeason": 2,
-      "qualityDrop": 4.4
-    },
-    {
       "seriesTconst": "tt0306760",
       "seriesTitle": "Edel & Starck",
       "season1Rating": 7.6,
@@ -228,12 +236,28 @@
       "qualityDrop": 4.4
     },
     {
-      "seriesTconst": "tt1141678",
-      "seriesTitle": "Inspektor Rolle",
-      "season1Rating": 7.7,
-      "lastSeasonRating": 3.4,
+      "seriesTconst": "tt0101117",
+      "seriesTitle": "The Hidden Room",
+      "season1Rating": 6.7,
+      "lastSeasonRating": 2.3,
       "lastSeason": 2,
-      "qualityDrop": 4.3
+      "qualityDrop": 4.4
+    },
+    {
+      "seriesTconst": "tt0046584",
+      "seriesTitle": "Caesar's Hour",
+      "season1Rating": 5.6,
+      "lastSeasonRating": 1.2,
+      "lastSeason": 3,
+      "qualityDrop": 4.4
+    },
+    {
+      "seriesTconst": "tt16994878",
+      "seriesTitle": "7 vs. Wild",
+      "season1Rating": 8.25,
+      "lastSeasonRating": 3.856,
+      "lastSeason": 5,
+      "qualityDrop": 4.394
     },
     {
       "seriesTconst": "tt0115367",
@@ -244,20 +268,20 @@
       "qualityDrop": 4.3
     },
     {
+      "seriesTconst": "tt1141678",
+      "seriesTitle": "Inspektor Rolle",
+      "season1Rating": 7.7,
+      "lastSeasonRating": 3.4,
+      "lastSeason": 2,
+      "qualityDrop": 4.3
+    },
+    {
       "seriesTconst": "tt8537520",
       "seriesTitle": "Bigg Boss Malayalam",
       "season1Rating": 6.993,
       "lastSeasonRating": 2.75,
       "lastSeason": 2,
       "qualityDrop": 4.243
-    },
-    {
-      "seriesTconst": "tt13488080",
-      "seriesTitle": "Rainbow High",
-      "season1Rating": 8.378,
-      "lastSeasonRating": 4.167,
-      "lastSeason": 6,
-      "qualityDrop": 4.211
     },
     {
       "seriesTconst": "tt0856757",
@@ -276,14 +300,6 @@
       "qualityDrop": 4.204
     },
     {
-      "seriesTconst": "tt16994878",
-      "seriesTitle": "7 vs. Wild",
-      "season1Rating": 8.119,
-      "lastSeasonRating": 3.975,
-      "lastSeason": 5,
-      "qualityDrop": 4.144
-    },
-    {
       "seriesTconst": "tt10827252",
       "seriesTitle": "The Drew Barrymore Show",
       "season1Rating": 6.106,
@@ -292,18 +308,18 @@
       "qualityDrop": 4.106
     },
     {
-      "seriesTconst": "tt1885777",
-      "seriesTitle": "Funny as Hell",
-      "season1Rating": 5.6,
-      "lastSeasonRating": 1.5,
-      "lastSeason": 2,
-      "qualityDrop": 4.1
-    },
-    {
       "seriesTconst": "tt1724588",
       "seriesTitle": "Ebert Presents: At the Movies",
       "season1Rating": 6.3,
       "lastSeasonRating": 2.2,
+      "lastSeason": 2,
+      "qualityDrop": 4.1
+    },
+    {
+      "seriesTconst": "tt1885777",
+      "seriesTitle": "Funny as Hell",
+      "season1Rating": 5.6,
+      "lastSeasonRating": 1.5,
       "lastSeason": 2,
       "qualityDrop": 4.1
     },
@@ -316,19 +332,19 @@
       "qualityDrop": 4.074
     },
     {
-      "seriesTconst": "tt5180504",
-      "seriesTitle": "The Witcher",
-      "season1Rating": 8.288,
-      "lastSeasonRating": 4.387,
-      "lastSeason": 4,
-      "qualityDrop": 3.901
-    },
-    {
       "seriesTconst": "tt0486068",
       "seriesTitle": "Indian Idol",
       "season1Rating": 8.2,
       "lastSeasonRating": 4.3,
       "lastSeason": 11,
+      "qualityDrop": 3.9
+    },
+    {
+      "seriesTconst": "tt5180504",
+      "seriesTitle": "The Witcher",
+      "season1Rating": 8.288,
+      "lastSeasonRating": 4.388,
+      "lastSeason": 4,
       "qualityDrop": 3.9
     },
     {
@@ -338,6 +354,14 @@
       "lastSeasonRating": 4.433,
       "lastSeason": 3,
       "qualityDrop": 3.892
+    },
+    {
+      "seriesTconst": "tt17736900",
+      "seriesTitle": "Lock Upp",
+      "season1Rating": 8.586,
+      "lastSeasonRating": 4.7,
+      "lastSeason": 2,
+      "qualityDrop": 3.886
     },
     {
       "seriesTconst": "tt0112097",
@@ -364,14 +388,6 @@
       "qualityDrop": 3.7
     },
     {
-      "seriesTconst": "tt5472884",
-      "seriesTitle": "Drunk History: El Lado Borroso De La Historia",
-      "season1Rating": 8.45,
-      "lastSeasonRating": 4.8,
-      "lastSeason": 2,
-      "qualityDrop": 3.65
-    },
-    {
       "seriesTconst": "tt0086800",
       "seriesTitle": "Sharon, Lois & Bram's Elephant Show",
       "season1Rating": 8.2,
@@ -380,27 +396,11 @@
       "qualityDrop": 3.6
     },
     {
-      "seriesTconst": "tt1792654",
-      "seriesTitle": "Cubed",
-      "season1Rating": 5.7,
-      "lastSeasonRating": 2.1,
+      "seriesTconst": "tt0124260",
+      "seriesTitle": "Student Bodies",
+      "season1Rating": 7.6,
+      "lastSeasonRating": 4.0,
       "lastSeason": 2,
-      "qualityDrop": 3.6
-    },
-    {
-      "seriesTconst": "tt0396968",
-      "seriesTitle": "American Hot Rod",
-      "season1Rating": 7.8,
-      "lastSeasonRating": 4.2,
-      "lastSeason": 4,
-      "qualityDrop": 3.6
-    },
-    {
-      "seriesTconst": "tt0344743",
-      "seriesTitle": "V.I.P.-Schaukel",
-      "season1Rating": 7.0,
-      "lastSeasonRating": 3.4,
-      "lastSeason": 7,
       "qualityDrop": 3.6
     }
   ]
