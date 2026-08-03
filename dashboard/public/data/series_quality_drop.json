@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-27T10:00:58+00:00",
-  "snapshotDate": "2026-07-27",
+  "generatedAt": "2026-08-03T09:56:29+00:00",
+  "snapshotDate": "2026-08-03",
   "rows": 50,
   "data": [
     {
@@ -18,6 +18,14 @@
       "lastSeasonRating": 1.0,
       "lastSeason": 2,
       "qualityDrop": 7.9
+    },
+    {
+      "seriesTconst": "tt34174211",
+      "seriesTitle": "Celebrity Substitute",
+      "season1Rating": 9.0,
+      "lastSeasonRating": 1.8,
+      "lastSeason": 3,
+      "qualityDrop": 7.2
     },
     {
       "seriesTconst": "tt3004376",
@@ -68,6 +76,14 @@
       "qualityDrop": 5.4
     },
     {
+      "seriesTconst": "tt8560918",
+      "seriesTitle": "The Queen of Flow",
+      "season1Rating": 8.829,
+      "lastSeasonRating": 3.525,
+      "lastSeason": 3,
+      "qualityDrop": 5.304
+    },
+    {
       "seriesTconst": "tt0063890",
       "seriesTitle": "The David Frost Show",
       "season1Rating": 6.5,
@@ -84,20 +100,20 @@
       "qualityDrop": 5.3
     },
     {
-      "seriesTconst": "tt8560918",
-      "seriesTitle": "The Queen of Flow",
-      "season1Rating": 8.82,
-      "lastSeasonRating": 3.525,
-      "lastSeason": 3,
-      "qualityDrop": 5.295
-    },
-    {
       "seriesTconst": "tt0210450",
       "seriesTitle": "SexTV",
       "season1Rating": 6.2,
       "lastSeasonRating": 1.1,
       "lastSeason": 9,
       "qualityDrop": 5.1
+    },
+    {
+      "seriesTconst": "tt0329829",
+      "seriesTitle": "Fireman Sam",
+      "season1Rating": 8.6,
+      "lastSeasonRating": 3.522,
+      "lastSeason": 16,
+      "qualityDrop": 5.078
     },
     {
       "seriesTconst": "tt33504903",
@@ -108,14 +124,6 @@
       "qualityDrop": 5.05
     },
     {
-      "seriesTconst": "tt0815086",
-      "seriesTitle": "Walmart Soundcheck",
-      "season1Rating": 9.2,
-      "lastSeasonRating": 4.2,
-      "lastSeason": 2,
-      "qualityDrop": 5.0
-    },
-    {
       "seriesTconst": "tt5191128",
       "seriesTitle": "The Break",
       "season1Rating": 7.8,
@@ -124,20 +132,20 @@
       "qualityDrop": 5.0
     },
     {
+      "seriesTconst": "tt0815086",
+      "seriesTitle": "Walmart Soundcheck",
+      "season1Rating": 9.2,
+      "lastSeasonRating": 4.2,
+      "lastSeason": 2,
+      "qualityDrop": 5.0
+    },
+    {
       "seriesTconst": "tt4508902",
       "seriesTitle": "One Punch Man",
       "season1Rating": 8.775,
-      "lastSeasonRating": 3.792,
+      "lastSeasonRating": 3.783,
       "lastSeason": 3,
-      "qualityDrop": 4.983
-    },
-    {
-      "seriesTconst": "tt0329829",
-      "seriesTitle": "Fireman Sam",
-      "season1Rating": 8.6,
-      "lastSeasonRating": 3.726,
-      "lastSeason": 16,
-      "qualityDrop": 4.874
+      "qualityDrop": 4.992
     },
     {
       "seriesTconst": "tt4277268",
@@ -228,14 +236,6 @@
       "qualityDrop": 4.417
     },
     {
-      "seriesTconst": "tt0306760",
-      "seriesTitle": "Edel & Starck",
-      "season1Rating": 7.6,
-      "lastSeasonRating": 3.2,
-      "lastSeason": 4,
-      "qualityDrop": 4.4
-    },
-    {
       "seriesTconst": "tt0101117",
       "seriesTitle": "The Hidden Room",
       "season1Rating": 6.7,
@@ -252,6 +252,14 @@
       "qualityDrop": 4.4
     },
     {
+      "seriesTconst": "tt0306760",
+      "seriesTitle": "Edel & Starck",
+      "season1Rating": 7.6,
+      "lastSeasonRating": 3.2,
+      "lastSeason": 4,
+      "qualityDrop": 4.4
+    },
+    {
       "seriesTconst": "tt16994878",
       "seriesTitle": "7 vs. Wild",
       "season1Rating": 8.25,
@@ -260,18 +268,18 @@
       "qualityDrop": 4.394
     },
     {
-      "seriesTconst": "tt0115367",
-      "seriesTitle": "Sparks",
-      "season1Rating": 8.6,
-      "lastSeasonRating": 4.3,
-      "lastSeason": 2,
-      "qualityDrop": 4.3
-    },
-    {
       "seriesTconst": "tt1141678",
       "seriesTitle": "Inspektor Rolle",
       "season1Rating": 7.7,
       "lastSeasonRating": 3.4,
+      "lastSeason": 2,
+      "qualityDrop": 4.3
+    },
+    {
+      "seriesTconst": "tt0115367",
+      "seriesTitle": "Sparks",
+      "season1Rating": 8.6,
+      "lastSeasonRating": 4.3,
       "lastSeason": 2,
       "qualityDrop": 4.3
     },
@@ -284,14 +292,6 @@
       "qualityDrop": 4.243
     },
     {
-      "seriesTconst": "tt0856757",
-      "seriesTitle": "Leaf Cast",
-      "season1Rating": 6.863,
-      "lastSeasonRating": 2.653,
-      "lastSeason": 5,
-      "qualityDrop": 4.21
-    },
-    {
       "seriesTconst": "tt1856010",
       "seriesTitle": "House of Cards",
       "season1Rating": 8.392,
@@ -302,10 +302,10 @@
     {
       "seriesTconst": "tt10827252",
       "seriesTitle": "The Drew Barrymore Show",
-      "season1Rating": 6.106,
+      "season1Rating": 6.1,
       "lastSeasonRating": 2.0,
       "lastSeason": 6,
-      "qualityDrop": 4.106
+      "qualityDrop": 4.1
     },
     {
       "seriesTconst": "tt1724588",
@@ -316,12 +316,12 @@
       "qualityDrop": 4.1
     },
     {
-      "seriesTconst": "tt1885777",
-      "seriesTitle": "Funny as Hell",
-      "season1Rating": 5.6,
-      "lastSeasonRating": 1.5,
-      "lastSeason": 2,
-      "qualityDrop": 4.1
+      "seriesTconst": "tt0856757",
+      "seriesTitle": "Leaf Cast",
+      "season1Rating": 6.921,
+      "lastSeasonRating": 2.827,
+      "lastSeason": 5,
+      "qualityDrop": 4.094
     },
     {
       "seriesTconst": "tt0315709",
@@ -332,19 +332,35 @@
       "qualityDrop": 4.074
     },
     {
-      "seriesTconst": "tt0486068",
-      "seriesTitle": "Indian Idol",
-      "season1Rating": 8.2,
-      "lastSeasonRating": 4.3,
-      "lastSeason": 11,
-      "qualityDrop": 3.9
+      "seriesTconst": "tt17736900",
+      "seriesTitle": "Lock Upp",
+      "season1Rating": 8.586,
+      "lastSeasonRating": 4.55,
+      "lastSeason": 2,
+      "qualityDrop": 4.036
     },
     {
       "seriesTconst": "tt5180504",
       "seriesTitle": "The Witcher",
       "season1Rating": 8.288,
-      "lastSeasonRating": 4.388,
+      "lastSeasonRating": 4.387,
       "lastSeason": 4,
+      "qualityDrop": 3.901
+    },
+    {
+      "seriesTconst": "tt1885777",
+      "seriesTitle": "Funny as Hell",
+      "season1Rating": 5.3,
+      "lastSeasonRating": 1.4,
+      "lastSeason": 2,
+      "qualityDrop": 3.9
+    },
+    {
+      "seriesTconst": "tt0486068",
+      "seriesTitle": "Indian Idol",
+      "season1Rating": 8.2,
+      "lastSeasonRating": 4.3,
+      "lastSeason": 11,
       "qualityDrop": 3.9
     },
     {
@@ -356,20 +372,20 @@
       "qualityDrop": 3.892
     },
     {
-      "seriesTconst": "tt17736900",
-      "seriesTitle": "Lock Upp",
-      "season1Rating": 8.586,
-      "lastSeasonRating": 4.7,
-      "lastSeason": 2,
-      "qualityDrop": 3.886
-    },
-    {
       "seriesTconst": "tt0112097",
       "seriesTitle": "Night Stand",
       "season1Rating": 8.017,
       "lastSeasonRating": 4.2,
       "lastSeason": 2,
       "qualityDrop": 3.817
+    },
+    {
+      "seriesTconst": "tt1095213",
+      "seriesTitle": "TMZ on TV",
+      "season1Rating": 4.8,
+      "lastSeasonRating": 1.0,
+      "lastSeason": 10,
+      "qualityDrop": 3.8
     },
     {
       "seriesTconst": "tt0126179",
@@ -386,22 +402,6 @@
       "lastSeasonRating": 5.4,
       "lastSeason": 3,
       "qualityDrop": 3.7
-    },
-    {
-      "seriesTconst": "tt0086800",
-      "seriesTitle": "Sharon, Lois & Bram's Elephant Show",
-      "season1Rating": 8.2,
-      "lastSeasonRating": 4.6,
-      "lastSeason": 5,
-      "qualityDrop": 3.6
-    },
-    {
-      "seriesTconst": "tt0124260",
-      "seriesTitle": "Student Bodies",
-      "season1Rating": 7.6,
-      "lastSeasonRating": 4.0,
-      "lastSeason": 2,
-      "qualityDrop": 3.6
     }
   ]
 }
