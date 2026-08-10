@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-03T09:56:29+00:00",
-  "snapshotDate": "2026-08-03",
+  "generatedAt": "2026-08-10T07:51:32+00:00",
+  "snapshotDate": "2026-08-10",
   "rows": 50,
   "data": [
     {
@@ -23,9 +23,9 @@
       "seriesTconst": "tt34174211",
       "seriesTitle": "Celebrity Substitute",
       "season1Rating": 9.0,
-      "lastSeasonRating": 1.8,
+      "lastSeasonRating": 1.7,
       "lastSeason": 3,
-      "qualityDrop": 7.2
+      "qualityDrop": 7.3
     },
     {
       "seriesTconst": "tt3004376",
@@ -52,6 +52,14 @@
       "qualityDrop": 5.767
     },
     {
+      "seriesTconst": "tt8560918",
+      "seriesTitle": "The Queen of Flow",
+      "season1Rating": 8.891,
+      "lastSeasonRating": 3.286,
+      "lastSeason": 3,
+      "qualityDrop": 5.605
+    },
+    {
       "seriesTconst": "tt10467076",
       "seriesTitle": "Shopping with Keith Lemon",
       "season1Rating": 6.9,
@@ -74,14 +82,6 @@
       "lastSeasonRating": 3.8,
       "lastSeason": 6,
       "qualityDrop": 5.4
-    },
-    {
-      "seriesTconst": "tt8560918",
-      "seriesTitle": "The Queen of Flow",
-      "season1Rating": 8.829,
-      "lastSeasonRating": 3.525,
-      "lastSeason": 3,
-      "qualityDrop": 5.304
     },
     {
       "seriesTconst": "tt0063890",
@@ -108,14 +108,6 @@
       "qualityDrop": 5.1
     },
     {
-      "seriesTconst": "tt0329829",
-      "seriesTitle": "Fireman Sam",
-      "season1Rating": 8.6,
-      "lastSeasonRating": 3.522,
-      "lastSeason": 16,
-      "qualityDrop": 5.078
-    },
-    {
       "seriesTconst": "tt33504903",
       "seriesTitle": "Slendybob",
       "season1Rating": 8.5,
@@ -124,12 +116,12 @@
       "qualityDrop": 5.05
     },
     {
-      "seriesTconst": "tt5191128",
-      "seriesTitle": "The Break",
-      "season1Rating": 7.8,
-      "lastSeasonRating": 2.8,
+      "seriesTconst": "tt4508902",
+      "seriesTitle": "One Punch Man",
+      "season1Rating": 8.775,
+      "lastSeasonRating": 3.767,
       "lastSeason": 3,
-      "qualityDrop": 5.0
+      "qualityDrop": 5.008
     },
     {
       "seriesTconst": "tt0815086",
@@ -140,20 +132,20 @@
       "qualityDrop": 5.0
     },
     {
-      "seriesTconst": "tt4508902",
-      "seriesTitle": "One Punch Man",
-      "season1Rating": 8.775,
-      "lastSeasonRating": 3.783,
+      "seriesTconst": "tt5191128",
+      "seriesTitle": "The Break",
+      "season1Rating": 7.8,
+      "lastSeasonRating": 2.8,
       "lastSeason": 3,
-      "qualityDrop": 4.992
+      "qualityDrop": 5.0
     },
     {
       "seriesTconst": "tt4277268",
       "seriesTitle": "Billy & Billie",
-      "season1Rating": 8.25,
+      "season1Rating": 8.24,
       "lastSeasonRating": 3.4,
       "lastSeason": 2,
-      "qualityDrop": 4.85
+      "qualityDrop": 4.84
     },
     {
       "seriesTconst": "tt2214918",
@@ -178,6 +170,14 @@
       "lastSeasonRating": 3.594,
       "lastSeason": 6,
       "qualityDrop": 4.784
+    },
+    {
+      "seriesTconst": "tt0329829",
+      "seriesTitle": "Fireman Sam",
+      "season1Rating": 8.288,
+      "lastSeasonRating": 3.522,
+      "lastSeason": 16,
+      "qualityDrop": 4.766
     },
     {
       "seriesTconst": "tt0360301",
@@ -236,11 +236,11 @@
       "qualityDrop": 4.417
     },
     {
-      "seriesTconst": "tt0101117",
-      "seriesTitle": "The Hidden Room",
-      "season1Rating": 6.7,
-      "lastSeasonRating": 2.3,
-      "lastSeason": 2,
+      "seriesTconst": "tt0306760",
+      "seriesTitle": "Edel & Starck",
+      "season1Rating": 7.6,
+      "lastSeasonRating": 3.2,
+      "lastSeason": 4,
       "qualityDrop": 4.4
     },
     {
@@ -252,11 +252,11 @@
       "qualityDrop": 4.4
     },
     {
-      "seriesTconst": "tt0306760",
-      "seriesTitle": "Edel & Starck",
-      "season1Rating": 7.6,
-      "lastSeasonRating": 3.2,
-      "lastSeason": 4,
+      "seriesTconst": "tt0101117",
+      "seriesTitle": "The Hidden Room",
+      "season1Rating": 6.7,
+      "lastSeasonRating": 2.3,
+      "lastSeason": 2,
       "qualityDrop": 4.4
     },
     {
@@ -266,6 +266,14 @@
       "lastSeasonRating": 3.856,
       "lastSeason": 5,
       "qualityDrop": 4.394
+    },
+    {
+      "seriesTconst": "tt17736900",
+      "seriesTitle": "Lock Upp",
+      "season1Rating": 8.557,
+      "lastSeasonRating": 4.25,
+      "lastSeason": 2,
+      "qualityDrop": 4.307
     },
     {
       "seriesTconst": "tt1141678",
@@ -300,19 +308,19 @@
       "qualityDrop": 4.204
     },
     {
-      "seriesTconst": "tt10827252",
-      "seriesTitle": "The Drew Barrymore Show",
-      "season1Rating": 6.1,
-      "lastSeasonRating": 2.0,
-      "lastSeason": 6,
-      "qualityDrop": 4.1
-    },
-    {
       "seriesTconst": "tt1724588",
       "seriesTitle": "Ebert Presents: At the Movies",
       "season1Rating": 6.3,
       "lastSeasonRating": 2.2,
       "lastSeason": 2,
+      "qualityDrop": 4.1
+    },
+    {
+      "seriesTconst": "tt10827252",
+      "seriesTitle": "The Drew Barrymore Show",
+      "season1Rating": 6.1,
+      "lastSeasonRating": 2.0,
+      "lastSeason": 6,
       "qualityDrop": 4.1
     },
     {
@@ -332,27 +340,19 @@
       "qualityDrop": 4.074
     },
     {
-      "seriesTconst": "tt17736900",
-      "seriesTitle": "Lock Upp",
-      "season1Rating": 8.586,
-      "lastSeasonRating": 4.55,
-      "lastSeason": 2,
-      "qualityDrop": 4.036
-    },
-    {
-      "seriesTconst": "tt5180504",
-      "seriesTitle": "The Witcher",
-      "season1Rating": 8.288,
-      "lastSeasonRating": 4.387,
-      "lastSeason": 4,
-      "qualityDrop": 3.901
-    },
-    {
       "seriesTconst": "tt1885777",
       "seriesTitle": "Funny as Hell",
       "season1Rating": 5.3,
       "lastSeasonRating": 1.4,
       "lastSeason": 2,
+      "qualityDrop": 3.9
+    },
+    {
+      "seriesTconst": "tt5180504",
+      "seriesTitle": "The Witcher",
+      "season1Rating": 8.288,
+      "lastSeasonRating": 4.388,
+      "lastSeason": 4,
       "qualityDrop": 3.9
     },
     {
@@ -362,14 +362,6 @@
       "lastSeasonRating": 4.3,
       "lastSeason": 11,
       "qualityDrop": 3.9
-    },
-    {
-      "seriesTconst": "tt31365727",
-      "seriesTitle": "A renitens",
-      "season1Rating": 8.325,
-      "lastSeasonRating": 4.433,
-      "lastSeason": 3,
-      "qualityDrop": 3.892
     },
     {
       "seriesTconst": "tt0112097",
@@ -402,6 +394,14 @@
       "lastSeasonRating": 5.4,
       "lastSeason": 3,
       "qualityDrop": 3.7
+    },
+    {
+      "seriesTconst": "tt5189554",
+      "seriesTitle": "Soy Luna",
+      "season1Rating": 7.376,
+      "lastSeasonRating": 3.7,
+      "lastSeason": 4,
+      "qualityDrop": 3.676
     }
   ]
 }
