@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-10T07:51:32+00:00",
-  "snapshotDate": "2026-08-10",
+  "generatedAt": "2026-08-17T07:05:53+00:00",
+  "snapshotDate": "2026-08-17",
   "rows": 50,
   "data": [
     {
@@ -124,19 +124,19 @@
       "qualityDrop": 5.008
     },
     {
-      "seriesTconst": "tt0815086",
-      "seriesTitle": "Walmart Soundcheck",
-      "season1Rating": 9.2,
-      "lastSeasonRating": 4.2,
-      "lastSeason": 2,
-      "qualityDrop": 5.0
-    },
-    {
       "seriesTconst": "tt5191128",
       "seriesTitle": "The Break",
       "season1Rating": 7.8,
       "lastSeasonRating": 2.8,
       "lastSeason": 3,
+      "qualityDrop": 5.0
+    },
+    {
+      "seriesTconst": "tt0815086",
+      "seriesTitle": "Walmart Soundcheck",
+      "season1Rating": 9.2,
+      "lastSeasonRating": 4.2,
+      "lastSeason": 2,
       "qualityDrop": 5.0
     },
     {
@@ -180,18 +180,18 @@
       "qualityDrop": 4.766
     },
     {
-      "seriesTconst": "tt0360301",
-      "seriesTitle": "Player$",
-      "season1Rating": 7.2,
-      "lastSeasonRating": 2.45,
-      "lastSeason": 2,
-      "qualityDrop": 4.75
-    },
-    {
       "seriesTconst": "tt0048892",
       "seriesTitle": "On Trial",
       "season1Rating": 9.4,
       "lastSeasonRating": 4.65,
+      "lastSeason": 2,
+      "qualityDrop": 4.75
+    },
+    {
+      "seriesTconst": "tt0360301",
+      "seriesTitle": "Player$",
+      "season1Rating": 7.2,
+      "lastSeasonRating": 2.45,
       "lastSeason": 2,
       "qualityDrop": 4.75
     },
@@ -236,11 +236,11 @@
       "qualityDrop": 4.417
     },
     {
-      "seriesTconst": "tt0306760",
-      "seriesTitle": "Edel & Starck",
-      "season1Rating": 7.6,
-      "lastSeasonRating": 3.2,
-      "lastSeason": 4,
+      "seriesTconst": "tt0101117",
+      "seriesTitle": "The Hidden Room",
+      "season1Rating": 6.7,
+      "lastSeasonRating": 2.3,
+      "lastSeason": 2,
       "qualityDrop": 4.4
     },
     {
@@ -252,11 +252,11 @@
       "qualityDrop": 4.4
     },
     {
-      "seriesTconst": "tt0101117",
-      "seriesTitle": "The Hidden Room",
-      "season1Rating": 6.7,
-      "lastSeasonRating": 2.3,
-      "lastSeason": 2,
+      "seriesTconst": "tt0306760",
+      "seriesTitle": "Edel & Starck",
+      "season1Rating": 7.6,
+      "lastSeasonRating": 3.2,
+      "lastSeason": 4,
       "qualityDrop": 4.4
     },
     {
@@ -266,14 +266,6 @@
       "lastSeasonRating": 3.856,
       "lastSeason": 5,
       "qualityDrop": 4.394
-    },
-    {
-      "seriesTconst": "tt17736900",
-      "seriesTitle": "Lock Upp",
-      "season1Rating": 8.557,
-      "lastSeasonRating": 4.25,
-      "lastSeason": 2,
-      "qualityDrop": 4.307
     },
     {
       "seriesTconst": "tt1141678",
@@ -308,6 +300,22 @@
       "qualityDrop": 4.204
     },
     {
+      "seriesTconst": "tt17736900",
+      "seriesTitle": "Lock Upp",
+      "season1Rating": 8.371,
+      "lastSeasonRating": 4.2,
+      "lastSeason": 2,
+      "qualityDrop": 4.171
+    },
+    {
+      "seriesTconst": "tt1756927",
+      "seriesTitle": "American Restoration",
+      "season1Rating": 7.25,
+      "lastSeasonRating": 3.15,
+      "lastSeason": 7,
+      "qualityDrop": 4.1
+    },
+    {
       "seriesTconst": "tt1724588",
       "seriesTitle": "Ebert Presents: At the Movies",
       "season1Rating": 6.3,
@@ -340,19 +348,19 @@
       "qualityDrop": 4.074
     },
     {
-      "seriesTconst": "tt1885777",
-      "seriesTitle": "Funny as Hell",
-      "season1Rating": 5.3,
-      "lastSeasonRating": 1.4,
-      "lastSeason": 2,
-      "qualityDrop": 3.9
-    },
-    {
       "seriesTconst": "tt5180504",
       "seriesTitle": "The Witcher",
       "season1Rating": 8.288,
       "lastSeasonRating": 4.388,
       "lastSeason": 4,
+      "qualityDrop": 3.9
+    },
+    {
+      "seriesTconst": "tt1885777",
+      "seriesTitle": "Funny as Hell",
+      "season1Rating": 5.3,
+      "lastSeasonRating": 1.4,
+      "lastSeason": 2,
       "qualityDrop": 3.9
     },
     {
@@ -394,14 +402,6 @@
       "lastSeasonRating": 5.4,
       "lastSeason": 3,
       "qualityDrop": 3.7
-    },
-    {
-      "seriesTconst": "tt5189554",
-      "seriesTitle": "Soy Luna",
-      "season1Rating": 7.376,
-      "lastSeasonRating": 3.7,
-      "lastSeason": 4,
-      "qualityDrop": 3.676
     }
   ]
 }
