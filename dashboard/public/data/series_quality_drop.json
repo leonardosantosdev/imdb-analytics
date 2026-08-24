@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-17T07:05:53+00:00",
-  "snapshotDate": "2026-08-17",
+  "generatedAt": "2026-08-24T07:08:17+00:00",
+  "snapshotDate": "2026-08-24",
   "rows": 50,
   "data": [
     {
@@ -124,14 +124,6 @@
       "qualityDrop": 5.008
     },
     {
-      "seriesTconst": "tt5191128",
-      "seriesTitle": "The Break",
-      "season1Rating": 7.8,
-      "lastSeasonRating": 2.8,
-      "lastSeason": 3,
-      "qualityDrop": 5.0
-    },
-    {
       "seriesTconst": "tt0815086",
       "seriesTitle": "Walmart Soundcheck",
       "season1Rating": 9.2,
@@ -140,12 +132,20 @@
       "qualityDrop": 5.0
     },
     {
+      "seriesTconst": "tt5191128",
+      "seriesTitle": "The Break",
+      "season1Rating": 7.8,
+      "lastSeasonRating": 2.8,
+      "lastSeason": 3,
+      "qualityDrop": 5.0
+    },
+    {
       "seriesTconst": "tt4277268",
       "seriesTitle": "Billy & Billie",
-      "season1Rating": 8.24,
+      "season1Rating": 8.22,
       "lastSeasonRating": 3.4,
       "lastSeason": 2,
-      "qualityDrop": 4.84
+      "qualityDrop": 4.82
     },
     {
       "seriesTconst": "tt2214918",
@@ -174,24 +174,24 @@
     {
       "seriesTconst": "tt0329829",
       "seriesTitle": "Fireman Sam",
-      "season1Rating": 8.288,
+      "season1Rating": 8.3,
       "lastSeasonRating": 3.522,
       "lastSeason": 16,
-      "qualityDrop": 4.766
-    },
-    {
-      "seriesTconst": "tt0048892",
-      "seriesTitle": "On Trial",
-      "season1Rating": 9.4,
-      "lastSeasonRating": 4.65,
-      "lastSeason": 2,
-      "qualityDrop": 4.75
+      "qualityDrop": 4.778
     },
     {
       "seriesTconst": "tt0360301",
       "seriesTitle": "Player$",
       "season1Rating": 7.2,
       "lastSeasonRating": 2.45,
+      "lastSeason": 2,
+      "qualityDrop": 4.75
+    },
+    {
+      "seriesTconst": "tt0048892",
+      "seriesTitle": "On Trial",
+      "season1Rating": 9.4,
+      "lastSeasonRating": 4.65,
       "lastSeason": 2,
       "qualityDrop": 4.75
     },
@@ -236,14 +236,6 @@
       "qualityDrop": 4.417
     },
     {
-      "seriesTconst": "tt0101117",
-      "seriesTitle": "The Hidden Room",
-      "season1Rating": 6.7,
-      "lastSeasonRating": 2.3,
-      "lastSeason": 2,
-      "qualityDrop": 4.4
-    },
-    {
       "seriesTconst": "tt0046584",
       "seriesTitle": "Caesar's Hour",
       "season1Rating": 5.6,
@@ -257,6 +249,14 @@
       "season1Rating": 7.6,
       "lastSeasonRating": 3.2,
       "lastSeason": 4,
+      "qualityDrop": 4.4
+    },
+    {
+      "seriesTconst": "tt0101117",
+      "seriesTitle": "The Hidden Room",
+      "season1Rating": 6.7,
+      "lastSeasonRating": 2.3,
+      "lastSeason": 2,
       "qualityDrop": 4.4
     },
     {
@@ -308,11 +308,11 @@
       "qualityDrop": 4.171
     },
     {
-      "seriesTconst": "tt1756927",
-      "seriesTitle": "American Restoration",
-      "season1Rating": 7.25,
-      "lastSeasonRating": 3.15,
-      "lastSeason": 7,
+      "seriesTconst": "tt10827252",
+      "seriesTitle": "The Drew Barrymore Show",
+      "season1Rating": 6.1,
+      "lastSeasonRating": 2.0,
+      "lastSeason": 6,
       "qualityDrop": 4.1
     },
     {
@@ -324,11 +324,11 @@
       "qualityDrop": 4.1
     },
     {
-      "seriesTconst": "tt10827252",
-      "seriesTitle": "The Drew Barrymore Show",
-      "season1Rating": 6.1,
-      "lastSeasonRating": 2.0,
-      "lastSeason": 6,
+      "seriesTconst": "tt1756927",
+      "seriesTitle": "American Restoration",
+      "season1Rating": 7.25,
+      "lastSeasonRating": 3.15,
+      "lastSeason": 7,
       "qualityDrop": 4.1
     },
     {
@@ -348,14 +348,6 @@
       "qualityDrop": 4.074
     },
     {
-      "seriesTconst": "tt5180504",
-      "seriesTitle": "The Witcher",
-      "season1Rating": 8.288,
-      "lastSeasonRating": 4.388,
-      "lastSeason": 4,
-      "qualityDrop": 3.9
-    },
-    {
       "seriesTconst": "tt1885777",
       "seriesTitle": "Funny as Hell",
       "season1Rating": 5.3,
@@ -370,6 +362,14 @@
       "lastSeasonRating": 4.3,
       "lastSeason": 11,
       "qualityDrop": 3.9
+    },
+    {
+      "seriesTconst": "tt5180504",
+      "seriesTitle": "The Witcher",
+      "season1Rating": 8.288,
+      "lastSeasonRating": 4.413,
+      "lastSeason": 4,
+      "qualityDrop": 3.875
     },
     {
       "seriesTconst": "tt0112097",
