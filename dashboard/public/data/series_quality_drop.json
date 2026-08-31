@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-24T07:08:17+00:00",
-  "snapshotDate": "2026-08-24",
+  "generatedAt": "2026-08-31T13:16:10+00:00",
+  "snapshotDate": "2026-08-31",
   "rows": 50,
   "data": [
     {
@@ -23,9 +23,9 @@
       "seriesTconst": "tt34174211",
       "seriesTitle": "Celebrity Substitute",
       "season1Rating": 9.0,
-      "lastSeasonRating": 1.7,
+      "lastSeasonRating": 1.9,
       "lastSeason": 3,
-      "qualityDrop": 7.3
+      "qualityDrop": 7.1
     },
     {
       "seriesTconst": "tt3004376",
@@ -54,10 +54,10 @@
     {
       "seriesTconst": "tt8560918",
       "seriesTitle": "The Queen of Flow",
-      "season1Rating": 8.891,
+      "season1Rating": 8.95,
       "lastSeasonRating": 3.286,
       "lastSeason": 3,
-      "qualityDrop": 5.605
+      "qualityDrop": 5.664
     },
     {
       "seriesTconst": "tt10467076",
@@ -84,19 +84,19 @@
       "qualityDrop": 5.4
     },
     {
-      "seriesTconst": "tt0063890",
-      "seriesTitle": "The David Frost Show",
-      "season1Rating": 6.5,
-      "lastSeasonRating": 1.2,
-      "lastSeason": 4,
-      "qualityDrop": 5.3
-    },
-    {
       "seriesTconst": "tt0121016",
       "seriesTitle": "Die Rudi Carrell Show",
       "season1Rating": 9.3,
       "lastSeasonRating": 4.0,
       "lastSeason": 2,
+      "qualityDrop": 5.3
+    },
+    {
+      "seriesTconst": "tt0063890",
+      "seriesTitle": "The David Frost Show",
+      "season1Rating": 6.5,
+      "lastSeasonRating": 1.2,
+      "lastSeason": 4,
       "qualityDrop": 5.3
     },
     {
@@ -138,14 +138,6 @@
       "lastSeasonRating": 2.8,
       "lastSeason": 3,
       "qualityDrop": 5.0
-    },
-    {
-      "seriesTconst": "tt4277268",
-      "seriesTitle": "Billy & Billie",
-      "season1Rating": 8.22,
-      "lastSeasonRating": 3.4,
-      "lastSeason": 2,
-      "qualityDrop": 4.82
     },
     {
       "seriesTconst": "tt2214918",
@@ -196,6 +188,14 @@
       "qualityDrop": 4.75
     },
     {
+      "seriesTconst": "tt4277268",
+      "seriesTitle": "Billy & Billie",
+      "season1Rating": 8.07,
+      "lastSeasonRating": 3.4,
+      "lastSeason": 2,
+      "qualityDrop": 4.67
+    },
+    {
       "seriesTconst": "tt0479336",
       "seriesTitle": "Pinoy Big Brother",
       "season1Rating": 5.6,
@@ -236,14 +236,6 @@
       "qualityDrop": 4.417
     },
     {
-      "seriesTconst": "tt0046584",
-      "seriesTitle": "Caesar's Hour",
-      "season1Rating": 5.6,
-      "lastSeasonRating": 1.2,
-      "lastSeason": 3,
-      "qualityDrop": 4.4
-    },
-    {
       "seriesTconst": "tt0306760",
       "seriesTitle": "Edel & Starck",
       "season1Rating": 7.6,
@@ -260,26 +252,34 @@
       "qualityDrop": 4.4
     },
     {
+      "seriesTconst": "tt0046584",
+      "seriesTitle": "Caesar's Hour",
+      "season1Rating": 5.6,
+      "lastSeasonRating": 1.2,
+      "lastSeason": 3,
+      "qualityDrop": 4.4
+    },
+    {
       "seriesTconst": "tt16994878",
       "seriesTitle": "7 vs. Wild",
       "season1Rating": 8.25,
-      "lastSeasonRating": 3.856,
+      "lastSeasonRating": 3.881,
       "lastSeason": 5,
-      "qualityDrop": 4.394
-    },
-    {
-      "seriesTconst": "tt1141678",
-      "seriesTitle": "Inspektor Rolle",
-      "season1Rating": 7.7,
-      "lastSeasonRating": 3.4,
-      "lastSeason": 2,
-      "qualityDrop": 4.3
+      "qualityDrop": 4.369
     },
     {
       "seriesTconst": "tt0115367",
       "seriesTitle": "Sparks",
       "season1Rating": 8.6,
       "lastSeasonRating": 4.3,
+      "lastSeason": 2,
+      "qualityDrop": 4.3
+    },
+    {
+      "seriesTconst": "tt1141678",
+      "seriesTitle": "Inspektor Rolle",
+      "season1Rating": 7.7,
+      "lastSeasonRating": 3.4,
       "lastSeason": 2,
       "qualityDrop": 4.3
     },
@@ -292,6 +292,14 @@
       "qualityDrop": 4.243
     },
     {
+      "seriesTconst": "tt17736900",
+      "seriesTitle": "Lock Upp",
+      "season1Rating": 8.371,
+      "lastSeasonRating": 4.15,
+      "lastSeason": 2,
+      "qualityDrop": 4.221
+    },
+    {
       "seriesTconst": "tt1856010",
       "seriesTitle": "House of Cards",
       "season1Rating": 8.392,
@@ -300,12 +308,12 @@
       "qualityDrop": 4.204
     },
     {
-      "seriesTconst": "tt17736900",
-      "seriesTitle": "Lock Upp",
-      "season1Rating": 8.371,
-      "lastSeasonRating": 4.2,
+      "seriesTconst": "tt1724588",
+      "seriesTitle": "Ebert Presents: At the Movies",
+      "season1Rating": 6.3,
+      "lastSeasonRating": 2.2,
       "lastSeason": 2,
-      "qualityDrop": 4.171
+      "qualityDrop": 4.1
     },
     {
       "seriesTconst": "tt10827252",
@@ -313,14 +321,6 @@
       "season1Rating": 6.1,
       "lastSeasonRating": 2.0,
       "lastSeason": 6,
-      "qualityDrop": 4.1
-    },
-    {
-      "seriesTconst": "tt1724588",
-      "seriesTitle": "Ebert Presents: At the Movies",
-      "season1Rating": 6.3,
-      "lastSeasonRating": 2.2,
-      "lastSeason": 2,
       "qualityDrop": 4.1
     },
     {
@@ -335,9 +335,9 @@
       "seriesTconst": "tt0856757",
       "seriesTitle": "Leaf Cast",
       "season1Rating": 6.921,
-      "lastSeasonRating": 2.827,
+      "lastSeasonRating": 2.833,
       "lastSeason": 5,
-      "qualityDrop": 4.094
+      "qualityDrop": 4.088
     },
     {
       "seriesTconst": "tt0315709",
@@ -350,10 +350,18 @@
     {
       "seriesTconst": "tt1885777",
       "seriesTitle": "Funny as Hell",
-      "season1Rating": 5.3,
-      "lastSeasonRating": 1.4,
+      "season1Rating": 5.5,
+      "lastSeasonRating": 1.5,
       "lastSeason": 2,
-      "qualityDrop": 3.9
+      "qualityDrop": 4.0
+    },
+    {
+      "seriesTconst": "tt5180504",
+      "seriesTitle": "The Witcher",
+      "season1Rating": 8.288,
+      "lastSeasonRating": 4.387,
+      "lastSeason": 4,
+      "qualityDrop": 3.901
     },
     {
       "seriesTconst": "tt0486068",
@@ -362,14 +370,6 @@
       "lastSeasonRating": 4.3,
       "lastSeason": 11,
       "qualityDrop": 3.9
-    },
-    {
-      "seriesTconst": "tt5180504",
-      "seriesTitle": "The Witcher",
-      "season1Rating": 8.288,
-      "lastSeasonRating": 4.413,
-      "lastSeason": 4,
-      "qualityDrop": 3.875
     },
     {
       "seriesTconst": "tt0112097",
