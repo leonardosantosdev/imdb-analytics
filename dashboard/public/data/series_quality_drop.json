@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-07T12:06:45+00:00",
-  "snapshotDate": "2026-09-07",
+  "generatedAt": "2026-09-14T12:22:29+00:00",
+  "snapshotDate": "2026-09-14",
   "rows": 50,
   "data": [
     {
@@ -220,20 +220,20 @@
       "qualityDrop": 4.514
     },
     {
-      "seriesTconst": "tt5723284",
-      "seriesTitle": "I Hate Everything",
-      "season1Rating": 5.883,
-      "lastSeasonRating": 1.4,
-      "lastSeason": 12,
-      "qualityDrop": 4.483
-    },
-    {
       "seriesTconst": "tt0375289",
       "seriesTitle": "Crni Gruja",
       "season1Rating": 9.567,
       "lastSeasonRating": 5.15,
       "lastSeason": 3,
       "qualityDrop": 4.417
+    },
+    {
+      "seriesTconst": "tt5723284",
+      "seriesTitle": "I Hate Everything",
+      "season1Rating": 5.906,
+      "lastSeasonRating": 1.5,
+      "lastSeason": 12,
+      "qualityDrop": 4.406
     },
     {
       "seriesTconst": "tt0306760",
@@ -244,19 +244,19 @@
       "qualityDrop": 4.4
     },
     {
-      "seriesTconst": "tt0046584",
-      "seriesTitle": "Caesar's Hour",
-      "season1Rating": 5.6,
-      "lastSeasonRating": 1.2,
-      "lastSeason": 3,
-      "qualityDrop": 4.4
-    },
-    {
       "seriesTconst": "tt0101117",
       "seriesTitle": "The Hidden Room",
       "season1Rating": 6.7,
       "lastSeasonRating": 2.3,
       "lastSeason": 2,
+      "qualityDrop": 4.4
+    },
+    {
+      "seriesTconst": "tt0046584",
+      "seriesTitle": "Caesar's Hour",
+      "season1Rating": 5.6,
+      "lastSeasonRating": 1.2,
+      "lastSeason": 3,
       "qualityDrop": 4.4
     },
     {
@@ -300,34 +300,26 @@
       "qualityDrop": 4.221
     },
     {
-      "seriesTconst": "tt1856010",
-      "seriesTitle": "House of Cards",
-      "season1Rating": 8.392,
-      "lastSeasonRating": 4.188,
-      "lastSeason": 6,
+      "seriesTconst": "tt0856757",
+      "seriesTitle": "Leaf Cast",
+      "season1Rating": 7.037,
+      "lastSeasonRating": 2.833,
+      "lastSeason": 5,
       "qualityDrop": 4.204
     },
     {
-      "seriesTconst": "tt1756927",
-      "seriesTitle": "American Restoration",
-      "season1Rating": 7.25,
-      "lastSeasonRating": 3.15,
-      "lastSeason": 7,
-      "qualityDrop": 4.1
+      "seriesTconst": "tt1856010",
+      "seriesTitle": "House of Cards",
+      "season1Rating": 8.385,
+      "lastSeasonRating": 4.188,
+      "lastSeason": 6,
+      "qualityDrop": 4.197
     },
     {
       "seriesTconst": "tt1724588",
       "seriesTitle": "Ebert Presents: At the Movies",
       "season1Rating": 6.3,
       "lastSeasonRating": 2.2,
-      "lastSeason": 2,
-      "qualityDrop": 4.1
-    },
-    {
-      "seriesTconst": "tt1885777",
-      "seriesTitle": "Funny as Hell",
-      "season1Rating": 5.6,
-      "lastSeasonRating": 1.5,
       "lastSeason": 2,
       "qualityDrop": 4.1
     },
@@ -340,12 +332,28 @@
       "qualityDrop": 4.1
     },
     {
-      "seriesTconst": "tt0856757",
-      "seriesTitle": "Leaf Cast",
-      "season1Rating": 6.913,
-      "lastSeasonRating": 2.833,
-      "lastSeason": 5,
-      "qualityDrop": 4.08
+      "seriesTconst": "tt1756927",
+      "seriesTitle": "American Restoration",
+      "season1Rating": 7.25,
+      "lastSeasonRating": 3.15,
+      "lastSeason": 7,
+      "qualityDrop": 4.1
+    },
+    {
+      "seriesTconst": "tt1885777",
+      "seriesTitle": "Funny as Hell",
+      "season1Rating": 5.6,
+      "lastSeasonRating": 1.5,
+      "lastSeason": 2,
+      "qualityDrop": 4.1
+    },
+    {
+      "seriesTconst": "tt0344743",
+      "seriesTitle": "V.I.P.-Schaukel",
+      "season1Rating": 7.0,
+      "lastSeasonRating": 2.9,
+      "lastSeason": 7,
+      "qualityDrop": 4.1
     },
     {
       "seriesTconst": "tt0315709",
@@ -394,14 +402,6 @@
       "lastSeasonRating": 2.6,
       "lastSeason": 3,
       "qualityDrop": 3.75
-    },
-    {
-      "seriesTconst": "tt0088473",
-      "seriesTitle": "Adventures in Wonderland",
-      "season1Rating": 9.1,
-      "lastSeasonRating": 5.4,
-      "lastSeason": 3,
-      "qualityDrop": 3.7
     }
   ]
 }
