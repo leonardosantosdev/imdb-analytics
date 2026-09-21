@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-14T12:22:29+00:00",
-  "snapshotDate": "2026-09-14",
+  "generatedAt": "2026-09-21T12:29:56+00:00",
+  "snapshotDate": "2026-09-21",
   "rows": 50,
   "data": [
     {
@@ -116,19 +116,19 @@
       "qualityDrop": 5.05
     },
     {
-      "seriesTconst": "tt5191128",
-      "seriesTitle": "The Break",
-      "season1Rating": 7.8,
-      "lastSeasonRating": 2.8,
-      "lastSeason": 3,
-      "qualityDrop": 5.0
-    },
-    {
       "seriesTconst": "tt0815086",
       "seriesTitle": "Walmart Soundcheck",
       "season1Rating": 9.2,
       "lastSeasonRating": 4.2,
       "lastSeason": 2,
+      "qualityDrop": 5.0
+    },
+    {
+      "seriesTconst": "tt5191128",
+      "seriesTitle": "The Break",
+      "season1Rating": 7.8,
+      "lastSeasonRating": 2.8,
+      "lastSeason": 3,
       "qualityDrop": 5.0
     },
     {
@@ -172,18 +172,18 @@
       "qualityDrop": 4.778
     },
     {
-      "seriesTconst": "tt0048892",
-      "seriesTitle": "On Trial",
-      "season1Rating": 9.4,
-      "lastSeasonRating": 4.65,
-      "lastSeason": 2,
-      "qualityDrop": 4.75
-    },
-    {
       "seriesTconst": "tt0360301",
       "seriesTitle": "Player$",
       "season1Rating": 7.2,
       "lastSeasonRating": 2.45,
+      "lastSeason": 2,
+      "qualityDrop": 4.75
+    },
+    {
+      "seriesTconst": "tt0048892",
+      "seriesTitle": "On Trial",
+      "season1Rating": 9.4,
+      "lastSeasonRating": 4.65,
       "lastSeason": 2,
       "qualityDrop": 4.75
     },
@@ -263,9 +263,9 @@
       "seriesTconst": "tt16994878",
       "seriesTitle": "7vs.Wild",
       "season1Rating": 8.25,
-      "lastSeasonRating": 3.881,
+      "lastSeasonRating": 3.875,
       "lastSeason": 5,
-      "qualityDrop": 4.369
+      "qualityDrop": 4.375
     },
     {
       "seriesTconst": "tt1141678",
@@ -292,6 +292,14 @@
       "qualityDrop": 4.243
     },
     {
+      "seriesTconst": "tt1856010",
+      "seriesTitle": "House of Cards",
+      "season1Rating": 8.385,
+      "lastSeasonRating": 4.163,
+      "lastSeason": 6,
+      "qualityDrop": 4.222
+    },
+    {
       "seriesTconst": "tt17736900",
       "seriesTitle": "Lock Upp",
       "season1Rating": 8.371,
@@ -303,17 +311,9 @@
       "seriesTconst": "tt0856757",
       "seriesTitle": "Leaf Cast",
       "season1Rating": 7.037,
-      "lastSeasonRating": 2.833,
+      "lastSeasonRating": 2.867,
       "lastSeason": 5,
-      "qualityDrop": 4.204
-    },
-    {
-      "seriesTconst": "tt1856010",
-      "seriesTitle": "House of Cards",
-      "season1Rating": 8.385,
-      "lastSeasonRating": 4.188,
-      "lastSeason": 6,
-      "qualityDrop": 4.197
+      "qualityDrop": 4.17
     },
     {
       "seriesTconst": "tt1724588",
@@ -321,14 +321,6 @@
       "season1Rating": 6.3,
       "lastSeasonRating": 2.2,
       "lastSeason": 2,
-      "qualityDrop": 4.1
-    },
-    {
-      "seriesTconst": "tt10827252",
-      "seriesTitle": "The Drew Barrymore Show",
-      "season1Rating": 6.1,
-      "lastSeasonRating": 2.0,
-      "lastSeason": 6,
       "qualityDrop": 4.1
     },
     {
@@ -340,11 +332,11 @@
       "qualityDrop": 4.1
     },
     {
-      "seriesTconst": "tt1885777",
-      "seriesTitle": "Funny as Hell",
-      "season1Rating": 5.6,
-      "lastSeasonRating": 1.5,
-      "lastSeason": 2,
+      "seriesTconst": "tt10827252",
+      "seriesTitle": "The Drew Barrymore Show",
+      "season1Rating": 6.1,
+      "lastSeasonRating": 2.0,
+      "lastSeason": 6,
       "qualityDrop": 4.1
     },
     {
@@ -353,6 +345,14 @@
       "season1Rating": 7.0,
       "lastSeasonRating": 2.9,
       "lastSeason": 7,
+      "qualityDrop": 4.1
+    },
+    {
+      "seriesTconst": "tt1885777",
+      "seriesTitle": "Funny as Hell",
+      "season1Rating": 5.6,
+      "lastSeasonRating": 1.5,
+      "lastSeason": 2,
       "qualityDrop": 4.1
     },
     {
