@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-21T12:29:56+00:00",
-  "snapshotDate": "2026-09-21",
+  "generatedAt": "2026-09-28T13:28:13+00:00",
+  "snapshotDate": "2026-09-28",
   "rows": 50,
   "data": [
     {
       "seriesTconst": "tt0096636",
       "seriesTitle": "Live with Kelly and Mark",
-      "season1Rating": 9.6,
+      "season1Rating": 9.7,
       "lastSeasonRating": 1.0,
       "lastSeason": 33,
-      "qualityDrop": 8.6
+      "qualityDrop": 8.7
     },
     {
       "seriesTconst": "tt0108865",
@@ -84,19 +84,19 @@
       "qualityDrop": 5.4
     },
     {
-      "seriesTconst": "tt0063890",
-      "seriesTitle": "The David Frost Show",
-      "season1Rating": 6.5,
-      "lastSeasonRating": 1.2,
-      "lastSeason": 4,
-      "qualityDrop": 5.3
-    },
-    {
       "seriesTconst": "tt0121016",
       "seriesTitle": "Die Rudi Carrell Show",
       "season1Rating": 9.3,
       "lastSeasonRating": 4.0,
       "lastSeason": 2,
+      "qualityDrop": 5.3
+    },
+    {
+      "seriesTconst": "tt0063890",
+      "seriesTitle": "The David Frost Show",
+      "season1Rating": 6.5,
+      "lastSeasonRating": 1.2,
+      "lastSeason": 4,
       "qualityDrop": 5.3
     },
     {
@@ -116,19 +116,19 @@
       "qualityDrop": 5.05
     },
     {
-      "seriesTconst": "tt0815086",
-      "seriesTitle": "Walmart Soundcheck",
-      "season1Rating": 9.2,
-      "lastSeasonRating": 4.2,
-      "lastSeason": 2,
-      "qualityDrop": 5.0
-    },
-    {
       "seriesTconst": "tt5191128",
       "seriesTitle": "The Break",
       "season1Rating": 7.8,
       "lastSeasonRating": 2.8,
       "lastSeason": 3,
+      "qualityDrop": 5.0
+    },
+    {
+      "seriesTconst": "tt0815086",
+      "seriesTitle": "Walmart Soundcheck",
+      "season1Rating": 9.2,
+      "lastSeasonRating": 4.2,
+      "lastSeason": 2,
       "qualityDrop": 5.0
     },
     {
@@ -138,6 +138,22 @@
       "lastSeasonRating": 3.792,
       "lastSeason": 3,
       "qualityDrop": 4.983
+    },
+    {
+      "seriesTconst": "tt13488080",
+      "seriesTitle": "Rainbow High",
+      "season1Rating": 8.344,
+      "lastSeasonRating": 3.369,
+      "lastSeason": 6,
+      "qualityDrop": 4.975
+    },
+    {
+      "seriesTconst": "tt0329829",
+      "seriesTitle": "Fireman Sam",
+      "season1Rating": 8.35,
+      "lastSeasonRating": 3.522,
+      "lastSeason": 16,
+      "qualityDrop": 4.828
     },
     {
       "seriesTconst": "tt2214918",
@@ -156,20 +172,12 @@
       "qualityDrop": 4.8
     },
     {
-      "seriesTconst": "tt13488080",
-      "seriesTitle": "Rainbow High",
-      "season1Rating": 8.378,
-      "lastSeasonRating": 3.594,
-      "lastSeason": 6,
-      "qualityDrop": 4.784
-    },
-    {
-      "seriesTconst": "tt0329829",
-      "seriesTitle": "Fireman Sam",
-      "season1Rating": 8.3,
-      "lastSeasonRating": 3.522,
-      "lastSeason": 16,
-      "qualityDrop": 4.778
+      "seriesTconst": "tt0048892",
+      "seriesTitle": "On Trial",
+      "season1Rating": 9.4,
+      "lastSeasonRating": 4.65,
+      "lastSeason": 2,
+      "qualityDrop": 4.75
     },
     {
       "seriesTconst": "tt0360301",
@@ -180,12 +188,12 @@
       "qualityDrop": 4.75
     },
     {
-      "seriesTconst": "tt0048892",
-      "seriesTitle": "On Trial",
-      "season1Rating": 9.4,
-      "lastSeasonRating": 4.65,
-      "lastSeason": 2,
-      "qualityDrop": 4.75
+      "seriesTconst": "tt12872884",
+      "seriesTitle": "An Anatolian Tale",
+      "season1Rating": 8.543,
+      "lastSeasonRating": 3.867,
+      "lastSeason": 7,
+      "qualityDrop": 4.676
     },
     {
       "seriesTconst": "tt4277268",
@@ -236,19 +244,19 @@
       "qualityDrop": 4.406
     },
     {
-      "seriesTconst": "tt0306760",
-      "seriesTitle": "Edel & Starck",
-      "season1Rating": 7.6,
-      "lastSeasonRating": 3.2,
-      "lastSeason": 4,
-      "qualityDrop": 4.4
-    },
-    {
       "seriesTconst": "tt0101117",
       "seriesTitle": "The Hidden Room",
       "season1Rating": 6.7,
       "lastSeasonRating": 2.3,
       "lastSeason": 2,
+      "qualityDrop": 4.4
+    },
+    {
+      "seriesTconst": "tt0306760",
+      "seriesTitle": "Edel & Starck",
+      "season1Rating": 7.6,
+      "lastSeasonRating": 3.2,
+      "lastSeason": 4,
       "qualityDrop": 4.4
     },
     {
@@ -268,18 +276,18 @@
       "qualityDrop": 4.375
     },
     {
-      "seriesTconst": "tt1141678",
-      "seriesTitle": "Inspektor Rolle",
-      "season1Rating": 7.7,
-      "lastSeasonRating": 3.4,
-      "lastSeason": 2,
-      "qualityDrop": 4.3
-    },
-    {
       "seriesTconst": "tt0115367",
       "seriesTitle": "Sparks",
       "season1Rating": 8.6,
       "lastSeasonRating": 4.3,
+      "lastSeason": 2,
+      "qualityDrop": 4.3
+    },
+    {
+      "seriesTconst": "tt1141678",
+      "seriesTitle": "Inspektor Rolle",
+      "season1Rating": 7.7,
+      "lastSeasonRating": 3.4,
       "lastSeason": 2,
       "qualityDrop": 4.3
     },
@@ -295,9 +303,9 @@
       "seriesTconst": "tt1856010",
       "seriesTitle": "House of Cards",
       "season1Rating": 8.385,
-      "lastSeasonRating": 4.163,
+      "lastSeasonRating": 4.15,
       "lastSeason": 6,
-      "qualityDrop": 4.222
+      "qualityDrop": 4.235
     },
     {
       "seriesTconst": "tt17736900",
@@ -316,12 +324,12 @@
       "qualityDrop": 4.17
     },
     {
-      "seriesTconst": "tt1724588",
-      "seriesTitle": "Ebert Presents: At the Movies",
-      "season1Rating": 6.3,
-      "lastSeasonRating": 2.2,
-      "lastSeason": 2,
-      "qualityDrop": 4.1
+      "seriesTconst": "tt10827252",
+      "seriesTitle": "The Drew Barrymore Show",
+      "season1Rating": 6.117,
+      "lastSeasonRating": 2.0,
+      "lastSeason": 6,
+      "qualityDrop": 4.117
     },
     {
       "seriesTconst": "tt1756927",
@@ -332,19 +340,11 @@
       "qualityDrop": 4.1
     },
     {
-      "seriesTconst": "tt10827252",
-      "seriesTitle": "The Drew Barrymore Show",
-      "season1Rating": 6.1,
-      "lastSeasonRating": 2.0,
-      "lastSeason": 6,
-      "qualityDrop": 4.1
-    },
-    {
-      "seriesTconst": "tt0344743",
-      "seriesTitle": "V.I.P.-Schaukel",
-      "season1Rating": 7.0,
-      "lastSeasonRating": 2.9,
-      "lastSeason": 7,
+      "seriesTconst": "tt1724588",
+      "seriesTitle": "Ebert Presents: At the Movies",
+      "season1Rating": 6.3,
+      "lastSeasonRating": 2.2,
+      "lastSeason": 2,
       "qualityDrop": 4.1
     },
     {
@@ -353,6 +353,14 @@
       "season1Rating": 5.6,
       "lastSeasonRating": 1.5,
       "lastSeason": 2,
+      "qualityDrop": 4.1
+    },
+    {
+      "seriesTconst": "tt0344743",
+      "seriesTitle": "V.I.P.-Schaukel",
+      "season1Rating": 7.0,
+      "lastSeasonRating": 2.9,
+      "lastSeason": 7,
       "qualityDrop": 4.1
     },
     {
@@ -394,14 +402,6 @@
       "lastSeasonRating": 1.0,
       "lastSeason": 10,
       "qualityDrop": 3.8
-    },
-    {
-      "seriesTconst": "tt0126179",
-      "seriesTitle": "Women: Stories of Passion",
-      "season1Rating": 6.35,
-      "lastSeasonRating": 2.6,
-      "lastSeason": 3,
-      "qualityDrop": 3.75
     }
   ]
 }

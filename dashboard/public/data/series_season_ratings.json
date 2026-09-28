@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-21T12:29:56+00:00",
-  "snapshotDate": "2026-09-21",
+  "generatedAt": "2026-09-28T13:28:13+00:00",
+  "snapshotDate": "2026-09-28",
   "rows": 447,
   "data": [
     {
@@ -8,7 +8,7 @@
       "seriesTitle": "Game of Thrones",
       "seasonNumber": 1,
       "avgRating": 8.98,
-      "totalVotes": 640018.0,
+      "totalVotes": 641510.0,
       "episodeCount": 10
     },
     {
@@ -16,7 +16,7 @@
       "seriesTitle": "Game of Thrones",
       "seasonNumber": 2,
       "avgRating": 8.8,
-      "totalVotes": 528662.0,
+      "totalVotes": 529802.0,
       "episodeCount": 10
     },
     {
@@ -24,7 +24,7 @@
       "seriesTitle": "Game of Thrones",
       "seasonNumber": 3,
       "avgRating": 8.93,
-      "totalVotes": 633719.0,
+      "totalVotes": 634895.0,
       "episodeCount": 10
     },
     {
@@ -32,7 +32,7 @@
       "seriesTitle": "Game of Thrones",
       "seasonNumber": 4,
       "avgRating": 9.25,
-      "totalVotes": 693853.0,
+      "totalVotes": 695163.0,
       "episodeCount": 10
     },
     {
@@ -40,7 +40,7 @@
       "seriesTitle": "Game of Thrones",
       "seasonNumber": 5,
       "avgRating": 8.7,
-      "totalVotes": 605105.0,
+      "totalVotes": 606242.0,
       "episodeCount": 10
     },
     {
@@ -48,7 +48,7 @@
       "seriesTitle": "Game of Thrones",
       "seasonNumber": 6,
       "avgRating": 8.98,
-      "totalVotes": 1054860.0,
+      "totalVotes": 1056389.0,
       "episodeCount": 10
     },
     {
@@ -56,7 +56,7 @@
       "seriesTitle": "Game of Thrones",
       "seasonNumber": 7,
       "avgRating": 9.0,
-      "totalVotes": 570812.0,
+      "totalVotes": 571573.0,
       "episodeCount": 7
     },
     {
@@ -64,7 +64,7 @@
       "seriesTitle": "Game of Thrones",
       "seasonNumber": 8,
       "avgRating": 6.4,
-      "totalVotes": 1314657.0,
+      "totalVotes": 1315714.0,
       "episodeCount": 6
     },
     {
@@ -72,7 +72,7 @@
       "seriesTitle": "Breaking Bad",
       "seasonNumber": 1,
       "avgRating": 8.7,
-      "totalVotes": 454772.0,
+      "totalVotes": 456259.0,
       "episodeCount": 7
     },
     {
@@ -80,7 +80,7 @@
       "seriesTitle": "Breaking Bad",
       "seasonNumber": 2,
       "avgRating": 8.792,
-      "totalVotes": 701297.0,
+      "totalVotes": 703682.0,
       "episodeCount": 13
     },
     {
@@ -88,7 +88,7 @@
       "seriesTitle": "Breaking Bad",
       "seasonNumber": 3,
       "avgRating": 8.715,
-      "totalVotes": 738119.0,
+      "totalVotes": 740393.0,
       "episodeCount": 13
     },
     {
@@ -96,7 +96,7 @@
       "seriesTitle": "Breaking Bad",
       "seasonNumber": 4,
       "avgRating": 8.954,
-      "totalVotes": 833405.0,
+      "totalVotes": 835733.0,
       "episodeCount": 13
     },
     {
@@ -104,23 +104,23 @@
       "seriesTitle": "Breaking Bad",
       "seasonNumber": 5,
       "avgRating": 9.325,
-      "totalVotes": 1895698.0,
+      "totalVotes": 1899278.0,
       "episodeCount": 16
     },
     {
       "seriesTconst": "tt0388629",
       "seriesTitle": "One Piece",
       "seasonNumber": 1,
-      "avgRating": 8.117,
-      "totalVotes": 4507289.0,
-      "episodeCount": 1178
+      "avgRating": 8.12,
+      "totalVotes": 4533848.0,
+      "episodeCount": 1179
     },
     {
       "seriesTconst": "tt2560140",
       "seriesTitle": "Attack on Titan",
       "seasonNumber": 1,
       "avgRating": 8.82,
-      "totalVotes": 928238.0,
+      "totalVotes": 932883.0,
       "episodeCount": 25
     },
     {
@@ -128,7 +128,7 @@
       "seriesTitle": "Attack on Titan",
       "seasonNumber": 2,
       "avgRating": 9.1,
-      "totalVotes": 472829.0,
+      "totalVotes": 474907.0,
       "episodeCount": 12
     },
     {
@@ -136,7 +136,7 @@
       "seriesTitle": "Attack on Titan",
       "seasonNumber": 3,
       "avgRating": 9.3,
-      "totalVotes": 1161838.0,
+      "totalVotes": 1165948.0,
       "episodeCount": 22
     },
     {
@@ -144,7 +144,7 @@
       "seriesTitle": "Attack on Titan",
       "seasonNumber": 4,
       "avgRating": 9.237,
-      "totalVotes": 1879285.0,
+      "totalVotes": 1884812.0,
       "episodeCount": 30
     },
     {
@@ -152,7 +152,7 @@
       "seriesTitle": "The Walking Dead",
       "seasonNumber": 1,
       "avgRating": 8.55,
-      "totalVotes": 155197.0,
+      "totalVotes": 155738.0,
       "episodeCount": 6
     },
     {
@@ -160,7 +160,7 @@
       "seriesTitle": "The Walking Dead",
       "seasonNumber": 2,
       "avgRating": 8.392,
-      "totalVotes": 256568.0,
+      "totalVotes": 257479.0,
       "episodeCount": 13
     },
     {
@@ -168,7 +168,7 @@
       "seriesTitle": "The Walking Dead",
       "seasonNumber": 3,
       "avgRating": 8.356,
-      "totalVotes": 279227.0,
+      "totalVotes": 279934.0,
       "episodeCount": 16
     },
     {
@@ -176,7 +176,7 @@
       "seriesTitle": "The Walking Dead",
       "seasonNumber": 4,
       "avgRating": 8.256,
-      "totalVotes": 296724.0,
+      "totalVotes": 297432.0,
       "episodeCount": 16
     },
     {
@@ -184,7 +184,7 @@
       "seriesTitle": "The Walking Dead",
       "seasonNumber": 5,
       "avgRating": 8.381,
-      "totalVotes": 296231.0,
+      "totalVotes": 296914.0,
       "episodeCount": 16
     },
     {
@@ -192,7 +192,7 @@
       "seriesTitle": "The Walking Dead",
       "seasonNumber": 6,
       "avgRating": 8.313,
-      "totalVotes": 316195.0,
+      "totalVotes": 316776.0,
       "episodeCount": 16
     },
     {
@@ -200,7 +200,7 @@
       "seriesTitle": "The Walking Dead",
       "seasonNumber": 7,
       "avgRating": 7.487,
-      "totalVotes": 283656.0,
+      "totalVotes": 284138.0,
       "episodeCount": 16
     },
     {
@@ -208,7 +208,7 @@
       "seriesTitle": "The Walking Dead",
       "seasonNumber": 8,
       "avgRating": 7.137,
-      "totalVotes": 208760.0,
+      "totalVotes": 209200.0,
       "episodeCount": 16
     },
     {
@@ -216,7 +216,7 @@
       "seriesTitle": "The Walking Dead",
       "seasonNumber": 9,
       "avgRating": 8.0,
-      "totalVotes": 196731.0,
+      "totalVotes": 197121.0,
       "episodeCount": 16
     },
     {
@@ -224,7 +224,7 @@
       "seriesTitle": "The Walking Dead",
       "seasonNumber": 10,
       "avgRating": 7.382,
-      "totalVotes": 234875.0,
+      "totalVotes": 235336.0,
       "episodeCount": 22
     },
     {
@@ -232,7 +232,7 @@
       "seriesTitle": "The Walking Dead",
       "seasonNumber": 11,
       "avgRating": 7.725,
-      "totalVotes": 221479.0,
+      "totalVotes": 221961.0,
       "episodeCount": 24
     },
     {
@@ -240,15 +240,15 @@
       "seriesTitle": "Stranger Things",
       "seasonNumber": 1,
       "avgRating": 8.8,
-      "totalVotes": 406650.0,
+      "totalVotes": 407157.0,
       "episodeCount": 8
     },
     {
       "seriesTconst": "tt4574334",
       "seriesTitle": "Stranger Things",
       "seasonNumber": 2,
-      "avgRating": 8.4,
-      "totalVotes": 421672.0,
+      "avgRating": 8.389,
+      "totalVotes": 422183.0,
       "episodeCount": 9
     },
     {
@@ -256,7 +256,7 @@
       "seriesTitle": "Stranger Things",
       "seasonNumber": 3,
       "avgRating": 8.475,
-      "totalVotes": 364861.0,
+      "totalVotes": 365325.0,
       "episodeCount": 8
     },
     {
@@ -264,7 +264,7 @@
       "seriesTitle": "Stranger Things",
       "seasonNumber": 4,
       "avgRating": 8.678,
-      "totalVotes": 495689.0,
+      "totalVotes": 496273.0,
       "episodeCount": 9
     },
     {
@@ -272,143 +272,23 @@
       "seriesTitle": "Stranger Things",
       "seasonNumber": 5,
       "avgRating": 7.812,
-      "totalVotes": 926835.0,
+      "totalVotes": 927334.0,
       "episodeCount": 8
-    },
-    {
-      "seriesTconst": "tt0460681",
-      "seriesTitle": "Supernatural",
-      "seasonNumber": 1,
-      "avgRating": 8.223,
-      "totalVotes": 214743.0,
-      "episodeCount": 22
-    },
-    {
-      "seriesTconst": "tt0460681",
-      "seriesTitle": "Supernatural",
-      "seasonNumber": 2,
-      "avgRating": 8.591,
-      "totalVotes": 183552.0,
-      "episodeCount": 22
-    },
-    {
-      "seriesTconst": "tt0460681",
-      "seriesTitle": "Supernatural",
-      "seasonNumber": 3,
-      "avgRating": 8.487,
-      "totalVotes": 127575.0,
-      "episodeCount": 16
-    },
-    {
-      "seriesTconst": "tt0460681",
-      "seriesTitle": "Supernatural",
-      "seasonNumber": 4,
-      "avgRating": 8.618,
-      "totalVotes": 162921.0,
-      "episodeCount": 22
-    },
-    {
-      "seriesTconst": "tt0460681",
-      "seriesTitle": "Supernatural",
-      "seasonNumber": 5,
-      "avgRating": 8.755,
-      "totalVotes": 159384.0,
-      "episodeCount": 22
-    },
-    {
-      "seriesTconst": "tt0460681",
-      "seriesTitle": "Supernatural",
-      "seasonNumber": 6,
-      "avgRating": 8.373,
-      "totalVotes": 124324.0,
-      "episodeCount": 22
-    },
-    {
-      "seriesTconst": "tt0460681",
-      "seriesTitle": "Supernatural",
-      "seasonNumber": 7,
-      "avgRating": 8.326,
-      "totalVotes": 114839.0,
-      "episodeCount": 23
-    },
-    {
-      "seriesTconst": "tt0460681",
-      "seriesTitle": "Supernatural",
-      "seasonNumber": 8,
-      "avgRating": 8.209,
-      "totalVotes": 114716.0,
-      "episodeCount": 23
-    },
-    {
-      "seriesTconst": "tt0460681",
-      "seriesTitle": "Supernatural",
-      "seasonNumber": 9,
-      "avgRating": 8.13,
-      "totalVotes": 110478.0,
-      "episodeCount": 23
-    },
-    {
-      "seriesTconst": "tt0460681",
-      "seriesTitle": "Supernatural",
-      "seasonNumber": 10,
-      "avgRating": 8.17,
-      "totalVotes": 109666.0,
-      "episodeCount": 23
-    },
-    {
-      "seriesTconst": "tt0460681",
-      "seriesTitle": "Supernatural",
-      "seasonNumber": 11,
-      "avgRating": 8.5,
-      "totalVotes": 106055.0,
-      "episodeCount": 23
-    },
-    {
-      "seriesTconst": "tt0460681",
-      "seriesTitle": "Supernatural",
-      "seasonNumber": 12,
-      "avgRating": 8.057,
-      "totalVotes": 84816.0,
-      "episodeCount": 23
-    },
-    {
-      "seriesTconst": "tt0460681",
-      "seriesTitle": "Supernatural",
-      "seasonNumber": 13,
-      "avgRating": 8.343,
-      "totalVotes": 90457.0,
-      "episodeCount": 23
-    },
-    {
-      "seriesTconst": "tt0460681",
-      "seriesTitle": "Supernatural",
-      "seasonNumber": 14,
-      "avgRating": 8.16,
-      "totalVotes": 65967.0,
-      "episodeCount": 20
-    },
-    {
-      "seriesTconst": "tt0460681",
-      "seriesTitle": "Supernatural",
-      "seasonNumber": 15,
-      "avgRating": 8.0,
-      "totalVotes": 115387.0,
-      "episodeCount": 20
     },
     {
       "seriesTconst": "tt5607616",
       "seriesTitle": "Re: Zero - Starting Life in Another World",
       "seasonNumber": 1,
-      "avgRating": 8.52,
-      "totalVotes": 424715.0,
+      "avgRating": 8.524,
+      "totalVotes": 438330.0,
       "episodeCount": 25
     },
     {
       "seriesTconst": "tt5607616",
       "seriesTitle": "Re: Zero - Starting Life in Another World",
       "seasonNumber": 2,
-      "avgRating": 8.952,
-      "totalVotes": 401748.0,
+      "avgRating": 8.948,
+      "totalVotes": 413714.0,
       "episodeCount": 25
     },
     {
@@ -416,23 +296,143 @@
       "seriesTitle": "Re: Zero - Starting Life in Another World",
       "seasonNumber": 3,
       "avgRating": 8.975,
-      "totalVotes": 260414.0,
+      "totalVotes": 268151.0,
       "episodeCount": 16
     },
     {
       "seriesTconst": "tt5607616",
       "seriesTitle": "Re: Zero - Starting Life in Another World",
       "seasonNumber": 4,
-      "avgRating": 9.253,
-      "totalVotes": 776353.0,
-      "episodeCount": 17
+      "avgRating": 9.267,
+      "totalVotes": 824109.0,
+      "episodeCount": 18
+    },
+    {
+      "seriesTconst": "tt0460681",
+      "seriesTitle": "Supernatural",
+      "seasonNumber": 1,
+      "avgRating": 8.223,
+      "totalVotes": 215467.0,
+      "episodeCount": 22
+    },
+    {
+      "seriesTconst": "tt0460681",
+      "seriesTitle": "Supernatural",
+      "seasonNumber": 2,
+      "avgRating": 8.591,
+      "totalVotes": 184099.0,
+      "episodeCount": 22
+    },
+    {
+      "seriesTconst": "tt0460681",
+      "seriesTitle": "Supernatural",
+      "seasonNumber": 3,
+      "avgRating": 8.487,
+      "totalVotes": 127891.0,
+      "episodeCount": 16
+    },
+    {
+      "seriesTconst": "tt0460681",
+      "seriesTitle": "Supernatural",
+      "seasonNumber": 4,
+      "avgRating": 8.618,
+      "totalVotes": 163315.0,
+      "episodeCount": 22
+    },
+    {
+      "seriesTconst": "tt0460681",
+      "seriesTitle": "Supernatural",
+      "seasonNumber": 5,
+      "avgRating": 8.755,
+      "totalVotes": 159760.0,
+      "episodeCount": 22
+    },
+    {
+      "seriesTconst": "tt0460681",
+      "seriesTitle": "Supernatural",
+      "seasonNumber": 6,
+      "avgRating": 8.373,
+      "totalVotes": 124587.0,
+      "episodeCount": 22
+    },
+    {
+      "seriesTconst": "tt0460681",
+      "seriesTitle": "Supernatural",
+      "seasonNumber": 7,
+      "avgRating": 8.326,
+      "totalVotes": 115056.0,
+      "episodeCount": 23
+    },
+    {
+      "seriesTconst": "tt0460681",
+      "seriesTitle": "Supernatural",
+      "seasonNumber": 8,
+      "avgRating": 8.209,
+      "totalVotes": 115019.0,
+      "episodeCount": 23
+    },
+    {
+      "seriesTconst": "tt0460681",
+      "seriesTitle": "Supernatural",
+      "seasonNumber": 9,
+      "avgRating": 8.13,
+      "totalVotes": 110715.0,
+      "episodeCount": 23
+    },
+    {
+      "seriesTconst": "tt0460681",
+      "seriesTitle": "Supernatural",
+      "seasonNumber": 10,
+      "avgRating": 8.17,
+      "totalVotes": 109881.0,
+      "episodeCount": 23
+    },
+    {
+      "seriesTconst": "tt0460681",
+      "seriesTitle": "Supernatural",
+      "seasonNumber": 11,
+      "avgRating": 8.5,
+      "totalVotes": 106232.0,
+      "episodeCount": 23
+    },
+    {
+      "seriesTconst": "tt0460681",
+      "seriesTitle": "Supernatural",
+      "seasonNumber": 12,
+      "avgRating": 8.057,
+      "totalVotes": 84957.0,
+      "episodeCount": 23
+    },
+    {
+      "seriesTconst": "tt0460681",
+      "seriesTitle": "Supernatural",
+      "seasonNumber": 13,
+      "avgRating": 8.343,
+      "totalVotes": 90565.0,
+      "episodeCount": 23
+    },
+    {
+      "seriesTconst": "tt0460681",
+      "seriesTitle": "Supernatural",
+      "seasonNumber": 14,
+      "avgRating": 8.16,
+      "totalVotes": 66062.0,
+      "episodeCount": 20
+    },
+    {
+      "seriesTconst": "tt0460681",
+      "seriesTitle": "Supernatural",
+      "seasonNumber": 15,
+      "avgRating": 8.005,
+      "totalVotes": 115506.0,
+      "episodeCount": 20
     },
     {
       "seriesTconst": "tt0096697",
       "seriesTitle": "The Simpsons",
       "seasonNumber": 1,
       "avgRating": 7.677,
-      "totalVotes": 84633.0,
+      "totalVotes": 84821.0,
       "episodeCount": 13
     },
     {
@@ -440,7 +440,7 @@
       "seriesTitle": "The Simpsons",
       "seasonNumber": 2,
       "avgRating": 7.977,
-      "totalVotes": 112235.0,
+      "totalVotes": 112381.0,
       "episodeCount": 22
     },
     {
@@ -448,7 +448,7 @@
       "seriesTitle": "The Simpsons",
       "seasonNumber": 3,
       "avgRating": 8.133,
-      "totalVotes": 109369.0,
+      "totalVotes": 109530.0,
       "episodeCount": 24
     },
     {
@@ -456,7 +456,7 @@
       "seriesTitle": "The Simpsons",
       "seasonNumber": 4,
       "avgRating": 8.25,
-      "totalVotes": 100039.0,
+      "totalVotes": 100223.0,
       "episodeCount": 22
     },
     {
@@ -464,7 +464,7 @@
       "seriesTitle": "The Simpsons",
       "seasonNumber": 5,
       "avgRating": 8.336,
-      "totalVotes": 94878.0,
+      "totalVotes": 95030.0,
       "episodeCount": 22
     },
     {
@@ -472,7 +472,7 @@
       "seriesTitle": "The Simpsons",
       "seasonNumber": 6,
       "avgRating": 8.348,
-      "totalVotes": 104942.0,
+      "totalVotes": 105117.0,
       "episodeCount": 25
     },
     {
@@ -480,15 +480,15 @@
       "seriesTitle": "The Simpsons",
       "seasonNumber": 7,
       "avgRating": 8.356,
-      "totalVotes": 98726.0,
+      "totalVotes": 98851.0,
       "episodeCount": 25
     },
     {
       "seriesTconst": "tt0096697",
       "seriesTitle": "The Simpsons",
       "seasonNumber": 8,
-      "avgRating": 8.216,
-      "totalVotes": 100643.0,
+      "avgRating": 8.212,
+      "totalVotes": 100830.0,
       "episodeCount": 25
     },
     {
@@ -496,7 +496,7 @@
       "seriesTitle": "The Simpsons",
       "seasonNumber": 9,
       "avgRating": 7.788,
-      "totalVotes": 79919.0,
+      "totalVotes": 80059.0,
       "episodeCount": 25
     },
     {
@@ -504,31 +504,31 @@
       "seriesTitle": "The Simpsons",
       "seasonNumber": 10,
       "avgRating": 7.543,
-      "totalVotes": 63278.0,
+      "totalVotes": 63342.0,
       "episodeCount": 23
     },
     {
       "seriesTconst": "tt0096697",
       "seriesTitle": "The Simpsons",
       "seasonNumber": 11,
-      "avgRating": 7.268,
-      "totalVotes": 54438.0,
+      "avgRating": 7.264,
+      "totalVotes": 54541.0,
       "episodeCount": 22
     },
     {
       "seriesTconst": "tt0096697",
       "seriesTitle": "The Simpsons",
       "seasonNumber": 12,
-      "avgRating": 7.286,
-      "totalVotes": 50929.0,
+      "avgRating": 7.281,
+      "totalVotes": 51016.0,
       "episodeCount": 21
     },
     {
       "seriesTconst": "tt0096697",
       "seriesTitle": "The Simpsons",
       "seasonNumber": 13,
-      "avgRating": 7.055,
-      "totalVotes": 47092.0,
+      "avgRating": 7.05,
+      "totalVotes": 47188.0,
       "episodeCount": 22
     },
     {
@@ -536,7 +536,7 @@
       "seriesTitle": "The Simpsons",
       "seasonNumber": 14,
       "avgRating": 7.023,
-      "totalVotes": 44109.0,
+      "totalVotes": 44206.0,
       "episodeCount": 22
     },
     {
@@ -544,7 +544,7 @@
       "seriesTitle": "The Simpsons",
       "seasonNumber": 15,
       "avgRating": 6.973,
-      "totalVotes": 42455.0,
+      "totalVotes": 42537.0,
       "episodeCount": 22
     },
     {
@@ -552,7 +552,7 @@
       "seriesTitle": "The Simpsons",
       "seasonNumber": 16,
       "avgRating": 6.929,
-      "totalVotes": 38666.0,
+      "totalVotes": 38779.0,
       "episodeCount": 21
     },
     {
@@ -560,7 +560,7 @@
       "seriesTitle": "The Simpsons",
       "seasonNumber": 17,
       "avgRating": 6.8,
-      "totalVotes": 40125.0,
+      "totalVotes": 40210.0,
       "episodeCount": 22
     },
     {
@@ -568,7 +568,7 @@
       "seriesTitle": "The Simpsons",
       "seasonNumber": 18,
       "avgRating": 6.855,
-      "totalVotes": 41641.0,
+      "totalVotes": 41729.0,
       "episodeCount": 22
     },
     {
@@ -576,7 +576,7 @@
       "seriesTitle": "The Simpsons",
       "seasonNumber": 19,
       "avgRating": 6.85,
-      "totalVotes": 37047.0,
+      "totalVotes": 37114.0,
       "episodeCount": 20
     },
     {
@@ -584,7 +584,7 @@
       "seriesTitle": "The Simpsons",
       "seasonNumber": 20,
       "avgRating": 6.838,
-      "totalVotes": 36593.0,
+      "totalVotes": 36653.0,
       "episodeCount": 21
     },
     {
@@ -592,7 +592,7 @@
       "seriesTitle": "The Simpsons",
       "seasonNumber": 21,
       "avgRating": 6.748,
-      "totalVotes": 36659.0,
+      "totalVotes": 36749.0,
       "episodeCount": 23
     },
     {
@@ -600,7 +600,7 @@
       "seriesTitle": "The Simpsons",
       "seasonNumber": 22,
       "avgRating": 6.7,
-      "totalVotes": 33726.0,
+      "totalVotes": 33799.0,
       "episodeCount": 22
     },
     {
@@ -608,7 +608,7 @@
       "seriesTitle": "The Simpsons",
       "seasonNumber": 23,
       "avgRating": 6.714,
-      "totalVotes": 37714.0,
+      "totalVotes": 37769.0,
       "episodeCount": 22
     },
     {
@@ -616,7 +616,7 @@
       "seriesTitle": "The Simpsons",
       "seasonNumber": 24,
       "avgRating": 6.673,
-      "totalVotes": 30598.0,
+      "totalVotes": 30638.0,
       "episodeCount": 22
     },
     {
@@ -624,7 +624,7 @@
       "seriesTitle": "The Simpsons",
       "seasonNumber": 25,
       "avgRating": 6.7,
-      "totalVotes": 32795.0,
+      "totalVotes": 32804.0,
       "episodeCount": 22
     },
     {
@@ -632,7 +632,7 @@
       "seriesTitle": "The Simpsons",
       "seasonNumber": 26,
       "avgRating": 6.555,
-      "totalVotes": 31545.0,
+      "totalVotes": 31559.0,
       "episodeCount": 22
     },
     {
@@ -640,15 +640,15 @@
       "seriesTitle": "The Simpsons",
       "seasonNumber": 27,
       "avgRating": 6.627,
-      "totalVotes": 30276.0,
+      "totalVotes": 30288.0,
       "episodeCount": 22
     },
     {
       "seriesTconst": "tt0096697",
       "seriesTitle": "The Simpsons",
       "seasonNumber": 28,
-      "avgRating": 6.423,
-      "totalVotes": 24803.0,
+      "avgRating": 6.427,
+      "totalVotes": 24814.0,
       "episodeCount": 22
     },
     {
@@ -656,7 +656,7 @@
       "seriesTitle": "The Simpsons",
       "seasonNumber": 29,
       "avgRating": 6.629,
-      "totalVotes": 25811.0,
+      "totalVotes": 25820.0,
       "episodeCount": 21
     },
     {
@@ -664,15 +664,15 @@
       "seriesTitle": "The Simpsons",
       "seasonNumber": 30,
       "avgRating": 6.243,
-      "totalVotes": 27855.0,
+      "totalVotes": 27866.0,
       "episodeCount": 23
     },
     {
       "seriesTconst": "tt0096697",
       "seriesTitle": "The Simpsons",
       "seasonNumber": 31,
-      "avgRating": 6.486,
-      "totalVotes": 25277.0,
+      "avgRating": 6.482,
+      "totalVotes": 25302.0,
       "episodeCount": 22
     },
     {
@@ -680,15 +680,15 @@
       "seriesTitle": "The Simpsons",
       "seasonNumber": 32,
       "avgRating": 6.459,
-      "totalVotes": 24169.0,
+      "totalVotes": 24188.0,
       "episodeCount": 22
     },
     {
       "seriesTconst": "tt0096697",
       "seriesTitle": "The Simpsons",
       "seasonNumber": 33,
-      "avgRating": 6.6,
-      "totalVotes": 25174.0,
+      "avgRating": 6.595,
+      "totalVotes": 25195.0,
       "episodeCount": 22
     },
     {
@@ -696,7 +696,7 @@
       "seriesTitle": "The Simpsons",
       "seasonNumber": 34,
       "avgRating": 6.477,
-      "totalVotes": 22328.0,
+      "totalVotes": 22373.0,
       "episodeCount": 22
     },
     {
@@ -704,7 +704,7 @@
       "seriesTitle": "The Simpsons",
       "seasonNumber": 35,
       "avgRating": 6.578,
-      "totalVotes": 14802.0,
+      "totalVotes": 14843.0,
       "episodeCount": 18
     },
     {
@@ -712,15 +712,15 @@
       "seriesTitle": "The Simpsons",
       "seasonNumber": 36,
       "avgRating": 6.567,
-      "totalVotes": 15695.0,
+      "totalVotes": 15785.0,
       "episodeCount": 21
     },
     {
       "seriesTconst": "tt0096697",
       "seriesTitle": "The Simpsons",
       "seasonNumber": 37,
-      "avgRating": 6.828,
-      "totalVotes": 9572.0,
+      "avgRating": 6.833,
+      "totalVotes": 9727.0,
       "episodeCount": 18
     },
     {
@@ -728,7 +728,7 @@
       "seriesTitle": "Better Call Saul",
       "seasonNumber": 1,
       "avgRating": 8.68,
-      "totalVotes": 304626.0,
+      "totalVotes": 305917.0,
       "episodeCount": 10
     },
     {
@@ -736,7 +736,7 @@
       "seriesTitle": "Better Call Saul",
       "seasonNumber": 2,
       "avgRating": 8.5,
-      "totalVotes": 224117.0,
+      "totalVotes": 225101.0,
       "episodeCount": 10
     },
     {
@@ -744,7 +744,7 @@
       "seriesTitle": "Better Call Saul",
       "seasonNumber": 3,
       "avgRating": 8.72,
-      "totalVotes": 237263.0,
+      "totalVotes": 238263.0,
       "episodeCount": 10
     },
     {
@@ -752,7 +752,7 @@
       "seriesTitle": "Better Call Saul",
       "seasonNumber": 4,
       "avgRating": 8.63,
-      "totalVotes": 212561.0,
+      "totalVotes": 213453.0,
       "episodeCount": 10
     },
     {
@@ -760,7 +760,7 @@
       "seriesTitle": "Better Call Saul",
       "seasonNumber": 5,
       "avgRating": 9.06,
-      "totalVotes": 268509.0,
+      "totalVotes": 269437.0,
       "episodeCount": 10
     },
     {
@@ -768,7 +768,7 @@
       "seriesTitle": "Better Call Saul",
       "seasonNumber": 6,
       "avgRating": 9.1,
-      "totalVotes": 571298.0,
+      "totalVotes": 572977.0,
       "episodeCount": 13
     },
     {
@@ -776,7 +776,7 @@
       "seriesTitle": "Black Mirror",
       "seasonNumber": 1,
       "avgRating": 8.033,
-      "totalVotes": 223413.0,
+      "totalVotes": 223632.0,
       "episodeCount": 3
     },
     {
@@ -784,7 +784,7 @@
       "seriesTitle": "Black Mirror",
       "seasonNumber": 2,
       "avgRating": 7.85,
-      "totalVotes": 257829.0,
+      "totalVotes": 258083.0,
       "episodeCount": 4
     },
     {
@@ -792,7 +792,7 @@
       "seriesTitle": "Black Mirror",
       "seasonNumber": 3,
       "avgRating": 8.183,
-      "totalVotes": 386451.0,
+      "totalVotes": 386856.0,
       "episodeCount": 6
     },
     {
@@ -800,7 +800,7 @@
       "seriesTitle": "Black Mirror",
       "seasonNumber": 4,
       "avgRating": 7.8,
-      "totalVotes": 352331.0,
+      "totalVotes": 352638.0,
       "episodeCount": 6
     },
     {
@@ -808,7 +808,7 @@
       "seriesTitle": "Black Mirror",
       "seasonNumber": 5,
       "avgRating": 6.8,
-      "totalVotes": 149673.0,
+      "totalVotes": 149818.0,
       "episodeCount": 3
     },
     {
@@ -816,7 +816,7 @@
       "seriesTitle": "Black Mirror",
       "seasonNumber": 6,
       "avgRating": 6.82,
-      "totalVotes": 193884.0,
+      "totalVotes": 194081.0,
       "episodeCount": 5
     },
     {
@@ -824,7 +824,7 @@
       "seriesTitle": "Black Mirror",
       "seasonNumber": 7,
       "avgRating": 7.533,
-      "totalVotes": 193005.0,
+      "totalVotes": 193325.0,
       "episodeCount": 6
     },
     {
@@ -832,7 +832,7 @@
       "seriesTitle": "Friends",
       "seasonNumber": 1,
       "avgRating": 8.125,
-      "totalVotes": 193110.0,
+      "totalVotes": 193474.0,
       "episodeCount": 24
     },
     {
@@ -840,7 +840,7 @@
       "seriesTitle": "Friends",
       "seasonNumber": 2,
       "avgRating": 8.279,
-      "totalVotes": 166558.0,
+      "totalVotes": 166863.0,
       "episodeCount": 24
     },
     {
@@ -848,7 +848,7 @@
       "seriesTitle": "Friends",
       "seasonNumber": 3,
       "avgRating": 8.236,
-      "totalVotes": 159745.0,
+      "totalVotes": 160099.0,
       "episodeCount": 25
     },
     {
@@ -856,7 +856,7 @@
       "seriesTitle": "Friends",
       "seasonNumber": 4,
       "avgRating": 8.317,
-      "totalVotes": 151031.0,
+      "totalVotes": 151350.0,
       "episodeCount": 24
     },
     {
@@ -864,15 +864,15 @@
       "seriesTitle": "Friends",
       "seasonNumber": 5,
       "avgRating": 8.467,
-      "totalVotes": 154582.0,
+      "totalVotes": 154947.0,
       "episodeCount": 24
     },
     {
       "seriesTconst": "tt0108778",
       "seriesTitle": "Friends",
       "seasonNumber": 6,
-      "avgRating": 8.32,
-      "totalVotes": 145311.0,
+      "avgRating": 8.324,
+      "totalVotes": 145673.0,
       "episodeCount": 25
     },
     {
@@ -880,7 +880,7 @@
       "seriesTitle": "Friends",
       "seasonNumber": 7,
       "avgRating": 8.242,
-      "totalVotes": 130653.0,
+      "totalVotes": 130967.0,
       "episodeCount": 24
     },
     {
@@ -888,7 +888,7 @@
       "seriesTitle": "Friends",
       "seasonNumber": 8,
       "avgRating": 8.279,
-      "totalVotes": 131936.0,
+      "totalVotes": 132230.0,
       "episodeCount": 24
     },
     {
@@ -896,7 +896,7 @@
       "seriesTitle": "Friends",
       "seasonNumber": 9,
       "avgRating": 8.104,
-      "totalVotes": 117233.0,
+      "totalVotes": 117463.0,
       "episodeCount": 23
     },
     {
@@ -904,7 +904,7 @@
       "seriesTitle": "Friends",
       "seasonNumber": 10,
       "avgRating": 8.476,
-      "totalVotes": 107246.0,
+      "totalVotes": 107502.0,
       "episodeCount": 17
     },
     {
@@ -912,7 +912,7 @@
       "seriesTitle": "The Boys",
       "seasonNumber": 1,
       "avgRating": 8.55,
-      "totalVotes": 253613.0,
+      "totalVotes": 253969.0,
       "episodeCount": 8
     },
     {
@@ -920,7 +920,7 @@
       "seriesTitle": "The Boys",
       "seasonNumber": 2,
       "avgRating": 8.538,
-      "totalVotes": 225513.0,
+      "totalVotes": 225791.0,
       "episodeCount": 8
     },
     {
@@ -928,7 +928,7 @@
       "seriesTitle": "The Boys",
       "seasonNumber": 3,
       "avgRating": 8.625,
-      "totalVotes": 259999.0,
+      "totalVotes": 260307.0,
       "episodeCount": 8
     },
     {
@@ -936,7 +936,7 @@
       "seriesTitle": "The Boys",
       "seasonNumber": 4,
       "avgRating": 7.875,
-      "totalVotes": 257276.0,
+      "totalVotes": 257568.0,
       "episodeCount": 8
     },
     {
@@ -944,7 +944,7 @@
       "seriesTitle": "The Boys",
       "seasonNumber": 5,
       "avgRating": 7.325,
-      "totalVotes": 450705.0,
+      "totalVotes": 451290.0,
       "episodeCount": 8
     },
     {
@@ -952,7 +952,7 @@
       "seriesTitle": "The Office",
       "seasonNumber": 1,
       "avgRating": 7.75,
-      "totalVotes": 70432.0,
+      "totalVotes": 70611.0,
       "episodeCount": 6
     },
     {
@@ -960,7 +960,7 @@
       "seriesTitle": "The Office",
       "seasonNumber": 2,
       "avgRating": 8.268,
-      "totalVotes": 206506.0,
+      "totalVotes": 206880.0,
       "episodeCount": 22
     },
     {
@@ -968,7 +968,7 @@
       "seriesTitle": "The Office",
       "seasonNumber": 3,
       "avgRating": 8.43,
-      "totalVotes": 194740.0,
+      "totalVotes": 195175.0,
       "episodeCount": 23
     },
     {
@@ -976,7 +976,7 @@
       "seriesTitle": "The Office",
       "seasonNumber": 4,
       "avgRating": 8.4,
-      "totalVotes": 116479.0,
+      "totalVotes": 116677.0,
       "episodeCount": 14
     },
     {
@@ -984,7 +984,7 @@
       "seriesTitle": "The Office",
       "seasonNumber": 5,
       "avgRating": 8.335,
-      "totalVotes": 198057.0,
+      "totalVotes": 198323.0,
       "episodeCount": 26
     },
     {
@@ -992,15 +992,15 @@
       "seriesTitle": "The Office",
       "seasonNumber": 6,
       "avgRating": 8.035,
-      "totalVotes": 175050.0,
+      "totalVotes": 175375.0,
       "episodeCount": 26
     },
     {
       "seriesTconst": "tt0386676",
       "seriesTitle": "The Office",
       "seasonNumber": 7,
-      "avgRating": 8.215,
-      "totalVotes": 179393.0,
+      "avgRating": 8.219,
+      "totalVotes": 179790.0,
       "episodeCount": 27
     },
     {
@@ -1008,7 +1008,7 @@
       "seriesTitle": "The Office",
       "seasonNumber": 8,
       "avgRating": 7.387,
-      "totalVotes": 132777.0,
+      "totalVotes": 133044.0,
       "episodeCount": 24
     },
     {
@@ -1016,7 +1016,7 @@
       "seriesTitle": "The Office",
       "seasonNumber": 9,
       "avgRating": 7.678,
-      "totalVotes": 154027.0,
+      "totalVotes": 154235.0,
       "episodeCount": 23
     },
     {
@@ -1024,15 +1024,15 @@
       "seriesTitle": "Rick and Morty",
       "seasonNumber": 1,
       "avgRating": 8.527,
-      "totalVotes": 235869.0,
+      "totalVotes": 236851.0,
       "episodeCount": 11
     },
     {
       "seriesTconst": "tt2861424",
       "seriesTitle": "Rick and Morty",
       "seasonNumber": 2,
-      "avgRating": 8.69,
-      "totalVotes": 203545.0,
+      "avgRating": 8.68,
+      "totalVotes": 204449.0,
       "episodeCount": 10
     },
     {
@@ -1040,15 +1040,15 @@
       "seriesTitle": "Rick and Morty",
       "seasonNumber": 3,
       "avgRating": 8.7,
-      "totalVotes": 231241.0,
+      "totalVotes": 232150.0,
       "episodeCount": 10
     },
     {
       "seriesTconst": "tt2861424",
       "seriesTitle": "Rick and Morty",
       "seasonNumber": 4,
-      "avgRating": 8.37,
-      "totalVotes": 174247.0,
+      "avgRating": 8.36,
+      "totalVotes": 175122.0,
       "episodeCount": 10
     },
     {
@@ -1056,7 +1056,7 @@
       "seriesTitle": "Rick and Morty",
       "seasonNumber": 5,
       "avgRating": 7.73,
-      "totalVotes": 157994.0,
+      "totalVotes": 158683.0,
       "episodeCount": 10
     },
     {
@@ -1064,7 +1064,7 @@
       "seriesTitle": "Rick and Morty",
       "seasonNumber": 6,
       "avgRating": 8.02,
-      "totalVotes": 112413.0,
+      "totalVotes": 113053.0,
       "episodeCount": 10
     },
     {
@@ -1072,7 +1072,7 @@
       "seriesTitle": "Rick and Morty",
       "seasonNumber": 7,
       "avgRating": 7.38,
-      "totalVotes": 123865.0,
+      "totalVotes": 124487.0,
       "episodeCount": 10
     },
     {
@@ -1080,7 +1080,7 @@
       "seriesTitle": "Rick and Morty",
       "seasonNumber": 8,
       "avgRating": 7.43,
-      "totalVotes": 81875.0,
+      "totalVotes": 82594.0,
       "episodeCount": 10
     },
     {
@@ -1088,7 +1088,7 @@
       "seriesTitle": "Rick and Morty",
       "seasonNumber": 9,
       "avgRating": 8.18,
-      "totalVotes": 75861.0,
+      "totalVotes": 77575.0,
       "episodeCount": 10
     },
     {
@@ -1096,7 +1096,7 @@
       "seriesTitle": "Doctor Who",
       "seasonNumber": 1,
       "avgRating": 7.915,
-      "totalVotes": 135627.0,
+      "totalVotes": 135765.0,
       "episodeCount": 13
     },
     {
@@ -1104,7 +1104,7 @@
       "seriesTitle": "Doctor Who",
       "seasonNumber": 2,
       "avgRating": 7.8,
-      "totalVotes": 139613.0,
+      "totalVotes": 139730.0,
       "episodeCount": 14
     },
     {
@@ -1112,7 +1112,7 @@
       "seriesTitle": "Doctor Who",
       "seasonNumber": 3,
       "avgRating": 8.014,
-      "totalVotes": 149086.0,
+      "totalVotes": 149229.0,
       "episodeCount": 14
     },
     {
@@ -1120,7 +1120,7 @@
       "seriesTitle": "Doctor Who",
       "seasonNumber": 4,
       "avgRating": 8.314,
-      "totalVotes": 135972.0,
+      "totalVotes": 136087.0,
       "episodeCount": 14
     },
     {
@@ -1128,7 +1128,7 @@
       "seriesTitle": "Doctor Who",
       "seasonNumber": 5,
       "avgRating": 8.069,
-      "totalVotes": 120191.0,
+      "totalVotes": 120258.0,
       "episodeCount": 13
     },
     {
@@ -1136,7 +1136,7 @@
       "seriesTitle": "Doctor Who",
       "seasonNumber": 6,
       "avgRating": 8.014,
-      "totalVotes": 115429.0,
+      "totalVotes": 115511.0,
       "episodeCount": 14
     },
     {
@@ -1144,7 +1144,7 @@
       "seriesTitle": "Doctor Who",
       "seasonNumber": 7,
       "avgRating": 7.673,
-      "totalVotes": 117080.0,
+      "totalVotes": 117189.0,
       "episodeCount": 15
     },
     {
@@ -1152,7 +1152,7 @@
       "seriesTitle": "Doctor Who",
       "seasonNumber": 8,
       "avgRating": 7.685,
-      "totalVotes": 103227.0,
+      "totalVotes": 103309.0,
       "episodeCount": 13
     },
     {
@@ -1160,7 +1160,7 @@
       "seriesTitle": "Doctor Who",
       "seasonNumber": 9,
       "avgRating": 7.992,
-      "totalVotes": 98229.0,
+      "totalVotes": 98335.0,
       "episodeCount": 13
     },
     {
@@ -1168,7 +1168,7 @@
       "seriesTitle": "Doctor Who",
       "seasonNumber": 10,
       "avgRating": 7.646,
-      "totalVotes": 76726.0,
+      "totalVotes": 76769.0,
       "episodeCount": 13
     },
     {
@@ -1176,7 +1176,7 @@
       "seriesTitle": "Doctor Who",
       "seasonNumber": 11,
       "avgRating": 6.264,
-      "totalVotes": 97018.0,
+      "totalVotes": 97056.0,
       "episodeCount": 11
     },
     {
@@ -1184,7 +1184,7 @@
       "seriesTitle": "Doctor Who",
       "seasonNumber": 12,
       "avgRating": 6.09,
-      "totalVotes": 63462.0,
+      "totalVotes": 63492.0,
       "episodeCount": 10
     },
     {
@@ -1192,7 +1192,7 @@
       "seriesTitle": "Doctor Who",
       "seasonNumber": 13,
       "avgRating": 6.45,
-      "totalVotes": 26746.0,
+      "totalVotes": 26768.0,
       "episodeCount": 6
     },
     {
@@ -1200,7 +1200,7 @@
       "seriesTitle": "House of the Dragon",
       "seasonNumber": 1,
       "avgRating": 8.73,
-      "totalVotes": 669644.0,
+      "totalVotes": 670201.0,
       "episodeCount": 10
     },
     {
@@ -1208,7 +1208,7 @@
       "seriesTitle": "House of the Dragon",
       "seasonNumber": 2,
       "avgRating": 7.788,
-      "totalVotes": 412070.0,
+      "totalVotes": 412514.0,
       "episodeCount": 8
     },
     {
@@ -1216,15 +1216,15 @@
       "seriesTitle": "House of the Dragon",
       "seasonNumber": 3,
       "avgRating": 8.288,
-      "totalVotes": 281732.0,
+      "totalVotes": 282943.0,
       "episodeCount": 8
     },
     {
       "seriesTconst": "tt0121955",
       "seriesTitle": "South Park",
       "seasonNumber": 1,
-      "avgRating": 7.829,
-      "totalVotes": 70425.0,
+      "avgRating": 7.821,
+      "totalVotes": 70827.0,
       "episodeCount": 14
     },
     {
@@ -1232,7 +1232,7 @@
       "seriesTitle": "South Park",
       "seasonNumber": 2,
       "avgRating": 7.694,
-      "totalVotes": 72678.0,
+      "totalVotes": 72960.0,
       "episodeCount": 18
     },
     {
@@ -1240,7 +1240,7 @@
       "seriesTitle": "South Park",
       "seasonNumber": 3,
       "avgRating": 7.871,
-      "totalVotes": 65678.0,
+      "totalVotes": 65863.0,
       "episodeCount": 17
     },
     {
@@ -1248,7 +1248,7 @@
       "seriesTitle": "South Park",
       "seasonNumber": 4,
       "avgRating": 8.041,
-      "totalVotes": 63385.0,
+      "totalVotes": 63569.0,
       "episodeCount": 17
     },
     {
@@ -1256,7 +1256,7 @@
       "seriesTitle": "South Park",
       "seasonNumber": 5,
       "avgRating": 8.35,
-      "totalVotes": 67279.0,
+      "totalVotes": 67490.0,
       "episodeCount": 14
     },
     {
@@ -1264,7 +1264,7 @@
       "seriesTitle": "South Park",
       "seasonNumber": 6,
       "avgRating": 8.376,
-      "totalVotes": 70134.0,
+      "totalVotes": 70365.0,
       "episodeCount": 17
     },
     {
@@ -1272,7 +1272,7 @@
       "seriesTitle": "South Park",
       "seasonNumber": 7,
       "avgRating": 8.32,
-      "totalVotes": 61716.0,
+      "totalVotes": 61914.0,
       "episodeCount": 15
     },
     {
@@ -1280,7 +1280,7 @@
       "seriesTitle": "South Park",
       "seasonNumber": 8,
       "avgRating": 8.593,
-      "totalVotes": 64026.0,
+      "totalVotes": 64241.0,
       "episodeCount": 14
     },
     {
@@ -1288,7 +1288,7 @@
       "seriesTitle": "South Park",
       "seasonNumber": 9,
       "avgRating": 8.343,
-      "totalVotes": 58742.0,
+      "totalVotes": 58940.0,
       "episodeCount": 14
     },
     {
@@ -1296,7 +1296,7 @@
       "seriesTitle": "South Park",
       "seasonNumber": 10,
       "avgRating": 8.243,
-      "totalVotes": 64417.0,
+      "totalVotes": 64620.0,
       "episodeCount": 14
     },
     {
@@ -1304,7 +1304,7 @@
       "seriesTitle": "South Park",
       "seasonNumber": 11,
       "avgRating": 8.529,
-      "totalVotes": 63190.0,
+      "totalVotes": 63375.0,
       "episodeCount": 14
     },
     {
@@ -1312,7 +1312,7 @@
       "seriesTitle": "South Park",
       "seasonNumber": 12,
       "avgRating": 7.936,
-      "totalVotes": 51708.0,
+      "totalVotes": 51853.0,
       "episodeCount": 14
     },
     {
@@ -1320,7 +1320,7 @@
       "seriesTitle": "South Park",
       "seasonNumber": 13,
       "avgRating": 8.086,
-      "totalVotes": 52584.0,
+      "totalVotes": 52721.0,
       "episodeCount": 14
     },
     {
@@ -1328,7 +1328,7 @@
       "seriesTitle": "South Park",
       "seasonNumber": 14,
       "avgRating": 8.121,
-      "totalVotes": 48984.0,
+      "totalVotes": 49132.0,
       "episodeCount": 14
     },
     {
@@ -1336,7 +1336,7 @@
       "seriesTitle": "South Park",
       "seasonNumber": 15,
       "avgRating": 7.679,
-      "totalVotes": 46546.0,
+      "totalVotes": 46686.0,
       "episodeCount": 14
     },
     {
@@ -1344,7 +1344,7 @@
       "seriesTitle": "South Park",
       "seasonNumber": 16,
       "avgRating": 7.536,
-      "totalVotes": 43896.0,
+      "totalVotes": 44028.0,
       "episodeCount": 14
     },
     {
@@ -1352,7 +1352,7 @@
       "seriesTitle": "South Park",
       "seasonNumber": 17,
       "avgRating": 7.96,
-      "totalVotes": 34731.0,
+      "totalVotes": 34814.0,
       "episodeCount": 10
     },
     {
@@ -1360,7 +1360,7 @@
       "seriesTitle": "South Park",
       "seasonNumber": 18,
       "avgRating": 7.88,
-      "totalVotes": 34283.0,
+      "totalVotes": 34354.0,
       "episodeCount": 10
     },
     {
@@ -1368,7 +1368,7 @@
       "seriesTitle": "South Park",
       "seasonNumber": 19,
       "avgRating": 8.04,
-      "totalVotes": 33872.0,
+      "totalVotes": 33939.0,
       "episodeCount": 10
     },
     {
@@ -1376,7 +1376,7 @@
       "seriesTitle": "South Park",
       "seasonNumber": 20,
       "avgRating": 7.51,
-      "totalVotes": 26712.0,
+      "totalVotes": 26811.0,
       "episodeCount": 10
     },
     {
@@ -1384,7 +1384,7 @@
       "seriesTitle": "South Park",
       "seasonNumber": 21,
       "avgRating": 7.38,
-      "totalVotes": 28188.0,
+      "totalVotes": 28274.0,
       "episodeCount": 10
     },
     {
@@ -1392,7 +1392,7 @@
       "seriesTitle": "South Park",
       "seasonNumber": 22,
       "avgRating": 7.58,
-      "totalVotes": 27264.0,
+      "totalVotes": 27359.0,
       "episodeCount": 10
     },
     {
@@ -1400,7 +1400,7 @@
       "seriesTitle": "South Park",
       "seasonNumber": 23,
       "avgRating": 7.64,
-      "totalVotes": 28418.0,
+      "totalVotes": 28507.0,
       "episodeCount": 10
     },
     {
@@ -1408,7 +1408,7 @@
       "seriesTitle": "South Park",
       "seasonNumber": 24,
       "avgRating": 7.9,
-      "totalVotes": 10726.0,
+      "totalVotes": 10749.0,
       "episodeCount": 2
     },
     {
@@ -1416,7 +1416,7 @@
       "seriesTitle": "South Park",
       "seasonNumber": 25,
       "avgRating": 7.3,
-      "totalVotes": 16034.0,
+      "totalVotes": 16092.0,
       "episodeCount": 6
     },
     {
@@ -1424,7 +1424,7 @@
       "seriesTitle": "South Park",
       "seasonNumber": 26,
       "avgRating": 7.667,
-      "totalVotes": 19223.0,
+      "totalVotes": 19292.0,
       "episodeCount": 6
     },
     {
@@ -1432,7 +1432,7 @@
       "seriesTitle": "South Park",
       "seasonNumber": 27,
       "avgRating": 8.02,
-      "totalVotes": 31084.0,
+      "totalVotes": 31197.0,
       "episodeCount": 5
     },
     {
@@ -1440,7 +1440,7 @@
       "seriesTitle": "South Park",
       "seasonNumber": 28,
       "avgRating": 6.94,
-      "totalVotes": 11808.0,
+      "totalVotes": 11953.0,
       "episodeCount": 5
     },
     {
@@ -1448,87 +1448,23 @@
       "seriesTitle": "South Park",
       "seasonNumber": 29,
       "avgRating": 7.6,
-      "totalVotes": 841.0,
+      "totalVotes": 1166.0,
       "episodeCount": 1
-    },
-    {
-      "seriesTconst": "tt0773262",
-      "seriesTitle": "Dexter",
-      "seasonNumber": 1,
-      "avgRating": 8.733,
-      "totalVotes": 223334.0,
-      "episodeCount": 12
-    },
-    {
-      "seriesTconst": "tt0773262",
-      "seriesTitle": "Dexter",
-      "seasonNumber": 2,
-      "avgRating": 8.767,
-      "totalVotes": 167984.0,
-      "episodeCount": 12
-    },
-    {
-      "seriesTconst": "tt0773262",
-      "seriesTitle": "Dexter",
-      "seasonNumber": 3,
-      "avgRating": 8.417,
-      "totalVotes": 138081.0,
-      "episodeCount": 12
-    },
-    {
-      "seriesTconst": "tt0773262",
-      "seriesTitle": "Dexter",
-      "seasonNumber": 4,
-      "avgRating": 8.925,
-      "totalVotes": 193076.0,
-      "episodeCount": 12
-    },
-    {
-      "seriesTconst": "tt0773262",
-      "seriesTitle": "Dexter",
-      "seasonNumber": 5,
-      "avgRating": 8.533,
-      "totalVotes": 128185.0,
-      "episodeCount": 12
-    },
-    {
-      "seriesTconst": "tt0773262",
-      "seriesTitle": "Dexter",
-      "seasonNumber": 6,
-      "avgRating": 8.15,
-      "totalVotes": 125956.0,
-      "episodeCount": 12
-    },
-    {
-      "seriesTconst": "tt0773262",
-      "seriesTitle": "Dexter",
-      "seasonNumber": 7,
-      "avgRating": 8.675,
-      "totalVotes": 137259.0,
-      "episodeCount": 12
-    },
-    {
-      "seriesTconst": "tt0773262",
-      "seriesTitle": "Dexter",
-      "seasonNumber": 8,
-      "avgRating": 7.392,
-      "totalVotes": 150589.0,
-      "episodeCount": 12
     },
     {
       "seriesTconst": "tt14986406",
       "seriesTitle": "Bleach: Thousand-Year Blood War",
       "seasonNumber": 1,
       "avgRating": 9.1,
-      "totalVotes": 305190.0,
+      "totalVotes": 307039.0,
       "episodeCount": 13
     },
     {
       "seriesTconst": "tt14986406",
       "seriesTitle": "Bleach: Thousand-Year Blood War",
       "seasonNumber": 2,
-      "avgRating": 9.062,
-      "totalVotes": 265395.0,
+      "avgRating": 9.054,
+      "totalVotes": 266883.0,
       "episodeCount": 13
     },
     {
@@ -1536,7 +1472,7 @@
       "seriesTitle": "Bleach: Thousand-Year Blood War",
       "seasonNumber": 3,
       "avgRating": 9.271,
-      "totalVotes": 326570.0,
+      "totalVotes": 328354.0,
       "episodeCount": 14
     },
     {
@@ -1544,15 +1480,79 @@
       "seriesTitle": "Bleach: Thousand-Year Blood War",
       "seasonNumber": 4,
       "avgRating": 9.125,
-      "totalVotes": 364898.0,
+      "totalVotes": 368309.0,
       "episodeCount": 8
+    },
+    {
+      "seriesTconst": "tt0773262",
+      "seriesTitle": "Dexter",
+      "seasonNumber": 1,
+      "avgRating": 8.733,
+      "totalVotes": 224234.0,
+      "episodeCount": 12
+    },
+    {
+      "seriesTconst": "tt0773262",
+      "seriesTitle": "Dexter",
+      "seasonNumber": 2,
+      "avgRating": 8.767,
+      "totalVotes": 168645.0,
+      "episodeCount": 12
+    },
+    {
+      "seriesTconst": "tt0773262",
+      "seriesTitle": "Dexter",
+      "seasonNumber": 3,
+      "avgRating": 8.417,
+      "totalVotes": 138491.0,
+      "episodeCount": 12
+    },
+    {
+      "seriesTconst": "tt0773262",
+      "seriesTitle": "Dexter",
+      "seasonNumber": 4,
+      "avgRating": 8.925,
+      "totalVotes": 193723.0,
+      "episodeCount": 12
+    },
+    {
+      "seriesTconst": "tt0773262",
+      "seriesTitle": "Dexter",
+      "seasonNumber": 5,
+      "avgRating": 8.525,
+      "totalVotes": 128550.0,
+      "episodeCount": 12
+    },
+    {
+      "seriesTconst": "tt0773262",
+      "seriesTitle": "Dexter",
+      "seasonNumber": 6,
+      "avgRating": 8.15,
+      "totalVotes": 126362.0,
+      "episodeCount": 12
+    },
+    {
+      "seriesTconst": "tt0773262",
+      "seriesTitle": "Dexter",
+      "seasonNumber": 7,
+      "avgRating": 8.675,
+      "totalVotes": 137675.0,
+      "episodeCount": 12
+    },
+    {
+      "seriesTconst": "tt0773262",
+      "seriesTitle": "Dexter",
+      "seasonNumber": 8,
+      "avgRating": 7.392,
+      "totalVotes": 150927.0,
+      "episodeCount": 12
     },
     {
       "seriesTconst": "tt3581920",
       "seriesTitle": "The Last of Us",
       "seasonNumber": 1,
       "avgRating": 8.667,
-      "totalVotes": 917826.0,
+      "totalVotes": 918120.0,
       "episodeCount": 9
     },
     {
@@ -1560,7 +1560,7 @@
       "seriesTitle": "The Last of Us",
       "seasonNumber": 2,
       "avgRating": 7.257,
-      "totalVotes": 270439.0,
+      "totalVotes": 270699.0,
       "episodeCount": 7
     },
     {
@@ -1568,7 +1568,7 @@
       "seriesTitle": "The Big Bang Theory",
       "seasonNumber": 1,
       "avgRating": 8.071,
-      "totalVotes": 102663.0,
+      "totalVotes": 102908.0,
       "episodeCount": 17
     },
     {
@@ -1576,7 +1576,7 @@
       "seriesTitle": "The Big Bang Theory",
       "seasonNumber": 2,
       "avgRating": 8.152,
-      "totalVotes": 121280.0,
+      "totalVotes": 121478.0,
       "episodeCount": 23
     },
     {
@@ -1584,7 +1584,7 @@
       "seriesTitle": "The Big Bang Theory",
       "seasonNumber": 3,
       "avgRating": 8.191,
-      "totalVotes": 112870.0,
+      "totalVotes": 113068.0,
       "episodeCount": 23
     },
     {
@@ -1592,7 +1592,7 @@
       "seriesTitle": "The Big Bang Theory",
       "seasonNumber": 4,
       "avgRating": 8.029,
-      "totalVotes": 109191.0,
+      "totalVotes": 109394.0,
       "episodeCount": 24
     },
     {
@@ -1600,7 +1600,7 @@
       "seriesTitle": "The Big Bang Theory",
       "seasonNumber": 5,
       "avgRating": 7.921,
-      "totalVotes": 105036.0,
+      "totalVotes": 105258.0,
       "episodeCount": 24
     },
     {
@@ -1608,7 +1608,7 @@
       "seriesTitle": "The Big Bang Theory",
       "seasonNumber": 6,
       "avgRating": 7.946,
-      "totalVotes": 102489.0,
+      "totalVotes": 102621.0,
       "episodeCount": 24
     },
     {
@@ -1616,7 +1616,7 @@
       "seriesTitle": "The Big Bang Theory",
       "seasonNumber": 7,
       "avgRating": 7.846,
-      "totalVotes": 99274.0,
+      "totalVotes": 99374.0,
       "episodeCount": 24
     },
     {
@@ -1624,7 +1624,7 @@
       "seriesTitle": "The Big Bang Theory",
       "seasonNumber": 8,
       "avgRating": 7.467,
-      "totalVotes": 91718.0,
+      "totalVotes": 91867.0,
       "episodeCount": 24
     },
     {
@@ -1632,7 +1632,7 @@
       "seriesTitle": "The Big Bang Theory",
       "seasonNumber": 9,
       "avgRating": 7.571,
-      "totalVotes": 88895.0,
+      "totalVotes": 89017.0,
       "episodeCount": 24
     },
     {
@@ -1640,7 +1640,7 @@
       "seriesTitle": "The Big Bang Theory",
       "seasonNumber": 10,
       "avgRating": 7.4,
-      "totalVotes": 78951.0,
+      "totalVotes": 79076.0,
       "episodeCount": 24
     },
     {
@@ -1648,7 +1648,7 @@
       "seriesTitle": "The Big Bang Theory",
       "seasonNumber": 11,
       "avgRating": 7.337,
-      "totalVotes": 74280.0,
+      "totalVotes": 74409.0,
       "episodeCount": 24
     },
     {
@@ -1656,7 +1656,7 @@
       "seriesTitle": "The Big Bang Theory",
       "seasonNumber": 12,
       "avgRating": 7.467,
-      "totalVotes": 84939.0,
+      "totalVotes": 85087.0,
       "episodeCount": 24
     },
     {
@@ -1664,7 +1664,7 @@
       "seriesTitle": "The X-Files",
       "seasonNumber": 1,
       "avgRating": 7.617,
-      "totalVotes": 191792.0,
+      "totalVotes": 192143.0,
       "episodeCount": 24
     },
     {
@@ -1672,7 +1672,7 @@
       "seriesTitle": "The X-Files",
       "seasonNumber": 2,
       "avgRating": 7.788,
-      "totalVotes": 150719.0,
+      "totalVotes": 151051.0,
       "episodeCount": 25
     },
     {
@@ -1680,23 +1680,23 @@
       "seriesTitle": "The X-Files",
       "seasonNumber": 3,
       "avgRating": 7.95,
-      "totalVotes": 135037.0,
+      "totalVotes": 135293.0,
       "episodeCount": 24
     },
     {
       "seriesTconst": "tt0106179",
       "seriesTitle": "The X-Files",
       "seasonNumber": 4,
-      "avgRating": 7.925,
-      "totalVotes": 120433.0,
+      "avgRating": 7.921,
+      "totalVotes": 120663.0,
       "episodeCount": 24
     },
     {
       "seriesTconst": "tt0106179",
       "seriesTitle": "The X-Files",
       "seasonNumber": 5,
-      "avgRating": 8.045,
-      "totalVotes": 95441.0,
+      "avgRating": 8.04,
+      "totalVotes": 95620.0,
       "episodeCount": 20
     },
     {
@@ -1704,7 +1704,7 @@
       "seriesTitle": "The X-Files",
       "seasonNumber": 6,
       "avgRating": 8.073,
-      "totalVotes": 100421.0,
+      "totalVotes": 100612.0,
       "episodeCount": 22
     },
     {
@@ -1712,7 +1712,7 @@
       "seriesTitle": "The X-Files",
       "seasonNumber": 7,
       "avgRating": 7.532,
-      "totalVotes": 87265.0,
+      "totalVotes": 87504.0,
       "episodeCount": 22
     },
     {
@@ -1720,7 +1720,7 @@
       "seriesTitle": "The X-Files",
       "seasonNumber": 8,
       "avgRating": 7.7,
-      "totalVotes": 69949.0,
+      "totalVotes": 70054.0,
       "episodeCount": 21
     },
     {
@@ -1728,7 +1728,7 @@
       "seriesTitle": "The X-Files",
       "seasonNumber": 9,
       "avgRating": 7.37,
-      "totalVotes": 58006.0,
+      "totalVotes": 58094.0,
       "episodeCount": 20
     },
     {
@@ -1736,7 +1736,7 @@
       "seriesTitle": "The X-Files",
       "seasonNumber": 10,
       "avgRating": 7.367,
-      "totalVotes": 41971.0,
+      "totalVotes": 41987.0,
       "episodeCount": 6
     },
     {
@@ -1744,15 +1744,15 @@
       "seriesTitle": "The X-Files",
       "seasonNumber": 11,
       "avgRating": 7.42,
-      "totalVotes": 37904.0,
+      "totalVotes": 37952.0,
       "episodeCount": 10
     },
     {
       "seriesTconst": "tt0411008",
       "seriesTitle": "Lost",
       "seasonNumber": 1,
-      "avgRating": 8.54,
-      "totalVotes": 257713.0,
+      "avgRating": 8.536,
+      "totalVotes": 258363.0,
       "episodeCount": 25
     },
     {
@@ -1760,7 +1760,7 @@
       "seriesTitle": "Lost",
       "seasonNumber": 2,
       "avgRating": 8.446,
-      "totalVotes": 197109.0,
+      "totalVotes": 197565.0,
       "episodeCount": 24
     },
     {
@@ -1768,7 +1768,7 @@
       "seriesTitle": "Lost",
       "seasonNumber": 3,
       "avgRating": 8.487,
-      "totalVotes": 197296.0,
+      "totalVotes": 197893.0,
       "episodeCount": 23
     },
     {
@@ -1776,7 +1776,7 @@
       "seriesTitle": "Lost",
       "seasonNumber": 4,
       "avgRating": 8.579,
-      "totalVotes": 123490.0,
+      "totalVotes": 123779.0,
       "episodeCount": 14
     },
     {
@@ -1784,7 +1784,7 @@
       "seriesTitle": "Lost",
       "seasonNumber": 5,
       "avgRating": 8.535,
-      "totalVotes": 123554.0,
+      "totalVotes": 123786.0,
       "episodeCount": 17
     },
     {
@@ -1792,7 +1792,7 @@
       "seriesTitle": "Lost",
       "seasonNumber": 6,
       "avgRating": 8.317,
-      "totalVotes": 137535.0,
+      "totalVotes": 137896.0,
       "episodeCount": 18
     },
     {
@@ -1800,7 +1800,7 @@
       "seriesTitle": "How I Met Your Mother",
       "seasonNumber": 1,
       "avgRating": 8.15,
-      "totalVotes": 131128.0,
+      "totalVotes": 131416.0,
       "episodeCount": 22
     },
     {
@@ -1808,7 +1808,7 @@
       "seriesTitle": "How I Met Your Mother",
       "seasonNumber": 2,
       "avgRating": 8.318,
-      "totalVotes": 113330.0,
+      "totalVotes": 113547.0,
       "episodeCount": 22
     },
     {
@@ -1816,7 +1816,7 @@
       "seriesTitle": "How I Met Your Mother",
       "seasonNumber": 3,
       "avgRating": 8.145,
-      "totalVotes": 93396.0,
+      "totalVotes": 93572.0,
       "episodeCount": 20
     },
     {
@@ -1824,7 +1824,7 @@
       "seriesTitle": "How I Met Your Mother",
       "seasonNumber": 4,
       "avgRating": 8.121,
-      "totalVotes": 107756.0,
+      "totalVotes": 107953.0,
       "episodeCount": 24
     },
     {
@@ -1832,7 +1832,7 @@
       "seriesTitle": "How I Met Your Mother",
       "seasonNumber": 5,
       "avgRating": 8.042,
-      "totalVotes": 108386.0,
+      "totalVotes": 108530.0,
       "episodeCount": 24
     },
     {
@@ -1840,7 +1840,7 @@
       "seriesTitle": "How I Met Your Mother",
       "seasonNumber": 6,
       "avgRating": 8.042,
-      "totalVotes": 102732.0,
+      "totalVotes": 102887.0,
       "episodeCount": 24
     },
     {
@@ -1848,7 +1848,7 @@
       "seriesTitle": "How I Met Your Mother",
       "seasonNumber": 7,
       "avgRating": 8.012,
-      "totalVotes": 103255.0,
+      "totalVotes": 103444.0,
       "episodeCount": 24
     },
     {
@@ -1856,7 +1856,7 @@
       "seriesTitle": "How I Met Your Mother",
       "seasonNumber": 8,
       "avgRating": 7.796,
-      "totalVotes": 105811.0,
+      "totalVotes": 105926.0,
       "episodeCount": 24
     },
     {
@@ -1864,7 +1864,7 @@
       "seriesTitle": "How I Met Your Mother",
       "seasonNumber": 9,
       "avgRating": 7.467,
-      "totalVotes": 143895.0,
+      "totalVotes": 144079.0,
       "episodeCount": 24
     },
     {
@@ -1872,7 +1872,7 @@
       "seriesTitle": "The Sopranos",
       "seasonNumber": 1,
       "avgRating": 8.538,
-      "totalVotes": 180061.0,
+      "totalVotes": 180807.0,
       "episodeCount": 13
     },
     {
@@ -1880,7 +1880,7 @@
       "seriesTitle": "The Sopranos",
       "seasonNumber": 2,
       "avgRating": 8.554,
-      "totalVotes": 147298.0,
+      "totalVotes": 147846.0,
       "episodeCount": 13
     },
     {
@@ -1888,7 +1888,7 @@
       "seriesTitle": "The Sopranos",
       "seasonNumber": 3,
       "avgRating": 8.692,
-      "totalVotes": 148141.0,
+      "totalVotes": 148708.0,
       "episodeCount": 13
     },
     {
@@ -1896,7 +1896,7 @@
       "seriesTitle": "The Sopranos",
       "seasonNumber": 4,
       "avgRating": 8.392,
-      "totalVotes": 126878.0,
+      "totalVotes": 127414.0,
       "episodeCount": 13
     },
     {
@@ -1904,15 +1904,15 @@
       "seriesTitle": "The Sopranos",
       "seasonNumber": 5,
       "avgRating": 8.685,
-      "totalVotes": 131782.0,
+      "totalVotes": 132253.0,
       "episodeCount": 13
     },
     {
       "seriesTconst": "tt0141842",
       "seriesTitle": "The Sopranos",
       "seasonNumber": 6,
-      "avgRating": 8.714,
-      "totalVotes": 218284.0,
+      "avgRating": 8.71,
+      "totalVotes": 219039.0,
       "episodeCount": 21
     },
     {
@@ -1920,7 +1920,7 @@
       "seriesTitle": "Invincible",
       "seasonNumber": 1,
       "avgRating": 8.663,
-      "totalVotes": 218264.0,
+      "totalVotes": 218681.0,
       "episodeCount": 8
     },
     {
@@ -1928,7 +1928,7 @@
       "seriesTitle": "Invincible",
       "seasonNumber": 2,
       "avgRating": 8.362,
-      "totalVotes": 149406.0,
+      "totalVotes": 149710.0,
       "episodeCount": 8
     },
     {
@@ -1936,7 +1936,7 @@
       "seriesTitle": "Invincible",
       "seasonNumber": 3,
       "avgRating": 8.788,
-      "totalVotes": 278521.0,
+      "totalVotes": 278975.0,
       "episodeCount": 8
     },
     {
@@ -1944,7 +1944,7 @@
       "seriesTitle": "Invincible",
       "seasonNumber": 4,
       "avgRating": 8.7,
-      "totalVotes": 257394.0,
+      "totalVotes": 257909.0,
       "episodeCount": 8
     },
     {
@@ -1952,7 +1952,7 @@
       "seriesTitle": "Jujutsu Kaisen",
       "seasonNumber": 1,
       "avgRating": 8.342,
-      "totalVotes": 262596.0,
+      "totalVotes": 263964.0,
       "episodeCount": 24
     },
     {
@@ -1960,7 +1960,7 @@
       "seriesTitle": "Jujutsu Kaisen",
       "seasonNumber": 2,
       "avgRating": 8.987,
-      "totalVotes": 339263.0,
+      "totalVotes": 340861.0,
       "episodeCount": 23
     },
     {
@@ -1968,7 +1968,7 @@
       "seriesTitle": "Jujutsu Kaisen",
       "seasonNumber": 3,
       "avgRating": 8.858,
-      "totalVotes": 245660.0,
+      "totalVotes": 246979.0,
       "episodeCount": 12
     },
     {
@@ -1976,7 +1976,7 @@
       "seriesTitle": "Family Guy",
       "seasonNumber": 1,
       "avgRating": 7.4,
-      "totalVotes": 28908.0,
+      "totalVotes": 28968.0,
       "episodeCount": 7
     },
     {
@@ -1984,7 +1984,7 @@
       "seriesTitle": "Family Guy",
       "seasonNumber": 2,
       "avgRating": 7.548,
-      "totalVotes": 62914.0,
+      "totalVotes": 63026.0,
       "episodeCount": 21
     },
     {
@@ -1992,7 +1992,7 @@
       "seriesTitle": "Family Guy",
       "seasonNumber": 3,
       "avgRating": 7.536,
-      "totalVotes": 55334.0,
+      "totalVotes": 55432.0,
       "episodeCount": 22
     },
     {
@@ -2000,7 +2000,7 @@
       "seriesTitle": "Family Guy",
       "seasonNumber": 4,
       "avgRating": 7.577,
-      "totalVotes": 70231.0,
+      "totalVotes": 70342.0,
       "episodeCount": 30
     },
     {
@@ -2008,7 +2008,7 @@
       "seriesTitle": "Family Guy",
       "seasonNumber": 5,
       "avgRating": 7.583,
-      "totalVotes": 39860.0,
+      "totalVotes": 39919.0,
       "episodeCount": 18
     },
     {
@@ -2016,7 +2016,7 @@
       "seriesTitle": "Family Guy",
       "seasonNumber": 6,
       "avgRating": 7.517,
-      "totalVotes": 33513.0,
+      "totalVotes": 33541.0,
       "episodeCount": 12
     },
     {
@@ -2024,7 +2024,7 @@
       "seriesTitle": "Family Guy",
       "seasonNumber": 7,
       "avgRating": 7.431,
-      "totalVotes": 36290.0,
+      "totalVotes": 36341.0,
       "episodeCount": 16
     },
     {
@@ -2032,7 +2032,7 @@
       "seriesTitle": "Family Guy",
       "seasonNumber": 8,
       "avgRating": 7.329,
-      "totalVotes": 51930.0,
+      "totalVotes": 52002.0,
       "episodeCount": 21
     },
     {
@@ -2040,7 +2040,7 @@
       "seriesTitle": "Family Guy",
       "seasonNumber": 9,
       "avgRating": 7.289,
-      "totalVotes": 46904.0,
+      "totalVotes": 46974.0,
       "episodeCount": 18
     },
     {
@@ -2048,7 +2048,7 @@
       "seriesTitle": "Family Guy",
       "seasonNumber": 10,
       "avgRating": 7.191,
-      "totalVotes": 45998.0,
+      "totalVotes": 46051.0,
       "episodeCount": 23
     },
     {
@@ -2056,7 +2056,7 @@
       "seriesTitle": "Family Guy",
       "seasonNumber": 11,
       "avgRating": 7.086,
-      "totalVotes": 38514.0,
+      "totalVotes": 38562.0,
       "episodeCount": 22
     },
     {
@@ -2064,7 +2064,7 @@
       "seriesTitle": "Family Guy",
       "seasonNumber": 12,
       "avgRating": 6.519,
-      "totalVotes": 39633.0,
+      "totalVotes": 39681.0,
       "episodeCount": 21
     },
     {
@@ -2072,7 +2072,7 @@
       "seriesTitle": "Family Guy",
       "seasonNumber": 13,
       "avgRating": 6.828,
-      "totalVotes": 32993.0,
+      "totalVotes": 33039.0,
       "episodeCount": 18
     },
     {
@@ -2080,7 +2080,7 @@
       "seriesTitle": "Family Guy",
       "seasonNumber": 14,
       "avgRating": 6.965,
-      "totalVotes": 29848.0,
+      "totalVotes": 29874.0,
       "episodeCount": 20
     },
     {
@@ -2088,7 +2088,7 @@
       "seriesTitle": "Family Guy",
       "seasonNumber": 15,
       "avgRating": 6.955,
-      "totalVotes": 28069.0,
+      "totalVotes": 28104.0,
       "episodeCount": 20
     },
     {
@@ -2096,7 +2096,7 @@
       "seriesTitle": "Family Guy",
       "seasonNumber": 16,
       "avgRating": 7.17,
-      "totalVotes": 34084.0,
+      "totalVotes": 34153.0,
       "episodeCount": 20
     },
     {
@@ -2104,7 +2104,7 @@
       "seriesTitle": "Family Guy",
       "seasonNumber": 17,
       "avgRating": 6.495,
-      "totalVotes": 30430.0,
+      "totalVotes": 30510.0,
       "episodeCount": 20
     },
     {
@@ -2112,7 +2112,7 @@
       "seriesTitle": "Family Guy",
       "seasonNumber": 18,
       "avgRating": 6.63,
-      "totalVotes": 24807.0,
+      "totalVotes": 24851.0,
       "episodeCount": 20
     },
     {
@@ -2120,7 +2120,7 @@
       "seriesTitle": "Family Guy",
       "seasonNumber": 19,
       "avgRating": 6.68,
-      "totalVotes": 24029.0,
+      "totalVotes": 24069.0,
       "episodeCount": 20
     },
     {
@@ -2128,7 +2128,7 @@
       "seriesTitle": "Family Guy",
       "seasonNumber": 20,
       "avgRating": 6.57,
-      "totalVotes": 20703.0,
+      "totalVotes": 20749.0,
       "episodeCount": 20
     },
     {
@@ -2136,7 +2136,7 @@
       "seriesTitle": "Family Guy",
       "seasonNumber": 21,
       "avgRating": 6.66,
-      "totalVotes": 19714.0,
+      "totalVotes": 19745.0,
       "episodeCount": 20
     },
     {
@@ -2144,7 +2144,7 @@
       "seriesTitle": "Family Guy",
       "seasonNumber": 22,
       "avgRating": 6.276,
-      "totalVotes": 13591.0,
+      "totalVotes": 13640.0,
       "episodeCount": 17
     },
     {
@@ -2152,7 +2152,7 @@
       "seriesTitle": "Family Guy",
       "seasonNumber": 23,
       "avgRating": 6.16,
-      "totalVotes": 13052.0,
+      "totalVotes": 13117.0,
       "episodeCount": 20
     },
     {
@@ -2160,7 +2160,7 @@
       "seriesTitle": "Family Guy",
       "seasonNumber": 24,
       "avgRating": 6.487,
-      "totalVotes": 7670.0,
+      "totalVotes": 7790.0,
       "episodeCount": 15
     },
     {
@@ -2168,7 +2168,7 @@
       "seriesTitle": "Regular Show",
       "seasonNumber": 1,
       "avgRating": 8.533,
-      "totalVotes": 55476.0,
+      "totalVotes": 55564.0,
       "episodeCount": 12
     },
     {
@@ -2176,7 +2176,7 @@
       "seriesTitle": "Regular Show",
       "seasonNumber": 2,
       "avgRating": 8.668,
-      "totalVotes": 112342.0,
+      "totalVotes": 112455.0,
       "episodeCount": 28
     },
     {
@@ -2184,7 +2184,7 @@
       "seriesTitle": "Regular Show",
       "seasonNumber": 3,
       "avgRating": 8.408,
-      "totalVotes": 137121.0,
+      "totalVotes": 137280.0,
       "episodeCount": 39
     },
     {
@@ -2192,7 +2192,7 @@
       "seriesTitle": "Regular Show",
       "seasonNumber": 4,
       "avgRating": 8.23,
-      "totalVotes": 120580.0,
+      "totalVotes": 120704.0,
       "episodeCount": 37
     },
     {
@@ -2200,7 +2200,7 @@
       "seriesTitle": "Regular Show",
       "seasonNumber": 5,
       "avgRating": 8.214,
-      "totalVotes": 113348.0,
+      "totalVotes": 113447.0,
       "episodeCount": 37
     },
     {
@@ -2208,31 +2208,55 @@
       "seriesTitle": "Regular Show",
       "seasonNumber": 6,
       "avgRating": 8.432,
-      "totalVotes": 86568.0,
+      "totalVotes": 86579.0,
       "episodeCount": 28
     },
     {
       "seriesTconst": "tt1710308",
       "seriesTitle": "Regular Show",
       "seasonNumber": 7,
-      "avgRating": 8.311,
-      "totalVotes": 106678.0,
+      "avgRating": 8.308,
+      "totalVotes": 106737.0,
       "episodeCount": 36
     },
     {
       "seriesTconst": "tt1710308",
       "seriesTitle": "Regular Show",
       "seasonNumber": 8,
-      "avgRating": 8.533,
-      "totalVotes": 89393.0,
+      "avgRating": 8.53,
+      "totalVotes": 89477.0,
       "episodeCount": 27
+    },
+    {
+      "seriesTconst": "tt13293588",
+      "seriesTitle": "Mushoku Tensei: Jobless Reincarnation",
+      "seasonNumber": 1,
+      "avgRating": 8.157,
+      "totalVotes": 263523.0,
+      "episodeCount": 23
+    },
+    {
+      "seriesTconst": "tt13293588",
+      "seriesTitle": "Mushoku Tensei: Jobless Reincarnation",
+      "seasonNumber": 2,
+      "avgRating": 7.732,
+      "totalVotes": 246055.0,
+      "episodeCount": 25
+    },
+    {
+      "seriesTconst": "tt13293588",
+      "seriesTitle": "Mushoku Tensei: Jobless Reincarnation",
+      "seasonNumber": 3,
+      "avgRating": 7.831,
+      "totalVotes": 293620.0,
+      "episodeCount": 13
     },
     {
       "seriesTconst": "tt0098904",
       "seriesTitle": "Seinfeld",
       "seasonNumber": 1,
       "avgRating": 7.34,
-      "totalVotes": 31351.0,
+      "totalVotes": 31383.0,
       "episodeCount": 5
     },
     {
@@ -2240,7 +2264,7 @@
       "seriesTitle": "Seinfeld",
       "seasonNumber": 2,
       "avgRating": 7.925,
-      "totalVotes": 64807.0,
+      "totalVotes": 64895.0,
       "episodeCount": 12
     },
     {
@@ -2248,7 +2272,7 @@
       "seriesTitle": "Seinfeld",
       "seasonNumber": 3,
       "avgRating": 8.155,
-      "totalVotes": 113775.0,
+      "totalVotes": 113938.0,
       "episodeCount": 22
     },
     {
@@ -2256,7 +2280,7 @@
       "seriesTitle": "Seinfeld",
       "seasonNumber": 4,
       "avgRating": 8.404,
-      "totalVotes": 115000.0,
+      "totalVotes": 115121.0,
       "episodeCount": 23
     },
     {
@@ -2264,7 +2288,7 @@
       "seriesTitle": "Seinfeld",
       "seasonNumber": 5,
       "avgRating": 8.4,
-      "totalVotes": 101261.0,
+      "totalVotes": 101368.0,
       "episodeCount": 21
     },
     {
@@ -2272,7 +2296,7 @@
       "seriesTitle": "Seinfeld",
       "seasonNumber": 6,
       "avgRating": 8.165,
-      "totalVotes": 96912.0,
+      "totalVotes": 97009.0,
       "episodeCount": 23
     },
     {
@@ -2280,7 +2304,7 @@
       "seriesTitle": "Seinfeld",
       "seasonNumber": 7,
       "avgRating": 8.405,
-      "totalVotes": 94901.0,
+      "totalVotes": 94997.0,
       "episodeCount": 22
     },
     {
@@ -2288,15 +2312,15 @@
       "seriesTitle": "Seinfeld",
       "seasonNumber": 8,
       "avgRating": 8.405,
-      "totalVotes": 92247.0,
+      "totalVotes": 92370.0,
       "episodeCount": 22
     },
     {
       "seriesTconst": "tt0098904",
       "seriesTitle": "Seinfeld",
       "seasonNumber": 9,
-      "avgRating": 8.209,
-      "totalVotes": 91831.0,
+      "avgRating": 8.214,
+      "totalVotes": 91952.0,
       "episodeCount": 22
     },
     {
@@ -2304,7 +2328,7 @@
       "seriesTitle": "Criminal Minds",
       "seasonNumber": 1,
       "avgRating": 7.723,
-      "totalVotes": 73716.0,
+      "totalVotes": 73845.0,
       "episodeCount": 22
     },
     {
@@ -2312,7 +2336,7 @@
       "seriesTitle": "Criminal Minds",
       "seasonNumber": 2,
       "avgRating": 7.974,
-      "totalVotes": 67889.0,
+      "totalVotes": 68082.0,
       "episodeCount": 23
     },
     {
@@ -2320,15 +2344,15 @@
       "seriesTitle": "Criminal Minds",
       "seasonNumber": 3,
       "avgRating": 7.875,
-      "totalVotes": 55806.0,
+      "totalVotes": 55921.0,
       "episodeCount": 20
     },
     {
       "seriesTconst": "tt0452046",
       "seriesTitle": "Criminal Minds",
       "seasonNumber": 4,
-      "avgRating": 7.977,
-      "totalVotes": 71426.0,
+      "avgRating": 7.973,
+      "totalVotes": 71550.0,
       "episodeCount": 26
     },
     {
@@ -2336,7 +2360,7 @@
       "seriesTitle": "Criminal Minds",
       "seasonNumber": 5,
       "avgRating": 7.722,
-      "totalVotes": 61051.0,
+      "totalVotes": 61158.0,
       "episodeCount": 23
     },
     {
@@ -2344,7 +2368,7 @@
       "seriesTitle": "Criminal Minds",
       "seasonNumber": 6,
       "avgRating": 7.638,
-      "totalVotes": 58015.0,
+      "totalVotes": 58123.0,
       "episodeCount": 24
     },
     {
@@ -2352,15 +2376,15 @@
       "seriesTitle": "Criminal Minds",
       "seasonNumber": 7,
       "avgRating": 7.717,
-      "totalVotes": 55794.0,
+      "totalVotes": 55872.0,
       "episodeCount": 24
     },
     {
       "seriesTconst": "tt0452046",
       "seriesTitle": "Criminal Minds",
       "seasonNumber": 8,
-      "avgRating": 7.621,
-      "totalVotes": 55108.0,
+      "avgRating": 7.613,
+      "totalVotes": 55148.0,
       "episodeCount": 24
     },
     {
@@ -2368,7 +2392,7 @@
       "seriesTitle": "Criminal Minds",
       "seasonNumber": 9,
       "avgRating": 7.696,
-      "totalVotes": 52538.0,
+      "totalVotes": 52578.0,
       "episodeCount": 24
     },
     {
@@ -2376,23 +2400,23 @@
       "seriesTitle": "Criminal Minds",
       "seasonNumber": 10,
       "avgRating": 7.5,
-      "totalVotes": 52568.0,
+      "totalVotes": 52655.0,
       "episodeCount": 23
     },
     {
       "seriesTconst": "tt0452046",
       "seriesTitle": "Criminal Minds",
       "seasonNumber": 11,
-      "avgRating": 7.505,
-      "totalVotes": 47798.0,
+      "avgRating": 7.5,
+      "totalVotes": 47879.0,
       "episodeCount": 22
     },
     {
       "seriesTconst": "tt0452046",
       "seriesTitle": "Criminal Minds",
       "seasonNumber": 12,
-      "avgRating": 7.414,
-      "totalVotes": 46289.0,
+      "avgRating": 7.405,
+      "totalVotes": 46331.0,
       "episodeCount": 22
     },
     {
@@ -2400,15 +2424,15 @@
       "seriesTitle": "Criminal Minds",
       "seasonNumber": 13,
       "avgRating": 7.477,
-      "totalVotes": 34952.0,
+      "totalVotes": 35004.0,
       "episodeCount": 22
     },
     {
       "seriesTconst": "tt0452046",
       "seriesTitle": "Criminal Minds",
       "seasonNumber": 14,
-      "avgRating": 7.56,
-      "totalVotes": 17633.0,
+      "avgRating": 7.553,
+      "totalVotes": 17657.0,
       "episodeCount": 15
     },
     {
@@ -2416,39 +2440,39 @@
       "seriesTitle": "Criminal Minds",
       "seasonNumber": 15,
       "avgRating": 7.68,
-      "totalVotes": 10155.0,
+      "totalVotes": 10186.0,
       "episodeCount": 10
     },
     {
       "seriesTconst": "tt0452046",
       "seriesTitle": "Criminal Minds",
       "seasonNumber": 16,
-      "avgRating": 7.94,
-      "totalVotes": 8719.0,
+      "avgRating": 7.93,
+      "totalVotes": 8747.0,
       "episodeCount": 10
     },
     {
       "seriesTconst": "tt0452046",
       "seriesTitle": "Criminal Minds",
       "seasonNumber": 17,
-      "avgRating": 7.63,
-      "totalVotes": 5797.0,
+      "avgRating": 7.62,
+      "totalVotes": 5828.0,
       "episodeCount": 10
     },
     {
       "seriesTconst": "tt0452046",
       "seriesTitle": "Criminal Minds",
       "seasonNumber": 18,
-      "avgRating": 7.35,
-      "totalVotes": 5124.0,
+      "avgRating": 7.34,
+      "totalVotes": 5148.0,
       "episodeCount": 10
     },
     {
       "seriesTconst": "tt0452046",
       "seriesTitle": "Criminal Minds",
       "seasonNumber": 19,
-      "avgRating": 7.8,
-      "totalVotes": 2784.0,
+      "avgRating": 7.77,
+      "totalVotes": 2839.0,
       "episodeCount": 10
     },
     {
@@ -2456,7 +2480,7 @@
       "seriesTitle": "House",
       "seasonNumber": 1,
       "avgRating": 8.3,
-      "totalVotes": 127411.0,
+      "totalVotes": 127737.0,
       "episodeCount": 22
     },
     {
@@ -2464,7 +2488,7 @@
       "seriesTitle": "House",
       "seasonNumber": 2,
       "avgRating": 8.375,
-      "totalVotes": 115121.0,
+      "totalVotes": 115367.0,
       "episodeCount": 24
     },
     {
@@ -2472,7 +2496,7 @@
       "seriesTitle": "House",
       "seasonNumber": 3,
       "avgRating": 8.408,
-      "totalVotes": 105292.0,
+      "totalVotes": 105458.0,
       "episodeCount": 24
     },
     {
@@ -2480,7 +2504,7 @@
       "seriesTitle": "House",
       "seasonNumber": 4,
       "avgRating": 8.563,
-      "totalVotes": 87605.0,
+      "totalVotes": 87815.0,
       "episodeCount": 16
     },
     {
@@ -2488,7 +2512,7 @@
       "seriesTitle": "House",
       "seasonNumber": 5,
       "avgRating": 8.421,
-      "totalVotes": 98998.0,
+      "totalVotes": 99204.0,
       "episodeCount": 24
     },
     {
@@ -2496,7 +2520,7 @@
       "seriesTitle": "House",
       "seasonNumber": 6,
       "avgRating": 8.4,
-      "totalVotes": 89427.0,
+      "totalVotes": 89546.0,
       "episodeCount": 21
     },
     {
@@ -2504,7 +2528,7 @@
       "seriesTitle": "House",
       "seasonNumber": 7,
       "avgRating": 8.209,
-      "totalVotes": 77514.0,
+      "totalVotes": 77689.0,
       "episodeCount": 23
     },
     {
@@ -2512,7 +2536,7 @@
       "seriesTitle": "House",
       "seasonNumber": 8,
       "avgRating": 8.165,
-      "totalVotes": 75770.0,
+      "totalVotes": 75852.0,
       "episodeCount": 23
     },
     {
@@ -2520,15 +2544,15 @@
       "seriesTitle": "My Hero Academia",
       "seasonNumber": 1,
       "avgRating": 8.077,
-      "totalVotes": 54498.0,
+      "totalVotes": 54736.0,
       "episodeCount": 13
     },
     {
       "seriesTconst": "tt5626028",
       "seriesTitle": "My Hero Academia",
       "seasonNumber": 2,
-      "avgRating": 7.935,
-      "totalVotes": 88184.0,
+      "avgRating": 7.931,
+      "totalVotes": 88670.0,
       "episodeCount": 26
     },
     {
@@ -2536,7 +2560,7 @@
       "seriesTitle": "My Hero Academia",
       "seasonNumber": 3,
       "avgRating": 8.004,
-      "totalVotes": 95611.0,
+      "totalVotes": 96093.0,
       "episodeCount": 25
     },
     {
@@ -2544,7 +2568,7 @@
       "seriesTitle": "My Hero Academia",
       "seasonNumber": 4,
       "avgRating": 7.964,
-      "totalVotes": 92122.0,
+      "totalVotes": 92685.0,
       "episodeCount": 25
     },
     {
@@ -2552,15 +2576,15 @@
       "seriesTitle": "My Hero Academia",
       "seasonNumber": 5,
       "avgRating": 7.72,
-      "totalVotes": 71066.0,
+      "totalVotes": 71448.0,
       "episodeCount": 25
     },
     {
       "seriesTconst": "tt5626028",
       "seriesTitle": "My Hero Academia",
       "seasonNumber": 6,
-      "avgRating": 8.724,
-      "totalVotes": 87796.0,
+      "avgRating": 8.728,
+      "totalVotes": 88279.0,
       "episodeCount": 25
     },
     {
@@ -2568,7 +2592,7 @@
       "seriesTitle": "My Hero Academia",
       "seasonNumber": 7,
       "avgRating": 8.714,
-      "totalVotes": 84177.0,
+      "totalVotes": 84620.0,
       "episodeCount": 21
     },
     {
@@ -2576,7 +2600,7 @@
       "seriesTitle": "My Hero Academia",
       "seasonNumber": 8,
       "avgRating": 9.4,
-      "totalVotes": 178976.0,
+      "totalVotes": 179484.0,
       "episodeCount": 12
     },
     {
@@ -2584,7 +2608,7 @@
       "seriesTitle": "Star Trek: The Next Generation",
       "seasonNumber": 1,
       "avgRating": 6.748,
-      "totalVotes": 118580.0,
+      "totalVotes": 118726.0,
       "episodeCount": 25
     },
     {
@@ -2592,7 +2616,7 @@
       "seriesTitle": "Star Trek: The Next Generation",
       "seasonNumber": 2,
       "avgRating": 6.891,
-      "totalVotes": 98287.0,
+      "totalVotes": 98410.0,
       "episodeCount": 22
     },
     {
@@ -2600,7 +2624,7 @@
       "seriesTitle": "Star Trek: The Next Generation",
       "seasonNumber": 3,
       "avgRating": 7.538,
-      "totalVotes": 116228.0,
+      "totalVotes": 116385.0,
       "episodeCount": 26
     },
     {
@@ -2608,7 +2632,7 @@
       "seriesTitle": "Star Trek: The Next Generation",
       "seasonNumber": 4,
       "avgRating": 7.531,
-      "totalVotes": 108435.0,
+      "totalVotes": 108500.0,
       "episodeCount": 26
     },
     {
@@ -2616,7 +2640,7 @@
       "seriesTitle": "Star Trek: The Next Generation",
       "seasonNumber": 5,
       "avgRating": 7.596,
-      "totalVotes": 109902.0,
+      "totalVotes": 109994.0,
       "episodeCount": 26
     },
     {
@@ -2624,7 +2648,7 @@
       "seriesTitle": "Star Trek: The Next Generation",
       "seasonNumber": 6,
       "avgRating": 7.673,
-      "totalVotes": 98992.0,
+      "totalVotes": 99142.0,
       "episodeCount": 26
     },
     {
@@ -2632,7 +2656,7 @@
       "seriesTitle": "Star Trek: The Next Generation",
       "seasonNumber": 7,
       "avgRating": 7.168,
-      "totalVotes": 93489.0,
+      "totalVotes": 93646.0,
       "episodeCount": 25
     },
     {
@@ -2640,7 +2664,7 @@
       "seriesTitle": "The Flash",
       "seasonNumber": 1,
       "avgRating": 8.557,
-      "totalVotes": 189942.0,
+      "totalVotes": 190197.0,
       "episodeCount": 23
     },
     {
@@ -2648,15 +2672,15 @@
       "seriesTitle": "The Flash",
       "seasonNumber": 2,
       "avgRating": 8.452,
-      "totalVotes": 136055.0,
+      "totalVotes": 136250.0,
       "episodeCount": 23
     },
     {
       "seriesTconst": "tt3107288",
       "seriesTitle": "The Flash",
       "seasonNumber": 3,
-      "avgRating": 8.061,
-      "totalVotes": 109361.0,
+      "avgRating": 8.065,
+      "totalVotes": 109562.0,
       "episodeCount": 23
     },
     {
@@ -2664,7 +2688,7 @@
       "seriesTitle": "The Flash",
       "seasonNumber": 4,
       "avgRating": 7.483,
-      "totalVotes": 87390.0,
+      "totalVotes": 87552.0,
       "episodeCount": 23
     },
     {
@@ -2672,7 +2696,7 @@
       "seriesTitle": "The Flash",
       "seasonNumber": 5,
       "avgRating": 7.773,
-      "totalVotes": 65911.0,
+      "totalVotes": 66047.0,
       "episodeCount": 22
     },
     {
@@ -2680,7 +2704,7 @@
       "seriesTitle": "The Flash",
       "seasonNumber": 6,
       "avgRating": 7.284,
-      "totalVotes": 46846.0,
+      "totalVotes": 46969.0,
       "episodeCount": 19
     },
     {
@@ -2688,7 +2712,7 @@
       "seriesTitle": "The Flash",
       "seasonNumber": 7,
       "avgRating": 6.517,
-      "totalVotes": 38568.0,
+      "totalVotes": 38670.0,
       "episodeCount": 18
     },
     {
@@ -2696,7 +2720,7 @@
       "seriesTitle": "The Flash",
       "seasonNumber": 8,
       "avgRating": 6.825,
-      "totalVotes": 32258.0,
+      "totalVotes": 32359.0,
       "episodeCount": 20
     },
     {
@@ -2704,7 +2728,7 @@
       "seriesTitle": "The Flash",
       "seasonNumber": 9,
       "avgRating": 6.015,
-      "totalVotes": 25637.0,
+      "totalVotes": 25706.0,
       "episodeCount": 13
     },
     {
@@ -2712,7 +2736,7 @@
       "seriesTitle": "Star Wars: The Clone Wars",
       "seasonNumber": 1,
       "avgRating": 7.327,
-      "totalVotes": 127742.0,
+      "totalVotes": 128050.0,
       "episodeCount": 22
     },
     {
@@ -2720,7 +2744,7 @@
       "seriesTitle": "Star Wars: The Clone Wars",
       "seasonNumber": 2,
       "avgRating": 7.664,
-      "totalVotes": 104944.0,
+      "totalVotes": 105217.0,
       "episodeCount": 22
     },
     {
@@ -2728,7 +2752,7 @@
       "seriesTitle": "Star Wars: The Clone Wars",
       "seasonNumber": 3,
       "avgRating": 7.786,
-      "totalVotes": 104716.0,
+      "totalVotes": 104921.0,
       "episodeCount": 22
     },
     {
@@ -2736,7 +2760,7 @@
       "seriesTitle": "Star Wars: The Clone Wars",
       "seasonNumber": 4,
       "avgRating": 7.927,
-      "totalVotes": 100049.0,
+      "totalVotes": 100309.0,
       "episodeCount": 22
     },
     {
@@ -2744,7 +2768,7 @@
       "seriesTitle": "Star Wars: The Clone Wars",
       "seasonNumber": 5,
       "avgRating": 7.97,
-      "totalVotes": 98629.0,
+      "totalVotes": 98867.0,
       "episodeCount": 20
     },
     {
@@ -2752,7 +2776,7 @@
       "seriesTitle": "Star Wars: The Clone Wars",
       "seasonNumber": 6,
       "avgRating": 7.977,
-      "totalVotes": 57304.0,
+      "totalVotes": 57408.0,
       "episodeCount": 13
     },
     {
@@ -2760,7 +2784,7 @@
       "seriesTitle": "Star Wars: The Clone Wars",
       "seasonNumber": 7,
       "avgRating": 8.1,
-      "totalVotes": 131601.0,
+      "totalVotes": 131900.0,
       "episodeCount": 12
     },
     {
@@ -2768,7 +2792,7 @@
       "seriesTitle": "Arrow",
       "seasonNumber": 1,
       "avgRating": 8.235,
-      "totalVotes": 136431.0,
+      "totalVotes": 136633.0,
       "episodeCount": 23
     },
     {
@@ -2776,7 +2800,7 @@
       "seriesTitle": "Arrow",
       "seasonNumber": 2,
       "avgRating": 8.652,
-      "totalVotes": 129393.0,
+      "totalVotes": 129492.0,
       "episodeCount": 23
     },
     {
@@ -2784,7 +2808,7 @@
       "seriesTitle": "Arrow",
       "seasonNumber": 3,
       "avgRating": 8.404,
-      "totalVotes": 122257.0,
+      "totalVotes": 122346.0,
       "episodeCount": 23
     },
     {
@@ -2792,7 +2816,7 @@
       "seriesTitle": "Arrow",
       "seasonNumber": 4,
       "avgRating": 7.583,
-      "totalVotes": 97614.0,
+      "totalVotes": 97687.0,
       "episodeCount": 23
     },
     {
@@ -2800,7 +2824,7 @@
       "seriesTitle": "Arrow",
       "seasonNumber": 5,
       "avgRating": 8.23,
-      "totalVotes": 86197.0,
+      "totalVotes": 86323.0,
       "episodeCount": 23
     },
     {
@@ -2808,7 +2832,7 @@
       "seriesTitle": "Arrow",
       "seasonNumber": 6,
       "avgRating": 7.883,
-      "totalVotes": 62397.0,
+      "totalVotes": 62485.0,
       "episodeCount": 23
     },
     {
@@ -2816,7 +2840,7 @@
       "seriesTitle": "Arrow",
       "seasonNumber": 7,
       "avgRating": 8.005,
-      "totalVotes": 55566.0,
+      "totalVotes": 55621.0,
       "episodeCount": 22
     },
     {
@@ -2824,47 +2848,15 @@
       "seriesTitle": "Arrow",
       "seasonNumber": 8,
       "avgRating": 8.42,
-      "totalVotes": 28836.0,
-      "episodeCount": 10
-    },
-    {
-      "seriesTconst": "tt9561862",
-      "seriesTitle": "Love, Death & Robots",
-      "seasonNumber": 1,
-      "avgRating": 7.311,
-      "totalVotes": 387595.0,
-      "episodeCount": 18
-    },
-    {
-      "seriesTconst": "tt9561862",
-      "seriesTitle": "Love, Death & Robots",
-      "seasonNumber": 2,
-      "avgRating": 7.013,
-      "totalVotes": 112675.0,
-      "episodeCount": 8
-    },
-    {
-      "seriesTconst": "tt9561862",
-      "seriesTitle": "Love, Death & Robots",
-      "seasonNumber": 3,
-      "avgRating": 7.367,
-      "totalVotes": 131905.0,
-      "episodeCount": 9
-    },
-    {
-      "seriesTconst": "tt9561862",
-      "seriesTitle": "Love, Death & Robots",
-      "seasonNumber": 4,
-      "avgRating": 6.07,
-      "totalVotes": 77786.0,
+      "totalVotes": 28870.0,
       "episodeCount": 10
     },
     {
       "seriesTconst": "tt0472954",
       "seriesTitle": "It's Always Sunny in Philadelphia",
       "seasonNumber": 1,
-      "avgRating": 8.086,
-      "totalVotes": 38775.0,
+      "avgRating": 8.071,
+      "totalVotes": 38919.0,
       "episodeCount": 7
     },
     {
@@ -2872,7 +2864,7 @@
       "seriesTitle": "It's Always Sunny in Philadelphia",
       "seasonNumber": 2,
       "avgRating": 8.45,
-      "totalVotes": 50333.0,
+      "totalVotes": 50507.0,
       "episodeCount": 10
     },
     {
@@ -2880,7 +2872,7 @@
       "seriesTitle": "It's Always Sunny in Philadelphia",
       "seasonNumber": 3,
       "avgRating": 8.48,
-      "totalVotes": 66685.0,
+      "totalVotes": 66900.0,
       "episodeCount": 15
     },
     {
@@ -2888,7 +2880,7 @@
       "seriesTitle": "It's Always Sunny in Philadelphia",
       "seasonNumber": 4,
       "avgRating": 8.562,
-      "totalVotes": 61345.0,
+      "totalVotes": 61563.0,
       "episodeCount": 13
     },
     {
@@ -2896,7 +2888,7 @@
       "seriesTitle": "It's Always Sunny in Philadelphia",
       "seasonNumber": 5,
       "avgRating": 8.575,
-      "totalVotes": 48483.0,
+      "totalVotes": 48666.0,
       "episodeCount": 12
     },
     {
@@ -2904,7 +2896,7 @@
       "seriesTitle": "It's Always Sunny in Philadelphia",
       "seasonNumber": 6,
       "avgRating": 8.354,
-      "totalVotes": 49268.0,
+      "totalVotes": 49443.0,
       "episodeCount": 13
     },
     {
@@ -2912,7 +2904,7 @@
       "seriesTitle": "It's Always Sunny in Philadelphia",
       "seasonNumber": 7,
       "avgRating": 8.377,
-      "totalVotes": 50447.0,
+      "totalVotes": 50649.0,
       "episodeCount": 13
     },
     {
@@ -2920,7 +2912,7 @@
       "seriesTitle": "It's Always Sunny in Philadelphia",
       "seasonNumber": 8,
       "avgRating": 8.49,
-      "totalVotes": 36812.0,
+      "totalVotes": 36986.0,
       "episodeCount": 10
     },
     {
@@ -2928,7 +2920,7 @@
       "seriesTitle": "It's Always Sunny in Philadelphia",
       "seasonNumber": 9,
       "avgRating": 8.58,
-      "totalVotes": 38009.0,
+      "totalVotes": 38189.0,
       "episodeCount": 10
     },
     {
@@ -2936,7 +2928,7 @@
       "seriesTitle": "It's Always Sunny in Philadelphia",
       "seasonNumber": 10,
       "avgRating": 8.42,
-      "totalVotes": 45165.0,
+      "totalVotes": 45351.0,
       "episodeCount": 10
     },
     {
@@ -2944,7 +2936,7 @@
       "seriesTitle": "It's Always Sunny in Philadelphia",
       "seasonNumber": 11,
       "avgRating": 8.44,
-      "totalVotes": 38776.0,
+      "totalVotes": 38975.0,
       "episodeCount": 10
     },
     {
@@ -2952,7 +2944,7 @@
       "seriesTitle": "It's Always Sunny in Philadelphia",
       "seasonNumber": 12,
       "avgRating": 8.51,
-      "totalVotes": 42579.0,
+      "totalVotes": 42751.0,
       "episodeCount": 10
     },
     {
@@ -2960,7 +2952,7 @@
       "seriesTitle": "It's Always Sunny in Philadelphia",
       "seasonNumber": 13,
       "avgRating": 7.84,
-      "totalVotes": 41822.0,
+      "totalVotes": 41991.0,
       "episodeCount": 10
     },
     {
@@ -2968,7 +2960,7 @@
       "seriesTitle": "It's Always Sunny in Philadelphia",
       "seasonNumber": 14,
       "avgRating": 8.0,
-      "totalVotes": 29104.0,
+      "totalVotes": 29278.0,
       "episodeCount": 10
     },
     {
@@ -2976,7 +2968,7 @@
       "seriesTitle": "It's Always Sunny in Philadelphia",
       "seasonNumber": 15,
       "avgRating": 8.05,
-      "totalVotes": 22410.0,
+      "totalVotes": 22557.0,
       "episodeCount": 8
     },
     {
@@ -2984,7 +2976,7 @@
       "seriesTitle": "It's Always Sunny in Philadelphia",
       "seasonNumber": 16,
       "avgRating": 8.2,
-      "totalVotes": 22606.0,
+      "totalVotes": 22738.0,
       "episodeCount": 8
     },
     {
@@ -2992,23 +2984,55 @@
       "seriesTitle": "It's Always Sunny in Philadelphia",
       "seasonNumber": 17,
       "avgRating": 8.113,
-      "totalVotes": 19351.0,
+      "totalVotes": 19548.0,
       "episodeCount": 8
     },
     {
       "seriesTconst": "tt0472954",
       "seriesTitle": "It's Always Sunny in Philadelphia",
       "seasonNumber": 18,
-      "avgRating": 7.983,
-      "totalVotes": 5100.0,
-      "episodeCount": 6
+      "avgRating": 7.786,
+      "totalVotes": 6309.0,
+      "episodeCount": 7
+    },
+    {
+      "seriesTconst": "tt9561862",
+      "seriesTitle": "Love, Death & Robots",
+      "seasonNumber": 1,
+      "avgRating": 7.311,
+      "totalVotes": 387816.0,
+      "episodeCount": 18
+    },
+    {
+      "seriesTconst": "tt9561862",
+      "seriesTitle": "Love, Death & Robots",
+      "seasonNumber": 2,
+      "avgRating": 7.013,
+      "totalVotes": 112732.0,
+      "episodeCount": 8
+    },
+    {
+      "seriesTconst": "tt9561862",
+      "seriesTitle": "Love, Death & Robots",
+      "seasonNumber": 3,
+      "avgRating": 7.367,
+      "totalVotes": 131978.0,
+      "episodeCount": 9
+    },
+    {
+      "seriesTconst": "tt9561862",
+      "seriesTitle": "Love, Death & Robots",
+      "seasonNumber": 4,
+      "avgRating": 6.07,
+      "totalVotes": 77922.0,
+      "episodeCount": 10
     },
     {
       "seriesTconst": "tt11126994",
       "seriesTitle": "Arcane",
       "seasonNumber": 1,
       "avgRating": 9.089,
-      "totalVotes": 350279.0,
+      "totalVotes": 350800.0,
       "episodeCount": 9
     },
     {
@@ -3016,47 +3040,15 @@
       "seriesTitle": "Arcane",
       "seasonNumber": 2,
       "avgRating": 9.278,
-      "totalVotes": 354183.0,
+      "totalVotes": 354678.0,
       "episodeCount": 9
-    },
-    {
-      "seriesTconst": "tt8111088",
-      "seriesTitle": "The Mandalorian",
-      "seasonNumber": 1,
-      "avgRating": 8.475,
-      "totalVotes": 257600.0,
-      "episodeCount": 8
-    },
-    {
-      "seriesTconst": "tt8111088",
-      "seriesTitle": "The Mandalorian",
-      "seasonNumber": 2,
-      "avgRating": 8.825,
-      "totalVotes": 272731.0,
-      "episodeCount": 8
-    },
-    {
-      "seriesTconst": "tt8111088",
-      "seriesTitle": "The Mandalorian",
-      "seasonNumber": 3,
-      "avgRating": 7.725,
-      "totalVotes": 162851.0,
-      "episodeCount": 8
-    },
-    {
-      "seriesTconst": "tt27497448",
-      "seriesTitle": "A Knight of the Seven Kingdoms",
-      "seasonNumber": 1,
-      "avgRating": 8.867,
-      "totalVotes": 692855.0,
-      "episodeCount": 6
     },
     {
       "seriesTconst": "tt1442437",
       "seriesTitle": "Modern Family",
       "seasonNumber": 1,
       "avgRating": 8.033,
-      "totalVotes": 100840.0,
+      "totalVotes": 101066.0,
       "episodeCount": 24
     },
     {
@@ -3064,15 +3056,15 @@
       "seriesTitle": "Modern Family",
       "seasonNumber": 2,
       "avgRating": 7.987,
-      "totalVotes": 81901.0,
+      "totalVotes": 82037.0,
       "episodeCount": 24
     },
     {
       "seriesTconst": "tt1442437",
       "seriesTitle": "Modern Family",
       "seasonNumber": 3,
-      "avgRating": 7.867,
-      "totalVotes": 74156.0,
+      "avgRating": 7.871,
+      "totalVotes": 74270.0,
       "episodeCount": 24
     },
     {
@@ -3080,7 +3072,7 @@
       "seriesTitle": "Modern Family",
       "seasonNumber": 4,
       "avgRating": 7.946,
-      "totalVotes": 72094.0,
+      "totalVotes": 72242.0,
       "episodeCount": 24
     },
     {
@@ -3088,7 +3080,7 @@
       "seriesTitle": "Modern Family",
       "seasonNumber": 5,
       "avgRating": 7.917,
-      "totalVotes": 69547.0,
+      "totalVotes": 69691.0,
       "episodeCount": 24
     },
     {
@@ -3096,7 +3088,7 @@
       "seriesTitle": "Modern Family",
       "seasonNumber": 6,
       "avgRating": 7.921,
-      "totalVotes": 71104.0,
+      "totalVotes": 71241.0,
       "episodeCount": 24
     },
     {
@@ -3104,7 +3096,7 @@
       "seriesTitle": "Modern Family",
       "seasonNumber": 7,
       "avgRating": 7.805,
-      "totalVotes": 54074.0,
+      "totalVotes": 54174.0,
       "episodeCount": 22
     },
     {
@@ -3112,7 +3104,7 @@
       "seriesTitle": "Modern Family",
       "seasonNumber": 8,
       "avgRating": 7.441,
-      "totalVotes": 48012.0,
+      "totalVotes": 48176.0,
       "episodeCount": 22
     },
     {
@@ -3120,7 +3112,7 @@
       "seriesTitle": "Modern Family",
       "seasonNumber": 9,
       "avgRating": 7.35,
-      "totalVotes": 43528.0,
+      "totalVotes": 43585.0,
       "episodeCount": 22
     },
     {
@@ -3128,47 +3120,55 @@
       "seriesTitle": "Modern Family",
       "seasonNumber": 10,
       "avgRating": 7.327,
-      "totalVotes": 41370.0,
+      "totalVotes": 41425.0,
       "episodeCount": 22
     },
     {
       "seriesTconst": "tt1442437",
       "seriesTitle": "Modern Family",
       "seasonNumber": 11,
-      "avgRating": 7.467,
-      "totalVotes": 35662.0,
+      "avgRating": 7.472,
+      "totalVotes": 35754.0,
       "episodeCount": 18
     },
     {
-      "seriesTconst": "tt13293588",
-      "seriesTitle": "Mushoku Tensei: Jobless Reincarnation",
+      "seriesTconst": "tt8111088",
+      "seriesTitle": "The Mandalorian",
       "seasonNumber": 1,
-      "avgRating": 8.148,
-      "totalVotes": 239800.0,
-      "episodeCount": 23
+      "avgRating": 8.475,
+      "totalVotes": 257768.0,
+      "episodeCount": 8
     },
     {
-      "seriesTconst": "tt13293588",
-      "seriesTitle": "Mushoku Tensei: Jobless Reincarnation",
+      "seriesTconst": "tt8111088",
+      "seriesTitle": "The Mandalorian",
       "seasonNumber": 2,
-      "avgRating": 7.724,
-      "totalVotes": 222571.0,
-      "episodeCount": 25
+      "avgRating": 8.825,
+      "totalVotes": 272886.0,
+      "episodeCount": 8
     },
     {
-      "seriesTconst": "tt13293588",
-      "seriesTitle": "Mushoku Tensei: Jobless Reincarnation",
+      "seriesTconst": "tt8111088",
+      "seriesTitle": "The Mandalorian",
       "seasonNumber": 3,
-      "avgRating": 7.608,
-      "totalVotes": 220625.0,
-      "episodeCount": 12
+      "avgRating": 7.725,
+      "totalVotes": 162977.0,
+      "episodeCount": 8
+    },
+    {
+      "seriesTconst": "tt27497448",
+      "seriesTitle": "A Knight of the Seven Kingdoms",
+      "seasonNumber": 1,
+      "avgRating": 8.867,
+      "totalVotes": 693519.0,
+      "episodeCount": 6
     },
     {
       "seriesTconst": "tt4158110",
       "seriesTitle": "Mr. Robot",
       "seasonNumber": 1,
       "avgRating": 8.66,
-      "totalVotes": 175050.0,
+      "totalVotes": 175539.0,
       "episodeCount": 10
     },
     {
@@ -3176,7 +3176,7 @@
       "seriesTitle": "Mr. Robot",
       "seasonNumber": 2,
       "avgRating": 8.592,
-      "totalVotes": 129364.0,
+      "totalVotes": 129736.0,
       "episodeCount": 12
     },
     {
@@ -3184,7 +3184,7 @@
       "seriesTitle": "Mr. Robot",
       "seasonNumber": 3,
       "avgRating": 9.05,
-      "totalVotes": 123710.0,
+      "totalVotes": 124110.0,
       "episodeCount": 10
     },
     {
@@ -3192,7 +3192,7 @@
       "seriesTitle": "Mr. Robot",
       "seasonNumber": 4,
       "avgRating": 9.231,
-      "totalVotes": 241892.0,
+      "totalVotes": 242539.0,
       "episodeCount": 13
     },
     {
@@ -3200,7 +3200,7 @@
       "seriesTitle": "BoJack Horseman",
       "seasonNumber": 1,
       "avgRating": 7.825,
-      "totalVotes": 99987.0,
+      "totalVotes": 100453.0,
       "episodeCount": 12
     },
     {
@@ -3208,7 +3208,7 @@
       "seriesTitle": "BoJack Horseman",
       "seasonNumber": 2,
       "avgRating": 8.2,
-      "totalVotes": 86872.0,
+      "totalVotes": 87269.0,
       "episodeCount": 12
     },
     {
@@ -3216,7 +3216,7 @@
       "seriesTitle": "BoJack Horseman",
       "seasonNumber": 3,
       "avgRating": 8.408,
-      "totalVotes": 97203.0,
+      "totalVotes": 97561.0,
       "episodeCount": 12
     },
     {
@@ -3224,7 +3224,7 @@
       "seriesTitle": "BoJack Horseman",
       "seasonNumber": 4,
       "avgRating": 8.492,
-      "totalVotes": 100305.0,
+      "totalVotes": 100663.0,
       "episodeCount": 12
     },
     {
@@ -3232,7 +3232,7 @@
       "seriesTitle": "BoJack Horseman",
       "seasonNumber": 5,
       "avgRating": 8.692,
-      "totalVotes": 101377.0,
+      "totalVotes": 101754.0,
       "episodeCount": 12
     },
     {
@@ -3240,7 +3240,7 @@
       "seriesTitle": "BoJack Horseman",
       "seasonNumber": 6,
       "avgRating": 8.806,
-      "totalVotes": 138243.0,
+      "totalVotes": 138649.0,
       "episodeCount": 16
     },
     {
@@ -3248,7 +3248,7 @@
       "seriesTitle": "Brooklyn Nine-Nine",
       "seasonNumber": 1,
       "avgRating": 7.927,
-      "totalVotes": 111483.0,
+      "totalVotes": 111583.0,
       "episodeCount": 22
     },
     {
@@ -3256,7 +3256,7 @@
       "seriesTitle": "Brooklyn Nine-Nine",
       "seasonNumber": 2,
       "avgRating": 8.009,
-      "totalVotes": 94896.0,
+      "totalVotes": 94956.0,
       "episodeCount": 23
     },
     {
@@ -3264,7 +3264,7 @@
       "seriesTitle": "Brooklyn Nine-Nine",
       "seasonNumber": 3,
       "avgRating": 7.991,
-      "totalVotes": 87425.0,
+      "totalVotes": 87471.0,
       "episodeCount": 23
     },
     {
@@ -3272,7 +3272,7 @@
       "seriesTitle": "Brooklyn Nine-Nine",
       "seasonNumber": 4,
       "avgRating": 8.059,
-      "totalVotes": 79792.0,
+      "totalVotes": 79869.0,
       "episodeCount": 22
     },
     {
@@ -3280,7 +3280,7 @@
       "seriesTitle": "Brooklyn Nine-Nine",
       "seasonNumber": 5,
       "avgRating": 8.186,
-      "totalVotes": 88638.0,
+      "totalVotes": 88692.0,
       "episodeCount": 22
     },
     {
@@ -3288,7 +3288,7 @@
       "seriesTitle": "Brooklyn Nine-Nine",
       "seasonNumber": 6,
       "avgRating": 7.933,
-      "totalVotes": 68312.0,
+      "totalVotes": 68360.0,
       "episodeCount": 18
     },
     {
@@ -3296,7 +3296,7 @@
       "seriesTitle": "Brooklyn Nine-Nine",
       "seasonNumber": 7,
       "avgRating": 8.162,
-      "totalVotes": 45076.0,
+      "totalVotes": 45106.0,
       "episodeCount": 13
     },
     {
@@ -3304,7 +3304,7 @@
       "seriesTitle": "Brooklyn Nine-Nine",
       "seasonNumber": 8,
       "avgRating": 7.58,
-      "totalVotes": 45256.0,
+      "totalVotes": 45290.0,
       "episodeCount": 10
     },
     {
@@ -3312,7 +3312,7 @@
       "seriesTitle": "Law & Order: Special Victims Unit",
       "seasonNumber": 1,
       "avgRating": 7.895,
-      "totalVotes": 31216.0,
+      "totalVotes": 31279.0,
       "episodeCount": 22
     },
     {
@@ -3320,15 +3320,15 @@
       "seriesTitle": "Law & Order: Special Victims Unit",
       "seasonNumber": 2,
       "avgRating": 8.052,
-      "totalVotes": 25408.0,
+      "totalVotes": 25459.0,
       "episodeCount": 21
     },
     {
       "seriesTconst": "tt0203259",
       "seriesTitle": "Law & Order: Special Victims Unit",
       "seasonNumber": 3,
-      "avgRating": 8.13,
-      "totalVotes": 26506.0,
+      "avgRating": 8.126,
+      "totalVotes": 26556.0,
       "episodeCount": 23
     },
     {
@@ -3336,7 +3336,7 @@
       "seriesTitle": "Law & Order: Special Victims Unit",
       "seasonNumber": 4,
       "avgRating": 8.164,
-      "totalVotes": 27729.0,
+      "totalVotes": 27815.0,
       "episodeCount": 25
     },
     {
@@ -3344,7 +3344,7 @@
       "seriesTitle": "Law & Order: Special Victims Unit",
       "seasonNumber": 5,
       "avgRating": 8.164,
-      "totalVotes": 27255.0,
+      "totalVotes": 27310.0,
       "episodeCount": 25
     },
     {
@@ -3352,7 +3352,7 @@
       "seriesTitle": "Law & Order: Special Victims Unit",
       "seasonNumber": 6,
       "avgRating": 8.13,
-      "totalVotes": 30916.0,
+      "totalVotes": 30975.0,
       "episodeCount": 23
     },
     {
@@ -3360,23 +3360,23 @@
       "seriesTitle": "Law & Order: Special Victims Unit",
       "seasonNumber": 7,
       "avgRating": 8.109,
-      "totalVotes": 28705.0,
+      "totalVotes": 28728.0,
       "episodeCount": 22
     },
     {
       "seriesTconst": "tt0203259",
       "seriesTitle": "Law & Order: Special Victims Unit",
       "seasonNumber": 8,
-      "avgRating": 8.073,
-      "totalVotes": 24780.0,
+      "avgRating": 8.068,
+      "totalVotes": 24809.0,
       "episodeCount": 22
     },
     {
       "seriesTconst": "tt0203259",
       "seriesTitle": "Law & Order: Special Victims Unit",
       "seasonNumber": 9,
-      "avgRating": 8.111,
-      "totalVotes": 25529.0,
+      "avgRating": 8.105,
+      "totalVotes": 25553.0,
       "episodeCount": 19
     },
     {
@@ -3384,23 +3384,23 @@
       "seriesTitle": "Law & Order: Special Victims Unit",
       "seasonNumber": 10,
       "avgRating": 8.164,
-      "totalVotes": 27209.0,
+      "totalVotes": 27243.0,
       "episodeCount": 22
     },
     {
       "seriesTconst": "tt0203259",
       "seriesTitle": "Law & Order: Special Victims Unit",
       "seasonNumber": 11,
-      "avgRating": 7.979,
-      "totalVotes": 27036.0,
+      "avgRating": 7.975,
+      "totalVotes": 27080.0,
       "episodeCount": 24
     },
     {
       "seriesTconst": "tt0203259",
       "seriesTitle": "Law & Order: Special Victims Unit",
       "seasonNumber": 12,
-      "avgRating": 8.054,
-      "totalVotes": 28929.0,
+      "avgRating": 8.046,
+      "totalVotes": 29033.0,
       "episodeCount": 24
     },
     {
@@ -3408,7 +3408,7 @@
       "seriesTitle": "Law & Order: Special Victims Unit",
       "seasonNumber": 13,
       "avgRating": 7.9,
-      "totalVotes": 25104.0,
+      "totalVotes": 25182.0,
       "episodeCount": 23
     },
     {
@@ -3416,7 +3416,7 @@
       "seriesTitle": "Law & Order: Special Victims Unit",
       "seasonNumber": 14,
       "avgRating": 8.075,
-      "totalVotes": 27373.0,
+      "totalVotes": 27471.0,
       "episodeCount": 24
     },
     {
@@ -3424,7 +3424,7 @@
       "seriesTitle": "Law & Order: Special Victims Unit",
       "seasonNumber": 15,
       "avgRating": 7.958,
-      "totalVotes": 25515.0,
+      "totalVotes": 25568.0,
       "episodeCount": 24
     },
     {
@@ -3432,7 +3432,7 @@
       "seriesTitle": "Law & Order: Special Victims Unit",
       "seasonNumber": 16,
       "avgRating": 7.487,
-      "totalVotes": 26192.0,
+      "totalVotes": 26258.0,
       "episodeCount": 23
     },
     {
@@ -3440,15 +3440,15 @@
       "seriesTitle": "Law & Order: Special Victims Unit",
       "seasonNumber": 17,
       "avgRating": 8.061,
-      "totalVotes": 25906.0,
+      "totalVotes": 25939.0,
       "episodeCount": 23
     },
     {
       "seriesTconst": "tt0203259",
       "seriesTitle": "Law & Order: Special Victims Unit",
       "seasonNumber": 18,
-      "avgRating": 7.619,
-      "totalVotes": 21671.0,
+      "avgRating": 7.624,
+      "totalVotes": 21706.0,
       "episodeCount": 21
     },
     {
@@ -3456,15 +3456,15 @@
       "seriesTitle": "Law & Order: Special Victims Unit",
       "seasonNumber": 19,
       "avgRating": 7.771,
-      "totalVotes": 25212.0,
+      "totalVotes": 25273.0,
       "episodeCount": 24
     },
     {
       "seriesTconst": "tt0203259",
       "seriesTitle": "Law & Order: Special Victims Unit",
       "seasonNumber": 20,
-      "avgRating": 7.746,
-      "totalVotes": 21559.0,
+      "avgRating": 7.75,
+      "totalVotes": 21595.0,
       "episodeCount": 24
     },
     {
@@ -3472,7 +3472,7 @@
       "seriesTitle": "Law & Order: Special Victims Unit",
       "seasonNumber": 21,
       "avgRating": 7.855,
-      "totalVotes": 12049.0,
+      "totalVotes": 12051.0,
       "episodeCount": 20
     },
     {
@@ -3480,15 +3480,15 @@
       "seriesTitle": "Law & Order: Special Victims Unit",
       "seasonNumber": 22,
       "avgRating": 7.656,
-      "totalVotes": 10749.0,
+      "totalVotes": 10760.0,
       "episodeCount": 16
     },
     {
       "seriesTconst": "tt0203259",
       "seriesTitle": "Law & Order: Special Victims Unit",
       "seasonNumber": 23,
-      "avgRating": 7.864,
-      "totalVotes": 12111.0,
+      "avgRating": 7.859,
+      "totalVotes": 12158.0,
       "episodeCount": 22
     },
     {
@@ -3496,7 +3496,7 @@
       "seriesTitle": "Law & Order: Special Victims Unit",
       "seasonNumber": 24,
       "avgRating": 7.691,
-      "totalVotes": 10774.0,
+      "totalVotes": 10819.0,
       "episodeCount": 22
     },
     {
@@ -3504,7 +3504,7 @@
       "seriesTitle": "Law & Order: Special Victims Unit",
       "seasonNumber": 25,
       "avgRating": 7.508,
-      "totalVotes": 6389.0,
+      "totalVotes": 6412.0,
       "episodeCount": 13
     },
     {
@@ -3512,15 +3512,15 @@
       "seriesTitle": "Law & Order: Special Victims Unit",
       "seasonNumber": 26,
       "avgRating": 7.695,
-      "totalVotes": 8771.0,
+      "totalVotes": 8813.0,
       "episodeCount": 22
     },
     {
       "seriesTconst": "tt0203259",
       "seriesTitle": "Law & Order: Special Victims Unit",
       "seasonNumber": 27,
-      "avgRating": 7.881,
-      "totalVotes": 6784.0,
+      "avgRating": 7.867,
+      "totalVotes": 6893.0,
       "episodeCount": 21
     },
     {
@@ -3528,7 +3528,7 @@
       "seriesTitle": "Buffy the Vampire Slayer",
       "seasonNumber": 1,
       "avgRating": 7.567,
-      "totalVotes": 63051.0,
+      "totalVotes": 63194.0,
       "episodeCount": 12
     },
     {
@@ -3536,7 +3536,7 @@
       "seriesTitle": "Buffy the Vampire Slayer",
       "seasonNumber": 2,
       "avgRating": 8.032,
-      "totalVotes": 105175.0,
+      "totalVotes": 105328.0,
       "episodeCount": 22
     },
     {
@@ -3544,7 +3544,7 @@
       "seriesTitle": "Buffy the Vampire Slayer",
       "seasonNumber": 3,
       "avgRating": 8.318,
-      "totalVotes": 98149.0,
+      "totalVotes": 98291.0,
       "episodeCount": 22
     },
     {
@@ -3552,7 +3552,7 @@
       "seriesTitle": "Buffy the Vampire Slayer",
       "seasonNumber": 4,
       "avgRating": 7.882,
-      "totalVotes": 94424.0,
+      "totalVotes": 94549.0,
       "episodeCount": 22
     },
     {
@@ -3560,23 +3560,23 @@
       "seriesTitle": "Buffy the Vampire Slayer",
       "seasonNumber": 5,
       "avgRating": 8.055,
-      "totalVotes": 83969.0,
+      "totalVotes": 84057.0,
       "episodeCount": 22
     },
     {
       "seriesTconst": "tt0118276",
       "seriesTitle": "Buffy the Vampire Slayer",
       "seasonNumber": 6,
-      "avgRating": 7.959,
-      "totalVotes": 80712.0,
+      "avgRating": 7.964,
+      "totalVotes": 80830.0,
       "episodeCount": 22
     },
     {
       "seriesTconst": "tt0118276",
       "seriesTitle": "Buffy the Vampire Slayer",
       "seasonNumber": 7,
-      "avgRating": 7.986,
-      "totalVotes": 68061.0,
+      "avgRating": 7.982,
+      "totalVotes": 68180.0,
       "episodeCount": 22
     }
   ]
