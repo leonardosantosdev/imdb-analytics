@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-28T13:28:13+00:00",
-  "snapshotDate": "2026-09-28",
+  "generatedAt": "2026-10-05T14:11:26+00:00",
+  "snapshotDate": "2026-10-05",
   "rows": 50,
   "data": [
     {
@@ -22,10 +22,10 @@
     {
       "seriesTconst": "tt34174211",
       "seriesTitle": "Celebrity Substitute",
-      "season1Rating": 9.0,
+      "season1Rating": 8.9,
       "lastSeasonRating": 2.2,
       "lastSeason": 3,
-      "qualityDrop": 6.8
+      "qualityDrop": 6.7
     },
     {
       "seriesTconst": "tt3004376",
@@ -46,10 +46,10 @@
     {
       "seriesTconst": "tt0063908",
       "seriesTitle": "Hee Haw",
-      "season1Rating": 6.855,
+      "season1Rating": 6.845,
       "lastSeasonRating": 1.0,
       "lastSeason": 12,
-      "qualityDrop": 5.855
+      "qualityDrop": 5.845
     },
     {
       "seriesTconst": "tt0122824",
@@ -148,6 +148,14 @@
       "qualityDrop": 4.975
     },
     {
+      "seriesTconst": "tt0048892",
+      "seriesTitle": "On Trial",
+      "season1Rating": 9.4,
+      "lastSeasonRating": 4.5,
+      "lastSeason": 2,
+      "qualityDrop": 4.9
+    },
+    {
       "seriesTconst": "tt0329829",
       "seriesTitle": "Fireman Sam",
       "season1Rating": 8.35,
@@ -172,28 +180,12 @@
       "qualityDrop": 4.8
     },
     {
-      "seriesTconst": "tt0048892",
-      "seriesTitle": "On Trial",
-      "season1Rating": 9.4,
-      "lastSeasonRating": 4.65,
-      "lastSeason": 2,
-      "qualityDrop": 4.75
-    },
-    {
       "seriesTconst": "tt0360301",
       "seriesTitle": "Player$",
       "season1Rating": 7.2,
       "lastSeasonRating": 2.45,
       "lastSeason": 2,
       "qualityDrop": 4.75
-    },
-    {
-      "seriesTconst": "tt12872884",
-      "seriesTitle": "An Anatolian Tale",
-      "season1Rating": 8.543,
-      "lastSeasonRating": 3.867,
-      "lastSeason": 7,
-      "qualityDrop": 4.676
     },
     {
       "seriesTconst": "tt4277268",
@@ -276,18 +268,18 @@
       "qualityDrop": 4.375
     },
     {
-      "seriesTconst": "tt0115367",
-      "seriesTitle": "Sparks",
-      "season1Rating": 8.6,
-      "lastSeasonRating": 4.3,
-      "lastSeason": 2,
-      "qualityDrop": 4.3
-    },
-    {
       "seriesTconst": "tt1141678",
       "seriesTitle": "Inspektor Rolle",
       "season1Rating": 7.7,
       "lastSeasonRating": 3.4,
+      "lastSeason": 2,
+      "qualityDrop": 4.3
+    },
+    {
+      "seriesTconst": "tt0115367",
+      "seriesTitle": "Sparks",
+      "season1Rating": 8.6,
+      "lastSeasonRating": 4.3,
       "lastSeason": 2,
       "qualityDrop": 4.3
     },
@@ -348,19 +340,19 @@
       "qualityDrop": 4.1
     },
     {
-      "seriesTconst": "tt1885777",
-      "seriesTitle": "Funny as Hell",
-      "season1Rating": 5.6,
-      "lastSeasonRating": 1.5,
-      "lastSeason": 2,
-      "qualityDrop": 4.1
-    },
-    {
       "seriesTconst": "tt0344743",
       "seriesTitle": "V.I.P.-Schaukel",
       "season1Rating": 7.0,
       "lastSeasonRating": 2.9,
       "lastSeason": 7,
+      "qualityDrop": 4.1
+    },
+    {
+      "seriesTconst": "tt1885777",
+      "seriesTitle": "Funny as Hell",
+      "season1Rating": 5.6,
+      "lastSeasonRating": 1.5,
+      "lastSeason": 2,
       "qualityDrop": 4.1
     },
     {
@@ -370,6 +362,14 @@
       "lastSeasonRating": 4.386,
       "lastSeason": 6,
       "qualityDrop": 4.074
+    },
+    {
+      "seriesTconst": "tt12872884",
+      "seriesTitle": "An Anatolian Tale",
+      "season1Rating": 8.507,
+      "lastSeasonRating": 4.475,
+      "lastSeason": 7,
+      "qualityDrop": 4.032
     },
     {
       "seriesTconst": "tt5180504",
