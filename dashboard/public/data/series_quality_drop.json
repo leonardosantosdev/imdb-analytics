@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-05T14:11:26+00:00",
-  "snapshotDate": "2026-10-05",
+  "generatedAt": "2026-10-12T15:00:24+00:00",
+  "snapshotDate": "2026-10-12",
   "rows": 50,
   "data": [
     {
@@ -46,10 +46,10 @@
     {
       "seriesTconst": "tt0063908",
       "seriesTitle": "Hee Haw",
-      "season1Rating": 6.845,
+      "season1Rating": 6.864,
       "lastSeasonRating": 1.0,
       "lastSeason": 12,
-      "qualityDrop": 5.845
+      "qualityDrop": 5.864
     },
     {
       "seriesTconst": "tt0122824",
@@ -82,6 +82,14 @@
       "lastSeasonRating": 3.8,
       "lastSeason": 6,
       "qualityDrop": 5.4
+    },
+    {
+      "seriesTconst": "tt31323246",
+      "seriesTitle": "Hot Ones Versus",
+      "season1Rating": 6.56,
+      "lastSeasonRating": 1.2,
+      "lastSeason": 9,
+      "qualityDrop": 5.36
     },
     {
       "seriesTconst": "tt0121016",
@@ -135,9 +143,9 @@
       "seriesTconst": "tt4508902",
       "seriesTitle": "One Punch Man",
       "season1Rating": 8.775,
-      "lastSeasonRating": 3.792,
+      "lastSeasonRating": 3.8,
       "lastSeason": 3,
-      "qualityDrop": 4.983
+      "qualityDrop": 4.975
     },
     {
       "seriesTconst": "tt13488080",
@@ -158,10 +166,10 @@
     {
       "seriesTconst": "tt0329829",
       "seriesTitle": "Fireman Sam",
-      "season1Rating": 8.35,
-      "lastSeasonRating": 3.522,
+      "season1Rating": 8.363,
+      "lastSeasonRating": 3.517,
       "lastSeason": 16,
-      "qualityDrop": 4.828
+      "qualityDrop": 4.846
     },
     {
       "seriesTconst": "tt2214918",
@@ -170,14 +178,6 @@
       "lastSeasonRating": 3.0,
       "lastSeason": 3,
       "qualityDrop": 4.817
-    },
-    {
-      "seriesTconst": "tt0081857",
-      "seriesTitle": "Entertainment Tonight",
-      "season1Rating": 8.3,
-      "lastSeasonRating": 3.5,
-      "lastSeason": 40,
-      "qualityDrop": 4.8
     },
     {
       "seriesTconst": "tt0360301",
@@ -236,19 +236,19 @@
       "qualityDrop": 4.406
     },
     {
-      "seriesTconst": "tt0101117",
-      "seriesTitle": "The Hidden Room",
-      "season1Rating": 6.7,
-      "lastSeasonRating": 2.3,
-      "lastSeason": 2,
-      "qualityDrop": 4.4
-    },
-    {
       "seriesTconst": "tt0306760",
       "seriesTitle": "Edel & Starck",
       "season1Rating": 7.6,
       "lastSeasonRating": 3.2,
       "lastSeason": 4,
+      "qualityDrop": 4.4
+    },
+    {
+      "seriesTconst": "tt0101117",
+      "seriesTitle": "The Hidden Room",
+      "season1Rating": 6.7,
+      "lastSeasonRating": 2.3,
+      "lastSeason": 2,
       "qualityDrop": 4.4
     },
     {
@@ -268,18 +268,18 @@
       "qualityDrop": 4.375
     },
     {
-      "seriesTconst": "tt1141678",
-      "seriesTitle": "Inspektor Rolle",
-      "season1Rating": 7.7,
-      "lastSeasonRating": 3.4,
-      "lastSeason": 2,
-      "qualityDrop": 4.3
-    },
-    {
       "seriesTconst": "tt0115367",
       "seriesTitle": "Sparks",
       "season1Rating": 8.6,
       "lastSeasonRating": 4.3,
+      "lastSeason": 2,
+      "qualityDrop": 4.3
+    },
+    {
+      "seriesTconst": "tt1141678",
+      "seriesTitle": "Inspektor Rolle",
+      "season1Rating": 7.7,
+      "lastSeasonRating": 3.4,
       "lastSeason": 2,
       "qualityDrop": 4.3
     },
@@ -300,20 +300,20 @@
       "qualityDrop": 4.235
     },
     {
-      "seriesTconst": "tt17736900",
-      "seriesTitle": "Lock Upp",
-      "season1Rating": 8.371,
-      "lastSeasonRating": 4.15,
-      "lastSeason": 2,
-      "qualityDrop": 4.221
-    },
-    {
       "seriesTconst": "tt0856757",
       "seriesTitle": "Leaf Cast",
-      "season1Rating": 7.037,
-      "lastSeasonRating": 2.867,
+      "season1Rating": 7.003,
+      "lastSeasonRating": 2.833,
       "lastSeason": 5,
       "qualityDrop": 4.17
+    },
+    {
+      "seriesTconst": "tt17736900",
+      "seriesTitle": "Lock Upp",
+      "season1Rating": 8.286,
+      "lastSeasonRating": 4.15,
+      "lastSeason": 2,
+      "qualityDrop": 4.136
     },
     {
       "seriesTconst": "tt10827252",
@@ -340,19 +340,19 @@
       "qualityDrop": 4.1
     },
     {
-      "seriesTconst": "tt0344743",
-      "seriesTitle": "V.I.P.-Schaukel",
-      "season1Rating": 7.0,
-      "lastSeasonRating": 2.9,
-      "lastSeason": 7,
-      "qualityDrop": 4.1
-    },
-    {
       "seriesTconst": "tt1885777",
       "seriesTitle": "Funny as Hell",
       "season1Rating": 5.6,
       "lastSeasonRating": 1.5,
       "lastSeason": 2,
+      "qualityDrop": 4.1
+    },
+    {
+      "seriesTconst": "tt0344743",
+      "seriesTitle": "V.I.P.-Schaukel",
+      "season1Rating": 7.0,
+      "lastSeasonRating": 2.9,
+      "lastSeason": 7,
       "qualityDrop": 4.1
     },
     {
