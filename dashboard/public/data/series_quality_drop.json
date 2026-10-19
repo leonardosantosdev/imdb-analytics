@@ -1,16 +1,8 @@
 {
-  "generatedAt": "2026-10-12T15:00:24+00:00",
-  "snapshotDate": "2026-10-12",
+  "generatedAt": "2026-10-19T12:44:28+00:00",
+  "snapshotDate": "2026-10-19",
   "rows": 50,
   "data": [
-    {
-      "seriesTconst": "tt0096636",
-      "seriesTitle": "Live with Kelly and Mark",
-      "season1Rating": 9.7,
-      "lastSeasonRating": 1.0,
-      "lastSeason": 33,
-      "qualityDrop": 8.7
-    },
     {
       "seriesTconst": "tt0108865",
       "seriesTitle": "Movie Magic",
@@ -22,10 +14,10 @@
     {
       "seriesTconst": "tt34174211",
       "seriesTitle": "Celebrity Substitute",
-      "season1Rating": 8.9,
-      "lastSeasonRating": 2.2,
+      "season1Rating": 8.883,
+      "lastSeasonRating": 2.3,
       "lastSeason": 3,
-      "qualityDrop": 6.7
+      "qualityDrop": 6.583
     },
     {
       "seriesTconst": "tt3004376",
@@ -84,12 +76,12 @@
       "qualityDrop": 5.4
     },
     {
-      "seriesTconst": "tt31323246",
-      "seriesTitle": "Hot Ones Versus",
-      "season1Rating": 6.56,
+      "seriesTconst": "tt0063890",
+      "seriesTitle": "The David Frost Show",
+      "season1Rating": 6.5,
       "lastSeasonRating": 1.2,
-      "lastSeason": 9,
-      "qualityDrop": 5.36
+      "lastSeason": 4,
+      "qualityDrop": 5.3
     },
     {
       "seriesTconst": "tt0121016",
@@ -100,12 +92,12 @@
       "qualityDrop": 5.3
     },
     {
-      "seriesTconst": "tt0063890",
-      "seriesTitle": "The David Frost Show",
-      "season1Rating": 6.5,
-      "lastSeasonRating": 1.2,
-      "lastSeason": 4,
-      "qualityDrop": 5.3
+      "seriesTconst": "tt31323246",
+      "seriesTitle": "Hot Ones Versus",
+      "season1Rating": 6.56,
+      "lastSeasonRating": 1.4,
+      "lastSeason": 9,
+      "qualityDrop": 5.16
     },
     {
       "seriesTconst": "tt0210450",
@@ -113,6 +105,14 @@
       "season1Rating": 6.2,
       "lastSeasonRating": 1.1,
       "lastSeason": 9,
+      "qualityDrop": 5.1
+    },
+    {
+      "seriesTconst": "tt0418372",
+      "seriesTitle": "The Block",
+      "season1Rating": 6.7,
+      "lastSeasonRating": 1.6,
+      "lastSeason": 22,
       "qualityDrop": 5.1
     },
     {
@@ -140,19 +140,19 @@
       "qualityDrop": 5.0
     },
     {
-      "seriesTconst": "tt4508902",
-      "seriesTitle": "One Punch Man",
-      "season1Rating": 8.775,
-      "lastSeasonRating": 3.8,
-      "lastSeason": 3,
-      "qualityDrop": 4.975
-    },
-    {
       "seriesTconst": "tt13488080",
       "seriesTitle": "Rainbow High",
       "season1Rating": 8.344,
       "lastSeasonRating": 3.369,
       "lastSeason": 6,
+      "qualityDrop": 4.975
+    },
+    {
+      "seriesTconst": "tt4508902",
+      "seriesTitle": "One Punch Man",
+      "season1Rating": 8.775,
+      "lastSeasonRating": 3.8,
+      "lastSeason": 3,
       "qualityDrop": 4.975
     },
     {
@@ -228,19 +228,11 @@
       "qualityDrop": 4.417
     },
     {
-      "seriesTconst": "tt5723284",
-      "seriesTitle": "I Hate Everything",
-      "season1Rating": 5.906,
-      "lastSeasonRating": 1.5,
-      "lastSeason": 12,
-      "qualityDrop": 4.406
-    },
-    {
-      "seriesTconst": "tt0306760",
-      "seriesTitle": "Edel & Starck",
-      "season1Rating": 7.6,
-      "lastSeasonRating": 3.2,
-      "lastSeason": 4,
+      "seriesTconst": "tt0046584",
+      "seriesTitle": "Caesar's Hour",
+      "season1Rating": 5.6,
+      "lastSeasonRating": 1.2,
+      "lastSeason": 3,
       "qualityDrop": 4.4
     },
     {
@@ -252,12 +244,20 @@
       "qualityDrop": 4.4
     },
     {
-      "seriesTconst": "tt0046584",
-      "seriesTitle": "Caesar's Hour",
-      "season1Rating": 5.6,
-      "lastSeasonRating": 1.2,
-      "lastSeason": 3,
+      "seriesTconst": "tt0306760",
+      "seriesTitle": "Edel & Starck",
+      "season1Rating": 7.6,
+      "lastSeasonRating": 3.2,
+      "lastSeason": 4,
       "qualityDrop": 4.4
+    },
+    {
+      "seriesTconst": "tt5723284",
+      "seriesTitle": "I Hate Everything",
+      "season1Rating": 5.889,
+      "lastSeasonRating": 1.5,
+      "lastSeason": 12,
+      "qualityDrop": 4.389
     },
     {
       "seriesTconst": "tt16994878",
@@ -268,18 +268,18 @@
       "qualityDrop": 4.375
     },
     {
-      "seriesTconst": "tt0115367",
-      "seriesTitle": "Sparks",
-      "season1Rating": 8.6,
-      "lastSeasonRating": 4.3,
-      "lastSeason": 2,
-      "qualityDrop": 4.3
-    },
-    {
       "seriesTconst": "tt1141678",
       "seriesTitle": "Inspektor Rolle",
       "season1Rating": 7.7,
       "lastSeasonRating": 3.4,
+      "lastSeason": 2,
+      "qualityDrop": 4.3
+    },
+    {
+      "seriesTconst": "tt0115367",
+      "seriesTitle": "Sparks",
+      "season1Rating": 8.6,
+      "lastSeasonRating": 4.3,
       "lastSeason": 2,
       "qualityDrop": 4.3
     },
@@ -316,22 +316,6 @@
       "qualityDrop": 4.136
     },
     {
-      "seriesTconst": "tt10827252",
-      "seriesTitle": "The Drew Barrymore Show",
-      "season1Rating": 6.117,
-      "lastSeasonRating": 2.0,
-      "lastSeason": 6,
-      "qualityDrop": 4.117
-    },
-    {
-      "seriesTconst": "tt1756927",
-      "seriesTitle": "American Restoration",
-      "season1Rating": 7.25,
-      "lastSeasonRating": 3.15,
-      "lastSeason": 7,
-      "qualityDrop": 4.1
-    },
-    {
       "seriesTconst": "tt1724588",
       "seriesTitle": "Ebert Presents: At the Movies",
       "season1Rating": 6.3,
@@ -340,18 +324,18 @@
       "qualityDrop": 4.1
     },
     {
-      "seriesTconst": "tt1885777",
-      "seriesTitle": "Funny as Hell",
-      "season1Rating": 5.6,
-      "lastSeasonRating": 1.5,
-      "lastSeason": 2,
-      "qualityDrop": 4.1
-    },
-    {
       "seriesTconst": "tt0344743",
       "seriesTitle": "V.I.P.-Schaukel",
       "season1Rating": 7.0,
       "lastSeasonRating": 2.9,
+      "lastSeason": 7,
+      "qualityDrop": 4.1
+    },
+    {
+      "seriesTconst": "tt1756927",
+      "seriesTitle": "American Restoration",
+      "season1Rating": 7.25,
+      "lastSeasonRating": 3.15,
       "lastSeason": 7,
       "qualityDrop": 4.1
     },
@@ -372,12 +356,12 @@
       "qualityDrop": 4.032
     },
     {
-      "seriesTconst": "tt5180504",
-      "seriesTitle": "The Witcher",
-      "season1Rating": 8.288,
-      "lastSeasonRating": 4.387,
-      "lastSeason": 4,
-      "qualityDrop": 3.901
+      "seriesTconst": "tt1885777",
+      "seriesTitle": "Funny as Hell",
+      "season1Rating": 5.5,
+      "lastSeasonRating": 1.5,
+      "lastSeason": 2,
+      "qualityDrop": 4.0
     },
     {
       "seriesTconst": "tt0486068",
@@ -388,12 +372,20 @@
       "qualityDrop": 3.9
     },
     {
+      "seriesTconst": "tt5180504",
+      "seriesTitle": "The Witcher",
+      "season1Rating": 8.288,
+      "lastSeasonRating": 4.4,
+      "lastSeason": 4,
+      "qualityDrop": 3.888
+    },
+    {
       "seriesTconst": "tt0112097",
       "seriesTitle": "Night Stand",
-      "season1Rating": 8.033,
+      "season1Rating": 8.05,
       "lastSeasonRating": 4.2,
       "lastSeason": 2,
-      "qualityDrop": 3.833
+      "qualityDrop": 3.85
     },
     {
       "seriesTconst": "tt1095213",
@@ -402,6 +394,14 @@
       "lastSeasonRating": 1.0,
       "lastSeason": 10,
       "qualityDrop": 3.8
+    },
+    {
+      "seriesTconst": "tt31365727",
+      "seriesTitle": "A renitens",
+      "season1Rating": 8.337,
+      "lastSeasonRating": 4.543,
+      "lastSeason": 3,
+      "qualityDrop": 3.794
     }
   ]
 }
