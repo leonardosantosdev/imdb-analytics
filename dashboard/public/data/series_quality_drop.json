@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-19T12:44:28+00:00",
-  "snapshotDate": "2026-10-19",
+  "generatedAt": "2026-10-26T12:37:57+00:00",
+  "snapshotDate": "2026-10-26",
   "rows": 50,
   "data": [
     {
@@ -124,19 +124,19 @@
       "qualityDrop": 5.05
     },
     {
-      "seriesTconst": "tt5191128",
-      "seriesTitle": "The Break",
-      "season1Rating": 7.8,
-      "lastSeasonRating": 2.8,
-      "lastSeason": 3,
-      "qualityDrop": 5.0
-    },
-    {
       "seriesTconst": "tt0815086",
       "seriesTitle": "Walmart Soundcheck",
       "season1Rating": 9.2,
       "lastSeasonRating": 4.2,
       "lastSeason": 2,
+      "qualityDrop": 5.0
+    },
+    {
+      "seriesTconst": "tt5191128",
+      "seriesTitle": "The Break",
+      "season1Rating": 7.8,
+      "lastSeasonRating": 2.8,
+      "lastSeason": 3,
       "qualityDrop": 5.0
     },
     {
@@ -162,14 +162,6 @@
       "lastSeasonRating": 4.5,
       "lastSeason": 2,
       "qualityDrop": 4.9
-    },
-    {
-      "seriesTconst": "tt0329829",
-      "seriesTitle": "Fireman Sam",
-      "season1Rating": 8.363,
-      "lastSeasonRating": 3.517,
-      "lastSeason": 16,
-      "qualityDrop": 4.846
     },
     {
       "seriesTconst": "tt2214918",
@@ -212,6 +204,14 @@
       "qualityDrop": 4.567
     },
     {
+      "seriesTconst": "tt0329829",
+      "seriesTitle": "Fireman Sam",
+      "season1Rating": 8.363,
+      "lastSeasonRating": 3.842,
+      "lastSeason": 16,
+      "qualityDrop": 4.521
+    },
+    {
       "seriesTconst": "tt16897176",
       "seriesTitle": "Royal Histories",
       "season1Rating": 7.014,
@@ -220,20 +220,20 @@
       "qualityDrop": 4.514
     },
     {
+      "seriesTconst": "tt0346211",
+      "seriesTitle": "Bir Demet Tiyatro",
+      "season1Rating": 5.43,
+      "lastSeasonRating": 1.0,
+      "lastSeason": 2,
+      "qualityDrop": 4.43
+    },
+    {
       "seriesTconst": "tt0375289",
       "seriesTitle": "Crni Gruja",
       "season1Rating": 9.567,
       "lastSeasonRating": 5.15,
       "lastSeason": 3,
       "qualityDrop": 4.417
-    },
-    {
-      "seriesTconst": "tt0046584",
-      "seriesTitle": "Caesar's Hour",
-      "season1Rating": 5.6,
-      "lastSeasonRating": 1.2,
-      "lastSeason": 3,
-      "qualityDrop": 4.4
     },
     {
       "seriesTconst": "tt0101117",
@@ -252,6 +252,14 @@
       "qualityDrop": 4.4
     },
     {
+      "seriesTconst": "tt0046584",
+      "seriesTitle": "Caesar's Hour",
+      "season1Rating": 5.6,
+      "lastSeasonRating": 1.2,
+      "lastSeason": 3,
+      "qualityDrop": 4.4
+    },
+    {
       "seriesTconst": "tt5723284",
       "seriesTitle": "I Hate Everything",
       "season1Rating": 5.889,
@@ -260,26 +268,18 @@
       "qualityDrop": 4.389
     },
     {
-      "seriesTconst": "tt16994878",
-      "seriesTitle": "7vs.Wild",
-      "season1Rating": 8.25,
-      "lastSeasonRating": 3.875,
-      "lastSeason": 5,
-      "qualityDrop": 4.375
+      "seriesTconst": "tt0115367",
+      "seriesTitle": "Sparks",
+      "season1Rating": 8.6,
+      "lastSeasonRating": 4.3,
+      "lastSeason": 2,
+      "qualityDrop": 4.3
     },
     {
       "seriesTconst": "tt1141678",
       "seriesTitle": "Inspektor Rolle",
       "season1Rating": 7.7,
       "lastSeasonRating": 3.4,
-      "lastSeason": 2,
-      "qualityDrop": 4.3
-    },
-    {
-      "seriesTconst": "tt0115367",
-      "seriesTitle": "Sparks",
-      "season1Rating": 8.6,
-      "lastSeasonRating": 4.3,
       "lastSeason": 2,
       "qualityDrop": 4.3
     },
@@ -294,18 +294,26 @@
     {
       "seriesTconst": "tt1856010",
       "seriesTitle": "House of Cards",
-      "season1Rating": 8.385,
+      "season1Rating": 8.377,
       "lastSeasonRating": 4.15,
       "lastSeason": 6,
-      "qualityDrop": 4.235
+      "qualityDrop": 4.227
+    },
+    {
+      "seriesTconst": "tt0166937",
+      "seriesTitle": "The Wubbulous World of Dr. Seuss",
+      "season1Rating": 6.6,
+      "lastSeasonRating": 2.4,
+      "lastSeason": 2,
+      "qualityDrop": 4.2
     },
     {
       "seriesTconst": "tt0856757",
       "seriesTitle": "Leaf Cast",
-      "season1Rating": 7.003,
+      "season1Rating": 7.008,
       "lastSeasonRating": 2.833,
       "lastSeason": 5,
-      "qualityDrop": 4.17
+      "qualityDrop": 4.175
     },
     {
       "seriesTconst": "tt17736900",
@@ -314,14 +322,6 @@
       "lastSeasonRating": 4.15,
       "lastSeason": 2,
       "qualityDrop": 4.136
-    },
-    {
-      "seriesTconst": "tt1724588",
-      "seriesTitle": "Ebert Presents: At the Movies",
-      "season1Rating": 6.3,
-      "lastSeasonRating": 2.2,
-      "lastSeason": 2,
-      "qualityDrop": 4.1
     },
     {
       "seriesTconst": "tt0344743",
@@ -337,6 +337,14 @@
       "season1Rating": 7.25,
       "lastSeasonRating": 3.15,
       "lastSeason": 7,
+      "qualityDrop": 4.1
+    },
+    {
+      "seriesTconst": "tt1724588",
+      "seriesTitle": "Ebert Presents: At the Movies",
+      "season1Rating": 6.3,
+      "lastSeasonRating": 2.2,
+      "lastSeason": 2,
       "qualityDrop": 4.1
     },
     {
@@ -394,14 +402,6 @@
       "lastSeasonRating": 1.0,
       "lastSeason": 10,
       "qualityDrop": 3.8
-    },
-    {
-      "seriesTconst": "tt31365727",
-      "seriesTitle": "A renitens",
-      "season1Rating": 8.337,
-      "lastSeasonRating": 4.543,
-      "lastSeason": 3,
-      "qualityDrop": 3.794
     }
   ]
 }
