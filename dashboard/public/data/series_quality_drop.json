@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-26T12:37:57+00:00",
-  "snapshotDate": "2026-10-26",
+  "generatedAt": "2026-11-02T15:20:22+00:00",
+  "snapshotDate": "2026-11-02",
   "rows": 50,
   "data": [
     {
@@ -30,10 +30,10 @@
     {
       "seriesTconst": "tt8560918",
       "seriesTitle": "The Queen of Flow",
-      "season1Rating": 8.97,
-      "lastSeasonRating": 3.072,
+      "season1Rating": 8.951,
+      "lastSeasonRating": 3.075,
       "lastSeason": 3,
-      "qualityDrop": 5.898
+      "qualityDrop": 5.876
     },
     {
       "seriesTconst": "tt0063908",
@@ -60,6 +60,14 @@
       "qualityDrop": 5.6
     },
     {
+      "seriesTconst": "tt0081857",
+      "seriesTitle": "Entertainment Tonight",
+      "season1Rating": 6.5,
+      "lastSeasonRating": 1.0,
+      "lastSeason": 46,
+      "qualityDrop": 5.5
+    },
+    {
       "seriesTconst": "tt5637842",
       "seriesTitle": "The Rap Game",
       "season1Rating": 8.1,
@@ -74,6 +82,14 @@
       "lastSeasonRating": 3.8,
       "lastSeason": 6,
       "qualityDrop": 5.4
+    },
+    {
+      "seriesTconst": "tt31323246",
+      "seriesTitle": "Hot Ones Versus",
+      "season1Rating": 6.76,
+      "lastSeasonRating": 1.4,
+      "lastSeason": 9,
+      "qualityDrop": 5.36
     },
     {
       "seriesTconst": "tt0063890",
@@ -92,27 +108,11 @@
       "qualityDrop": 5.3
     },
     {
-      "seriesTconst": "tt31323246",
-      "seriesTitle": "Hot Ones Versus",
-      "season1Rating": 6.56,
-      "lastSeasonRating": 1.4,
-      "lastSeason": 9,
-      "qualityDrop": 5.16
-    },
-    {
       "seriesTconst": "tt0210450",
       "seriesTitle": "SexTV",
       "season1Rating": 6.2,
       "lastSeasonRating": 1.1,
       "lastSeason": 9,
-      "qualityDrop": 5.1
-    },
-    {
-      "seriesTconst": "tt0418372",
-      "seriesTitle": "The Block",
-      "season1Rating": 6.7,
-      "lastSeasonRating": 1.6,
-      "lastSeason": 22,
       "qualityDrop": 5.1
     },
     {
@@ -124,14 +124,6 @@
       "qualityDrop": 5.05
     },
     {
-      "seriesTconst": "tt0815086",
-      "seriesTitle": "Walmart Soundcheck",
-      "season1Rating": 9.2,
-      "lastSeasonRating": 4.2,
-      "lastSeason": 2,
-      "qualityDrop": 5.0
-    },
-    {
       "seriesTconst": "tt5191128",
       "seriesTitle": "The Break",
       "season1Rating": 7.8,
@@ -140,12 +132,20 @@
       "qualityDrop": 5.0
     },
     {
+      "seriesTconst": "tt0815086",
+      "seriesTitle": "Walmart Soundcheck",
+      "season1Rating": 9.2,
+      "lastSeasonRating": 4.2,
+      "lastSeason": 2,
+      "qualityDrop": 5.0
+    },
+    {
       "seriesTconst": "tt13488080",
       "seriesTitle": "Rainbow High",
-      "season1Rating": 8.344,
+      "season1Rating": 8.35,
       "lastSeasonRating": 3.369,
       "lastSeason": 6,
-      "qualityDrop": 4.975
+      "qualityDrop": 4.981
     },
     {
       "seriesTconst": "tt4508902",
@@ -204,28 +204,12 @@
       "qualityDrop": 4.567
     },
     {
-      "seriesTconst": "tt0329829",
-      "seriesTitle": "Fireman Sam",
-      "season1Rating": 8.363,
-      "lastSeasonRating": 3.842,
-      "lastSeason": 16,
-      "qualityDrop": 4.521
-    },
-    {
       "seriesTconst": "tt16897176",
       "seriesTitle": "Royal Histories",
       "season1Rating": 7.014,
       "lastSeasonRating": 2.5,
       "lastSeason": 8,
       "qualityDrop": 4.514
-    },
-    {
-      "seriesTconst": "tt0346211",
-      "seriesTitle": "Bir Demet Tiyatro",
-      "season1Rating": 5.43,
-      "lastSeasonRating": 1.0,
-      "lastSeason": 2,
-      "qualityDrop": 4.43
     },
     {
       "seriesTconst": "tt0375289",
@@ -244,19 +228,19 @@
       "qualityDrop": 4.4
     },
     {
-      "seriesTconst": "tt0306760",
-      "seriesTitle": "Edel & Starck",
-      "season1Rating": 7.6,
-      "lastSeasonRating": 3.2,
-      "lastSeason": 4,
-      "qualityDrop": 4.4
-    },
-    {
       "seriesTconst": "tt0046584",
       "seriesTitle": "Caesar's Hour",
       "season1Rating": 5.6,
       "lastSeasonRating": 1.2,
       "lastSeason": 3,
+      "qualityDrop": 4.4
+    },
+    {
+      "seriesTconst": "tt0306760",
+      "seriesTitle": "Edel & Starck",
+      "season1Rating": 7.6,
+      "lastSeasonRating": 3.2,
+      "lastSeason": 4,
       "qualityDrop": 4.4
     },
     {
@@ -268,18 +252,26 @@
       "qualityDrop": 4.389
     },
     {
-      "seriesTconst": "tt0115367",
-      "seriesTitle": "Sparks",
-      "season1Rating": 8.6,
-      "lastSeasonRating": 4.3,
-      "lastSeason": 2,
-      "qualityDrop": 4.3
+      "seriesTconst": "tt0329829",
+      "seriesTitle": "Fireman Sam",
+      "season1Rating": 8.362,
+      "lastSeasonRating": 3.977,
+      "lastSeason": 16,
+      "qualityDrop": 4.385
     },
     {
       "seriesTconst": "tt1141678",
       "seriesTitle": "Inspektor Rolle",
       "season1Rating": 7.7,
       "lastSeasonRating": 3.4,
+      "lastSeason": 2,
+      "qualityDrop": 4.3
+    },
+    {
+      "seriesTconst": "tt0115367",
+      "seriesTitle": "Sparks",
+      "season1Rating": 8.6,
+      "lastSeasonRating": 4.3,
       "lastSeason": 2,
       "qualityDrop": 4.3
     },
@@ -294,10 +286,10 @@
     {
       "seriesTconst": "tt1856010",
       "seriesTitle": "House of Cards",
-      "season1Rating": 8.377,
+      "season1Rating": 8.385,
       "lastSeasonRating": 4.15,
       "lastSeason": 6,
-      "qualityDrop": 4.227
+      "qualityDrop": 4.235
     },
     {
       "seriesTconst": "tt0166937",
@@ -308,20 +300,28 @@
       "qualityDrop": 4.2
     },
     {
-      "seriesTconst": "tt0856757",
-      "seriesTitle": "Leaf Cast",
-      "season1Rating": 7.008,
-      "lastSeasonRating": 2.833,
-      "lastSeason": 5,
-      "qualityDrop": 4.175
+      "seriesTconst": "tt0418372",
+      "seriesTitle": "The Block",
+      "season1Rating": 6.7,
+      "lastSeasonRating": 2.5,
+      "lastSeason": 22,
+      "qualityDrop": 4.2
     },
     {
       "seriesTconst": "tt17736900",
       "seriesTitle": "Lock Upp",
       "season1Rating": 8.286,
-      "lastSeasonRating": 4.15,
+      "lastSeasonRating": 4.1,
       "lastSeason": 2,
-      "qualityDrop": 4.136
+      "qualityDrop": 4.186
+    },
+    {
+      "seriesTconst": "tt0856757",
+      "seriesTitle": "Leaf Cast",
+      "season1Rating": 7.005,
+      "lastSeasonRating": 2.833,
+      "lastSeason": 5,
+      "qualityDrop": 4.172
     },
     {
       "seriesTconst": "tt0344743",
@@ -372,6 +372,14 @@
       "qualityDrop": 4.0
     },
     {
+      "seriesTconst": "tt0346211",
+      "seriesTitle": "Bir Demet Tiyatro",
+      "season1Rating": 4.957,
+      "lastSeasonRating": 1.0,
+      "lastSeason": 2,
+      "qualityDrop": 3.957
+    },
+    {
       "seriesTconst": "tt0486068",
       "seriesTitle": "Indian Idol",
       "season1Rating": 8.2,
@@ -394,14 +402,6 @@
       "lastSeasonRating": 4.2,
       "lastSeason": 2,
       "qualityDrop": 3.85
-    },
-    {
-      "seriesTconst": "tt1095213",
-      "seriesTitle": "TMZ on TV",
-      "season1Rating": 4.8,
-      "lastSeasonRating": 1.0,
-      "lastSeason": 10,
-      "qualityDrop": 3.8
     }
   ]
 }
