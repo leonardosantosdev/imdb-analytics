@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-02T15:20:22+00:00",
-  "snapshotDate": "2026-11-02",
+  "generatedAt": "2026-11-09T15:48:24+00:00",
+  "snapshotDate": "2026-11-09",
   "rows": 50,
   "data": [
     {
@@ -12,12 +12,12 @@
       "qualityDrop": 7.9
     },
     {
-      "seriesTconst": "tt34174211",
-      "seriesTitle": "Celebrity Substitute",
-      "season1Rating": 8.883,
-      "lastSeasonRating": 2.3,
-      "lastSeason": 3,
-      "qualityDrop": 6.583
+      "seriesTconst": "tt0081857",
+      "seriesTitle": "Entertainment Tonight",
+      "season1Rating": 7.3,
+      "lastSeasonRating": 1.0,
+      "lastSeason": 46,
+      "qualityDrop": 6.3
     },
     {
       "seriesTconst": "tt3004376",
@@ -30,10 +30,10 @@
     {
       "seriesTconst": "tt8560918",
       "seriesTitle": "The Queen of Flow",
-      "season1Rating": 8.951,
+      "season1Rating": 8.961,
       "lastSeasonRating": 3.075,
       "lastSeason": 3,
-      "qualityDrop": 5.876
+      "qualityDrop": 5.886
     },
     {
       "seriesTconst": "tt0063908",
@@ -60,14 +60,6 @@
       "qualityDrop": 5.6
     },
     {
-      "seriesTconst": "tt0081857",
-      "seriesTitle": "Entertainment Tonight",
-      "season1Rating": 6.5,
-      "lastSeasonRating": 1.0,
-      "lastSeason": 46,
-      "qualityDrop": 5.5
-    },
-    {
       "seriesTconst": "tt5637842",
       "seriesTitle": "The Rap Game",
       "season1Rating": 8.1,
@@ -84,12 +76,12 @@
       "qualityDrop": 5.4
     },
     {
-      "seriesTconst": "tt31323246",
-      "seriesTitle": "Hot Ones Versus",
-      "season1Rating": 6.76,
-      "lastSeasonRating": 1.4,
-      "lastSeason": 9,
-      "qualityDrop": 5.36
+      "seriesTconst": "tt0121016",
+      "seriesTitle": "Die Rudi Carrell Show",
+      "season1Rating": 9.3,
+      "lastSeasonRating": 4.0,
+      "lastSeason": 2,
+      "qualityDrop": 5.3
     },
     {
       "seriesTconst": "tt0063890",
@@ -97,14 +89,6 @@
       "season1Rating": 6.5,
       "lastSeasonRating": 1.2,
       "lastSeason": 4,
-      "qualityDrop": 5.3
-    },
-    {
-      "seriesTconst": "tt0121016",
-      "seriesTitle": "Die Rudi Carrell Show",
-      "season1Rating": 9.3,
-      "lastSeasonRating": 4.0,
-      "lastSeason": 2,
       "qualityDrop": 5.3
     },
     {
@@ -124,19 +108,19 @@
       "qualityDrop": 5.05
     },
     {
-      "seriesTconst": "tt5191128",
-      "seriesTitle": "The Break",
-      "season1Rating": 7.8,
-      "lastSeasonRating": 2.8,
-      "lastSeason": 3,
-      "qualityDrop": 5.0
-    },
-    {
       "seriesTconst": "tt0815086",
       "seriesTitle": "Walmart Soundcheck",
       "season1Rating": 9.2,
       "lastSeasonRating": 4.2,
       "lastSeason": 2,
+      "qualityDrop": 5.0
+    },
+    {
+      "seriesTconst": "tt5191128",
+      "seriesTitle": "The Break",
+      "season1Rating": 7.8,
+      "lastSeasonRating": 2.8,
+      "lastSeason": 3,
       "qualityDrop": 5.0
     },
     {
@@ -162,6 +146,14 @@
       "lastSeasonRating": 4.5,
       "lastSeason": 2,
       "qualityDrop": 4.9
+    },
+    {
+      "seriesTconst": "tt34174211",
+      "seriesTitle": "Celebrity Substitute",
+      "season1Rating": 8.883,
+      "lastSeasonRating": 4.0,
+      "lastSeason": 3,
+      "qualityDrop": 4.883
     },
     {
       "seriesTconst": "tt2214918",
@@ -212,6 +204,14 @@
       "qualityDrop": 4.514
     },
     {
+      "seriesTconst": "tt31323246",
+      "seriesTitle": "Hot Ones Versus",
+      "season1Rating": 6.76,
+      "lastSeasonRating": 2.3,
+      "lastSeason": 9,
+      "qualityDrop": 4.46
+    },
+    {
       "seriesTconst": "tt0375289",
       "seriesTitle": "Crni Gruja",
       "season1Rating": 9.567,
@@ -220,11 +220,11 @@
       "qualityDrop": 4.417
     },
     {
-      "seriesTconst": "tt0101117",
-      "seriesTitle": "The Hidden Room",
-      "season1Rating": 6.7,
-      "lastSeasonRating": 2.3,
-      "lastSeason": 2,
+      "seriesTconst": "tt0306760",
+      "seriesTitle": "Edel & Starck",
+      "season1Rating": 7.6,
+      "lastSeasonRating": 3.2,
+      "lastSeason": 4,
       "qualityDrop": 4.4
     },
     {
@@ -236,11 +236,11 @@
       "qualityDrop": 4.4
     },
     {
-      "seriesTconst": "tt0306760",
-      "seriesTitle": "Edel & Starck",
-      "season1Rating": 7.6,
-      "lastSeasonRating": 3.2,
-      "lastSeason": 4,
+      "seriesTconst": "tt0101117",
+      "seriesTitle": "The Hidden Room",
+      "season1Rating": 6.7,
+      "lastSeasonRating": 2.3,
+      "lastSeason": 2,
       "qualityDrop": 4.4
     },
     {
@@ -254,10 +254,10 @@
     {
       "seriesTconst": "tt0329829",
       "seriesTitle": "Fireman Sam",
-      "season1Rating": 8.362,
+      "season1Rating": 8.363,
       "lastSeasonRating": 3.977,
       "lastSeason": 16,
-      "qualityDrop": 4.385
+      "qualityDrop": 4.386
     },
     {
       "seriesTconst": "tt1141678",
@@ -300,14 +300,6 @@
       "qualityDrop": 4.2
     },
     {
-      "seriesTconst": "tt0418372",
-      "seriesTitle": "The Block",
-      "season1Rating": 6.7,
-      "lastSeasonRating": 2.5,
-      "lastSeason": 22,
-      "qualityDrop": 4.2
-    },
-    {
       "seriesTconst": "tt17736900",
       "seriesTitle": "Lock Upp",
       "season1Rating": 8.286,
@@ -324,6 +316,14 @@
       "qualityDrop": 4.172
     },
     {
+      "seriesTconst": "tt1724588",
+      "seriesTitle": "Ebert Presents: At the Movies",
+      "season1Rating": 6.3,
+      "lastSeasonRating": 2.2,
+      "lastSeason": 2,
+      "qualityDrop": 4.1
+    },
+    {
       "seriesTconst": "tt0344743",
       "seriesTitle": "V.I.P.-Schaukel",
       "season1Rating": 7.0,
@@ -337,14 +337,6 @@
       "season1Rating": 7.25,
       "lastSeasonRating": 3.15,
       "lastSeason": 7,
-      "qualityDrop": 4.1
-    },
-    {
-      "seriesTconst": "tt1724588",
-      "seriesTitle": "Ebert Presents: At the Movies",
-      "season1Rating": 6.3,
-      "lastSeasonRating": 2.2,
-      "lastSeason": 2,
       "qualityDrop": 4.1
     },
     {
@@ -380,6 +372,14 @@
       "qualityDrop": 3.957
     },
     {
+      "seriesTconst": "tt5180504",
+      "seriesTitle": "The Witcher",
+      "season1Rating": 8.288,
+      "lastSeasonRating": 4.387,
+      "lastSeason": 4,
+      "qualityDrop": 3.901
+    },
+    {
       "seriesTconst": "tt0486068",
       "seriesTitle": "Indian Idol",
       "season1Rating": 8.2,
@@ -388,12 +388,12 @@
       "qualityDrop": 3.9
     },
     {
-      "seriesTconst": "tt5180504",
-      "seriesTitle": "The Witcher",
-      "season1Rating": 8.288,
-      "lastSeasonRating": 4.4,
-      "lastSeason": 4,
-      "qualityDrop": 3.888
+      "seriesTconst": "tt1400819",
+      "seriesTitle": "Horrible Histories",
+      "season1Rating": 7.908,
+      "lastSeasonRating": 4.033,
+      "lastSeason": 11,
+      "qualityDrop": 3.875
     },
     {
       "seriesTconst": "tt0112097",
